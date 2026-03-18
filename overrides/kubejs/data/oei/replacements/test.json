@@ -1,0 +1,20 @@
+[
+  {
+    "matchItems": [
+      "refinedstorage:quartz_enriched_iron"
+    ],
+    "resultItems": "minecraft:iron_ingot"
+  },
+  {
+    "matchItems": [
+      "refinedstorage:quartz_enriched_copper"
+    ],
+    "resultItems": "minecraft:copper_ingot"
+  },
+  {
+    "matchItems": [
+      "refinedstorage:silicon"
+    ],
+    "resultItems": "minecraft:clay_ball"
+  }
+]

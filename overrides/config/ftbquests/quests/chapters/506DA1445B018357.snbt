@@ -1,0 +1,1592 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "506DA1445B018357"
+	group: ""
+	id: "506DA1445B018357"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"1D26B4EA81538C0A"
+				"06B89C0B48780A85"
+				"515D3C2DC0BFA8C1"
+			]
+			dependency_requirement: "one_completed"
+			id: "271877E8E7393D05"
+			tasks: [{
+				id: "270A1F088BF6441F"
+				item: { count: 1, id: "spectrum:guidebook" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["00A78BD1F10BE5D5"]
+			id: "4F507917FD331CA5"
+			rewards: [{
+				advancement: "spectrum:collect_gemstone_powder"
+				criterion: ""
+				id: "70B6E9CFA3F06807"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "123CA6A1DEE05DCE"
+					item: { count: 1, id: "spectrum:amethyst_powder" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_gemstone_powder"
+					criterion: ""
+					id: "7C75C015D2847D62"
+					type: "advancement"
+				}
+			]
+			x: -4.5d
+			y: -7.0d
+		}
+		{
+			hide_until_deps_visible: true
+			id: "346CB1473CEF0DF6"
+			rewards: [
+				{
+					id: "7E48DA5C4190048C"
+					item: {
+						components: {
+							"ftbquests:missing_item": "majobroom:broom_item"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "7ECF5C0CD693BFA9"
+					item: {
+						components: {
+							"ftbquests:missing_item": "majobroom:majo_hat"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "276ECD653816C0FF"
+					item: {
+						components: {
+							"ftbquests:missing_item": "majobroom:majo_cloth"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "6F6C16A53D63C6D1"
+					item: {
+						components: {
+							"ftbquests:missing_item": "majobroom:stocking"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				id: "4FEAC8A25B89E3A2"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["271877E8E7393D05"]
+			id: "00A78BD1F10BE5D5"
+			rewards: [{
+				advancement: "spectrum:place_pedestal"
+				criterion: ""
+				id: "40E7FAD72EF0237E"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					advancement: "spectrum:place_pedestal"
+					criterion: ""
+					id: "20097B503FA962D2"
+					type: "advancement"
+				}
+				{
+					id: "4F6266C26229BD52"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(spectrum:pedestals)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -7.0d
+		}
+		{
+			hide_until_deps_visible: true
+			id: "1D26B4EA81538C0A"
+			tasks: [{
+				id: "6B06EA47FB1ABA9B"
+				item: { count: 1, id: "spectrum:topaz_shard" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"4F507917FD331CA5"
+				"4929277AC11875DD"
+				"5EF371628CAF40D7"
+			]
+			dependency_requirement: "one_completed"
+			id: "380B8D448CD2582B"
+			rewards: [{
+				advancement: "spectrum:craft_using_pedestal"
+				criterion: ""
+				id: "03FCD1BCD0FFD310"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "2CA6D48B50F79C33"
+					item: { count: 1, id: "spectrum:paintbrush" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:craft_using_pedestal"
+					criterion: ""
+					id: "7F8C6CB4BAB1311D"
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["380B8D448CD2582B"]
+			id: "288285DBDAB1C5FD"
+			rewards: [
+				{
+					advancement: "spectrum:build_basic_pedestal_structure"
+					criterion: ""
+					id: "643C1E18DE93C369"
+					type: "advancement"
+				}
+				{
+					advancement: "spectrum:place_pedestal"
+					criterion: ""
+					id: "330DFC3F1ED20DC5"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "7CC51A6407BC4601"
+					item: { count: 1, id: "spectrum:pedestal_all_basic" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:place_pedestal"
+					criterion: ""
+					id: "38970B870E5B4B08"
+					type: "advancement"
+				}
+				{
+					advancement: "spectrum:build_basic_pedestal_structure"
+					criterion: ""
+					id: "6E38594171DC3CE4"
+					type: "advancement"
+				}
+			]
+			x: -1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["288285DBDAB1C5FD"]
+			id: "5E210CF7E49C569C"
+			rewards: [{
+				advancement: "spectrum:collect_shimmerstone"
+				criterion: ""
+				id: "52F085175BE2EB1B"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "144F307F3773D60A"
+					item: { count: 1, id: "spectrum:shimmerstone_gem" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_shimmerstone"
+					criterion: ""
+					id: "64BCA5B4E78EBAEA"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["5E210CF7E49C569C"]
+			id: "309077656D4899C2"
+			rewards: [{
+				advancement: "spectrum:craft_bottle_of_fading"
+				criterion: ""
+				id: "545AB96F211B9D91"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "756523A57E469A14"
+					item: { count: 1, id: "spectrum:bottle_of_fading" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:craft_bottle_of_fading"
+					criterion: ""
+					id: "63F09B57C33EBE9A"
+					type: "advancement"
+				}
+			]
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["309077656D4899C2"]
+			id: "50196DC829EF6061"
+			rewards: [{
+				advancement: "spectrum:collect_vegetal"
+				criterion: ""
+				id: "0AE968DDEAF1CF22"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "30B9430F936A380F"
+					item: { count: 1, id: "spectrum:vegetal" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_vegetal"
+					criterion: ""
+					id: "4B61F4F2944F35B1"
+					type: "advancement"
+				}
+			]
+			x: 3.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["50196DC829EF6061"]
+			id: "7AACC55C1BC80F2A"
+			rewards: [
+				{
+					advancement: "spectrum:craft_colored_sapling"
+					criterion: ""
+					id: "02D69928515A76A3"
+					type: "advancement"
+				}
+				{
+					advancement: "spectrum:collect_pigment"
+					criterion: ""
+					id: "0ADC2F5156169C35"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					advancement: "spectrum:craft_colored_sapling"
+					criterion: ""
+					id: "7C883FF1000AD76C"
+					type: "advancement"
+				}
+				{
+					id: "0650FB75137B4C94"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(spectrum:colored_saplings)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_pigment"
+					criterion: ""
+					id: "47C28523C4584D9A"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["7AACC55C1BC80F2A"]
+			id: "5637FEB12ADC8EB3"
+			rewards: [{
+				advancement: "spectrum:collect_all_basic_pigments_besides_brown"
+				criterion: ""
+				id: "51551F492B689BBA"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "1784AEDFFF413A2D"
+					item: { count: 1, id: "spectrum:red_pigment" }
+					type: "item"
+				}
+				{
+					id: "2F9B072C97BA9711"
+					item: { count: 1, id: "spectrum:green_pigment" }
+					type: "item"
+				}
+				{
+					id: "249461400929923E"
+					item: { count: 1, id: "spectrum:blue_pigment" }
+					type: "item"
+				}
+				{
+					id: "410924E59A9A571C"
+					item: { count: 1, id: "spectrum:purple_pigment" }
+					type: "item"
+				}
+				{
+					id: "5D1560209E0A7005"
+					item: { count: 1, id: "spectrum:cyan_pigment" }
+					type: "item"
+				}
+				{
+					id: "4127885493CE3651"
+					item: { count: 1, id: "spectrum:pink_pigment" }
+					type: "item"
+				}
+				{
+					id: "042CE7DDD88022F2"
+					item: { count: 1, id: "spectrum:lime_pigment" }
+					type: "item"
+				}
+				{
+					id: "4D73CD8FE6A625A8"
+					item: { count: 1, id: "spectrum:yellow_pigment" }
+					type: "item"
+				}
+				{
+					id: "30D3D325098D792C"
+					item: { count: 1, id: "spectrum:light_blue_pigment" }
+					type: "item"
+				}
+				{
+					id: "7E751C647401C36A"
+					item: { count: 1, id: "spectrum:magenta_pigment" }
+					type: "item"
+				}
+				{
+					id: "09444DB266ED321F"
+					item: { count: 1, id: "spectrum:orange_pigment" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_all_basic_pigments_besides_brown"
+					criterion: ""
+					id: "46407E5A459F83E1"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["5637FEB12ADC8EB3"]
+			id: "12766F7759AA7EE6"
+			rewards: [
+				{
+					advancement: "spectrum:build_fusion_shrine"
+					criterion: ""
+					id: "2F5B048CF31FCE4D"
+					type: "advancement"
+				}
+				{
+					id: "7D2204EB92D6B34C"
+					item: {
+						count: 1
+						id: "kubejs:moon_clock"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "68AAFAE80B2E152D"
+					item: { count: 1, id: "spectrum:fusion_shrine_basalt" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:build_fusion_shrine"
+					criterion: ""
+					id: "2BDC0F68BB6C3EFF"
+					type: "advancement"
+				}
+				{
+					id: "305CF2F05209EE9F"
+					item: { count: 1, id: "spectrum:fusion_shrine_calcite" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["12766F7759AA7EE6"]
+			hide_until_deps_visible: true
+			id: "4CE9B355B43E155E"
+			rewards: [{
+				advancement: "spectrum:create_onyx_shard"
+				criterion: ""
+				id: "4DCDAFF4A901F95F"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "42E9347329A0FB3D"
+					item: { count: 1, id: "spectrum:onyx_shard" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:create_onyx_shard"
+					criterion: ""
+					id: "2D52D9D0687CDF37"
+					type: "advancement"
+				}
+			]
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4CE9B355B43E155E"]
+			hide_until_deps_visible: true
+			id: "7B51BFDD655E1281"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "184472FE7D871AAA"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:craft_onyx_pedestal"
+					criterion: ""
+					id: "45495D1ABD7D676D"
+					type: "advancement"
+				}
+				{
+					advancement: "spectrum:midgame/build_advanced_pedestal_structure"
+					criterion: ""
+					id: "3763802249FE8783"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					advancement: "spectrum:craft_onyx_pedestal"
+					criterion: ""
+					id: "3DBADF0A9CC882BC"
+					type: "advancement"
+				}
+				{
+					advancement: "spectrum:midgame/build_advanced_pedestal_structure"
+					criterion: ""
+					id: "69B645C4A67AA24E"
+					type: "advancement"
+				}
+				{
+					id: "49C445FB9DB476CF"
+					item: { count: 1, id: "spectrum:pedestal_onyx" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["59D6B500E090C86B"]
+			hide_until_deps_visible: true
+			id: "48F57785B56CE5C5"
+			rewards: [{
+				advancement: "spectrum:midgame/collect_stratine"
+				criterion: ""
+				id: "148C69DA36E06CAF"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "183A20E434C3A6C6"
+					item: { count: 1, id: "spectrum:stratine_fragments" }
+					type: "item"
+				}
+				{
+					id: "61D6B393B7F4690E"
+					item: { count: 1, id: "spectrum:stratine_gem" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/collect_stratine"
+					criterion: ""
+					id: "798C9EE2E04F0A19"
+					type: "advancement"
+				}
+			]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7B51BFDD655E1281"]
+			hide_until_deps_visible: true
+			id: "59D6B500E090C86B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6F99B8B670076592"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:collect_all_basic_pigments"
+					criterion: ""
+					id: "0709E0C048C1DAC5"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "0D1158C082724B98"
+					item: { count: 1, id: "spectrum:brown_sapling" }
+					type: "item"
+				}
+				{
+					id: "61EF1B63D1F38D07"
+					item: { count: 1, id: "spectrum:brown_pigment" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_all_basic_pigments"
+					criterion: ""
+					id: "182CB3C15FDC615F"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["715195FE8612B929"]
+			hide_until_deps_visible: true
+			id: "4CE237AE8F58B2CB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1ECD120E8C82F763"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/enter_liquid_crystal"
+					criterion: ""
+					id: "51697C629AD9ED7F"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "20908830CC2D6BD3"
+					item: { count: 1, id: "spectrum:liquid_crystal_bucket" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/enter_liquid_crystal"
+					criterion: ""
+					id: "0E8806BFB56722B1"
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["48F57785B56CE5C5"]
+			hide_until_deps_visible: true
+			id: "7945125249DD7028"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "367F79B71C339DE3"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/craft_bottle_of_failing"
+					criterion: ""
+					id: "7A36B4294A64160E"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "70956D66E023873C"
+					item: { count: 1, id: "spectrum:bottle_of_failing" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/craft_bottle_of_failing"
+					criterion: ""
+					id: "20A377F59EA8E5E6"
+					type: "advancement"
+				}
+			]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7945125249DD7028"]
+			hide_until_deps_visible: true
+			id: "58CB04E34DFCAC0D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "564C8E1FA8A91404"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/collect_neolith"
+					criterion: ""
+					id: "1FF07E5E59BE2312"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "71873DDADF3CA51E"
+					item: { count: 1, id: "spectrum:neolith" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/collect_neolith"
+					criterion: ""
+					id: "57AA79D410F30081"
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["58CB04E34DFCAC0D"]
+			id: "116BF87094EA4E42"
+			rewards: [{
+				advancement: "spectrum:midgame/collect_storm_stone"
+				criterion: ""
+				id: "52216A5B40CBC8B3"
+				type: "advancement"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "4E846E0F9006D145"
+					item: { count: 1, id: "spectrum:storm_stone" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/collect_storm_stone"
+					criterion: ""
+					id: "047BC3AFF3F3D52A"
+					type: "advancement"
+				}
+			]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"58CB04E34DFCAC0D"
+				"4CE237AE8F58B2CB"
+			]
+			hide_until_deps_visible: true
+			id: "1E114E9019D2C90E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "49FA70CD8AB4EE8A"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/create_midnight_aberration"
+					criterion: ""
+					id: "2536C8F2B1486C1A"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "3C10D7AB6DC3579A"
+					item: { count: 1, id: "spectrum:midnight_aberration" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/create_midnight_aberration"
+					criterion: ""
+					id: "4E0BA0DCD8BA7CB3"
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1E114E9019D2C90E"]
+			hide_until_deps_visible: true
+			id: "4DC63D1752013975"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3146E21A1D786C30"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/collect_midnight_chip"
+					criterion: ""
+					id: "7A550000AA1562AC"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "5EF6A570C2559F46"
+					item: { count: 1, id: "spectrum:midnight_chip" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/collect_midnight_chip"
+					criterion: ""
+					id: "79D7C0FC80C2727E"
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"4DC63D1752013975"
+				"0F5773559E05C414"
+			]
+			hide_until_deps_visible: true
+			id: "2F08F5EB273B58D8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5907D3D4A58E9D87"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/craft_bottle_of_ruin"
+					criterion: ""
+					id: "44D435721988048C"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "13C56A57EA9CA274"
+					item: { count: 1, id: "spectrum:bottle_of_ruin" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/craft_bottle_of_ruin"
+					criterion: ""
+					id: "124D1E50DFE23109"
+					type: "advancement"
+				}
+			]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["58CB04E34DFCAC0D"]
+			hide_until_deps_visible: true
+			id: "0F5773559E05C414"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0A10B09269D404E7"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/collect_azurite"
+					criterion: ""
+					id: "356F66CCE07B5DEF"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "2F39D8A8872E7FB3"
+					item: { count: 1, id: "spectrum:raw_azurite" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/collect_azurite"
+					criterion: ""
+					id: "6D7F477CD4A21D2E"
+					type: "advancement"
+				}
+			]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2F08F5EB273B58D8"]
+			hide_until_deps_visible: true
+			id: "6CD923D48AF77852"
+			rewards: [{
+				advancement: "spectrum:midgame/break_decayed_bedrock"
+				criterion: ""
+				id: "7892FAB22F6172C5"
+				type: "advancement"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "22FD6DB950E027D4"
+					item: { count: 1, id: "spectrum:bedrock_dust" }
+					type: "item"
+				}
+				{
+					id: "2E87F2441E67A654"
+					item: { count: 1, id: "spectrum:bedrock_dust_block" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/break_decayed_bedrock"
+					criterion: ""
+					id: "13741AACE4A8A3CA"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7B51BFDD655E1281"]
+			hide_until_deps_visible: true
+			id: "715195FE8612B929"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0070AA7782DFE2B9"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:collect_mermaids_gem"
+					criterion: ""
+					id: "1782EDA085BB66D0"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "01A9672253B1E672"
+					item: { count: 1, id: "spectrum:mermaids_gem" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_mermaids_gem"
+					criterion: ""
+					id: "4777312CB527A5F7"
+					type: "advancement"
+				}
+			]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["12766F7759AA7EE6"]
+			hide_until_deps_visible: true
+			id: "5BAC0510191FA425"
+			optional: true
+			tasks: [{
+				id: "60AA89408B845603"
+				item: { count: 1, id: "spectrum:celestial_pocketwatch" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["59D6B500E090C86B"]
+			hide_until_deps_visible: true
+			id: "5D331D77BFF11B48"
+			optional: true
+			rewards: [{
+				advancement: "spectrum:collect_star_fragment"
+				criterion: ""
+				id: "45DFA7B9F8E7BE63"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "0CA2437E711E28C4"
+					item: { count: 1, id: "spectrum:star_fragment" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_star_fragment"
+					criterion: ""
+					id: "051A1D151C0F6AF0"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4CE237AE8F58B2CB"]
+			id: "6C47B6AC84B6C0F4"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "78A06B822F268F7F"
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "62FD92A43FF65DE5"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/build_enchanting_structure"
+					criterion: ""
+					id: "1CE384F50938FE32"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "6BFCF49B5182E04F"
+					item: { count: 1, id: "spectrum:enchanter" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/build_enchanting_structure"
+					criterion: ""
+					id: "3B9574CD0B1FCA4F"
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["4CE237AE8F58B2CB"]
+			id: "3A977758D7357A5B"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D71AB0BD2743632"
+				type: "random"
+			}]
+			tasks: [{
+				id: "053880C44AE2C55E"
+				item: { count: 1, id: "spectrum:knowledge_gem" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7AACC55C1BC80F2A"]
+			hide_until_deps_visible: true
+			id: "6DD1E9341E34E29A"
+			rewards: [{
+				advancement: "spectrum:collect_quitoxic_reeds"
+				criterion: ""
+				id: "3AA9A2EBAF8F579C"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "484D0C5A502C0E4B"
+					item: { count: 1, id: "spectrum:quitoxic_reeds" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_quitoxic_reeds"
+					criterion: ""
+					id: "3486F0A57C3BB0C9"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["7B51BFDD655E1281"]
+			id: "02AEC569D0486F89"
+			optional: true
+			rewards: [{
+				advancement: "spectrum:collect_radiating_ender"
+				criterion: ""
+				id: "1276F1AE620B546F"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "0645D85BCBBEB879"
+					item: { count: 1, id: "spectrum:radiating_ender" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_radiating_ender"
+					criterion: ""
+					id: "17D325008A193A8E"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["715195FE8612B929"]
+			id: "54B18C774EF22FE1"
+			optional: true
+			rewards: [{
+				advancement: "spectrum:midgame/brew_potion_in_potion_workshop_using_complex_reagent"
+				criterion: ""
+				id: "03B88C44D922A1AB"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "66F719C1FD237E6B"
+					item: { count: 1, id: "spectrum:potion_workshop" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/brew_potion_in_potion_workshop_using_complex_reagent"
+					criterion: ""
+					id: "38EEA199F1786D97"
+					type: "advancement"
+				}
+			]
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["0F5773559E05C414"]
+			id: "7A371AB5EA5F3986"
+			rewards: [{
+				advancement: "spectrum:midgame/grow_azurite_in_crystallarieum"
+				criterion: ""
+				id: "273E0838F04E7ADD"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "1F0230AC498728BC"
+					item: { count: 1, id: "spectrum:pure_azurite" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/grow_azurite_in_crystallarieum"
+					criterion: ""
+					id: "098ABD1D4596F287"
+					type: "advancement"
+				}
+			]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7A371AB5EA5F3986"]
+			id: "4FA6BFF5B11A4EC3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "649E6F0514933CF6"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/get_azure_dike_charge"
+					criterion: ""
+					id: "3AE316EC49D1A0EF"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "322188960C746CFA"
+					item: { count: 1, id: "spectrum:azure_dike_ring" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/get_azure_dike_charge"
+					criterion: ""
+					id: "3060738AF0CF8642"
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7A371AB5EA5F3986"]
+			hide_until_deps_visible: true
+			id: "275A0F585FBD2541"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1B9FE357D751CF33"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/build_spirit_instiller_structure"
+					criterion: ""
+					id: "15137A73AA03560A"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "5C974222E0786D74"
+					item: { count: 1, id: "spectrum:spirit_instiller" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/build_spirit_instiller_structure"
+					criterion: ""
+					id: "56E11E975724E801"
+					type: "advancement"
+				}
+			]
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["116BF87094EA4E42"]
+			id: "6A70688CE69F99FB"
+			optional: true
+			tasks: [{
+				id: "6CDB4749BCA31D18"
+				item: { count: 1, id: "spectrum:crystal_apothecary" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6CD923D48AF77852"]
+			icon: {
+				id: "spectrum:bedrock_sword"
+			}
+			id: "6CE26B24CB40E642"
+			tasks: [{
+				id: "3B0AFD5C4387DCDA"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"275A0F585FBD2541"
+				"651C28CAE854B433"
+			]
+			id: "494C83C4596F5FF0"
+			rewards: [{
+				advancement: "spectrum:midgame/plant_jade_vines"
+				criterion: ""
+				id: "3ECCD7A30AF047CD"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					advancement: "spectrum:midgame/plant_jade_vines"
+					criterion: ""
+					id: "2AB16C3CE0C6344C"
+					type: "advancement"
+				}
+				{
+					id: "7B632A4DC9AB28A1"
+					item: { count: 1, id: "spectrum:germinated_jade_vine_bulb" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["275A0F585FBD2541"]
+			id: "6C549B8189876609"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0B405800336F9093"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/manifest_memory"
+					criterion: ""
+					id: "75E914BB875C5C48"
+					type: "advancement"
+				}
+			]
+			tasks: [{
+				advancement: "spectrum:midgame/manifest_memory"
+				criterion: ""
+				id: "64CAF88B10F5ADAF"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6C549B8189876609"]
+			id: "18DF456E1A56DCD1"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "791B94A7FB47DB47"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/remember_egg_laying_wooly_pig"
+					criterion: ""
+					id: "4C2059401C3E1CD6"
+					type: "advancement"
+				}
+			]
+			tasks: [{
+				advancement: "spectrum:midgame/remember_egg_laying_wooly_pig"
+				criterion: ""
+				id: "255D8A1BAC8E55F2"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4CE9B355B43E155E"]
+			id: "56F7E5AB654115CE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "277C777D245100B8"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/place_color_picker"
+					criterion: ""
+					id: "18F815D395ED4842"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "4B0892D54B256B67"
+					item: { count: 1, id: "spectrum:color_picker" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/place_color_picker"
+					criterion: ""
+					id: "07C660C13DB4A537"
+					type: "advancement"
+				}
+			]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["56F7E5AB654115CE"]
+			id: "0BCBC476BE6FA8B2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4EE62F8EFF29AA65"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/fill_ink_container"
+					criterion: ""
+					id: "427E705B6424DF83"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "133EC283395DB664"
+					item: { count: 1, id: "spectrum:ink_flask" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/fill_ink_container"
+					criterion: ""
+					id: "4658B967A2695B1F"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["494C83C4596F5FF0"]
+			id: "7BD9945C70E88D38"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2884DF1BA3A20F4A"
+					type: "random"
+				}
+				{
+					advancement: "spectrum:midgame/harvest_moonstruck_nectar"
+					criterion: ""
+					id: "384D592BA6E99A91"
+					type: "advancement"
+				}
+			]
+			tasks: [
+				{
+					id: "7641959231718858"
+					item: { count: 1, id: "spectrum:moonstruck_nectar" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:midgame/harvest_moonstruck_nectar"
+					criterion: ""
+					id: "1A29ED1C224B0E0D"
+					type: "advancement"
+				}
+			]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2F08F5EB273B58D8"]
+			id: "3660C7ACAF4E08ED"
+			tasks: [{
+				id: "1CDDA83D7A551ACF"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4CE9B355B43E155E"]
+			id: "75EB3CA204BE74C1"
+			tasks: [{
+				id: "7EB5C1669F137287"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3660C7ACAF4E08ED"]
+			id: "4ADEA4FA1526CE3E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A12B16C2B4A93FB"
+				type: "random"
+			}]
+			tasks: [{
+				id: "40CB6038B5B376AE"
+				item: { count: 1, id: "spectrum:blood_orchid_petal" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["75EB3CA204BE74C1"]
+			id: "44F05BA1279FD750"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3EFD77C1E4193A06"
+				type: "random"
+			}]
+			tasks: [{
+				id: "23786D6C15816859"
+				item: { count: 1, id: "spectrum:amaranth_grains" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4ADEA4FA1526CE3E"]
+			id: "7B83C2AD2134F38C"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3939BDAC1145A185"
+				type: "random"
+			}]
+			tasks: [{
+				id: "1CC787EA8825F9D7"
+				item: { count: 1, id: "spectrum:bloodboil_syrup" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["5637FEB12ADC8EB3"]
+			hide_until_deps_visible: true
+			id: "4355E479445EE1F4"
+			optional: true
+			tasks: [{
+				id: "1D5CE81DE566D3BF"
+				item: { count: 1, id: "spectrum:clover" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4355E479445EE1F4"]
+			id: "20A6E081D6A47E98"
+			optional: true
+			rewards: [{
+				advancement: "spectrum:collect_four_leaf_clover"
+				criterion: ""
+				id: "734BE538EA47E95C"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "36F131EFF1CF3514"
+					item: { count: 1, id: "spectrum:four_leaf_clover" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_four_leaf_clover"
+					criterion: ""
+					id: "7CAC66C4A65D17E6"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4FA6BFF5B11A4EC3"]
+			hide_until_deps_visible: true
+			id: "651C28CAE854B433"
+			tasks: [{
+				id: "65BF9A01B3D875EC"
+				item: { count: 1, id: "spectrum:hibernating_jade_vine_bulb" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["02AEC569D0486F89"]
+			id: "2646F4AE06A6AD56"
+			optional: true
+			tasks: [{
+				id: "662A7EB8D0EA0051"
+				item: { count: 1, id: "spectrum:universe_spyhole" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -5.5d
+		}
+		{
+			hide_until_deps_visible: true
+			id: "515D3C2DC0BFA8C1"
+			tasks: [{
+				id: "287A8A33832521D4"
+				item: { count: 1, id: "spectrum:citrine_shard" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -3.5d
+		}
+		{
+			hide_until_deps_visible: true
+			id: "06B89C0B48780A85"
+			tasks: [{
+				id: "6BC3CACAF840EB12"
+				item: { count: 1, id: "minecraft:amethyst_shard" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["00A78BD1F10BE5D5"]
+			id: "5EF371628CAF40D7"
+			rewards: [{
+				advancement: "spectrum:collect_gemstone_powder"
+				criterion: ""
+				id: "6E11105327D26C4B"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "5A1D780DF3C0DA0F"
+					item: { count: 1, id: "spectrum:topaz_powder" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_gemstone_powder"
+					criterion: ""
+					id: "6FA18A4480401ADB"
+					type: "advancement"
+				}
+			]
+			x: -4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["00A78BD1F10BE5D5"]
+			id: "4929277AC11875DD"
+			rewards: [{
+				advancement: "spectrum:collect_gemstone_powder"
+				criterion: ""
+				id: "5C96ED6B72B85C19"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "5A11150527456E37"
+					item: { count: 1, id: "spectrum:citrine_powder" }
+					type: "item"
+				}
+				{
+					advancement: "spectrum:collect_gemstone_powder"
+					criterion: ""
+					id: "01A9458C0B55ED3C"
+					type: "advancement"
+				}
+			]
+			x: -4.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["44F05BA1279FD750"]
+			id: "32949E1A7CEA3523"
+			tasks: [{
+				id: "747B29202DC7267F"
+				item: { count: 1, id: "spectrum:gilded_book" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+	]
+}

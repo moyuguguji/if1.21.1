@@ -1,0 +1,46 @@
+[
+  {
+    "id": "inventory",
+    "title": "打开背包",
+    "icon": "minecraft:chest",
+    "action": {
+      "type": "KEY",
+      "name": "key.inventory",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "advancements",
+    "title": "打开进度",
+    "icon": "minecraft:book",
+    "action": {
+      "type": "KEY",
+      "name": "key.advancements",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19d01528e85",
+    "title": "打开/关闭光影",
+    "icon": "minecraft:light",
+    "action": {
+      "type": "KEY",
+      "name": "iris.keybind.toggleShaders",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19d0152e502",
+    "title": "打开FTB任务",
+    "icon": "ftbquests:book",
+    "action": {
+      "type": "KEY",
+      "name": "key.ftbquests.quests",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  }
+]

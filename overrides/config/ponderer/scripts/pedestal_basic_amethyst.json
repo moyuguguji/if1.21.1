@@ -1,0 +1,68 @@
+{
+  "id": "ponderer:pedestal_basic_amethyst",
+  "items": [
+    "spectrum:pedestal_basic_amethyst"
+  ],
+  "title": {
+    "en_us": "New Scene - pedestal_basic_amethyst",
+    "zh_cn": "新场景 - pedestal_basic_amethyst"
+  },
+  "structures": [
+    "ponderer:basic"
+  ],
+  "tags": [],
+  "scenes": [
+    {
+      "id": "scene_1",
+      "title": {
+        "en_us": "Scene 1",
+        "zh_cn": "场景 1"
+      },
+      "steps": [
+        {
+          "type": "show_structure",
+          "structure": "ponderer:basic_xxl",
+          "attachKeyFrame": true
+        },
+        {
+          "type": "zoom_scene",
+          "duration": 20,
+          "point": [
+            7.5,
+            0.0,
+            7.5
+          ],
+          "scale": 0.5
+        },
+        {
+          "type": "set_block",
+          "block": "spectrum:pedestal_basic_amethyst",
+          "blockPos": [
+            2,
+            1,
+            2
+          ],
+          "nbt": "{CraftingTime:0s,CraftingTimeTotal:0s,Items:[],OwnerUUID:[I;-1015466589,-1697168830,-1474266886,36528245],StoredXP:0.0f,Upgrades:[],inventory_changed:0b}"
+        },
+        {
+          "type": "text",
+          "duration": 60,
+          "text": {
+            "zh_cn": "右键打开"
+          },
+          "point": [
+            2.5,
+            2.0,
+            2.5
+          ],
+          "placeNearTarget": true,
+          "attachKeyFrame": true
+        },
+        {
+          "type": "idle",
+          "duration": 20
+        }
+      ]
+    }
+  ]
+}
