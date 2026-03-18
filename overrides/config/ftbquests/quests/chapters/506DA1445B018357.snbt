@@ -51,52 +51,6 @@
 		{
 			hide_until_deps_visible: true
 			id: "346CB1473CEF0DF6"
-			rewards: [
-				{
-					id: "7E48DA5C4190048C"
-					item: {
-						components: {
-							"ftbquests:missing_item": "majobroom:broom_item"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "7ECF5C0CD693BFA9"
-					item: {
-						components: {
-							"ftbquests:missing_item": "majobroom:majo_hat"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "276ECD653816C0FF"
-					item: {
-						components: {
-							"ftbquests:missing_item": "majobroom:majo_cloth"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "6F6C16A53D63C6D1"
-					item: {
-						components: {
-							"ftbquests:missing_item": "majobroom:stocking"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-			]
 			size: 3.0d
 			tasks: [{
 				id: "4FEAC8A25B89E3A2"
@@ -905,19 +859,6 @@
 				}
 			]
 			x: -1.5d
-			y: -4.0d
-		}
-		{
-			dependencies: ["12766F7759AA7EE6"]
-			hide_until_deps_visible: true
-			id: "5BAC0510191FA425"
-			optional: true
-			tasks: [{
-				id: "60AA89408B845603"
-				item: { count: 1, id: "spectrum:celestial_pocketwatch" }
-				type: "item"
-			}]
-			x: 3.0d
 			y: -4.0d
 		}
 		{

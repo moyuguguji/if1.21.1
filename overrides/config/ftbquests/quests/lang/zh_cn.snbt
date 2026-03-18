@@ -1,11 +1,4 @@
 {
-	quest.271877E8E7393D05.quest_subtitle: "{chapter.12.quest.1.subtitle}"
-	quest.48F57785B56CE5C5.quest_desc: ["{chapter.12.quest.16.description.1}"]
-	quest.48F57785B56CE5C5.quest_subtitle: "{chapter.12.quest.16.subtitle}"
-	quest.5E210CF7E49C569C.title: "{chapter.12.quest.8.title}"
-	task.0650FB75137B4C94.title: "任意颜色树苗"
-	task.4F6266C26229BD52.title: "任意基座"
-	{
 	chapter.506DA1445B018357.title: "{chapter.12.title}"
 	quest.00A78BD1F10BE5D5.quest_desc: ["{chapter.12.quest.4.description.1}"]
 	quest.02AEC569D0486F89.quest_desc: ["{chapter.12.quest.40.description.1}"]
@@ -14,8 +7,7 @@
 	quest.0BCBC476BE6FA8B2.quest_desc: ["{chapter.12.quest.51.description.1}"]
 	quest.0F5773559E05C414.quest_desc: ["{chapter.12.quest.26.description.1}"]
 	quest.116BF87094EA4E42.quest_desc: ["{chapter.12.quest.22.description.1}"]
-	quest.116BF87094EA4E42.quest_subtitle: "{chapter.12.quest.22.subtitle}"
-	quest.12766F7759AA7EE6.quest_desc: ["{chapter.12.quest.13.description.1}"]
+	quest.12766F7759AA7EE6.quest_desc: [""]
 	quest.12766F7759AA7EE6.quest_subtitle: "{chapter.12.quest.13.subtitle}"
 	quest.18DF456E1A56DCD1.quest_desc: ["{chapter.12.quest.49.description.1}"]
 	quest.18DF456E1A56DCD1.quest_subtitle: "{chapter.12.quest.49.subtitle}"
@@ -46,7 +38,6 @@
 		"{chapter.12.quest.53.description.1}"
 		"{image:kubejs:textures/ftbq/jiyan.png width:180 height:100 align:1}"
 	]
-	quest.3660C7ACAF4E08ED.quest_subtitle: ""
 	quest.380B8D448CD2582B.quest_desc: ["{chapter.12.quest.6.description.1}"]
 	quest.3A977758D7357A5B.quest_desc: ["{chapter.12.quest.38.description.1}"]
 	quest.4355E479445EE1F4.quest_desc: ["{chapter.12.quest.58.description.1}"]
@@ -84,8 +75,6 @@
 	quest.56F7E5AB654115CE.quest_desc: ["{chapter.12.quest.50.description.1}"]
 	quest.58CB04E34DFCAC0D.quest_desc: ["{chapter.12.quest.21.description.1}"]
 	quest.59D6B500E090C86B.quest_desc: ["{chapter.12.quest.18.description.1}"]
-	quest.5BAC0510191FA425.quest_desc: ["{chapter.12.quest.30.description.1}"]
-	quest.5BAC0510191FA425.title: "{chapter.12.quest.30.title}"
 	quest.5D331D77BFF11B48.quest_desc: ["{chapter.12.quest.36.description.1}"]
 	quest.5D331D77BFF11B48.quest_subtitle: "{chapter.12.quest.36.subtitle}"
 	quest.5D331D77BFF11B48.title: "{chapter.12.quest.36.title}"
@@ -103,7 +92,6 @@
 	quest.6CD923D48AF77852.quest_desc: ["{chapter.12.quest.27.description.1}"]
 	quest.6CD923D48AF77852.quest_subtitle: "{chapter.12.quest.27.subtitle}"
 	quest.6CE26B24CB40E642.quest_desc: ["{chapter.12.quest.46.description.1}"]
-	quest.6CE26B24CB40E642.quest_subtitle: ""
 	quest.6DD1E9341E34E29A.quest_desc: ["{chapter.12.quest.39.description.1}"]
 	quest.715195FE8612B929.quest_desc: ["{chapter.12.quest.28.description.1}"]
 	quest.75EB3CA204BE74C1.quest_desc: [
@@ -111,7 +99,6 @@
 		"{image:kubejs:textures/ftbq/tiaose.png width:196 height:126 align:1}"
 		"{chapter.12.quest.54.description.2}"
 	]
-	quest.75EB3CA204BE74C1.quest_subtitle: ""
 	quest.75EB3CA204BE74C1.title: "{chapter.12.quest.54.title}"
 	quest.7945125249DD7028.quest_desc: ["{chapter.12.quest.20.description.1}"]
 	quest.7945125249DD7028.quest_subtitle: "{chapter.12.quest.20.subtitle}"
@@ -119,13 +106,13 @@
 	quest.7AACC55C1BC80F2A.quest_desc: ["{chapter.12.quest.11.description.1}"]
 	quest.7B51BFDD655E1281.quest_desc: ["{chapter.12.quest.15.description.1}"]
 	quest.7BD9945C70E88D38.quest_desc: ["{chapter.12.quest.52.description.1}"]
+	task.0650FB75137B4C94.title: "任意颜色树苗"
 	task.1CDDA83D7A551ACF.title: "{chapter.12.quest.53.task.1.title}"
 	task.2055D26027AAD096.title: "{chapter.12.quest.17.task.1.title}"
 	task.3B0AFD5C4387DCDA.title: "{chapter.12.quest.46.task.1.title}"
 	task.46407E5A459F83E1.title: "{chapter.12.quest.12.task.12.title}"
+	task.4F6266C26229BD52.title: "任意基座"
 	task.4FEAC8A25B89E3A2.title: "{chapter.12.quest.3.task.1.title}"
 	task.5AD81B3D4B6E27C7.title: "{chapter.12.quest.31.task.1.title}"
 	task.7EB5C1669F137287.title: "{chapter.12.quest.54.task.1.title}"
-}
-
 }
