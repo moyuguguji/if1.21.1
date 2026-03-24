@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "if0.3",
+  "name": "if-0.3",
   "version": "0.3",
   "author": "",
   "files": [
@@ -311,6 +311,12 @@
     {
       "projectID": 1255211,
       "fileID": 6825089,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 238222,
+      "fileID": 7391682,
       "required": true,
       "isLocked": false
     },
