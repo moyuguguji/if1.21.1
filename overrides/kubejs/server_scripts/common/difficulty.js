@@ -177,7 +177,7 @@ EntityEvents.beforeHurt(event => {
 				event.setDamage(0)
 			} else (event.setDamage(damage * 0.6))
 		}
-		event.server.runCommandSilent(`say ${damage}`)
+		//event.server.runCommandSilent(`say ${damage}`)
 	}
 })
 
