@@ -2,7 +2,7 @@
 [friend_settings]
 	#A list of users who can be chosen when it spawns a distant friend. 
 	#Format: "<username>" or "<username>,<base64 texture>" (optional)
-	friends = ["moyuguguji"]
+	friends = ["moyuguguji","nianqiu233","xiao_azhe","Mei_Hua","Seekerslost","zbxwdnmd","catU_U","MorenRx","Blank_iphone6","my_dra"]
 	#Add the players from the whitelist to the Friends list [default: true]
 	addWhitelistPlayers = true
 
