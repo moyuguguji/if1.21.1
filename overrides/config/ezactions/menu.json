@@ -2,10 +2,10 @@
   {
     "id": "inventory",
     "title": "打开背包",
-    "icon": "minecraft:chest",
+    "icon": "backpacked:backpack",
     "action": {
       "type": "KEY",
-      "name": "key.inventory",
+      "name": "key.backpacked.open_backpack",
       "toggle": false,
       "mode": "AUTO"
     }
@@ -39,6 +39,39 @@
     "action": {
       "type": "KEY",
       "name": "key.ftbquests.quests",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19d285a3c06",
+    "title": "打开无限终端",
+    "icon": "refinedstorage:wireless_grid",
+    "action": {
+      "type": "KEY",
+      "name": "key.refinedstorage.open_wireless_grid",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19d285b3c1d",
+    "title": "打开魂石空间",
+    "icon": "fargo_soul:terra_soul",
+    "action": {
+      "type": "KEY",
+      "name": "打开魂石空间",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19d285ea086",
+    "title": "打开百科图鉴",
+    "icon": "minecraft:knowledge_book",
+    "action": {
+      "type": "KEY",
+      "name": "key.fieldguide.open",
       "toggle": false,
       "mode": "AUTO"
     }

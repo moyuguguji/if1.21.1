@@ -1,0 +1,32 @@
+{
+    "com.mrcrayfish.backpacked.inventory.container.BackpackManagementMenu": {
+        "ignore": true
+    },
+    "com.mrcrayfish.backpacked.client.gui.screen.inventory.BackpackScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 3,
+                "bottom": 1
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -27,
+                "top": 20
+            },
+            "SORT": {
+                "horizontalOffset": -27,
+                "top": 20
+            }
+        }
+    },
+    "team.tnt.collectorsalbum.client.screen.AlbumCategoryScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 38,
+                "bottom": -1
+            }
+        }
+    },
+    "team.tnt.collectorsalbum.common.menu.AlbumCategoryMenu": {
+        "ignore": true
+    }
+}
