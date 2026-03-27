@@ -7,7 +7,6 @@ PlayerEvents.loggedIn(event => {
 	//event.player.give(Item.of('treeaxe:copper_treeaxe', `{Unbreakable:1b,swa3:{}}`))
 	//event.player.give(Item.of('emerald_tools:copper_pickaxe', `{Unbreakable:1b,swa3:{}}`))
 	event.player.give(Item.of('kubejs:difficulty_changer'))
-	event.player.give('antiqueatlas:empty_antique_atlas')
 	event.player.give('minecraft:amethyst_shard')
 	event.player.give('spectrum:citrine_shard')
 	event.player.give('spectrum:topaz_shard')
