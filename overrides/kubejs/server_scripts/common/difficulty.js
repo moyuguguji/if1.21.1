@@ -184,15 +184,7 @@ EntityEvents.beforeHurt(event => {
 ServerEvents.recipes(event => {
 	event.shapeless('kubejs:difficulty_changer', ['minecraft:clock'])
 })
-
-//生物受击
-EntityEvents.beforeHurt(event => {
-	let target = event.getEntity()
-	let source1 = event.getSource()
-	let player = event.getSource().getPlayer()
-	let source = event.getSource().getActual()
-	let damage = event.getDamage()
-	let targetTypes = [
+let targetTypes = [
 		"minecraft:wither",
 		"minecraft:ender_dragon"
 	]
@@ -202,6 +194,13 @@ EntityEvents.beforeHurt(event => {
 		'minecraft:husk',
 		'minecraft:drowned'
 	]
+//生物受击
+EntityEvents.beforeHurt(event => {
+	let target = event.getEntity()
+	let source1 = event.getSource()
+	let player = event.getSource().getPlayer()
+	let source = event.getSource().getActual()
+	let damage = event.getDamage()
 	if (player != null) {
 		if (target.monster) {
 			//event.server.runCommand(`say ${result}`)
@@ -289,8 +288,7 @@ EntityEvents.beforeHurt(event => {
 							event.server.runCommandSilent(`attribute ${target.id} minecraft:generic.armor base set ${5 - result + result1}`)
 						}
 					} 
-					}
-				} else if (!target.tags.contains('attacked') && targetTypes.includes(target.type)) {
+			       else if (!target.tags.contains('attacked') && targetTypes.includes(target.type)) {
 						event.setDamage(0)
 						target.tags.add('attacked')
 						target.tags.remove('easy')
@@ -333,5 +331,6 @@ EntityEvents.beforeHurt(event => {
 				}
 			}
 		}
-	
+	}
+}
 )

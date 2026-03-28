@@ -68,9 +68,10 @@
 	quest.50196DC829EF6061.title: "{chapter.12.quest.10.title}"
 	quest.515D3C2DC0BFA8C1.quest_desc: ["{chapter.12.quest.68.description.1}"]
 	quest.515D3C2DC0BFA8C1.quest_subtitle: "{chapter.12.quest.68.subtitle}"
+	quest.51A7BA308554606F.quest_subtitle: "破坏最底层的毁蚀微生物以开启传送门"
+	quest.51A7BA308554606F.title: "进入更深的地方"
 	quest.54B18C774EF22FE1.quest_desc: ["{chapter.12.quest.41.description.1}"]
 	quest.5637FEB12ADC8EB3.quest_desc: ["{chapter.12.quest.12.description.1}"]
-	quest.5637FEB12ADC8EB3.quest_subtitle: "{chapter.12.quest.12.subtitle}"
 	quest.5637FEB12ADC8EB3.title: "{chapter.12.quest.12.title}"
 	quest.56F7E5AB654115CE.quest_desc: ["{chapter.12.quest.50.description.1}"]
 	quest.58CB04E34DFCAC0D.quest_desc: ["{chapter.12.quest.21.description.1}"]

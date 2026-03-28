@@ -25,6 +25,7 @@
 		}
 		{
 			dependencies: ["00A78BD1F10BE5D5"]
+			hide_until_deps_complete: true
 			id: "4F507917FD331CA5"
 			rewards: [{
 				advancement: "spectrum:collect_gemstone_powder"
@@ -49,7 +50,7 @@
 			y: -7.0d
 		}
 		{
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "346CB1473CEF0DF6"
 			size: 3.0d
 			tasks: [{
@@ -61,6 +62,7 @@
 		}
 		{
 			dependencies: ["271877E8E7393D05"]
+			hide_until_deps_complete: true
 			id: "00A78BD1F10BE5D5"
 			rewards: [{
 				advancement: "spectrum:place_pedestal"
@@ -85,7 +87,7 @@
 			y: -7.0d
 		}
 		{
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "1D26B4EA81538C0A"
 			tasks: [{
 				id: "6B06EA47FB1ABA9B"
@@ -102,6 +104,7 @@
 				"5EF371628CAF40D7"
 			]
 			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
 			id: "380B8D448CD2582B"
 			rewards: [{
 				advancement: "spectrum:craft_using_pedestal"
@@ -127,6 +130,7 @@
 		}
 		{
 			dependencies: ["380B8D448CD2582B"]
+			hide_until_deps_complete: true
 			id: "288285DBDAB1C5FD"
 			rewards: [
 				{
@@ -166,6 +170,7 @@
 		}
 		{
 			dependencies: ["288285DBDAB1C5FD"]
+			hide_until_deps_complete: true
 			id: "5E210CF7E49C569C"
 			rewards: [{
 				advancement: "spectrum:collect_shimmerstone"
@@ -191,6 +196,7 @@
 		}
 		{
 			dependencies: ["5E210CF7E49C569C"]
+			hide_until_deps_complete: true
 			id: "309077656D4899C2"
 			rewards: [{
 				advancement: "spectrum:craft_bottle_of_fading"
@@ -216,6 +222,7 @@
 		}
 		{
 			dependencies: ["309077656D4899C2"]
+			hide_until_deps_complete: true
 			id: "50196DC829EF6061"
 			rewards: [{
 				advancement: "spectrum:collect_vegetal"
@@ -241,6 +248,7 @@
 		}
 		{
 			dependencies: ["50196DC829EF6061"]
+			hide_until_deps_complete: true
 			id: "7AACC55C1BC80F2A"
 			rewards: [
 				{
@@ -280,6 +288,7 @@
 		}
 		{
 			dependencies: ["7AACC55C1BC80F2A"]
+			hide_until_deps_complete: true
 			id: "5637FEB12ADC8EB3"
 			rewards: [{
 				advancement: "spectrum:collect_all_basic_pigments_besides_brown"
@@ -355,6 +364,7 @@
 		}
 		{
 			dependencies: ["5637FEB12ADC8EB3"]
+			hide_until_deps_complete: true
 			id: "12766F7759AA7EE6"
 			rewards: [
 				{
@@ -384,18 +394,13 @@
 					id: "2BDC0F68BB6C3EFF"
 					type: "advancement"
 				}
-				{
-					id: "305CF2F05209EE9F"
-					item: { count: 1, id: "spectrum:fusion_shrine_calcite" }
-					type: "item"
-				}
 			]
 			x: 3.0d
 			y: -5.5d
 		}
 		{
 			dependencies: ["12766F7759AA7EE6"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "4CE9B355B43E155E"
 			rewards: [{
 				advancement: "spectrum:create_onyx_shard"
@@ -421,7 +426,7 @@
 		}
 		{
 			dependencies: ["4CE9B355B43E155E"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "7B51BFDD655E1281"
 			rewards: [
 				{
@@ -466,7 +471,7 @@
 		}
 		{
 			dependencies: ["59D6B500E090C86B"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "48F57785B56CE5C5"
 			rewards: [{
 				advancement: "spectrum:midgame/collect_stratine"
@@ -497,7 +502,7 @@
 		}
 		{
 			dependencies: ["7B51BFDD655E1281"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "59D6B500E090C86B"
 			rewards: [
 				{
@@ -535,7 +540,7 @@
 		}
 		{
 			dependencies: ["715195FE8612B929"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "4CE237AE8F58B2CB"
 			rewards: [
 				{
@@ -568,7 +573,7 @@
 		}
 		{
 			dependencies: ["48F57785B56CE5C5"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "7945125249DD7028"
 			rewards: [
 				{
@@ -601,7 +606,7 @@
 		}
 		{
 			dependencies: ["7945125249DD7028"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "58CB04E34DFCAC0D"
 			rewards: [
 				{
@@ -663,7 +668,7 @@
 				"58CB04E34DFCAC0D"
 				"4CE237AE8F58B2CB"
 			]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "1E114E9019D2C90E"
 			rewards: [
 				{
@@ -696,7 +701,7 @@
 		}
 		{
 			dependencies: ["1E114E9019D2C90E"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "4DC63D1752013975"
 			rewards: [
 				{
@@ -732,7 +737,7 @@
 				"4DC63D1752013975"
 				"0F5773559E05C414"
 			]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "2F08F5EB273B58D8"
 			rewards: [
 				{
@@ -765,7 +770,7 @@
 		}
 		{
 			dependencies: ["58CB04E34DFCAC0D"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "0F5773559E05C414"
 			rewards: [
 				{
@@ -798,7 +803,7 @@
 		}
 		{
 			dependencies: ["2F08F5EB273B58D8"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "6CD923D48AF77852"
 			rewards: [{
 				advancement: "spectrum:midgame/break_decayed_bedrock"
@@ -830,7 +835,7 @@
 		}
 		{
 			dependencies: ["7B51BFDD655E1281"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "715195FE8612B929"
 			rewards: [
 				{
@@ -863,7 +868,7 @@
 		}
 		{
 			dependencies: ["59D6B500E090C86B"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "5D331D77BFF11B48"
 			optional: true
 			rewards: [{
@@ -971,6 +976,7 @@
 		}
 		{
 			dependencies: ["7B51BFDD655E1281"]
+			hide_until_deps_visible: true
 			id: "02AEC569D0486F89"
 			optional: true
 			rewards: [{
@@ -1022,7 +1028,7 @@
 			y: -5.5d
 		}
 		{
-			dependencies: ["0F5773559E05C414"]
+			dependencies: ["51A7BA308554606F"]
 			id: "7A371AB5EA5F3986"
 			rewards: [{
 				advancement: "spectrum:midgame/grow_azurite_in_crystallarieum"
@@ -1043,11 +1049,11 @@
 					type: "advancement"
 				}
 			]
-			x: -4.5d
-			y: 2.0d
+			x: 0.0d
+			y: 3.5d
 		}
 		{
-			dependencies: ["7A371AB5EA5F3986"]
+			dependencies: ["0F5773559E05C414"]
 			id: "4FA6BFF5B11A4EC3"
 			rewards: [
 				{
@@ -1079,8 +1085,8 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["7A371AB5EA5F3986"]
-			hide_until_deps_visible: true
+			dependencies: ["0F5773559E05C414"]
+			hide_until_deps_complete: true
 			id: "275A0F585FBD2541"
 			rewards: [
 				{
@@ -1109,7 +1115,7 @@
 				}
 			]
 			x: -4.5d
-			y: 3.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["116BF87094EA4E42"]
@@ -1162,7 +1168,7 @@
 				}
 			]
 			x: -4.5d
-			y: 5.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["275A0F585FBD2541"]
@@ -1398,6 +1404,7 @@
 		}
 		{
 			dependencies: ["4355E479445EE1F4"]
+			hide_until_deps_complete: true
 			id: "20A6E081D6A47E98"
 			optional: true
 			rewards: [{
@@ -1424,7 +1431,7 @@
 		}
 		{
 			dependencies: ["4FA6BFF5B11A4EC3"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "651C28CAE854B433"
 			tasks: [{
 				id: "65BF9A01B3D875EC"
@@ -1436,6 +1443,7 @@
 		}
 		{
 			dependencies: ["02AEC569D0486F89"]
+			hide_until_deps_visible: true
 			id: "2646F4AE06A6AD56"
 			optional: true
 			tasks: [{
@@ -1447,7 +1455,7 @@
 			y: -5.5d
 		}
 		{
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "515D3C2DC0BFA8C1"
 			tasks: [{
 				id: "287A8A33832521D4"
@@ -1458,7 +1466,7 @@
 			y: -3.5d
 		}
 		{
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			id: "06B89C0B48780A85"
 			tasks: [{
 				id: "6BC3CACAF840EB12"
@@ -1470,6 +1478,7 @@
 		}
 		{
 			dependencies: ["00A78BD1F10BE5D5"]
+			hide_until_deps_complete: true
 			id: "5EF371628CAF40D7"
 			rewards: [{
 				advancement: "spectrum:collect_gemstone_powder"
@@ -1495,6 +1504,7 @@
 		}
 		{
 			dependencies: ["00A78BD1F10BE5D5"]
+			hide_until_deps_complete: true
 			id: "4929277AC11875DD"
 			rewards: [{
 				advancement: "spectrum:collect_gemstone_powder"
@@ -1528,6 +1538,20 @@
 			}]
 			x: 3.0d
 			y: -1.0d
+		}
+		{
+			dependencies: ["6CD923D48AF77852"]
+			icon: {
+				id: "spectrum:downstone"
+			}
+			id: "51A7BA308554606F"
+			tasks: [{
+				dimension: "spectrum:deeper_down"
+				id: "77A79BB6FDEF5380"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 2.0d
 		}
 	]
 }
