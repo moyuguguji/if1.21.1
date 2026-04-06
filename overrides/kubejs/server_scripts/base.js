@@ -79,7 +79,15 @@ primordial('refinedstorage:advanced_processor','minecraft:diamond','minecraft:ir
 
 event.smithing('refinedstorage:construction_core','minecraft:iron_ingot','refinedstorage:basic_processor','spectrum:topaz_shard').id('refinedstorage:construction_core')
 event.smithing('refinedstorage:destruction_core','minecraft:iron_ingot','refinedstorage:basic_processor','minecraft:redstone').id('refinedstorage:destruction_core')
-
+event.shaped('refinedstorage:creative_range_upgrade', [
+		'ABA',
+		'BCB',
+		'ABA'
+	], {
+		A: 'minecraft:iron_ingot',
+		B: 'refinedstorage:range_upgrade',
+    C: 'minecraft:beacon'
+	})
 event.shaped('refinedstorage:creative_portable_grid', [
 		'ABA',
 		'ACA',
@@ -158,7 +166,7 @@ event.custom({
   "crushedItemsPerPointOfDamage": 0.4,
   "experience": 0.0,
   "result" : {
-    "item": "spectrum:topaz_shard",
+    "item": "spectrum:citrine_shard",
     "count": 1
   },
   "particleEffectIdentifier": "explosion",

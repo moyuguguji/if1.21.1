@@ -16,5 +16,87 @@
       "refinedstorage:silicon"
     ],
     "resultItems": "minecraft:clay_ball"
+  },
+  {
+    "matchItems": ["refinedstorage:controller"],
+    "resultItems": "refinedstorage:creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:yellow_controller"],
+    "resultItems": "refinedstorage:yellow_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:lime_controller"],
+    "resultItems": "refinedstorage:lime_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:pink_controller"],
+    "resultItems": "refinedstorage:pink_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:gray_controller"],
+    "resultItems": "refinedstorage:gray_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:light_gray_controller"],
+    "resultItems": "refinedstorage:light_gray_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:cyan_controller"],
+    "resultItems": "refinedstorage:cyan_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:purple_controller"],
+    "resultItems": "refinedstorage:purple_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:blue_controller"],
+    "resultItems": "refinedstorage:blue_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:brown_controller"],
+    "resultItems": "refinedstorage:brown_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:green_controller"],
+    "resultItems": "refinedstorage:green_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:red_controller"],
+    "resultItems": "refinedstorage:red_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:black_controller"],
+    "resultItems": "refinedstorage:black_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:white_controller"],
+    "resultItems": "refinedstorage:white_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:orange_controller"],
+    "resultItems": "refinedstorage:orange_creative_controller"
+  },
+  {
+    "matchItems": ["refinedstorage:magenta_controller"],
+    "resultItems": "refinedstorage:magenta_creative_controller"
+  },
+  {
+    "matchItems": [
+      "refinedstorage:wireless_grid"
+    ],
+    "resultItems": "refinedstorage:creative_wireless_grid"
+  },
+  {
+    "matchItems": [
+      "refinedstorage:wireless_autocrafting_monitor"
+    ],
+    "resultItems": "refinedstorage:creative_wireless_autocrafting_monitor"
+  },
+  {
+    "matchItems": [
+      "refinedstorage:portable_grid"
+    ],
+    "resultItems": "refinedstorage:creative_portable_grid"
   }
 ]
