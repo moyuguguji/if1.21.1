@@ -22,8 +22,8 @@ ItemEvents.dynamicTooltips('auto_tooltip', event => {
         }
     }
 
-    const base = `item.${item.id.replace(':', '.')}.tooltip`
-    const keysToAppend = []
+    let base = `item.${item.id.replace(':', '.')}.tooltip`
+    let keysToAppend = []
 
     handleModifier(base, keysToAppend, shift, 'shift')
     handleModifier(base, keysToAppend, ctrl, 'ctrl')
@@ -47,7 +47,7 @@ function tryCollect(prefix, keysToAppend) {
 }
 
 function handleModifier(prefix, keysToAppend, modActive, modName) {
-	const firstLineKey = `${prefix}.${modName}.1`
+	let firstLineKey = `${prefix}.${modName}.1`
     
     if (!$I18n.exists(firstLineKey)) return
 

@@ -1,7 +1,7 @@
 ItemEvents.rightClicked(event => {
     const { player, item } = event
     if (!player || !item) return
-    const handler = itemRightHandlers[item.id]
+    let handler = itemRightHandlers[item.id]
     if (!handler) return
     handler(event)
     if (event.getHand() == "MAIN_HAND") {
@@ -11,13 +11,13 @@ ItemEvents.rightClicked(event => {
 
 
 /** @type {Record<string, (event: import("dev.latvian.mods.kubejs.item.ItemClickedKubeEvent").$ItemClickedKubeEvent) => void>} */
-const itemRightHandlers = {
+let itemRightHandlers = {
     // 新月怀表
     "kubejs:moon_clock": event => {
         const { level, item, server } = event
-        const phase = level.getMoonPhase()
+        let phase = level.getMoonPhase()
         if (phase === 4) return
-        const daysToAdd = (4 - phase + 8) % 8
+        let daysToAdd = (4 - phase + 8) % 8
         level.setDayTime(level.getDayTime() + daysToAdd * 24000)
         item.shrink(1)
     },

@@ -1,32 +1,32 @@
 EntityEvents.beforeHurt(event => {
     const { entity, source, damage } = event
     if (!source || !entity) return
-    const player = entity.player
+    let player = entity.player
     if (!player) return
-    const difficulty = player.persistentData.getByte(PD_KEY_DIFFICULTY)
+    let difficulty = player.persistentData.getByte(PD_KEY_DIFFICULTY)
 
-    const immediate = source.getImmediate()
+    let immediate = source.getImmediate()
     if (!immediate && !immediate.living) {
         immediate.kill()
     }
 
     event.setDamage(damage * LIST_DIFFICULTIES[difficulty].hurtMul)
-    const handler = difficultyHurtHandlers[difficulty]
+    let handler = difficultyHurtHandlers[difficulty]
     if (handler) handler(event)
 })
 
 
 /** @type {Record<number, (event: import("dev.latvian.mods.kubejs.entity.BeforeLivingEntityHurtKubeEvent").$BeforeLivingEntityHurtKubeEvent) => void>} */
-const difficultyHurtHandlers = {
+let difficultyHurtHandlers = {
     5: event => {
         const { entity, source } = event
-        const immediate = source.getImmediate()
-        const actual = source.getActual()
-        const player = entity.player
+        let immediate = source.getImmediate()
+        let actual = source.getActual()
+        let player = entity.player
         if (!source.monster || !immediate || immediate.type !== 'minecraft:arrow') return
         if (player.random.nextFloat() > 0.5) return
 
-        const randomEffectList = [
+        let randomEffectList = [
             { effect: 'minecraft:blindness', duration: 100, amplifier: 0 },
             { effect: 'minecraft:poison', duration: 100, amplifier: 0 },
             { effect: 'minecraft:slowness', duration: 100, amplifier: 0 },
@@ -36,7 +36,7 @@ const difficultyHurtHandlers = {
             { effect: 'minecraft:instant_damage', duration: 0, amplifier: 0 },
             { effect: 'minecraft:mining_fatigue', duration: 100, amplifier: 0 }
         ]
-        const selectedEffect = randomEffectList[player.random.nextInt(randomEffectList.length)]
+        let selectedEffect = randomEffectList[player.random.nextInt(randomEffectList.length)]
         player.potionEffects.add(selectedEffect.effect, selectedEffect.duration, selectedEffect.amplifier)
 
         if (actual.type == 'minecraft:wither') {
@@ -62,16 +62,16 @@ const difficultyHurtHandlers = {
 EntityEvents.beforeHurt(event => {
     const { source, damage } = event
     if (!source) return
-    const player = source.player
+    let player = source.player
     if (!player) return
-    const difficulty = player.persistentData.getByte(PD_KEY_DIFFICULTY)
+    let difficulty = player.persistentData.getByte(PD_KEY_DIFFICULTY)
     event.setDamage(damage * LIST_DIFFICULTIES[difficulty].attackMul)
-    const handler = difficultyAttackHandlers[difficulty]
+    let handler = difficultyAttackHandlers[difficulty]
     if (handler) handler(event)
 })
 
 /** @type {Record<number, (event: import("dev.latvian.mods.kubejs.entity.BeforeLivingEntityHurtKubeEvent").$BeforeLivingEntityHurtKubeEvent) => void>} */
-const difficultyAttackHandlers = {
+let difficultyAttackHandlers = {
     5: event => {
         if (event.source.player.random.nextFloat() > 0.1) return
         event.setDamage(0)
@@ -83,12 +83,12 @@ const difficultyAttackHandlers = {
 EntityEvents.beforeHurt(event => {
     const { entity, source, damage } = event
     if (!source || !entity) return
-    const player = source.player
+    let player = source.player
     if (!player || !entity.living || !entity.monster) return
 
     /** @type {import("net.minecraft.world.entity.LivingEntity").$LivingEntity} */
-    const target = entity
-    const difficulty = player.persistentData.getByte(PD_KEY_DIFFICULTY)
+    let target = entity
+    let difficulty = player.persistentData.getByte(PD_KEY_DIFFICULTY)
 
     switch (difficulty) {
         case 0: {
@@ -97,7 +97,7 @@ EntityEvents.beforeHurt(event => {
                 && !target.tags.contains('attacked')
                 && target.type != "terrarianslimes:king_slime"
             ) {
-                const targetAttack = target.getAttribute('minecraft:generic.attack_damage')
+                let targetAttack = target.getAttribute('minecraft:generic.attack_damage')
                 target.tags.add('easy')
                 target.setMaxHealth(target.maxHealth * 0.5)
                 targetAttack.setBaseValue((targetAttack.value - targetAttack.baseValue) * 0.5 - targetAttack.baseValue)
@@ -164,7 +164,7 @@ EntityEvents.beforeHurt(event => {
             break
         }
         case 5: {
-            const targetArmor = target.getAttribute('minecraft:generic.armor')
+            let targetArmor = target.getAttribute('minecraft:generic.armor')
             if (!target.tags.contains('attacked') && !LIST_BOSSES.includes(target.type)) {
                 event.setDamage(0)
                 target.tags.add('attacked')
@@ -209,7 +209,7 @@ EntityEvents.beforeHurt(event => {
                     target.potionEffects.add('minecraft:invisibility', 100, 1, false, false)
                 }
                 if (player.random.nextFloat() <= 0.25) {
-                    const randomNum = player.random.nextInt(5) - 2
+                    let randomNum = player.random.nextInt(5) - 2
                     let x = target.getX()
                     let y = target.getY()
                     let z = target.getZ()

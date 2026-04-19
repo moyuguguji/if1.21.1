@@ -2,6 +2,7 @@ PlayerEvents.loggedIn(event => {
     const { server, player } = event
     server.scheduleInTicks(20, schedule => {
 		player.tell(Text.translate('msg.chat.welcome'))
+		player.tell(Text.translate('msg.chat.welcome1'))
         if (player.persistentData.getBoolean(PD_KEY_FIRST_LOGIN)) return
         
 	    player.persistentData.putBoolean(PD_KEY_FIRST_LOGIN, true)

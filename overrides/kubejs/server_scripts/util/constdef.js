@@ -1,11 +1,11 @@
-const PD_KEY_FIRST_LOGIN = 'first_login'
-const PD_KEY_DIFFICULTY = 'difficulty'
+let PD_KEY_FIRST_LOGIN = 'first_login'
+let PD_KEY_DIFFICULTY = 'difficulty'
 
 /** 
  * @type {Record<number, {name: string, color: number, attackMul: number, hurtMul: number}>} 
  */
-const LIST_DIFFICULTIES = [
-    { name: 'journey', color: 0xAAAAAA, attackMul: 1, hurtMul: 1 },
+let LIST_DIFFICULTIES = [
+    { name: 'journey', color: 0x55FF55, attackMul: 1, hurtMul: 1 },
     { name: 'classic', color: 0xFFFFFF, attackMul: 0.9, hurtMul: 1.1 },
     { name: 'expert', color: 0xAC59FF, attackMul: 0.8, hurtMul: 1.2 },
     { name: 'master', color: 0xFF4040, attackMul: 0.6, hurtMul: 1.5 },
@@ -16,7 +16,7 @@ const LIST_DIFFICULTIES = [
 /**
  * @type {string[]}
  */
-const LIST_BOSSES = [
+let LIST_BOSSES = [
     'minecraft:ender_dragon',
     'minecraft:wither',
 ]
@@ -24,7 +24,7 @@ const LIST_BOSSES = [
 /**
  * @type {string[]}
  */
-const LIST_ZOMBIES = [
+let LIST_ZOMBIES = [
     'minecraft:zombie',
     'minecraft:zombie_villager',
     'minecraft:husk',

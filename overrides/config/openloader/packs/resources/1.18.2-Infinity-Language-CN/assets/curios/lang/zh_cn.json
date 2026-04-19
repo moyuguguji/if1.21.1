@@ -1,0 +1,9 @@
+{
+    "curios.networking.failed": "Curios 网络通信失败",
+    "commands.curios.replace.success": "已将 %2$s 的 %s 槽位替换为 %3$s",
+    "commands.curios.drop.success": "已丢弃 %2$s 在槽位 %s 中的物品",
+    "gui.curios.toggle.cosmetics": "切换装饰品显示",
+    "gui.curios.page": "第 %d / %d 页",
+    "curios.tooltip.inactive": "未激活槽位",
+    "commands.curios.dropAll.success": "已丢弃 %s 在所有槽位中的物品"
+}

@@ -1,1 +1,1 @@
-const $I18n = Java.loadClass("net.minecraft.client.resources.language.I18n")
+let $I18n = Java.loadClass("net.minecraft.client.resources.language.I18n")
