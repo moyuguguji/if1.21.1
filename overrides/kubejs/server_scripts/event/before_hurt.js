@@ -1,20 +1,38 @@
+
+// 1. 在 LivingShieldBlockEvent 中设置标记
+const $LivingShieldBlockEvent = Java.loadClass('net.neoforged.neoforge.event.entity.living.LivingShieldBlockEvent')
+
+NativeEvents.onEvent($LivingShieldBlockEvent, event => {
+    const { entity, source, damage} = event
+    if (entity.isPlayer()) {
+        // 为玩家附加一个持久化标记
+        if (event.blocked == false) return
+        //console.log(`触发事件`);
+        entity.persistentData.putBoolean('kubejs:shield_blocked', true);
+        
+
+    }
+});
+
+// 2. 在 beforeHurt 事件中读取并清除标记
 EntityEvents.beforeHurt(event => {
     const { entity, source, damage } = event
     if (!source || !entity) return
     let player = entity.player
     if (!player) return
-    let difficulty = player.persistentData.getByte(PD_KEY_DIFFICULTY)
-
-    let immediate = source.getImmediate()
-    if (!immediate && !immediate.living) {
-        immediate.kill()
+    if (entity.persistentData.getBoolean('kubejs:shield_blocked')) {
+        entity.persistentData.remove('kubejs:shield_blocked')
+        //console.log(`清除`);
+        return
     }
+    let difficulty = entity.persistentData.getByte(PD_KEY_DIFFICULTY)
+    //console.log(`难度为 ${difficulty}`);
+
 
     event.setDamage(damage * LIST_DIFFICULTIES[difficulty].hurtMul)
     let handler = difficultyHurtHandlers[difficulty]
     if (handler) handler(event)
 })
-
 
 /** @type {Record<number, (event: import("dev.latvian.mods.kubejs.entity.BeforeLivingEntityHurtKubeEvent").$BeforeLivingEntityHurtKubeEvent) => void>} */
 let difficultyHurtHandlers = {
@@ -22,24 +40,24 @@ let difficultyHurtHandlers = {
         const { entity, source } = event
         let immediate = source.getImmediate()
         let actual = source.getActual()
-        let player = entity.player
-        if (!source.monster || !immediate || immediate.type !== 'minecraft:arrow') return
+        let player = entity
+        if (!actual && immediate.type == 'minecraft:arrow'){
         if (player.random.nextFloat() > 0.5) return
-
+       // console.log(`测试`);
         let randomEffectList = [
             { effect: 'minecraft:blindness', duration: 100, amplifier: 0 },
             { effect: 'minecraft:poison', duration: 100, amplifier: 0 },
             { effect: 'minecraft:slowness', duration: 100, amplifier: 0 },
             { effect: 'minecraft:weakness', duration: 100, amplifier: 0 },
-            { effect: 'extraalchemy:combustion', duration: 100, amplifier: 1 },
             { effect: 'minecraft:levitation', duration: 40, amplifier: 0 },
             { effect: 'minecraft:instant_damage', duration: 0, amplifier: 0 },
             { effect: 'minecraft:mining_fatigue', duration: 100, amplifier: 0 }
         ]
         let selectedEffect = randomEffectList[player.random.nextInt(randomEffectList.length)]
         player.potionEffects.add(selectedEffect.effect, selectedEffect.duration, selectedEffect.amplifier)
-
+        }
         if (actual.type == 'minecraft:wither') {
+            //console.log(`凋零`);
             if (player.health > 2) player.attack(1)
         } else if (immediate.type == 'minecraft:ender_dragon') {
             if (!player.potionEffects.isActive('minecraft:blindness')) {
@@ -95,7 +113,6 @@ EntityEvents.beforeHurt(event => {
             if (LIST_BOSSES.includes(target.type)
                 && !target.tags.contains('easy')
                 && !target.tags.contains('attacked')
-                && target.type != "terrarianslimes:king_slime"
             ) {
                 let targetAttack = target.getAttribute('minecraft:generic.attack_damage')
                 target.tags.add('easy')
@@ -110,13 +127,6 @@ EntityEvents.beforeHurt(event => {
                 target.tags.add('attacked')
                 target.tags.remove('easy')
                 target.setMaxHealth(target.maxHealth * (1.5))
-                target.heal(target.maxHealth * 0.9)
-                target.attack(target.maxHealth * 0.1)
-            } else if (!target.tags.contains('attacked')) {
-                event.setDamage(0)
-                target.tags.add('attacked')
-                target.tags.remove('easy')
-                target.setMaxHealth(target.maxHealth * (0.5))
                 target.heal(target.maxHealth * 0.9)
                 target.attack(target.maxHealth * 0.1)
             }
