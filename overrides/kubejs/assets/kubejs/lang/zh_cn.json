@@ -42,6 +42,36 @@
     "msg.action.phase.6": "上弦月",
     "msg.action.phase.7": "盈凸月",
 
+    "msg.beeper.signal": "§b§kabcdefgh§r",
+    "msg.beeper.task": "§b至 %s",
+
+    "effect.kubejs.command_protection": "§6指令加护",
+    "effect.kubejs.karma": "§4业",
+    "msg.beeper.task.destroy_grass": "破坏一个草方块",
+    "msg.beeper.task.kill_zombie": "击杀一只僵尸",
+    "msg.beeper.task.collect_flower": "采集一朵花",
+    "msg.beeper.task.eat_bread": "吃掉一个面包",
+    "msg.beeper.task.chop_tree": "砍倒一棵树",
+    "msg.beeper.task.catch_fish": "钓一条鱼",
+    "msg.beeper.task.dig_gravel": "挖掘三个沙砾",
+    "msg.beeper.task.craft_table": "制作一个工作台",
+    "msg.beeper.task.shear_sheep": "给一只羊剪毛",
+    "msg.beeper.task.kill_skeleton": "击杀一只骷髅",
+    "msg.beeper.task.mine_coal": "采集一块煤炭",
+    "msg.beeper.task.plant_sapling": "种植一棵树苗",
+    "msg.beeper.task.drink_water": "喝一瓶水",
+    "msg.beeper.task.trade_villager": "与村民交易一次",
+    "msg.beeper.task.kill_creeper": "击杀一只苦力怕",
+    "msg.beeper.task.collect_mushroom": "采集一朵蘑菇",
+    "msg.beeper.task.build_path": "修建一条小路",
+    "msg.beeper.task.milk_cow": "给一只牛挤奶",
+    "msg.beeper.task.craft_chest": "制作一个箱子",
+    "msg.beeper.task.dig_hole": "挖一个坑",
+
+    "msg.beeper.complete": "* _CLEAR._ *",
+    "msg.beeper.failed": "* _CLEAR._ *",
+    "msg.beeper.progress": "§e进度: %s/%s",
+
     "msg.action.difficulty.current": "当前难度：%s",
     "msg.action.difficulty.name.journey": "旅途",
     "msg.action.difficulty.name.classic": "经典",
@@ -53,8 +83,8 @@
 
     "msg.chat.welcome": "§e如果游玩过程中发现BUG请加群§c144825716",
 	"msg.chat.welcome1": "§e如果你不是通过测试群得到此整合包,请加上面群聊联系群主",
-    "msg.chat.boss.spawn": "§5%s已经苏醒!",
-    "msg.chat.boss.death": "§5%s已被打败!",
+    "msg.chat.boss.spawn": "%s已经苏醒!",
+    "msg.chat.boss.death": "%s已被打败!",
 
 
 	"text.infinity.book.name": "§b无限之书",

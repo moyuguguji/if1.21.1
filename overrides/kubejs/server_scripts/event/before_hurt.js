@@ -30,6 +30,19 @@ EntityEvents.beforeHurt(event => {
 
 
     event.setDamage(damage * LIST_DIFFICULTIES[difficulty].hurtMul)
+
+    // 指令加护: 每层 -2% 受到伤害
+    let cpEffect = entity.getEffect('kubejs:command_protection')
+    if (cpEffect) {
+        event.setDamage(event.damage * (1 - 0.02 * (cpEffect.amplifier + 1)))
+    }
+
+    // 业: 每 10 层 +5% 受到伤害
+    let karmaEffect = entity.getEffect('kubejs:karma')
+    if (karmaEffect) {
+        event.setDamage(event.damage * (1 + 0.005 * (karmaEffect.amplifier + 1)))
+    }
+
     let handler = difficultyHurtHandlers[difficulty]
     if (handler) handler(event)
 })
@@ -91,6 +104,7 @@ EntityEvents.beforeHurt(event => {
 /** @type {Record<number, (event: import("dev.latvian.mods.kubejs.entity.BeforeLivingEntityHurtKubeEvent").$BeforeLivingEntityHurtKubeEvent) => void>} */
 let difficultyAttackHandlers = {
     5: event => {
+        
         if (event.source.player.random.nextFloat() > 0.1) return
         event.setDamage(0)
     }
@@ -107,6 +121,17 @@ EntityEvents.beforeHurt(event => {
     /** @type {import("net.minecraft.world.entity.LivingEntity").$LivingEntity} */
     let target = entity
     let difficulty = player.persistentData.getByte(PD_KEY_DIFFICULTY)
+
+    // 指令加护: 每层 -2% 受到伤害
+    let cpEffect = target.getEffect('kubejs:command_protection')
+    if (cpEffect) {
+        event.setDamage(event.damage * (1 - 0.02 * (cpEffect.amplifier + 1)))
+    }
+    // 业: 每 10 层 +5% 受到伤害
+    let karmaEffect = target.getEffect('kubejs:karma')
+    if (karmaEffect) {
+        event.setDamage(event.damage * (1 + 0.005 * (karmaEffect.amplifier + 1)))
+    }
 
     switch (difficulty) {
         case 0: {
