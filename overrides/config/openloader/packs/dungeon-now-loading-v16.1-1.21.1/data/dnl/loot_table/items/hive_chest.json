@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:yellow_shulker_box",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"蜂香匣\",\"color\":\"gold\",\"italic\":false}",
+                "minecraft:container_loot": {"loot_table": "dnl:structures/hivenest/chests/hive_chest"}
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.hive_chest:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

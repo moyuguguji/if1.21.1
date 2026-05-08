@@ -1,0 +1,65 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "value": "dnl:maps/hivenest_boss"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "value": "dnl:maps/crawlers_lair"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 2,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 2,
+          "value": "dnl:items/honey_potion_1"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 1,
+          "value": "dnl:items/honey_potion_2"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              }
+            }
+          ],
+          "value": "dnl:items/honeycomb_ingot"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "dnl:structures/hivenest/chests/hive"
+        }
+      ]
+    }
+  ]
+}

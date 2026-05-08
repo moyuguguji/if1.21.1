@@ -1,0 +1,1 @@
+give @s white_banner[minecraft:custom_name='{"text":"Cleric Z Banner"}',"minecraft:block_entity_data":{id:"minecraft:item_frame",Patterns:[{Pattern:'mr',Color:14},{Pattern:'bs',Color:13},{Pattern:'cs',Color:7},{Pattern:'bo',Color:13},{Pattern:'ms',Color:15},{Pattern:'hh',Color:13},{Pattern:'mc',Color:13},{Pattern:'bo',Color:15}]}] 1

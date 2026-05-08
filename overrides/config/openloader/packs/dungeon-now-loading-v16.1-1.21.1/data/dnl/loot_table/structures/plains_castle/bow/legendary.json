@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bow",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
+                ],
+                "minecraft:enchantments": {
+                  "levels": {
+                    "power": 6
+                  }
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.item:1b,dnl.treasure:1b,dnl.castle:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:jigsaw",
+    "biomes": "#dnl:forgotten_field",
+    "step": "surface_structures",
+    "terrain_adaptation": "none",
+    "start_height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+            "absolute": -25
+        },
+        "max_inclusive": {
+            "absolute": 10
+        }
+    },
+    "spawn_overrides": {},
+    "start_pool": "dnl:structures/forgotten_field/start",
+    "size": 7,
+    "max_distance_from_center": 80,
+    "use_expansion_hack": false
+}

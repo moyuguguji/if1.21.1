@@ -1,0 +1,81 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bow",
+      "components": {
+        "minecraft:custom_model_data": 12001
+      }
+    },
+    "title": "圣物收藏家",
+    "description": "获得全部三种古代弓！",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "dnl:story/structures/temple_of_tears/sisters_of_sorrow",
+  "criteria": {
+    "ancient bow red": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bow",
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.ancient_bow": 1,
+                "dnl.relic.red": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    "ancient bow blue": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bow",
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.ancient_bow": 1,
+                "dnl.relic.blue": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    "ancient bow yellow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bow",
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.ancient_bow": 1,
+                "dnl.relic.yellow": 1
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ancient bow red"
+    ],
+    [
+      "ancient bow blue"
+    ],
+    [
+      "ancient bow yellow"
+    ]
+  ],
+  "rewards": {
+    "experience": 500
+  }
+}

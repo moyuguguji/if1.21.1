@@ -69,7 +69,7 @@
     "msg.beeper.task.dig_hole": "挖一个坑",
 
     "msg.beeper.complete": "* _CLEAR._ *",
-    "msg.beeper.failed": "* _CLEAR._ *",
+    "msg.beeper.failed": "* _ERROR._ *",
     "msg.beeper.progress": "§e进度: %s/%s",
 
     "msg.action.difficulty.current": "当前难度：%s",
@@ -136,6 +136,9 @@
 	"subtitles.kubejs.gu": "灵感菇:企鹅",
 	"subtitles.kubejs.v_gu": "灵感菇:村民",
 	"subtitles.kubejs.cat": "灵感菇:猫",
+	"sound.kubejs.beeper_send": "指令:发送",
+	"sound.kubejs.beeper_complete": "指令:完成",
+	"item.kubejs.beeper": "魔法§b*哔哔*§r机",
 	"item.kubejs.gold_coin.tooltip": "§6用于饰品重铸",
 	"item.kubejs.gold_coin.tooltip1": "沟槽的哥布林还在追我",
 	"item.kubejs.primordial_qixing.tooltip": "\u00A7b获得本源品质--用于七星剑",

@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:item",
+    "components": {
+      "minecraft:custom_data": {
+        "dnl.sinkhole": 1,
+        "dnl.slimecore": 1,
+        "dnl.healthdown": 1
+      }
+    }
+  }
+}

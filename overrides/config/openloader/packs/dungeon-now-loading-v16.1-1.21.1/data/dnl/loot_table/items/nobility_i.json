@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"崇高 I\",\"color\":\"gray\",\"italic\":false}",
+                  "{\"translate\":\"\"}",
+                  "{\"text\":\"仅用于特殊合成\",\"color\":\"dark_gray\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 16005
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.item:1b,dnl.enchanted_book:1b,dnl.nobility:1b,dnl.level:1b,dnl.unconvertable:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

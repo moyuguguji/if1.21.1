@@ -1,0 +1,113 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_pickaxe",
+      "components": {
+        "minecraft:custom_model_data": 15003
+      }
+    },
+    "title": "重铸圣物",
+    "description": "制作一件古代武器",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "dnl:story/structures/olympus/locate",
+  "criteria": {
+    "ancient sword": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:netherite_sword"
+            ],
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.ancient_sword": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    "ancient axe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:netherite_axe"
+            ],
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.ancient_axe": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    "ancient bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:bow"
+            ],
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.ancient_bow": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    "ancient pickaxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:shield"
+            ],
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.ancient_shield": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    "ancient shield": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:netherite_pickaxe"
+            ],
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.ancient_pickaxe": 1
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ancient bow",
+      "ancient pickaxe",
+      "ancient axe",
+      "ancient shield",
+      "ancient sword"
+    ]
+  ]
+}

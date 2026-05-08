@@ -1,0 +1,15 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "components": {
+          "minecraft:custom_data": {
+            "dnl.forbidden_fruit": 1
+          }
+        }
+      }
+    }
+  }
+}

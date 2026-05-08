@@ -1,0 +1,1562 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"I am not fire bbh ffs\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Jingothejumper"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Amogus still funi\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Jerhom"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:profile": "JumperSniper61"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"de4f is unpog\",\"italic\":false}"
+                ],
+                "minecraft:profile": "G2106"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"im sasarious\",\"italic\":false}"
+                ],
+                "minecraft:profile": "HaiseSasaki"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"UwU? UwU.\",\"italic\":false}"
+                ],
+                "minecraft:profile": "FERJGU"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"It's cold you know.\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Aischii"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Yamete kudasai\",\"italic\":false}"
+                ],
+                "minecraft:profile": "De4f"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"will always find u\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Affifindsyou"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"cooler than your mother\",\"italic\":false}"
+                ],
+                "minecraft:profile": "RealResistance"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"I'm sure there are aspects of my personality buried within me that will surface as soon as I know I am completely loved\",\"italic\":false}"
+                ],
+                "minecraft:profile": "fogggyhead"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"GET OUT OF HERE STALKER!\",\"italic\":false}"
+                ],
+                "minecraft:profile": "ChoiceTheorem"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"I'm a girl btw\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Wonder_Islanders"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"I'm bout to head out\",\"italic\":false}"
+                ],
+                "minecraft:profile": "SirGrunch"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Watch out for monsters!\",\"italic\":false}"
+                ],
+                "minecraft:profile": "RedScuro"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"turkey marines can drive\",\"italic\":false}"
+                ],
+                "minecraft:profile": "rasmusveike"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Are you my mother?\",\"italic\":false}"
+                ],
+                "minecraft:profile": "ThePlagueDucktor"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Gorillas can be killed by land mines placed along forest paths\",\"italic\":false}"
+                ],
+                "minecraft:profile": "DapperCannibal"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Pineapple\",\"italic\":false}"
+                ],
+                "minecraft:profile": "DinoDesmond"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Trust the signs!\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Homeless_Mage"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Have a Lubly Day!\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Lubcubs"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Attention! Fragile\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Lucanoria"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Never put off to tomorrow what you can put off to the day after tomorrow just as well :D\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Mister16"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"DrunkAxeGuy's Head\",\"color\":\"dark_red\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"[Patron]\",\"color\":\"red\",\"italic\":false}",
+                  "{\"text\":\"Any one of you (belches) Everyone, damn it... (sobs)\",\"italic\":false}"
+                ],
+                "minecraft:profile": "DrunkAxeGuy"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"EAT MY COOKIS\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Silver_UT"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"hi! have a fun day :)\",\"italic\":false}"
+                ],
+                "minecraft:profile": "igxo"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Hey you! Put me down!\",\"italic\":false}"
+                ],
+                "minecraft:profile": "BabyyyYoda"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"hey, hey, hey, calm down let’s vibe\",\"italic\":false}"
+                ],
+                "minecraft:profile": "viperwaves"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"My cheese has something to tell you\",\"italic\":false}"
+                ],
+                "minecraft:profile": "MonkeyBurrito"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"What is this for?\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Sunny"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Don't touch me there step-player\",\"italic\":false}"
+                ],
+                "minecraft:profile": "FatherRussia"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\">:)\",\"italic\":false}"
+                ],
+                "minecraft:profile": "BruhPP"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Voulez-vous coucher avec moi?\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Parfaitement"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"what are you doing with my head step-player?\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Dyzur"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Why do they call it oven when you of in the cold food of out hot eat the food\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Bla5tb0t"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"My cats are not made out of silver though\",\"italic\":false}"
+                ],
+                "minecraft:profile": "silvercatz"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Somebody once told me, hands off my macaroni-\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Adhscientist"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Harbinger of chaos and useless scientific facts\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Crisptex"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Immortal until proven otherwise.\",\"italic\":false}"
+                ],
+                "minecraft:profile": "KingOfCozyness"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Get me out of this chest! PLEASE!\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Mitchy_Moo"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Hai :)\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Crisptex"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Ayo why do you have my head?\",\"italic\":false}"
+                ],
+                "minecraft:profile": "rito_the_great"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Angels can be sinners too, y’know.\",\"italic\":false}"
+                ],
+                "minecraft:profile": "ArchAngela"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\" Hey PeSh! Look at me, im in a chest now :'3\",\"italic\":false}"
+                ],
+                "minecraft:profile": "ShaneDon36"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"im taking your taxes at Some point you filthy tax evader\",\"italic\":false}"
+                ],
+                "minecraft:profile": "taxGatherer"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Wumpus0"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"what if we kissed in the Forgotten Field of Flanders... haha jk... unless??\",\"italic\":false}"
+                ],
+                "minecraft:profile": "DaveBxb"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"You were expecting treasure in here, weren't you!\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Ferogreywolf7"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"[Server Booster]\",\"color\":\"light_purple\",\"italic\":false}",
+                  "{\"text\":\"LOOK DAVID, IM IN A DATAPACK\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Jwoob"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"so many soup cans\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Coolfood"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"haha data pack go brrrrr\",\"italic\":false}"
+                ],
+                "minecraft:profile": "pancitoepic"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"1000 fkdr btw lolmao\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Abjures"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"bro look theres a titan right behind you.\",\"italic\":false}"
+                ],
+                "minecraft:profile": "a1r2"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"The mitochondria is the powerhouse of the cell\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Fly"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"Azael_Ijima's Head\",\"color\":\"#FFA200\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"[Patron]\",\"color\":\"red\",\"italic\":false}",
+                  "{\"text\":\"Remember to stay hydrated.. I didn't and look what\",\"italic\":false}",
+                  "{\"text\":\"happened to me.\",\"italic\":false}"
+                ],
+                "minecraft:enchantments": {
+                  "levels": {
+                    "aqua_affinity": 1
+                  }
+                },
+                "minecraft:profile": "Azael_Ijima"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"RealisticCarrot's Head\",\"color\":\"light_purple\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"[Patron]\",\"color\":\"red\",\"italic\":false}",
+                  "{\"text\":\"The day is coming when a single carrot, freshly\",\"italic\":false}",
+                  "{\"text\":\"observed, will set off a revolution!\",\"italic\":false}"
+                ],
+                "minecraft:profile": "RealisticCarrot"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"DailySin's Head\",\"color\":\"light_purple\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"[Patron]\",\"color\":\"red\",\"italic\":false}",
+                  "{\"text\":\"Beannnsss\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Dailysins"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"throw this into lava it'll be funny bro trust me\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Elithris"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Beans\",\"italic\":false}"
+                ],
+                "minecraft:profile": "NaM"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Why me?\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Thorn_123"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"legend has it that throwing this head in lava will free up your inventory a bit\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Polylimp"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Wearing this head gives you +5 attack when using True Ice Bows.\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Chweps"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Don't be like me, villagers are not your slaves :(\",\"italic\":false}"
+                ],
+                "minecraft:profile": "IzLuis10"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Look mom! I'm famous!\",\"italic\":false}"
+                ],
+                "minecraft:profile": "GBBGerben"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"sup\",\"italic\":false}"
+                ],
+                "minecraft:profile": "akari7174"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Oh, you're picking me up?\",\"italic\":false}"
+                ],
+                "minecraft:profile": "WhynautMe"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"this is the best datapack i add to my server so far. if u find it tell me 16hir0#2514\",\"italic\":false}"
+                ],
+                "minecraft:profile": "16hir0"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"my name is my name is Ovuvuevuevue Enyetuenwuevue Ugbemugbem Osas.\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Q7_S"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Trans rights.\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Nova_Ember"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"The Maid Who Leaves Fate to the Dream of Eternity\",\"italic\":false}"
+                ],
+                "minecraft:profile": "FokaStudio"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"this head is such a troll\",\"italic\":false}"
+                ],
+                "minecraft:profile": "trol_master"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"If we shouldn't eat at night, then why is here a light in the fridge?\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Waffle_Wizard_"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Привет Россия!\",\"italic\":false}"
+                ],
+                "minecraft:profile": "okzerus"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"look behind you.\",\"italic\":false}"
+                ],
+                "minecraft:profile": "SonkeyHong"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"Slainte. When you invest in pud, you invest in your friends\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Kaarter"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"It's called trash can, not trash can't\",\"italic\":false}"
+                ],
+                "minecraft:profile": "RainbowSaber"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"run away from that gigantic mutant hamster behind you\",\"italic\":false}"
+                ],
+                "minecraft:profile": "oranwein"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"there is no cake\",\"italic\":false}"
+                ],
+                "minecraft:profile": "TwilightHunter00"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"The cake is not a lie\",\"italic\":false}"
+                ],
+                "minecraft:profile": "Ahydul"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"still waiting for my dungeon to load :/\",\"italic\":false}"
+                ],
+                "minecraft:profile": "YoannBB2"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"put this in beepbob26's chest\",\"italic\":false}"
+                ],
+                "minecraft:profile": "rxveen"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.checkpoint_head:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

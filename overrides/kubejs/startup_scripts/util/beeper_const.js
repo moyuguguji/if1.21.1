@@ -25,8 +25,8 @@ let RESULT_FAILURE = 2
 let CP_MAX          = 9
 let TICKS_MIN       = 3600
 let TICKS_5MIN      = 6000
-let TICKS_1SEC      = 20
-let TICKS_REAPPLY   = 20
+let TICKS_1SEC      = 35
+let TICKS_REAPPLY   = 35
 
 let TICKS_RESULT    = TICKS_1SEC * 2
 

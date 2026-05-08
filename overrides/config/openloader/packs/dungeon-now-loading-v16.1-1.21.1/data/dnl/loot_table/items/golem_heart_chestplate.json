@@ -1,0 +1,65 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"戈仑之心胸甲\",\"color\":\"gold\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"套装奖励:\",\"color\":\"gray\",\"italic\":false}",
+                  "{\"text\":\"力量 I\",\"color\":\"blue\",\"italic\":false}",
+                  "{\"text\":\"抗性提升 I\",\"color\":\"blue\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 15556,
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "slot": "chest",
+                      "amount": 8,
+                      "operation": "add_value",
+                      "id": "dnl:loot_gsppb2"
+                    },
+                    {
+                      "type": "minecraft:generic.armor_toughness",
+                      "slot": "chest",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_9bhfg1"
+                    },
+                    {
+                      "type": "minecraft:generic.knockback_resistance",
+                      "slot": "chest",
+                      "amount": 0.3,
+                      "operation": "add_value",
+                      "id": "dnl:loot_8xef27"
+                    },
+                    {
+                      "type": "minecraft:max_health",
+                      "slot": "chest",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "id": "dnl:loot_jaz9lw"
+                    }
+                  ],
+                  "show_in_tooltip": false
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.item:1b,dnl.golem_heart_chestplate:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

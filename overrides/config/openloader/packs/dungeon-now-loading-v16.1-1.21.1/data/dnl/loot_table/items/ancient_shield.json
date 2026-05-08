@@ -1,0 +1,69 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"古代盾牌\",\"color\":\"gold\",\"italic\":false}",
+                "minecraft:custom_model_data": 15004,
+                "minecraft:hide_tooltip": {},
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "slot": "offhand",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "id": "dnl:loot_8zq2kb"
+                    }
+                  ],
+                  "show_in_tooltip": false
+                },
+                "minecraft:block_entity_data": {
+                  "Base": 0,
+                  "Patterns": [
+                    {
+                      "Color": 8,
+                      "Pattern": "cbo"
+                    },
+                    {
+                      "Color": 7,
+                      "Pattern": "bo"
+                    },
+                    {
+                      "Color": 15,
+                      "Pattern": "gra"
+                    },
+                    {
+                      "Color": 15,
+                      "Pattern": "gru"
+                    },
+                    {
+                      "Color": 15,
+                      "Pattern": "mr"
+                    },
+                    {
+                      "Color": 7,
+                      "Pattern": "flo"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.item:1b,dnl.ancient_shield:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

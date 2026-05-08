@@ -1,0 +1,1 @@
+give @s sweet_berries[minecraft:custom_name='{"text":"Forbidden Berries","color":"light_purple","italic":false}',"minecraft:lore":['{"text":"+3 Vitality","color":"blue","italic":false}'],"minecraft:enchantment_glint_override":true,"minecraft:custom_data":{"dnl.item":1b,"dnl.forbidden_fruit":1b,"dnl.forbidden_sweet_berries":1b,"dnl.vitality":3b}] 1

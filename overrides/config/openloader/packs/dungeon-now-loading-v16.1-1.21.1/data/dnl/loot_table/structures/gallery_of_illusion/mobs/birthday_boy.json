@@ -1,0 +1,493 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cake",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:pumpkin_pie",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:cookie",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3,
+                "max": 5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 2,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:gold_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 7
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 7
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_wool",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blue_wool",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:green_wool",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:poppy",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "slot": "head",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "id": "dnl:loot_3rle00"
+                    },
+                    {
+                      "type": "minecraft:generic.armor_toughness",
+                      "slot": "head",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_amte58"
+                    },
+                    {
+                      "type": "minecraft:generic.knockback_resistance",
+                      "slot": "head",
+                      "amount": 0.1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_m0vpua"
+                    }
+                  ],
+                  "show_in_tooltip": false
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "重型铁制头盔",
+                  "color": "gold",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "slot": "chest",
+                      "amount": 7,
+                      "operation": "add_value",
+                      "id": "dnl:loot_il9645"
+                    },
+                    {
+                      "type": "minecraft:generic.armor_toughness",
+                      "slot": "chest",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_z5ijvd"
+                    },
+                    {
+                      "type": "minecraft:generic.knockback_resistance",
+                      "slot": "chest",
+                      "amount": 0.1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_k06ftx"
+                    }
+                  ],
+                  "show_in_tooltip": false
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "重型铁制胸甲",
+                  "color": "gold",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_leggings",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "slot": "legs",
+                      "amount": 6,
+                      "operation": "add_value",
+                      "id": "dnl:loot_u2i6wl"
+                    },
+                    {
+                      "type": "minecraft:generic.armor_toughness",
+                      "slot": "legs",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_326mwm"
+                    },
+                    {
+                      "type": "minecraft:generic.knockback_resistance",
+                      "slot": "legs",
+                      "amount": 0.1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_9vpaal"
+                    }
+                  ],
+                  "show_in_tooltip": false
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "重型铁制护腿",
+                  "color": "gold",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "slot": "feet",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "id": "dnl:loot_mhd4jz"
+                    },
+                    {
+                      "type": "minecraft:generic.armor_toughness",
+                      "slot": "feet",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_ohomv5"
+                    },
+                    {
+                      "type": "minecraft:generic.knockback_resistance",
+                      "slot": "feet",
+                      "amount": 0.1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_2xhqly"
+                    }
+                  ],
+                  "show_in_tooltip": false
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "重型铁制靴子",
+                  "color": "gold",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "slot": "offhand",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "id": "dnl:loot_sffngn"
+                    }
+                  ],
+                  "show_in_tooltip": false
+                },
+                "minecraft:block_entity_data": {
+                  "Base": 1,
+                  "Patterns": [
+                    {
+                      "Color": 12,
+                      "Pattern": "ss"
+                    },
+                    {
+                      "Color": 1,
+                      "Pattern": "gru"
+                    },
+                    {
+                      "Color": 13,
+                      "Pattern": "tts"
+                    },
+                    {
+                      "Color": 15,
+                      "Pattern": "cre"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "南瓜盾牌",
+                  "color": "gold",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            }
+          ],
+          "value": "dnl:player_head"
+        }
+      ]
+    }
+  ]
+}

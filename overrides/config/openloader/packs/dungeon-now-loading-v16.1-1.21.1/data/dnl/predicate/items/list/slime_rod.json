@@ -1,0 +1,20 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "components": {
+          "minecraft:custom_data": {
+            "dnl.slime_rod": 1
+          }
+        }
+      },
+      "offhand": {
+        "items": [
+          "minecraft:slime_ball"
+        ]
+      }
+    }
+  }
+}

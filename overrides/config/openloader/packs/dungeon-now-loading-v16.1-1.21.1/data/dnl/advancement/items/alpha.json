@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {
+          "item": "minecraft:music_disc_strad",
+          "components": {
+            "minecraft:lore": [
+              "{\"text\":\"C418 - Alpha\",\"color\":\"gray\",\"italic\":false}"
+            ],
+            "minecraft:hide_tooltip": {}
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "dnl:items/music_discs/alpha"
+  }
+}

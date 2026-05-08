@@ -1,0 +1,67 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_chestplate"
+    },
+    "title": {
+      "text": "坚如磐石"
+    },
+    "description": {
+      "text": "收集铁锭，将它们制成戈仑之心套装部件！"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "dnl:story/structures/forgotten_field/iron_heart",
+  "criteria": {
+    "craft golem heart armor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:iron_helmet"
+            ],
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.golem_heart_helmet": 1
+              }
+            }
+          },
+          {
+            "items": [
+              "minecraft:iron_chestplate"
+            ],
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.golem_heart_chestplate": 1
+              }
+            }
+          },
+          {
+            "items": [
+              "minecraft:iron_leggings"
+            ],
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.golem_heart_leggings": 1
+              }
+            }
+          },
+          {
+            "items": [
+              "minecraft:iron_boots"
+            ],
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.golem_heart_boots": 1
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

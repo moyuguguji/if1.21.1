@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "dnl:sinkhole",
+              "decoration": "red_x",
+              "zoom": 1,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"探险者地图\",\"color\":\"#008709\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"史莱姆淤池\",\"color\":\"gray\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 4040002,
+                "minecraft:hide_tooltip": {}
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.map:1b,dnl.sinkhole:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

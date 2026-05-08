@@ -1,0 +1,12 @@
+{
+    "beeper_send": {
+        "sounds": [
+            "kubejs:beeper_send"
+        ]
+    },
+    "beeper_complete": {
+        "sounds": [
+            "kubejs:beeper_complete"
+        ]
+    }
+}

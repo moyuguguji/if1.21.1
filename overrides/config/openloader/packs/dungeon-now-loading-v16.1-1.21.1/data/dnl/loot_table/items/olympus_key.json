@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:clock",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"奥林匹斯之钥\",\"color\":\"dark_aqua\",\"italic\":false}",
+                "minecraft:custom_model_data": 15004
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.item:1b,dnl.olympus_key:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

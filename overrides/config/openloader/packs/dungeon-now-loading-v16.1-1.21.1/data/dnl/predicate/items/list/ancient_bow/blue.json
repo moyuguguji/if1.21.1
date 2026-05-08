@@ -1,0 +1,20 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "components": {
+          "minecraft:custom_data": {
+            "dnl.relic.blue": 1
+          }
+        }
+      },
+      "offhand": {
+        "items": [
+          "minecraft:ghast_tear"
+        ]
+      }
+    }
+  }
+}

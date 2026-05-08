@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poppy",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"戈仑之赠礼\",\"color\":\"gold\",\"italic\":false}"
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.item:1b,dnl.golems_gift:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

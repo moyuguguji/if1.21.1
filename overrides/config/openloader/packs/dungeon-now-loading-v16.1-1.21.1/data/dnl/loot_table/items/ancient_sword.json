@@ -1,0 +1,53 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"古代剑\",\"color\":\"gold\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"translate\":\"\"}",
+                  "{\"text\":\"在主手时:\",\"color\":\"gray\",\"italic\":false}",
+                  "{\"text\":\" 10 攻击伤害\",\"color\":\"dark_green\",\"italic\":false}",
+                  "{\"text\":\" 1.6 攻击速度\",\"color\":\"dark_green\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 15001,
+                "minecraft:hide_tooltip": {},
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:attack_damage",
+                      "slot": "mainhand",
+                      "amount": 10,
+                      "operation": "add_value",
+                      "id": "dnl:loot_njxnkv"
+                    },
+                    {
+                      "type": "minecraft:attack_speed",
+                      "slot": "mainhand",
+                      "amount": -2.4,
+                      "operation": "add_value",
+                      "id": "dnl:loot_m4ukov"
+                    }
+                  ],
+                  "show_in_tooltip": false
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.item:1b,dnl.ancient_sword:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+give @s paper[minecraft:custom_name='{"text":"Letter","italic":false}',"minecraft:lore":['{"text":"Memento","color":"gray","italic":false}'],"minecraft:enchantment_glint_override":true,"minecraft:custom_data":{"dnl.item":1b,"dnl.memento":1b,"dnl.letter":1b}] 1

@@ -2,6 +2,11 @@
 // 哔哔机 - 腰部饰品
 // 常量见 ../util/beeper_const.js
 
+const $SoundEvent = Java.loadClass('net.minecraft.sounds.SoundEvent')
+const $ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
+const SOUND_SEND = $SoundEvent.createVariableRangeEvent($ResourceLocation.parse('kubejs:beeper_send'))
+const SOUND_COMPLETE = $SoundEvent.createVariableRangeEvent($ResourceLocation.parse('kubejs:beeper_complete'))
+
 // ============================================================
 // 辅助函数
 // ============================================================
@@ -113,7 +118,6 @@ function initState(player, now) {
 
 StartupEvents.registry("item", event => {
     event.create('beeper')
-        .displayName('哔哔机')
         .maxStackSize(1)
         .rarity('uncommon')
         .tag('curios:belt')
@@ -148,6 +152,10 @@ StartupEvents.registry("item", event => {
                     if (now >= nextCmd) {
                         const prev = player.persistentData.getInt(PDK_TASK)
                         if (prev >= 0) failTask(player)
+                        const resultType = player.persistentData.getInt(PDK_RESULT_TYPE)
+                        player.level.playSound(null, player.x, player.y, player.z,
+                            resultType === RESULT_NONE ? SOUND_SEND : SOUND_COMPLETE,
+                            'players', 1.0, 1.0)
                         player.persistentData.putInt(PDK_TASK, -1)
                         player.persistentData.putInt(PDK_PROGRESS, 0)
                         player.persistentData.putInt(PDK_GARBLED_END, now + TICKS_1SEC)

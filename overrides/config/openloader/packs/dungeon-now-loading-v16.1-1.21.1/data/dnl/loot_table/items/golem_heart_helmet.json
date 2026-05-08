@@ -1,0 +1,65 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"戈仑之心头盔\",\"color\":\"gold\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"套装奖励:\",\"color\":\"gray\",\"italic\":false}",
+                  "{\"text\":\"力量 I\",\"color\":\"blue\",\"italic\":false}",
+                  "{\"text\":\"抗性提升 I\",\"color\":\"blue\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 15556,
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor_toughness",
+                      "slot": "head",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_e78t9m"
+                    },
+                    {
+                      "type": "minecraft:generic.knockback_resistance",
+                      "slot": "head",
+                      "amount": 0.1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_lshon0"
+                    },
+                    {
+                      "type": "minecraft:generic.armor",
+                      "slot": "head",
+                      "amount": 3,
+                      "operation": "add_value",
+                      "id": "dnl:loot_4sog4q"
+                    },
+                    {
+                      "type": "minecraft:max_health",
+                      "slot": "head",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "id": "dnl:loot_ndclwc"
+                    }
+                  ],
+                  "show_in_tooltip": false
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.item:1b,dnl.golem_heart_helmet:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

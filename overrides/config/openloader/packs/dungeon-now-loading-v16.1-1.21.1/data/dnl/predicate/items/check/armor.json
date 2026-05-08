@@ -1,0 +1,36 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "head": {
+        "components": {
+          "minecraft:custom_data": {
+            "dnl.item": 1
+          }
+        }
+      },
+      "chest": {
+        "components": {
+          "minecraft:custom_data": {
+            "dnl.item": 1
+          }
+        }
+      },
+      "legs": {
+        "components": {
+          "minecraft:custom_data": {
+            "dnl.item": 1
+          }
+        }
+      },
+      "feet": {
+        "components": {
+          "minecraft:custom_data": {
+            "dnl.item": 1
+          }
+        }
+      }
+    }
+  }
+}

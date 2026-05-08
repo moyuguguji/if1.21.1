@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:white_banner",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"Z教徒旗帜\"}",
+                "minecraft:block_entity_data": {
+                  "Patterns": [
+                    {
+                      "Pattern": "mr",
+                      "Color": 14
+                    },
+                    {
+                      "Pattern": "bs",
+                      "Color": 13
+                    },
+                    {
+                      "Pattern": "cs",
+                      "Color": 7
+                    },
+                    {
+                      "Pattern": "bo",
+                      "Color": 13
+                    },
+                    {
+                      "Pattern": "ms",
+                      "Color": 15
+                    },
+                    {
+                      "Pattern": "hh",
+                      "Color": 13
+                    },
+                    {
+                      "Pattern": "mc",
+                      "Color": 13
+                    },
+                    {
+                      "Pattern": "bo",
+                      "Color": 15
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

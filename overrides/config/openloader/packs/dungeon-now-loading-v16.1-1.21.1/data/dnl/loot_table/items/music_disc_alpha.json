@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_strad",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\":\"C418 - Alpha\",\"color\":\"gray\",\"italic\":false}"
+                ],
+                "minecraft:hide_tooltip": {},
+                "minecraft:enchantment_glint_override": true
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.item:1b,dnl.music_disc:1b,dnl.alpha:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

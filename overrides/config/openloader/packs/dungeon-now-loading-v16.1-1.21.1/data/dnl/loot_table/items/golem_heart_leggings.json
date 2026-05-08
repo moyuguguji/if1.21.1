@@ -1,0 +1,65 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_leggings",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"戈仑之心护腿\",\"color\":\"gold\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"套装奖励:\",\"color\":\"gray\",\"italic\":false}",
+                  "{\"text\":\"力量 I\",\"color\":\"blue\",\"italic\":false}",
+                  "{\"text\":\"抗性提升 I\",\"color\":\"blue\",\"italic\":false}"
+                ],
+                "minecraft:custom_model_data": 15556,
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "slot": "legs",
+                      "amount": 6,
+                      "operation": "add_value",
+                      "id": "dnl:loot_aabd3z"
+                    },
+                    {
+                      "type": "minecraft:generic.armor_toughness",
+                      "slot": "legs",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_w57ong"
+                    },
+                    {
+                      "type": "minecraft:generic.knockback_resistance",
+                      "slot": "legs",
+                      "amount": 0.1,
+                      "operation": "add_value",
+                      "id": "dnl:loot_vj4hod"
+                    },
+                    {
+                      "type": "minecraft:max_health",
+                      "slot": "legs",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "id": "dnl:loot_dcptme"
+                    }
+                  ],
+                  "show_in_tooltip": false
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.item:1b,dnl.golem_heart_leggings:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

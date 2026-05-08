@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:gold_ingot",
+      "components": {
+        "minecraft:custom_model_data": 13001
+      }
+    },
+    "title": "一锭沁甜",
+    "description": "在蜂房中，用哭泣的黑曜石制作一块蜂窝锭",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "dnl:story/structures/hivenest/locate",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "components": {
+              "minecraft:custom_data": {
+                "dnl.honeycomb_ingot": 1
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
