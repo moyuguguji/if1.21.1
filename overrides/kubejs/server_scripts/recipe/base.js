@@ -161,7 +161,7 @@ ServerEvents.recipes(event => {
         "crushedItemsPerPointOfDamage": 0.4,
         "experience": 0.0,
         "result": {
-            "item": "spectrum:topaz_shard",
+            "item": "spectrum:citrine_shard",
             "count": 1
         },
         "particleEffectIdentifier": "explosion",

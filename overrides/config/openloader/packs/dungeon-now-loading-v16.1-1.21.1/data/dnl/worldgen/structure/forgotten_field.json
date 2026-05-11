@@ -6,10 +6,10 @@
     "start_height": {
         "type": "minecraft:uniform",
         "min_inclusive": {
-            "absolute": -25
+            "absolute": 64
         },
         "max_inclusive": {
-            "absolute": 10
+            "absolute": 78
         }
     },
     "spawn_overrides": {},

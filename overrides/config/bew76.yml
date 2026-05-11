@@ -22,4 +22,5 @@ blacklist_blocks:
 - minecraft:spawner
 - minecraft:nether_portal
 - minecraft:end_portal
+- minecraft:trial_spawner
 

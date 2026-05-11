@@ -17,7 +17,7 @@ gamma:1.0
 graphicsMode:1
 guiScale:0
 maxFps:260
-mipmapLevels:4
+mipmapLevels:3
 narrator:0
 particles:0
 reducedDebugInfo:false
@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","eatinganimations_compat","openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.65\\config\\openloader\\packs\\resources\\1.18.2-Infinity-Language-CN","openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.65\\config\\openloader\\packs\\resources\\Infinity-Resource-1.18.2"]
-incompatibleResourcePacks:["openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.65\\config\\openloader\\packs\\resources\\1.18.2-Infinity-Language-CN","openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.65\\config\\openloader\\packs\\resources\\Infinity-Resource-1.18.2"]
+resourcePacks:["vanilla","fabric","mod_resources","eatinganimations_compat","openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.9\\config\\openloader\\packs\\1.18.2-Infinity-Language-CN","openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.9\\config\\openloader\\packs\\Infinity-Resource-1.18.2","mod/continuity:resourcepacks/glass_pane_culling_fix","mod/continuity:resourcepacks/default"]
+incompatibleResourcePacks:["openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.9\\config\\openloader\\packs\\1.18.2-Infinity-Language-CN","openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.9\\config\\openloader\\packs\\Infinity-Resource-1.18.2"]
 lastServer:
 lang:zh_cn
 chatVisibility:0
