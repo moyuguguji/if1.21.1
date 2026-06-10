@@ -20,4 +20,4 @@ allow_creatures_that_spawn_through_unnatural_paths_to_carry_souls = false
 allow_creatures_that_spawn_through_unnatural_paths_to_drop_souls = false
 allow_friendly_mob_soul = false
 allow_hostile_mob_soul = true
-black_soul_list = ["fargo_soul:terra_soul"]
+black_soul_list = ["fargo_soul:terra_soul", "fargo_soul:cosmic_power", "fargo_soul:will_power", "fargo_soul:death_power", "fargo_soul:spirit_power", "fargo_soul:nature_power","fargo_soul:earth_power","fargo_soul:terra_power","fargo_soul:forest_power","twilightsoul:twilight_soul","twilightsoul:myth_power","twilightsoul:guardian_power","twilightsoul:twilight_power","twilightsoul:winter_power"]

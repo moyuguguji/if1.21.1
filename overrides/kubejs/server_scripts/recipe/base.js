@@ -82,6 +82,7 @@ ServerEvents.recipes(event => {
 
     event.smithing('refinedstorage:construction_core', 'minecraft:iron_ingot', 'refinedstorage:basic_processor', 'spectrum:topaz_shard').id('refinedstorage:construction_core')
     event.smithing('refinedstorage:destruction_core', 'minecraft:iron_ingot', 'refinedstorage:basic_processor', 'minecraft:redstone').id('refinedstorage:destruction_core')
+    event.smithing('rsinfinitybooster:dimension_card', 'waystones:warp_stone', 'rsinfinitybooster:infinity_card', 'twilightforest:carminite_reactor').id('rsinfinitybooster:dimension_card')
 
     event.shaped('refinedstorage:creative_portable_grid', [
         'ABA',
@@ -92,6 +93,17 @@ ServerEvents.recipes(event => {
         B: '#refinedstorage:grids',
         C: '#refinedstorage:creative_controllers'
     }).id('refinedstorage:portable_grid')
+
+event.shaped('backpacked:unlock_token', [
+        'ABA',
+        'BCB',
+        'ABA'
+    ], {
+        A: 'minecraft:experience_bottle',
+        B: 'minecraft:gold_nugget',
+        C: 'minecraft:iron_nugget'
+    })
+
     event.custom(
         {
             "type": "spectrum:pedestal",

@@ -1,0 +1,34 @@
+#Whether to display the alert indicator around the crosshair. | 是否在准星周围显示警戒条。
+alertIndicator = false
+#The radius of the alert indicator from the crosshair. | 警戒条距离准星的半径。
+# Default: 100
+# Range: 60 ~ 200
+alertIndicatorRadius = 100
+#Whether to display the visibility indicator. | 是否显示可见度指示器。
+visibilityIndicator = false
+#The scale of the visibility indicator. | 可见度指示器的缩放。
+# Default: 0.7
+# Range: 0.2 ~ 2.0
+visibilityIndicatorScale = 0.7
+#The position of the visibility indicator. Upper middle by default. | 可见度指示器的位置。默认为中间偏上。
+visibilityIndicatorPosition = [0, 0]
+#Whether the visibility indicator can be offset from the boss bar when it is displayed. Turn to false is recommended when you've adjusted the position of the indicator. | 可见度指示器是否可以在显示Boss血条时偏移。当你已经调整过指示器位置时，建议关闭。
+visibilityIndicatorCanOffsetFromBossBar = true
+#Whether to display the sound wave indicator. | 是否显示声波指示器
+soundWaveIndicator = true
+#The scale of the sound wave indicator. Keeping the same as visibility indicator's one is recommended. | 声波指示器的缩放。建议同可见度指示器的保持一致。
+# Default: 0.7
+# Range: 0.2 ~ 2.0
+soundWaveIndicatorScale = 0.7
+#The position of the sound wave indicator. Upper middle and higher than visibility indicator by default. Keeping the same as visibility indicator's one is recommended. | 声波指示器的位置。默认为中间偏上且高于可见度指示器。建议同可见度指示器的保持一致。
+soundWaveIndicatorPosition = [0, 40]
+#Whether the sound wave indicator can be offset from the boss bar when it is displayed. Turn to false is recommended when you've adjusted the position of the indicator. | 声波指示器是否可以在显示Boss血条时偏移。当你已经调整过指示器位置时，建议关闭。
+soundWaveIndicatorCanOffsetFromBossBar = false
+#Whether to display the alert symbol above enemies' heads. | 是否在敌人头顶显示警戒标志。
+alertSymbol = true
+#Enable debug mode to show alert status information above enemies' heads. | 是否开启调试模式。开启后，敌人头顶会显示警戒状态信息。
+debugMode = false
+#The scale of the alert symbol above enemies' heads. | 敌人头顶警戒标志的缩放。
+# Default: 0.005
+# Range: 0.001 ~ 0.01
+alertSymbolScale = 0.005

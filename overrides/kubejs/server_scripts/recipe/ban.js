@@ -2,6 +2,7 @@ ServerEvents.recipes(event =>{
     event.remove([
         {id:'refinedstorage:quartz_enriched_iron'},
         {id:'refinedstorage:quartz_enriched_copper'},
+        {id:'refinedstorage:controller'},
         {input:'refinedstorage:controller'},
         {output:'refinedstorage:silicon'},
         {output:'refinedstorage:processor_binding'},

@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","eatinganimations_compat","openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.9\\config\\openloader\\packs\\1.18.2-Infinity-Language-CN","openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.9\\config\\openloader\\packs\\Infinity-Resource-1.18.2","mod/continuity:resourcepacks/glass_pane_culling_fix","mod/continuity:resourcepacks/default"]
-incompatibleResourcePacks:["openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.9\\config\\openloader\\packs\\1.18.2-Infinity-Language-CN","openloader/G:\\Minecraft\\.minecraft\\versions\\if-0.9\\config\\openloader\\packs\\Infinity-Resource-1.18.2"]
+resourcePacks:["vanilla","fabric","mod_resources","eatinganimations_compat","mod/item_interactions_mod:resourcepacks/example_gui_particles","mod/continuity:resourcepacks/default","mod/continuity:resourcepacks/glass_pane_culling_fix"]
+incompatibleResourcePacks:["openloader/G:\\Minecraft\\.minecraft\\versions\\if-1.0\\config\\openloader\\packs\\1.18.2-Infinity-Language-CN","openloader/G:\\Minecraft\\.minecraft\\versions\\if-1.0\\config\\openloader\\packs\\Infinity-Resource-1.18.2"]
 lastServer:
 lang:zh_cn
 chatVisibility:0
