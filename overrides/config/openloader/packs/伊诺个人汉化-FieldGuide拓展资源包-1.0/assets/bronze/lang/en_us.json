@@ -1,0 +1,13 @@
+{
+    "lore.bronze.bronze_blend": "A blend of raw ore that can be smelted into a Bronze Ingot.",
+    "lore.bronze.bronze_blend_block": "A solid block of Bronze Blend.",
+    "lore.bronze.bronze_horse_armor": "An item that can be equipped on your Horse to protect them from damage.",
+    "lore.bronze.tin_tiles": "A block of Tin that has been cut into tiles.",
+    "lore.bronze.bronze_nugget": "An item that can be combined into Bronze Ingots.",
+    "lore.bronze.bronze_ingot": "A shiny ingot which can be used to craft equipment and utilities.",
+    "lore.bronze.tin_ingot": "A shiny ingot which can be used to craft Bronze and decorative blocks.",
+    "lore.bronze.tin_framed_glass": "This block can be used as a window. It's slightly tougher than Glass.",
+    "lore.bronze.chiseled_tin": "A block of Tin with a chiseled pattern.",
+    "lore.bronze.cut_tin": "A block of Tin that has been cut.",
+    "lore.bronze.bronze_sickle": "A tool that can be used to harvest an area of natural flora and crops in one swing."
+}

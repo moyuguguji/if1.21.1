@@ -1,0 +1,5 @@
+{
+  "lore.basicstorage.crate": "A container that can hold up to a billion items of a single type.",
+  "lore.basicstorage.crate_station": "A storage block that distributes items it receives into all attached crates.",
+  "lore.basicstorage.crate_hammer": "A tool that can be used to quickly break down and move Crates."
+}

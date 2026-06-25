@@ -1,0 +1,18 @@
+{
+  "lore.extended_drawers.single_drawer": "A container that can hold up to a thousand items of a single type, before Drawer Upgrades are applied.",
+  "lore.extended_drawers.double_drawer": "A container that can hold up to five hundred items of two types, before Drawer Upgrades are applied.",
+  "lore.extended_drawers.quad_drawer": "A container that can hold up to two hundred and fifty items of four types, before Drawer Upgrades are applied.",
+  "lore.extended_drawers.connector": "A block that networks together attached drawers, so multiple can be used at once.",
+  "lore.extended_drawers.shadow_drawer": "A block that displays the capacity of an item in your drawer network.",
+  "lore.extended_drawers.drawer_lock": "A tool that prevents your drawers from losing their assigned item when they are emptied.",
+  "lore.extended_drawers.t1_upgrade": "A tool that upgrades your drawers storage capacity.",
+  "lore.extended_drawers.t2_upgrade": "A tool that upgrades your drawers storage capacity.",
+  "lore.extended_drawers.t3_upgrade": "A tool that upgrades your drawers storage capacity.",
+  "lore.extended_drawers.t4_upgrade": "A tool that upgrades your drawers storage capacity.",
+  "lore.extended_drawers.creative_upgrade": "A tool that upgrades your drawers storage capacity to infinite.",
+  "lore.extended_drawers.upgrade_frame": "A crafting ingredient used to make Drawer Upgrades.",
+  "lore.extended_drawers.limiter": "A tool to limit a drawer's maximum capacity.",
+  "lore.extended_drawers.dupe_wand": "A creative tool that allows drawers to keep providing items after it has been emptied.",
+  "lore.extended_drawers.crate_station": "A storage block that distributes items it receives into all attached crates.",
+  "lore.basicstorage.crate_hammer": "A tool that can be used to quickly break down and move Crates."
+}

@@ -1,0 +1,4 @@
+{
+  "entity.drones.drone.description": "An aerial hostile mob that spawns at night in the Overworld and can attack by launching its bouncing sawblade.",
+  "entity.drones.player_drone.description": "An aerial neutral mob that is automatically owned by the player that created them and can attack by firing lasers. Can be ordered to stay put or follow along by right-clicking."
+}

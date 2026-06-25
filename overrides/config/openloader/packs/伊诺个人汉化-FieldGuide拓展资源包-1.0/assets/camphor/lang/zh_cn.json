@@ -1,0 +1,9 @@
+{
+    "lore.camphor.mint": "一个用来铸造你个人专属货币的工作站。",
+    "lore.camphor.stone_coin": "一枚面值最低的硬币。",
+    "lore.camphor.copper_coin": "一枚面值较低的硬币，比石头硬币更值钱。",
+    "lore.camphor.iron_coin": "一枚面值中等的硬币，比铜币更值钱。",
+    "lore.camphor.gold_coin": "一枚面值较高的硬币，比铁币更值钱。",
+    "lore.camphor.diamond_coin": "一枚面值非凡的硬币，比金币更值钱。",
+    "lore.camphor.coin_purse": "一个为你装硬币用的无底袋！"
+}

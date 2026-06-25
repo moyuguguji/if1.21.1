@@ -1,0 +1,20 @@
+{
+    "lore.glowcase.item_acceptor_block": "一种接受物品并发出红石脉冲的方块。",
+    "lore.glowcase.item_display_block": "一种展示物品的方块，与之互动时会提供其内部物品的复制品。",
+    "lore.glowcase.collection_case": "一种用于特定物品的特殊收纳袋。",
+    "lore.glowcase.config_link_block": "一种打开模组配置界面的方块。",
+    "lore.glowcase.entity_display_block": "一种展示实体的方块。",
+    "lore.glowcase.hyperlink_block": "一种可以与之互动并在浏览器中打开链接的方块！",
+    "lore.glowcase.item_provider_block": "一种为冒险模式玩家提供物品的方块。",
+    "lore.glowcase.lock": "一种可以用来锁定和解锁容器的工具。",
+    "lore.glowcase.note": "一种手持时可以阅读的笔记。",
+    "lore.glowcase.outline_block": "一种显示线框的方块。",
+    "lore.glowcase.particle_display": "一种释放粒子效果的方块。",
+    "lore.glowcase.popup_block": "一种打开文本信息的方块。",
+    "lore.glowcase.recipe_block": "一种展示合成配方的方块。",
+    "lore.glowcase.screen_block": "一种显示外部图像的方块。",
+    "lore.glowcase.sound_block": "一种发出音效的方块。",
+    "lore.glowcase.sprite_block": "一种显示符号的方块。",
+    "lore.glowcase.tablet": "一种用于控制屏幕的工具。",
+    "lore.glowcase.text_block": "一种显示文本的方块。"
+}

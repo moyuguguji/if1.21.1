@@ -1,0 +1,14 @@
+{
+  "entity.archeryexp.diamond_arrow.description": "箭头镶有钻石，大幅增强了箭矢的强度。",
+  "entity.archeryexp.gold_arrow.description": "金色的箭头在光线下闪闪发光，但不是很耐用。",
+  "entity.archeryexp.iron_arrow.description": "一支相当耐用的箭。",
+  "entity.archeryexp.netherite_arrow.description": "一支威力十足、能造成重创的箭。",
+  "item.archeryexp.diamond_arrow.description": "箭头镶有钻石，大幅增强了箭矢的强度。",
+  "item.archeryexp.gold_arrow.description": "金色的箭头在光线下闪闪发光，但不是很耐用。",
+  "item.archeryexp.iron_arrow.description": "一支相当耐用的箭。",
+  "item.archeryexp.netherite_arrow.description": "一支威力十足、能造成重创的箭。",
+  "item.archeryexp.diamond_bow.description": "这把弓坚固且晶光闪烁，但拉弓速度较慢。",
+  "item.archeryexp.gold_bow.description": "一把镀金的弓，相当擅长快速拉弓。",
+  "item.archeryexp.iron_bow.description": "一把坚固的弓，各方面属性中规中矩，但非常耐用。",
+  "item.archeryexp.netherite_bow.description": "深色的金属在弓把和弦槽处贪婪地闪着微光。威力十足。"
+}

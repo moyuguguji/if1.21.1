@@ -1,0 +1,6 @@
+{
+    "entity.blowing-bubbles.bubble.description": "一种可以站上去的漂浮泡泡。",
+    "tag.blowing-bubbles.bubble_blocks.description": "一种可以从中穿过的装饰性方块。",
+    "lore.blowing-bubbles.bubble_dispenser": "一台能发射泡泡的机器。",
+    "lore.blowing-bubbles.bubble_wand": "一种使用时会吹出泡泡的工具。"
+}

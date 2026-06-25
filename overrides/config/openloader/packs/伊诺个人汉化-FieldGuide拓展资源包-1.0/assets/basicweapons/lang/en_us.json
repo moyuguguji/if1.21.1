@@ -1,0 +1,8 @@
+{
+  "tag.basicweapons.tools.hammers.description": "A heavy one-handed weapon that is able to knock enemies upwards. It deals a very high amount of damage, but takes more time between strikes.",
+  "tag.basicweapons.tools.daggers.description": "A lightweight one-handed weapon that can attack quickly.",
+  "tag.basicweapons.tools.clubs.description": "A one-handed weapon that is able to slow the enemies it hits. It deals a high amount of damage, but takes more time between strikes.",
+  "tag.basicweapons.tools.quarterstaves.description": "A one-handed weapon that can hit multiple enemies at once. It deals a low amount of damage.",
+  "tag.basicweapons.tools.spears.description": "A two-handed weapon that deals a medium amount of damage to attackers up to four blocks away.",
+  "tag.basicweapons.tools.glaives.description": "A heavy one-handed weapon that can hit multiple enemies at once. It deals a very high amount of damage, but takes more time between strikes."
+}

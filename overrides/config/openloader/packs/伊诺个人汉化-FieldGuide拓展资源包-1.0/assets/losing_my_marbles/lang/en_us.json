@@ -1,0 +1,9 @@
+{
+	"entity.losing_my_marbles.marble.description": "A rolling entity affected by other marbles.",
+    "tag.losing_my_marbles.track_pieces.description": "A track that contains and redirects rolling marbles.",
+	"lore.losing_my_marbles.detector_piece": "A special marble track that produces a redstone signal when a marble is present.",
+	"lore.losing_my_marbles.marble": "An item that can be placed to roll around and affect by other marbles",
+	"lore.losing_my_marbles.marble_maker": "A block capable of crafting various special marbles.",
+	"lore.losing_my_marbles.one_way_gate_piece": "A special marble track that only allows marbles to pass through in one direction.",
+	"lore.losing_my_marbles.powered_gate_piece": "A special marble track that only allows marbles when powered."
+}

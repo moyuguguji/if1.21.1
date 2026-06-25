@@ -1,0 +1,16 @@
+{
+  "block.cookscollection.lemon_crate.description": "A storage block full of Lemons.",
+  "block.cookscollection.oven.description": "An Oven requires heat from below, and can be used to cook various meals.",
+  "block.cookscollection.rustic_loaf.description": "A feast block that can be cut into sliced bread.",
+  "block.cookscollection.salted_dripstone_block.description": "",
+  "block.cookscollection.salted_pointed_dripstone.description": "",
+  "item.cookscollection.chocolate_muffin.description": "A sweet treat that restores some saturation.",
+  "item.cookscollection.cooking_oil.description": "A cooking ingredient made from Sunflowers. Best to not drink it.",
+  "item.cookscollection.fish_and_chips.description": "A simple meal that restores a good amount of saturation.",
+  "item.cookscollection.fried_potato.description": "A potato fried in an Oven, it tastes better this way.",
+  "item.cookscollection.lemon.description": "The fruit of a Lemon Tree - best when made into muffins or lemonade.",
+  "item.cookscollection.lemon_muffin.description": "A sweet treat that restores some saturation.",
+  "item.cookscollection.lemonade.description": "A sweet yet sour drink that gives a pep to one's step.",
+  "item.cookscollection.rustic_loaf_slice.description": "The best thing since... well, sliced bread!",
+  "item.cookscollection.salt.description": "A cooking ingredient used to make various meals."
+}

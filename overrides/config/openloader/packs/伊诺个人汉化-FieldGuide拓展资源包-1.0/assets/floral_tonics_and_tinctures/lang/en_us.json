@@ -1,0 +1,23 @@
+{
+  "lore.floral_tonics_and_tinctures.herbalism_table": "A workstation used to concoct tonics and tinctures from flora.",
+  "lore.floral_tonics_and_tinctures.herbalism_kit": "A storage item and portable workstation that can be used to store a good number of tonics, as well as the items used to craft them, including bottles and the extra ingredients.",
+  "lore.floral_tonics_and_tinctures.fire_lily": "A flower found in Savannas and Sparse Jungles that can be crafted into Orange Dye or placed in a Flower Pot. Used to create Tonics of Fiery.",
+  "lore.floral_tonics_and_tinctures.heather": "A flower found in Taigas, Meadows, and cold biomes that can be crafted into Pink Dye or placed in a Flower Pot. Used to create Tonics of Frosty.",
+  "lore.floral_tonics_and_tinctures.milkweed": "A flower found in Swamps that can be crafted into White Dye or placed in a Flower Pot. Used to create Tonics of Purifying.",
+  "lore.floral_tonics_and_tinctures.moly": "A flower found rarely in high altitude biomes like hills and mountains that can be placed in a Flower Pot or used to create Tonics of Magic Resistance.",
+  "lore.floral_tonics_and_tinctures.lavadrop": "A flower found in Nether Wastes and Basalt Deltas that can be crafted into Magma Cream or placed in a Flower Pot. Used to create Tinctures of Volatility.",
+  "lore.floral_tonics_and_tinctures.midas_fingers": "A flower found in Crimson and Warped Forests that can be crafted into Gold Nuggets or placed in a Flower Pot. Used to create Tonics of Gold Rush. Beware, don't let piglins see you break them!",
+  "lore.floral_tonics_and_tinctures.stella": "A flower found growing in the End that can be placed in a Flower Pot or used to create Tonics of Resistance.",
+  "lore.floral_tonics_and_tinctures.clover_patch": "A bed of herbaceous plants with a rare chance of dropping Four-Leaf Clovers when broken. Used to create Tonics of Wayfaring.",
+  "lore.floral_tonics_and_tinctures.four_leaf_clover": "A rare drop from Clover Patches that can be used to brew Potions of Luck.",
+  "lore.floral_tonics_and_tinctures.tonic": "When ingested, this item gives the user a short-lasting buff (for Tonics) or debuff (for Tinctures). Can be converted to Tipped Arrows or Potions for lengthened status effects.",
+  "effect.floral_tonics_and_tinctures.fiery.desc": "Causes items held in your hands to cook/smelt and ignites mobs.",
+  "effect.floral_tonics_and_tinctures.floral_scent.desc": "Passively pacifies nearby hostiles until they are attacked.",
+  "effect.floral_tonics_and_tinctures.frosty.desc": "Freezes entities and water they walk near.",
+  "effect.floral_tonics_and_tinctures.gold_rush.desc": "Greatly empowers gold tools and armor, making them more effective and slowing their durability loss.",
+  "effect.floral_tonics_and_tinctures.magic_resistance.desc": "Makes you immune to magic damage and allows you to dispel vexes.",
+  "effect.floral_tonics_and_tinctures.prickly.desc": "Causes mobs to take damage whenever they hurt you.",
+  "effect.floral_tonics_and_tinctures.purifying.desc": "Causes you to have any negative potion effects cleansed from you, and allowing you to attack or interact with any other entity to remove any potion effects they have. For tamed entities, you will only remove negative effects.",
+  "effect.floral_tonics_and_tinctures.volatility.desc": "Causes a powerful explosion when it expires.",
+  "effect.floral_tonics_and_tinctures.wayfaring.desc": "Causes a trail of glowing golden leaves to trail affected entities, lasting for a very long time and allowing them to retrace their steps."
+}

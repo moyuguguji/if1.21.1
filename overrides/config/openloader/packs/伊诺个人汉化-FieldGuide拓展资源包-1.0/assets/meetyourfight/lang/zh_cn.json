@@ -1,0 +1,7 @@
+{
+  "entity.meetyourfight.rose_spirit.description": "罗莎琳的伴生灵，环绕主人飞行提供保护，仅在探头攻击时可被伤害，会吐紫色弹幕。",
+  "entity.meetyourfight.bellringer.description": "用缠魂铃铛召唤的飞行Boss，发射直线与方形弹幕，半血后敲钟减速并释放密集弹射。",
+  "entity.meetyourfight.dame_fortuna.description": "用恶魔赌注召唤的骰子头Boss，筹码与骰子弹幕多样，需猜牌通过阶段，猜错则回血。",
+  "entity.meetyourfight.swampjaw.description": "用化石之饵召唤的飞行亡灵，投掷爆炸地雷并俯冲啃咬，冲锋时被击中会晕眩。",
+  "entity.meetyourfight.rosalyne.description": "用黄昏之钥召唤的四阶段骑士，蔷薇怨灵护体时无敌，击杀后露出真身挥剑猛攻。"
+}

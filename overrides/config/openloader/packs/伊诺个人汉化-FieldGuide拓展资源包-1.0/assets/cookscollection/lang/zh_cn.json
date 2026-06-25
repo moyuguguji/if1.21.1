@@ -1,0 +1,16 @@
+{
+  "block.cookscollection.lemon_crate.description": "一个装满柠檬的储物箱。",
+  "block.cookscollection.oven.description": "烤箱需要从下方加热，可用来烹制各种菜肴。",
+  "block.cookscollection.rustic_loaf.description": "一个可以切成面包片的盛宴方块。",
+  "block.cookscollection.salted_dripstone_block.description": "一个被盐覆盖的滴水石块。",
+  "block.cookscollection.salted_pointed_dripstone.description": "一个被盐包裹的滴水石锥。",
+  "item.cookscollection.chocolate_muffin.description": "一种能恢复少量饱食度的甜点。",
+  "item.cookscollection.cooking_oil.description": "一种用向日葵制成的烹饪用油。最好不要直接喝。",
+  "item.cookscollection.fish_and_chips.description": "一道能恢复大量饱食度的简餐。",
+  "item.cookscollection.fried_potato.description": "一个在烤箱里炸过的土豆，这样做更好吃。",
+  "item.cookscollection.lemon.description": "柠檬树的果实——最适合做成松饼或柠檬水。",
+  "item.cookscollection.lemon_muffin.description": "一种能恢复少量饱食度的甜点。",
+  "item.cookscollection.lemonade.description": "一种甜中带酸的饮品，能让人步伐轻快。",
+  "item.cookscollection.rustic_loaf_slice.description": "这是自……嗯，切片面包以来最棒的东西！",
+  "item.cookscollection.salt.description": "一种用来制作各种菜肴的调味料。"
+}

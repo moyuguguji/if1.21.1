@@ -1,0 +1,22 @@
+{
+    "lore.computercraft.computer_normal": "一个可以用来编写代码、玩游戏以及自动化你基地的方块。",
+    "lore.computercraft.computer_advanced": "一个可以用来编写代码、玩游戏以及自动化你基地的方块。现在支持彩色显示！",
+    "lore.computercraft.turtle_normal": "一个可以编程的机器人，能在你的世界中探索、放置和破坏方块、捡起和丢弃物品。只需添加燃料！",
+    "lore.computercraft.turtle_advanced": "一个可以在你的世界中探索、放置和破坏方块、捡起和丢弃物品的机器人。只需添加燃料！",
+    "lore.computercraft.pocket_computer_normal": "一个可以用来编写代码、管理自动化或在旅途中玩游戏的物品。",
+    "lore.computercraft.pocket_computer_advanced": "一个可以用来编写代码、管理自动化或在旅途中玩游戏的物品。现在支持彩色显示！",
+    "lore.computercraft.printer": "一个可以在提供纸张和染料时打印计算机数据的外设。",
+    "lore.computercraft.speaker": "一个可以用来播放音符或其他音效的外设。",
+    "lore.computercraft.monitor_normal": "一个可以用来在更大的屏幕上显示计算机数据的外设。",
+    "lore.computercraft.monitor_advanced": "一个可以用来在更大的屏幕上显示计算机数据的外设。现在支持彩色显示！",
+    "lore.computercraft.redstone_relay": "一个可以用来读取和输出红石信号的外设。",
+    "lore.computercraft.cable": "一个可以用来将计算机或其他外设连接成网络的方块。只需将它连接到有线调制解调器上！",
+    "lore.computercraft.wired_modem": "一个可以用来将计算机或其他外设连接成网络的外设。只需添加线缆！",
+    "lore.computercraft.wired_modem_full": "一个可以用来将计算机或其他外设连接成网络的外设。只需添加线缆！",
+    "lore.computercraft.wireless_modem_normal": "一个可以用来将计算机或海龟进行无线组网的方块。",
+    "lore.computercraft.wireless_modem_advanced": "一个可以用来将计算机或海龟进行无线组网的方块。",
+    "lore.computercraft.disk": "一个可以用来存储数据并在计算机或海龟之间传输程序的物品。",
+    "lore.computercraft.printed_page": "一张刚从打印机里新鲜出炉的打印纸。",
+    "lore.computercraft.printed_pages": "一叠装订松散的打印纸。",
+    "lore.computercraft.printed_book": "一捆打印好的页面，已装订成册。"
+}

@@ -1,0 +1,12 @@
+{
+  "entity.doom_and_gloom.holler.description": "Frightened spirits which brings mourning fog with them. Can be dispelled with vigil candles, and tend to summon undead when aggravated. They like jukeboxes.",
+  "lore.doom_and_gloom.bush_hammer": "Made of lead, used to chisel tablets.",
+  "lore.doom_and_gloom.hammer_and_chisel": "A means of inscribing text onto a tablet.",
+  "lore.doom_and_gloom.sepulcher": "Accepts rotten or raw meat. When filled, will rot the meats via silver's cleansing properties to yield a bone pile. Campfires hasten the process.",
+  "lore.doom_and_gloom.stone_tablet": "A morbid, unmarked slab of stone.",
+  "lore.doom_and_gloom.engraved_stone_tablet": "A morbid, etched slab of stone.",
+  "lore.doom_and_gloom.cracked_stone_tablet": "A morbid, dilapidated slab of stone.",
+  "lore.doom_and_gloom.bone_pile": "A compacted pile of bone. It shivers under your weight, halving any fall damage.",
+  "lore.doom_and_gloom.burial_dirt": "A block created by a holler possessing the ground when aggrovated, recessitating undead.",
+  "tag.doom_and_gloom.vigil_candles.description": "It's flickering light wards off hollers from clouding your vision."
+}

@@ -1,0 +1,5 @@
+{
+  "lore.basicstorage.crate": "一种可以容纳多达十亿个同种物品的容器。",
+  "lore.basicstorage.crate_station": "一个存储方块，可将接收到的物品分配到所有连接的板条箱中。",
+  "lore.basicstorage.crate_hammer": "一种可以用来快速拆卸和搬运板条箱的工具。"
+}

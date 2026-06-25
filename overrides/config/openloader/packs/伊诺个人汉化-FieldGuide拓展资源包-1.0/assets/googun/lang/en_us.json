@@ -1,0 +1,20 @@
+{
+	"entity.minecraft.speedy_goo.description": "A goo that accelerates run speed when spread on concrete tiles.",
+	"entity.minecraft.bouncy_goo.description": "A goo that bounces entities away when spread on concrete tiles.",
+	"entity.minecraft.sticky_goo.description": "A goo that adheres entities when spread of concrete tiles.",
+	"lore.googun.bouncy_goo": "A goo that bounces entities away when spread on concrete tiles.",
+	"lore.googun.bouncy_pod": "A tool used to spread goo on concrete tiles that bounces entities.",
+	"lore.googun.bouncy_spout": "A block that emits goo that bounces entities away when spread on concrete tiles.",
+	"lore.googun.cleansing_pod": "A tool used to clear goo from concrete tiles.",
+	"lore.googun.cleansing_spout": "A block that clears goo from concrete tiles in an area",
+	"lore.googun.concrete_tiles": "A block capable of adhering goo.",
+	"lore.googun.googun": "A gun capable of firing goo pods.",
+	"lore.googun.metal_tiles": "A block not capable of adhering goo.",
+	"lore.googun.no_goo_concrete_tiles": "A block surprisingly not capable of adhering goo.",
+	"lore.googun.speedy_goo": "A goo that accelerates run speed when spread on concrete tiles.",
+	"lore.googun.speedy_pod": "A tool used to spread goo on concrete tiles that accelerates run speed.",
+	"lore.googun.speedy_spout": "A block that emits goo that accelerates run speed when spread on concrete tiles.",
+	"lore.googun.sticky_goo": "A goo that adheres entities when spread of concrete tiles.",
+	"lore.googun.sticky_pod": "A tool used to spread goo on concrete that adheres entities.",
+	"lore.googun.sticky_spout": "A block that emits goo that adheres entities when spread on concrete tiles"
+}

@@ -1,0 +1,8 @@
+{
+  "lore.breezebounce.inflation_machine": "A functional block that keeps nearby Bounce Blocks inflated as long as it is fueled with Wind Charges.",
+  "tag.breezebounce.bounce_blocks.description": "A bouncy block infused with a Wind Charge!",
+  "tag.breezebounce.bounce_stairs.description": "A bouncy stair block infused with a Wind Charge!",
+  "tag.breezebounce.bounce_slabs.description": "A bouncy half block infused with a Wind Charge!",
+  "tag.breezebounce.bounce_walls.description": "A bouncy half block infused with a Wind Charge!"
+
+}

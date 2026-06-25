@@ -1,0 +1,7 @@
+{
+	"entity.toywatergun.lava_projectile.description": "A projectile fired by toy water guns filled with lava that lights fire on impact.",
+	"entity.toywatergun.snow_projectile.description": "A projectile fired by toy water guns filled with powder snow that lights places powder snow on impact.",
+	"entity.toywatergun.water_projectile.description": "A projectile fired by toy water guns filled with water that extinguishes entities and blocks on impact.",
+	"lore.toywatergun.case": "A case that holds a water gun.",
+	"lore.toywatergun.water_gun": "A weapon that fires various liquids."
+}

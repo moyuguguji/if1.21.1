@@ -1,0 +1,23 @@
+{
+  "entity.youkaisfeasts.deer": "樱花森林与针叶林中的常见生物，不同群系外观各异，可用樱饼喂养繁殖。",
+  "entity.youkaisfeasts.crab": "沙滩与河沼中的被动生物，会翻倒、卧沙，能夹起玩家给予的物品。",
+  "entity.youkaisfeasts.lamprey": "河流与海洋中的中立猛鱼，被攻击后会先逃窜再回击，主动袭击水生鱼类。",
+  "entity.youkaisfeasts.tuna": "深海中的大型猛鱼，拥有护甲值，被攻击时会快速造成高额近战反击伤害。",
+  "block.youkaisfeasts.kettle": "需下方放置热源，将水煮沸后投入原料自动冲泡，成品用瓶子接取。",
+  "block.youkaisfeasts.drying_rack": "在阳光下晾晒食材，手持原料右击放入，最多四份，成品自动弹出。",
+  "block.youkaisfeasts.fermentation_tank": "放入原料并关闭盖子后启动发酵，成品可用容器取出，中途开盖会回退进度。",
+  "block.youkaisfeasts.wood_basin": "盛装葡萄的压榨工具，实体在上方跳跃可榨出葡萄汁，最多容纳一组原料。",
+  "block.youkaisfeasts.steamer_rack": "置于受热的蒸锅上方可蒸熟食材，支持叠放，加盖蒸笼盖可大幅缩短时间。",
+  "block.youkaisfeasts.steamer_pot": "蒸笼结构的底层，盛水加热后为上方蒸笼提供蒸汽，最多覆盖18个蒸笼。",
+  "block.youkaisfeasts.steamer_lid": "加盖在蒸笼顶部可使烹饪时间缩短五倍，添加食材时需取下重新盖回。",
+  "block.youkaisfeasts.copper_tank": "顶部有水源时自动蓄水，下方加热可烧开水，配合水龙头为茶壶补水。",
+  "block.youkaisfeasts.copper_faucet": "铜水箱的配件，安装在下方可为发酵桶和茶壶自动补水。",
+  "block.youkaisfeasts.cuisine_board": "用于手捏寿司与竹筒制品的操作台，空手右键塑形或取出成品。",
+  "block.youkaisfeasts.oak_ingredient_rack": "六格储物架，上层每格半组，下层每格一组，用于存放食材。",
+  "block.youkaisfeasts.oak_sauce_rack": "专门存放大瓶装酱油、蛋黄酱和瓶装酒的储物架。",
+  "block.youkaisfeasts.spruce_wine_shelf": "功能与橡木调料架一致，拥有9个储物空间。",
+  "block.youkaisfeasts.short_basket": "放入苹果、胡萝卜等可变为对应的篮装蔬菜，最多储存11个。",
+  "block.youkaisfeasts.small_iron_pot": "小号的铁锅，可用于烹饪少量食物。",
+  "block.youkaisfeasts.short_iron_pot": "矮款铁锅，可用于烹饪食物。",
+  "block.youkaisfeasts.stockpot": "用炼药锅和大汤勺合成的大汤锅，用于炖煮大量食物。"
+}

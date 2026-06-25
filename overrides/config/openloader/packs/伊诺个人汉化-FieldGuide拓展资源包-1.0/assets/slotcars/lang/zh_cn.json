@@ -1,0 +1,6 @@
+{
+    "entity.slotcars.slot_car.description": "一种可以在轨道赛车上遥控行驶的构造体。",
+    "lore.slotcars.chicane_track": "一种可与轨道赛车/控制器配合使用的赛道。",
+    "lore.slotcars.controller": "一种在赛道上放置并控制轨道赛车的工具。",
+    "tag.slotcars.tracks.description": "一种可与轨道赛车/控制器配合使用的赛道。"
+}

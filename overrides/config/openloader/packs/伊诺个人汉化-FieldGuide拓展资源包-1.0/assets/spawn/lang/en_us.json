@@ -1,0 +1,21 @@
+{
+  "block.spawn.anthill.description": "The home block of Ants. Anthills that have the resource level of 5 will rot a 3x3 area below them, then going back to a resource level of 0. Tthey will turn wood into rotten wood, leaves into fallen leaves and dirt like blocks into Ant Mounds.",
+  "block.spawn.ant_mound.description": "A brushable block created by anthills or naturally found in Ant Garden biomes. One can find Ant Pupae, String, Leather etc when brushing this block. When destroyed it will anger nearby ants.",
+  
+  "entity.spawn.hamster.description": "Small rodents that spawn in Plains and Sunflower Fields. Hamsters can be tamed with sunflowers seeds and made to sit and follow like other pets. They will actively collect items and stuff them in their cheek pouches and players can open their Tamed Hamsters' cheek pouch up and use it as portable storage. Watch out though! Hamsters are extremely territorial and will attack any other tamed hamsters that are owned by the player.",
+  "entity.spawn.ant.description": "Smalls insects that spawn in Ant Hills which can be found in Savannas, Plains, Forests and Ant Gardens. Ants work like Bees and can set their home in Anthills. Instead of pollinating flowers, they collect resources from Dead Bushes and Tall Grass and bring them back to their home.",
+  
+  "item.spawn.ant_pupa.description": "Will spawn a Tamed Baby Ant when placed on the ground. These ants can have their abdomen colored with dye. Adult Tamed Ants will attack any other tamed ants who's abdomens are a different color.",
+  "entity.spawn.hamster_spawn_egg.description": "Small rodents that spawn in Plains and Sunflower Fields. Hamsters can be tamed with sunflowers seeds and made to sit and follow like other pets. They will actively collect items and stuff them in their cheek pouches and players can open their Tamed Hamsters' cheek pouch up and use it as portable storage. Watch out though! Hamsters are extremely territorial and will attack any other tamed hamsters that are owned by the player.",
+  "entity.spawn.ant_spawn_egg.description": "Smalls insects that spawn in Ant Hills which can be found in Savannas, Plains, Forests and Ant Gardens. Ants work like Bees and can set their home in Anthills. Instead of pollinating flowers, they collect resources from Dead Bushes and Tall Grass and bring them back to their home."
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}

@@ -1,0 +1,7 @@
+{
+    "lore.laseredstone.horizontal_horizontal_mirror": "一种可将激光偏转至另一个水平方向的方块。",
+    "lore.laseredstone.horizontal_vertical_mirror": "一种可在垂直与水平方向之间偏转激光的方块。",
+    "lore.laseredstone.laser": "一道能与多种方块发生交互的明亮光束。",
+    "lore.laseredstone.lens": "一种能使激光充能过度，进而灼伤实体的方块。",
+    "lore.laseredstone.receiver": "一种被激光击中时会产生红石信号的方块。"
+}

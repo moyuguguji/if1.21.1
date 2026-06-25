@@ -1,0 +1,5 @@
+{
+    "lore.map_utils.timer_block": "A block that can be configured to produce redstone power at regular intervals.",
+	"lore.map_utils.variable_redstone_block": "A block that can be configured to produce a precise level of restone power."
+	
+}

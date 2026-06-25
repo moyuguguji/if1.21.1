@@ -1,0 +1,18 @@
+{
+    "lore.simpleradio.spuddie": "An early game transceiver powered with the might of phosphoric acid. Requires being dropped on the ground with others to pair frequencies.",
+    "lore.simpleradio.walkie_talkie": "An early game transceiver powered with the might of copper conductivity. Requires being dropped on the ground with others to pair frequencies.",
+    "lore.simpleradio.transciever": "A highly capable device which can listen, transmit, receive and speak on frequencies designated to it in a radiosmithing station.",
+    "lore.simpleradio.copper_wire": "A central component in audio transference- can be used to connect audio blocks to transfer audio data.",
+    "lore.simpleradio.radiosmithing_station": "Used to configure radio devices, allowing configuration of frequency and modulation. AM frequencies are lower quality but higher range, PM are vice versa.",
+    "lore.simpleradio.insulator": "Used to extend copper wire connections by providing another connection point. May also be attached to antennas to extend their core.",
+    "lore.simpleradio.antenna": "Used to provide additional transmitter or receiver range by placing atop a transmitting/receiving block. Requires an iron block at the base to connect transmitters/recievers to.",
+    "lore.simpleradio.microphone": "Listens to nearby voice input and transmits through copper wires.",
+    "lore.simpleradio.speaker": "Receives audio data from copper wires, which then outputs the sound.",
+    "lore.simpleradio.transmitter": "Receives audio data through copper wires, and transmits it to the frequency it's configured to. Requires a catalyst, gilded blackstone, to function.",
+    "lore.simpleradio.receiver": "Receives audio data through it's frequency and converts it into copper wire data. Requires a catalyst, gilded blackstone, to function.",
+    "lore.simpleradio.radio": "A multipart speaker & receiver block which works independently, outputting audio on it's designated frequency.",
+    "lore.simpleradio.transmitting_module": "Used in crafting devices which can transmit radio signals.",
+    "lore.simpleradio.receiving_module": "Used in crafting devices which can receive radio signals.",
+    "lore.simpleradio.speaker_module": "Used in crafting devices which can output radio signals as audio.",
+    "lore.simpleradio.listener_module": "Used in crafting devices which can transmit listen for audio."
+}

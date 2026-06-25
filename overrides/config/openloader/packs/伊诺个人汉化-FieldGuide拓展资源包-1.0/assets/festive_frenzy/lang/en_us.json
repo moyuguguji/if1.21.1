@@ -1,0 +1,35 @@
+{
+  
+    "lore.festive_frenzy.festive_hat": "A fancy hat you can wear to feel festive. It can even be dyed!",
+    "lore.festive_frenzy.candy_pouch": "A small bundle of treats! Use it to release the candy inside.",
+    "lore.festive_frenzy.frostflake_cannon": "A handheld tool that releases a small collection of Frostflake particles.",
+  
+    "lore.festive_frenzy.red_candy_cane": "A small festive treat that can be eaten or crafted into blocks.",
+    "lore.festive_frenzy.green_candy_cane": "A small festive treat that can be eaten or crafted into blocks.",
+    "lore.festive_frenzy.peppermint": "A small festive treat that can be eaten or crafted into blocks.",
+  
+    "lore.festive_frenzy.red_candy_cane_block": "A solid block of Red Candy Canes. Festive!",
+    "lore.festive_frenzy.green_candy_cane_block": "A solid block of Green Candy Canes. Festive!",
+    "lore.festive_frenzy.mixed_candy_cane_block": "A solid block of Candy Canes. Festive!",
+    "lore.festive_frenzy.peppermint_block": "A solid block of Peppermint. Festive!",
+  
+    "lore.festive_frenzy.snow_globe": "A decorative block with a small igloo inside.",
+  
+    "lore.festive_frenzy.packed_snow": "A solid block of Snow packed tight to be a more useful building block.",
+    "lore.festive_frenzy.chiseled_packed_snow": "A block of Packed Snow with a chiseled pattern.",
+    "lore.festive_frenzy.polished_packed_snow": "A block of Packed Snow that has been polished.",
+    "lore.festive_frenzy.packed_snow_bricks": "A block of Packed Snow that has been carved into bricks.",
+  
+    "lore.festive_frenzy.cut_blue_ice": "A block of Blue Ice that has been cut.",
+    "lore.festive_frenzy.chiseled_blue_ice": "A block of Blue Ice with a chiseled pattern.",
+    "lore.festive_frenzy.polished_blue_ice": "A block of Blue Ice that has been polished.",
+    "lore.festive_frenzy.blue_ice_bricks": "A block of Blue Ice that has been carved into bricks.",
+  
+    "lore.festive_frenzy.fairy_lights": "A block that can be placed on walls to light up your home. Sneak and interact to change their colour!",
+  
+    "tag.festive_frenzy.baubles.description": "A colourful bauble that can be thrown or hung from ceilings. Glow Ink can be used on it to make it emit light, and it can be crafted with Gunpowder to turn it into a grenade.",
+  
+    "tag.festive_frenzy.tinsel.description": "A colourful block that can be placed on walls as festive decoration.",
+  
+    "tag.festive_frenzy.presents.description": "A festive gift that can hold a small collection of items. What could be inside?"
+  }

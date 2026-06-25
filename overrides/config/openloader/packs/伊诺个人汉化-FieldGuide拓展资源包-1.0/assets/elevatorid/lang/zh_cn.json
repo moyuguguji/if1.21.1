@@ -1,0 +1,18 @@
+{
+  "block.elevatorid.elevator_black.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_white.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_orange.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_magenta.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_light_blue.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_yellow.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_lime.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_pink.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_gray.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_light_gray.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_cyan.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_purple.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_brown.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_green.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_red.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。",
+  "block.elevatorid.elevator_blue.description": "一种可以无视垂直距离进行传送的方块。将其上下方各放置一个，站在上面潜行即可将玩家传送到下方的电梯，跳跃则会传送到上方的电梯。用于在楼层之间快速穿行。"
+}

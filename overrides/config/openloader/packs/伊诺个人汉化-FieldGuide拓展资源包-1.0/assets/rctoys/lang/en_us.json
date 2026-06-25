@@ -1,0 +1,10 @@
+{
+	"entity.rctoys.rc_car.description": "A remote-controlled construct that can be driven around.",
+	"entity.rctoys.rc_plane.description": "A remote-controlled construct that can be driven around.",
+	"lore.rctoys.motor": "A component used to craft RC Cars.",
+	"lore.rctoys.rc_car": "A remote-controlled construct that can be driven around.",
+	"lore.rctoys.rc_plane": "A remote-controlled construct that can be flown around.",
+	"lore.rctoys.remote": "A tool that can be used to control RC Cars.",
+	"lore.rctoys.resonating_circuit": "A block that helps control RC Cars."
+	
+}

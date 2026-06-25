@@ -1,0 +1,33 @@
+{
+    "lore.litavis.tripslate": "A decorative block made of Gravel and Mud.",
+    "lore.litavis.polished_tripslate": "A block of Tripslate that has been polished.",
+    "lore.litavis.tripslate_bricks": "An interlocking building block made from Granite.",
+    "lore.litavis.mossy_tripslate_bricks": "A block of Tripslate Bricks covered in Moss.",
+    "lore.litavis.cracked_tripslate_bricks": "A block of Tripslate Bricks cracked in a furnace.",
+    "lore.litavis.chiseled_tripslate_bricks": "A block of Tripslate Bricks with a chiseled pattern.",
+    "lore.litavis.calibrated_tripslate": "A functional block that will fall when a neighbouring block receives power.",
+
+
+    "lore.litavis.kindling": "A pile of dry leaves that makes for good fuel.",
+    "lore.litavis.tirim_berries": "An item that can be planted on the ground or eaten.",
+    "lore.litavis.earth_charge": "An item that can be thrown to launch blocks and entities into the air.",
+    "lore.litavis.burrow_rod": "A crafting ingredient that can be used to make Earth Charges or the Terraformer.",
+    "lore.litavis.entombed_armor_trim_smithing_template": "An item that can be applied to armor in a Smithing Table to add a unique pattern in a given material.",
+    "lore.litavis.sculpted_core": "A crafting ingredient that can be used to make the Terraformer. It's an epic find!",
+    "lore.litavis.entombed_key": "An item that can be used to unlock Vaults in Entombed Ruins.",
+    "lore.litavis.buried_disc_fragment": "An item that is one half of a shattered Music Disc. It's an uncommon find.",
+    "lore.litavis.relic_disc_fragment": "An item that is one half of a shattered Music Disc. It's an uncommon find.",
+
+
+    "lore.litavis.chiseled_granite": "A block of Granite with a chiseled pattern.",
+    "lore.litavis.chiseled_granite_bricks": "A block of Granite Bricks with a chiseled pattern.",
+    "lore.litavis.granite_bricks": "An interlocking building block made from Granite.",
+    "lore.litavis.cracked_granite_bricks": "A block of Granite Bricks cracked in a furnace.",
+    "lore.litavis.mossy_granite_bricks": "A block of Granite Bricks covered in Moss.",
+    "lore.litavis.granite_pillar": "A block of Granite that has been carved into a Pillar.",
+    "lore.litavis.mossy_granite_pillar": "A block of Granite carved into a Pillar and covered in Moss.",
+    "lore.litavis.cracked_mossy_granite_pillar": "A block of Granite carved into a Pillar, cracked in a Furnace, and covered in Moss.",
+    "lore.litavis.cracked_granite_pillar": "A block of Granite carved into a Pillar and cracked in a Furnace.",
+    "lore.litavis.cracked_mossy_granite_bricks": "A block of Granite Bricks cracked in a Furnace, and covered in Moss."
+
+}

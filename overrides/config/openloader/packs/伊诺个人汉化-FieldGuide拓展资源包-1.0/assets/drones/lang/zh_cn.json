@@ -1,0 +1,4 @@
+{
+  "entity.drones.drone.description": "一种夜间在主世界生成的空中敌对生物，能通过弹射其弹跳锯片进行攻击。",
+  "entity.drones.player_drone.description": "一种空中中立生物，由制造它的玩家自动拥有，可通过发射激光进行攻击。右键点击可命令其停留或跟随。"
+}

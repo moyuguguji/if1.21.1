@@ -1,0 +1,10 @@
+{
+	"lore.grow_your_crystal.creative_crystal": "A crystal that grows instantly.",
+	"lore.grow_your_crystal.creative_seed": "A seed that grows into a crystal instantly.",
+	"lore.grow_your_crystal.creative_solution": "A solution that grows a crystal seed instantly.",
+	"lore.grow_your_crystal.crystal_block": "A fully-grown block of crystal.",
+	"lore.grow_your_crystal.crystal_cluster": "A cluster of growing crystal.",
+	"lore.grow_your_crystal.crystal_growing_toolkit": "A toolkit used to grow crystals.",
+	"lore.grow_your_crystal.crystal_seed": "A seed that can be grown in solution into a crystal.",
+	"lore.grow_your_crystal.crystalline_solution": "A medium in which crystal seeds can grow."
+}

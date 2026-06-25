@@ -1,0 +1,5 @@
+{
+	"entity.slingshot.fake_projectile.description": "A projectile fired by a Slingshot.",
+	"entity.slingshot.item_projectile.description": "A projectile fired by a Slingshot.",
+	"lore.slingshot.pebble": "A classic piece of slingshot ammunition."
+}

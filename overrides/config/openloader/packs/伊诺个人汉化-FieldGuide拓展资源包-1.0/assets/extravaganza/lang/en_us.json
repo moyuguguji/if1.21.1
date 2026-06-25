@@ -1,0 +1,45 @@
+{
+    "tag.extravaganza.festive_balls.description": "A colourful ball that can be thrown to safely ricochet around.",
+    "tag.extravaganza.festive_rubbers.description": "A colourful rubber block that can be used for building.",
+    "tag.extravaganza.festive_rubber_ladders.description": "A colourful rubber ladder that can be used to climb vertically.",
+    "tag.extravaganza.trash_cans.description": "A colourful trash can that can be used to dispose of items.",
+    "tag.extravaganza.ink_puddles.description": "A colourful puddle of ink. It's quite slippery.",
+    "tag.extravaganza.confetti.description": "A colourful collection of confetti that can be placed on the floor.",
+    "tag.extravaganza.paper_lanterns.description": "A colourful lantern that can be hung from ceilings or placed on the floor.",
+    
+    "lore.extravaganza.ball_pit_registration_table": "A block that allows to set up your ball pool using a Wrench Aganza to manipulate its properties such as power or covered zone.",
+    "lore.extravaganza.common_festive_coin": "A common token that can be used in a Ball Distributor.",
+    "lore.extravaganza.uncommon_festive_coin": "An uncommon token that can be used in a Ball Distributor.",
+    "lore.extravaganza.golden_festive_coin": "A rare golden token that can be used in a Ball Distributor.",
+    "lore.extravaganza.ball_distributor": "A machine that produces Festive Balls when provided coins.",
+    "lore.extravaganza.ball_pit_content": "A collection of Festive Balls that makes for a bouncy ball pit.",
+    "lore.extravaganza.wrench_aganza": "A tool that can be used to configure Merry Go Rounds and Ball Pools.",
+    "lore.extravaganza.rubber_extractor": "A tool that can be used to extract rubber from Hevea Brasiliensis Logs.",
+    "lore.extravaganza.rubber": "An item that can be crafted into Rubber Blocks.",
+    "lore.extravaganza.golden_candy_cane": "A sweet treat that can be eaten or crafted into a Wrench Aganza.",
+    "lore.extravaganza.green_candy_cane": "A sweet treat that can be eaten or crafted into a Wrench Aganza.",
+    "lore.extravaganza.red_candy_cane": "A sweet treat that can be eaten or crafted into a Wrench Aganza.",
+    "lore.extravaganza.cheeseburger": "A highly nourishing meal made from Bread, Milk, and Steak.",
+    "lore.extravaganza.beesechurger": "A highly nourishing meal made from Bread, Milk, and Steak.",
+    "lore.extravaganza.way_too_sugary_whitecake": "A highly nourishing, yet hunger inducing, meal made from Cake and Sugar.",
+    "lore.extravaganza.cotton_candy": "A classic carnival treat!",
+    "lore.extravaganza.cherry_balloon": "A bright red balloon that can be placed, floating off into the air!",
+    "lore.extravaganza.creeper_balloon": "A bright green balloon that can be placed, floating off into the air!",
+    "lore.extravaganza.garland": "A colourful block that can be placed like chains.",
+    "lore.extravaganza.caution_wet_floor_sign": "A block that warns of danger ahead. Be careful not to slip!",
+    "lore.extravaganza.hanging_lights": "A block that can be placed on walls to light up your home.",
+
+
+    "lore.extravaganza.plant_dye": "A pigment that can be used to recolor rubber a pale green.",
+    "lore.extravaganza.tear_dye": "A pigment that can be used to recolor rubber a pale blue.",
+    "lore.extravaganza.merry_go_round": "A festive carousel that rotates riders around!",
+    "lore.extravaganza.nymph_dye": "A pigment that can be used to recolor rubber a pale pink.",
+    "lore.extravaganza.tomato_dye": "A pigment that can be used to recolor rubber a vibrant red.",
+
+    "lore.extravaganza.hot_dog": "A classic light meal featuring beef and a bun.",
+    "lore.extravaganza.hot_dog_with_mayonnaise": "A classic light meal featuring beef and a bun, coated in mayonnaise.",
+    "lore.extravaganza.popcorn": "A bag of Popcorn, a sweet and salty snack!",
+    "lore.extravaganza.popcorn_machine": "A machine that produces Popcorn when supplied with Empty Popcorn Bags.",
+    "lore.extravaganza.empty_popcorn": "An empty bag that can be filled with Popcorn from a Popcorn Machine."
+    
+}

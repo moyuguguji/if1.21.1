@@ -15,7 +15,7 @@
     "matchItems": [
       "refinedstorage:silicon"
     ],
-    "resultItems": "minecraft:clay_ball"
+    "resultItems": "minecraft:iron_nugget"
   },
   {
     "matchItems": ["refinedstorage:controller"],
@@ -80,6 +80,10 @@
   {
     "matchItems": ["refinedstorage:magenta_controller"],
     "resultItems": "refinedstorage:magenta_creative_controller"
+  },
+   {
+    "matchItems": ["refinedstorage_quartz_arsenal:wireless_crafting_grid"],
+    "resultItems": "refinedstorage_quartz_arsenal:creative_wireless_crafting_grid"
   },
   {
     "matchItems": [

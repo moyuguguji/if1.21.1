@@ -1,0 +1,7 @@
+{
+  "entity.deeperdarker.shattered.description": "回响森林中感知振动的盲眼生物，掉落灵魂粉尘，可用于酿造隐匿药水。",
+  "entity.deeperdarker.sculk_leech.description": "破坏远古花瓶时小概率生成，攻击会扣除玩家经验值。",
+  "entity.deeperdarker.sculk_snapper.description": "嗅探定位后潜入地下偷袭，可用下界合金胸甲驯服，会吐出附魔书。",
+  "entity.deeperdarker.shriek_worm.description": "踩踏虫蚀幽匿块时冒出，拥有极高生命值，攻击范围内玩家，脱战后钻回地下。",
+  "entity.deeperdarker.stalker.description": "通过声音定位的巨型幽匿生物，会召唤幽匿水蛭，碰撞箱高，打破花瓶时生成。"
+}

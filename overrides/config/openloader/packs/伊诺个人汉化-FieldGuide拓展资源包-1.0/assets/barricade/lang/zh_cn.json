@@ -1,0 +1,16 @@
+{
+    "lore.barricade.advanced_barrier": "一个隐形的方块，可根据外部配置设定其方向与通行条件。",
+    "lore.barricade.down_barrier": "一个隐形的方块，阻止实体向上跳过它。",
+    "lore.barricade.up_barrier": "一个隐形的方块，阻止实体向下掉过它。",
+    "lore.barricade.south_barrier": "一个隐形的方块，阻挡来自南方的实体。",
+    "lore.barricade.north_barrier": "一个隐形的方块，阻挡来自北方的实体。",
+    "lore.barricade.east_barrier": "一个隐形的方块，阻挡来自东方的实体。",
+    "lore.barricade.west_barrier": "一个隐形的方块，阻挡来自西方的实体。",
+    "lore.barricade.horizontal_barrier": "一个隐形的方块，阻挡来自所有水平方向的实体。",
+    "lore.barricade.vertical_barrier": "一个隐形的方块，阻挡来自所有垂直方向的实体。",
+    "lore.barricade.player_barrier": "一个隐形的方块，只阻挡玩家。",
+    "lore.barricade.mob_barrier": "一个隐形的方块，只阻挡非玩家的生物。",
+    "lore.barricade.passive_barrier": "一个隐形的方块，只阻挡被动生物和部分中立生物。",
+    "lore.barricade.hostile_barrier": "一个隐形的方块，只阻挡敌对生物和部分中立生物。",
+    "lore.barricade.creative_only_barrier": "一个隐形的方块，只阻挡非创造模式的玩家。"
+}

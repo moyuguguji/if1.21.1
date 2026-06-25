@@ -1,0 +1,23 @@
+{
+  "entity.cloudstorage.badloon.description": "A fragile yet hostile gloved creature which attempts to knock you to your doom, Found high in the sky. If killed by a skeleton, drops something unique..",
+  "entity.cloudstorage.badloon_hand.description": "Will smack you.",
+  "entity.cloudstorage.balloon.description": "A rubbery floatation device!",
+  "entity.cloudstorage.balloon_buddy.description": "When crafted, will be your best friend forever. May be picked up, and it's personality dictates it's behavior.",
+  "entity.cloudstorage.balloon_cargo.description": "A container floating up to the cloud.. will be accessible",
+  "entity.cloudstorage.balloon_tie.description": "It's knotted quite gingerly.",
+  "entity.cloudstorage.bloviator.description": "Will blow you away with it's impressive breath support. If raining, will charge itself to zap into thunder. Drops clouds, and can be",
+  "lore.cloudstorage.happy_cloud_in_a_bottle": "A tiny blowviator caught in a bottle. can be used to boost you up in a sort of double jump.",
+  "lore.cloudstorage.angry_cloud_in_a_bottle": "A tiny blowviator caught in a bottle. can be used to boost you up in a sort of double jump. Can be made happy with a cookie.",
+  "lore.cloudstorage.cloud": "It feels like something you wish your pillow could be made of. Can be used to reduce fall height.",
+  "lore.cloudstorage.static_cloud": "Sky blue discharge lashes out from this cloud. Can be used to reduce fall height.",
+  "lore.cloudstorage.cloud_chest": "Your gateway to limitless storage. With balloons attached to chests with this chest's color, you may add slots to your personal storage.",
+  "lore.cloudstorage.static_cloud_chest": "Your gateway to limitless storage. With balloons attached to chests with this chest's color, you may add slots to a global storage. Requires static balloons, obtained by rubbing balloons against static clouds.",
+  "lore.cloudstorage.balloon": "May be attached to fences, stands, entities, yourself, and chests to lift them up into cloud storage. Is dyeable.",
+  "lore.cloudstorage.balloon_buddy": "When crafted, will be your best friend forever. May be picked up, and it's personality dictates it's behavior.",
+  "lore.cloudstorage.cloud_blower": "An oversized hair dryer.",
+  "lore.cloudstorage.cotton_candy": "It practically evaporates in your mouth, but it makes raccoons sad.",
+  "lore.cloudstorage.balloon_piece": "Dropped by balloons or badloons. Used to craft more- it's quite rubbery.",
+  "lore.cloudstorage.balloon_arrow": "Make em' float!",
+  "lore.cloudstorage.balloon_stand": "Used to combine balloons and provide information about them, and their assigned storages. Used by villages to sell balloons for themselves!",
+  "lore.cloudstorage.propeller_hat": "Doesn't make you float, sadly. Makes you cool though."
+}

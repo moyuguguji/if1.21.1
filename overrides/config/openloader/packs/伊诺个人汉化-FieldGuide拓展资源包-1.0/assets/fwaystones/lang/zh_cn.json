@@ -1,0 +1,18 @@
+{
+    "lore.fwaystones.blackstone_brick_waystone": "这座传送石碑可以消耗经验值，将你传送到其他远处的传送石碑处。",
+    "lore.fwaystones.desert_waystone": "这座传送石碑可以消耗经验值，将你传送到其他远处的传送石碑处。",
+    "lore.fwaystones.stone_brick_waystone": "这座传送石碑可以消耗经验值，将你传送到其他远处的传送石碑处。",
+    "lore.fwaystones.deepslate_brick_waystone": "这座传送石碑可以消耗经验值，将你传送到其他远处的传送石碑处。",
+    "lore.fwaystones.nether_brick_waystone": "这座传送石碑可以消耗经验值，将你传送到其他远处的传送石碑处。",
+    "lore.fwaystones.end_stone_brick_waystone": "这座传送石碑可以消耗经验值，将你传送到其他远处的传送石碑处。",
+    "lore.fwaystones.red_nether_brick_waystone": "这座传送石碑可以消耗经验值，将你传送到其他远处的传送石碑处。",
+    "lore.fwaystones.red_desert_waystone": "这座传送石碑可以消耗经验值，将你传送到其他远处的传送石碑处。",
+    "lore.fwaystones.waystone": "这座传送石碑可以消耗经验值，将你传送到其他远处的传送石碑处。",
+    "lore.fwaystones.pocket_wormhole": "这件物品可以消耗经验值，将你传送到其他远处的传送石碑处。",
+    "lore.fwaystones.void_totem": "这件物品可以绑定一座传送石碑，在你死亡后将你传送回该石碑处。",
+    "lore.fwaystones.local_void": "这件物品可以绑定一座传送石碑。右键点击它会将你传送到该石碑处，但同时会消耗掉这个本地虚空物品。",
+    "lore.fwaystones.abyss_watcher": "这件物品可用于合成传送石碑，或直接使用以传送到一座传送石碑处。",
+    "lore.fwaystones.empty_scroll": "这件物品可以在传送石碑上使用，以便与其他玩家共享该石碑的位置信息。",
+    "lore.fwaystones.scroll": "这件物品可以用来获取其内部所存储的传送石碑的知识。",
+    "lore.fwaystones.scroll_of_infinite_knowledge": "这件创造模式物品可以用来让玩家获得所有处于激活状态的传送石碑的知识。"
+}

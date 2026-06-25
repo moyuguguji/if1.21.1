@@ -1,0 +1,7 @@
+{
+  "item.gtbcs_geomancy_plus.geo_rune.description": "一种铭刻着岩土之力的符文，由泥峭棒与空白符文合成。用于制作岩土升级法球、唤岩杖与破裂地平线法典。",
+  "item.gtbcs_geomancy_plus.geo_upgrade_orb.description": "在奥术铁砧上为装备提升岩土法术效能，每次升级+5%。",
+  "item.gtbcs_geomancy_plus.the_stonecaller.description": "由岩土符文、地卜师法杖与泥峭棒合成的唤岩法杖。手持时可右键施法，提升岩土法术效能、冷却缩减与法力恢复。",
+  "item.gtbcs_geomancy_plus.bluff_instruction_manual.description": "击杀泥峭人概率掉落的岩土魔导书，拥有10个法术槽位。装备时增加法力值与岩土法术效能。",
+  "item.gtbcs_geomancy_plus.codex_of_shattered_horizons.description": "由大地手套、颓残之书与岩土符文合成的岩土魔导书。拥有12个法术槽位，自带唤石造柱法术。装备时大幅增加法力值、岩土法术效能与冷却缩减。"
+}

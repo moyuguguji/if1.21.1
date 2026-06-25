@@ -1,0 +1,16 @@
+{
+  "entity.friendsandfoes.iceologer.description": "一种栖息在雪原小屋中的敌对灾厄村民，能在袭击中生成。它会用冰魔法使目标冻结，并在头顶召唤巨大的冰块砸下。",
+  "entity.friendsandfoes.wildfire.description": "下界城堡中的烈焰小Boss，周身环绕四块护盾。它会发射火球并召唤烈焰人助战，必须先击破护盾才能对其造成伤害。",
+  "entity.friendsandfoes.glare.description": "一种生活在繁茂洞穴的小型生物，害怕黑暗和怪物。可用发光浆果驯服，它会飞向黑暗区域并发出叫声，警示你怪物可能生成的位置。",
+  "entity.friendsandfoes.moobloom.description": "一种背上盛开着毛茛花的独特奶牛，在草甸和繁花森林中生成。蜜蜂会绕着它采蜜，用剪刀除花后它会变回普通的牛。",
+  "entity.friendsandfoes.tuff_golem.description": "一种用凝灰岩、羊毛和南瓜建造的小型傀儡，可以展示手中的物品。用蜜脾固定后可变为静止的雕像。",
+  "entity.friendsandfoes.copper_golem.description": "一种在村庄铜傀儡工坊中生成的小型友好生物，会随机按压附近的铜按钮。它会随时间氧化，氧化程度越高行动越迟缓，可涂蜡以防氧化。",
+  "entity.friendsandfoes.mauler.description": "一种在干旱地区生成的小型中立生物，会捕食小动物。喂食附魔物品可让它吸收经验并变大，用空玻璃瓶可以从它身上取出附魔之瓶。",
+  "lore.friendsandfoes.wildfire_crown": "佩戴时可提供8秒火焰抗性（从着火时开始计时）。",
+  "lore.friendsandfoes.totem_of_freezing": "当生命值降至一半时，清除所有状态效果，减速附近生物并为自己提供速度II效果。",
+  "lore.friendsandfoes.totem_of_illusion": "当生命值降至三分之一时，清除所有状态效果，召唤幻象并为自己提供隐身效果。",
+  "lore.friendsandfoes.copper_golem_spawn_egg": "通过在铜块上放置雕刻过的南瓜，再在南瓜上放置避雷针来创建。会随机按压铜按钮，除非涂蜡否则会随时间氧化。",
+  "lore.friendsandfoes.tuff_golem_spawn_egg": "通过在凝灰岩上放置羊毛，再在羊毛上放置雕刻过的南瓜来创建。可以手持物品，涂蜡后将不再移动。",
+  "lore.friendsandfoes.glare_spawn_egg": "用发光浆果驯服。它会飞向怪物可能生成的黑暗区域并摇晃。用发光浆果繁殖。",
+  "lore.friendsandfoes.mauler_spawn_egg": "用附魔物品或附魔书右键喂食。会储存经验值。用空玻璃瓶右键可回收经验。死亡时掉落所有储存的经验值。"
+}

@@ -1,0 +1,9 @@
+{
+  "entity.masquerader_mod.masquerader.description": "A high-born hostile illager mob with an array of different magical abilities it uses in its assault depending on which mask it puts on. Can participate in Raids and is the boss of the Masquerade Ballroom. It is rendered completely invulnerable until all ballroom attendees or raiders in the same wave have been cleared.",
+  "entity.masquerader_mod.masquerader_clone.description": "The shadow clone of the Masquerader. It acts independently from the Masquerader while aiding it in its boss battle, shooting arrows at its target.",
+  "entity.masquerader_mod.masked_evoker.description": "A ranged hostile mob found in Masquerade Ballrooms that attacks using Vexes and magical fangs. Must be slain in order to render the Masquerader vulnerable.",
+  "entity.masquerader_mod.masked_illusioner.description": "A ranged hostile mob found in Masquerade Ballrooms that can inflict blindness and create false doubles. Must be slain in order to render the Masquerader vulnerable.",
+  "entity.masquerader_mod.masked_villager.description": "A passive mob found in Masquerade Ballrooms that can be traded with once the Masquerader has been defeated. Can convert any of the four special masks from the Masquerader back into blank masks for a small fee in case you want to try out another.",
+  "entity.masquerader_mod.masked_vindicator.description": "A hostile mob found in Masquerade Ballrooms that wields an Iron Axe. Must be slain in order to render the Masquerader vulnerable.",
+  "entity.masquerader_mod.masked_witch.description": "A ranged hostile mob found in Masquerade Ballrooms that throws potions. Must be slain in order to render the Masquerader vulnerable."
+}

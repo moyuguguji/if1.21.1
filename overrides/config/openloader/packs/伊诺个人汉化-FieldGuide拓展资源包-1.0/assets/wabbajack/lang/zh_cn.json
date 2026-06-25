@@ -1,0 +1,6 @@
+{
+    "entity.wabbajack.magic_missile_projectile.description": "一种能追踪实体的弹射物。",
+    "entity.wabbajack.wabbajack_projectile.description": "一种会……做点什么的弹射物。",
+    "lore.wabbajack.wabbajack": "一种拥有多种效果的神秘武器。",
+    "lore.wabbajack.wabbajack_projectile": "一种拥有多种效果的神秘弹射物。"
+}

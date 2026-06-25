@@ -1,0 +1,22 @@
+{
+  "lore.hadean_breathe.flamed_bone": "An item used to craft the Hadean Echo or Guardian Greatsword. Dropped by Flamed Husks.",
+  "lore.hadean_breathe.guardian_shard": "An item used to craft the Hadean Echo or Guardian Greatsword. Dropped by Flame Guardians.",
+  "lore.hadean_breathe.raw_flame_copper": "An ore that can be smelted into a Flame Copper Ingot.",
+  "lore.hadean_breathe.flame_copper_ingot": "An ingot that can be used to craft gear attuned to Hadean forces.",
+  "lore.hadean_breathe.haderite_ingot": "An ingot used to upgrade the Guardian Greatsword into a legendary weapon. Obtained by defeating the Hadean Enforcer.",
+  "lore.hadean_breathe.hadean_echo": "(That is to say, drop it on top of the Enforcer Altar located at the center of a Hadean Arena in order to confront the Hadean Enforcer.)",
+  "lore.hadean_breathe.guardian_greatsword": "A melee weapon forged with materials from the infernal depths that doubles as a shield.",
+  "lore.hadean_breathe.ember": "A legendary melee weapon that doubles as a shield and is indestructible. Mobs have their health leeched by the wielder when attempting to hit them while shielding.",
+  "lore.hadean_breathe.flame_copper_helmet": "This item can be equipped to protect you from damage.",
+  "lore.hadean_breathe.flame_copper_chestplate": "This item can be equipped to protect you from damage.",
+  "lore.hadean_breathe.enforcer_hood": "This item can be equipped to protect you from damage.",
+  "lore.hadean_breathe.enforcer_leggings": "This item can be equipped to protect you from damage.",
+  "lore.hadean_breathe.enforcer_chestplate": "This item can be equipped to protect you from damage.",
+  "lore.hadean_breathe.enforcer_boots": "This item can be equipped to protect you from damage.",
+  "lore.hadean_breathe.nether_flame_copper_ore": "An ore that drops Raw Flame Copper when mined.",
+  "lore.hadean_breathe.enforcer_altar": "A block located at the center of a Hadean Arena that awakens the Hadean Enforcer when a Hadean Echo is dropped onto it.",
+  "lore.hadean_breathe.enforcer_treasure_chest": "A loot storage block that appears in the aftermath of the Hadean Enforcer's vanquishment. Contains lots of extremely rewarding loot. Can also be collected and used as any other chest.",
+  "entity.hadean_breathe.flamed_husk.description": "An undead hostile mob found in Hadean Arenas that ignites its target on hit. Drops Flamed Bones.",
+  "entity.hadean_breathe.flame_guardian.description": "A hostile mob found guarding various chambers within Hadean Arenas that ignites as well as inflicts Vertigo with various attacks. Drops Guardian Shards and serves as the mini-boss of Hadean Arenas.",
+  "entity.hadean_breathe.hadean_enforcer.description": "A frighteningly powerful undead hostile mob summoned by players in Hadean Arenas by dropping a Hadean Echo on the Enforcer Altar. It is highly aggresive towards any and all mobs within its field of vision, dishes out significant damage against targets with even maximal defensive preparation, and administers lifesteal mechanics in all of its attacks. The big boss of Hadean Arenas."
+}

@@ -1,0 +1,156 @@
+{
+  
+    "lore.oxide.wet_cement": "A sticky block that adheres to anything it touches. It will eventually harden into Cement.",
+    "lore.oxide.cement": "A solid block of Cement.",
+    "lore.oxide.cinder_bricks": "An interlocking block made from Cement.",
+    "lore.oxide.cinder_blocks": "An stacked block made from Cement.",
+
+    
+    "lore.oxide.plate_iron": "A decorative block of Iron - subject to rusting when exposed to Water.",
+    "lore.oxide.weathered_plate_iron": "A decorative block of Iron that has begun to rust due to exposure to Water.",
+    "lore.oxide.rusted_plate_iron": "A decorative block of Iron that has fully rusted over due to exposure to Water.",
+  
+    "lore.oxide.cut_iron": "A decorative block of Iron that has been cut - subject to rusting when exposed to Water.",
+    "lore.oxide.weathered_cut_iron": "A decorative block of Iron that has been cut and begun to rust due to exposure to Water.",
+    "lore.oxide.rusted_cut_iron": "A decorative block of Iron that has been cut and fully rusted over due to exposure to Water.",
+  
+    "lore.oxide.waxed_plate_iron": "A decorative block of Iron that has been waxed to prevent rusting.",
+    "lore.oxide.waxed_weathered_plate_iron": "A decorative block of Iron that was waxed after it began to rust.",
+    "lore.oxide.waxed_rusted_plate_iron": "A decorative block of Iron that was waxed after it fully rusted over.",
+  
+    "lore.oxide.waxed_cut_iron": "A decorative block of Iron that was cut and waxed to prevent rusting.",
+    "lore.oxide.waxed_weathered_cut_iron": "A decorative block of Iron that was cut and waxed after it began to rust.",
+    "lore.oxide.waxed_rusted_cut_iron": "A decorative block of Iron that was cut and waxed after it fully rusted over.",
+  
+    "lore.oxide.iron_scaffold": "A lightweight block of Iron - subject to rusting when exposed to Water.",
+    "lore.oxide.weathered_iron_scaffold": "A lightweight block of Iron that has begun to rust due to exposure to Water.",
+    "lore.oxide.rusted_iron_scaffold": "A lightweight block of Iron that has fully rusted over due to exposure to Water.",
+  
+    "lore.oxide.iron_pillar": "A block of Iron that has been carved into a Pillar - subject to rusting when exposed to Water.",
+    "lore.oxide.weathered_iron_pillar": "A block of Iron that has been carved into a Pillar and begun to rust due to exposure to Water.",
+    "lore.oxide.rusted_iron_pillar": "A block of Iron that has been carved into a Pillar and fully rusted over due to exposure to Water.",
+  
+    "lore.oxide.red_corrugated_iron": "A decorative block of Iron with a red tint. It will rust when exposed to water.",
+    "lore.oxide.orange_corrugated_iron": "A decorative block of Iron with a orange tint. It will rust when exposed to water.",
+    "lore.oxide.yellow_corrugated_iron": "A decorative block of Iron with a yellow tint. It will rust when exposed to water.",
+    "lore.oxide.lime_corrugated_iron": "A decorative block of Iron with a lime tint. It will rust when exposed to water.",
+    "lore.oxide.green_corrugated_iron": "A decorative block of Iron with a green tint. It will rust when exposed to water.",
+    "lore.oxide.cyan_corrugated_iron": "A decorative block of Iron with a cyan tint. It will rust when exposed to water.",
+    "lore.oxide.blue_corrugated_iron": "A decorative block of Iron with a blue tint. It will rust when exposed to water.",
+    "lore.oxide.light_blue_corrugated_iron": "A decorative block of Iron with a light blue tint. It will rust when exposed to water.",
+    "lore.oxide.purple_corrugated_iron": "A decorative block of Iron with a purple tint. It will rust when exposed to water.",
+    "lore.oxide.magenta_corrugated_iron": "A decorative block of Iron with a magenta tint. It will rust when exposed to water.",
+    "lore.oxide.pink_corrugated_iron": "A decorative block of Iron with a pink tint. It will rust when exposed to water.",
+    "lore.oxide.white_corrugated_iron": "A decorative block of Iron with a white tint. It will rust when exposed to water.",
+    "lore.oxide.light_gray_corrugated_iron": "A decorative block of Iron with a light gray tint. It will rust when exposed to water.",
+    "lore.oxide.gray_corrugated_iron": "A decorative block of Iron with a gray tint. It will rust when exposed to water.",
+    "lore.oxide.black_corrugated_iron": "A decorative block of Iron with a black tint. It will rust when exposed to water.",
+    "lore.oxide.brown_corrugated_iron": "A decorative block of Iron with a brown tint. It will rust when exposed to water.",
+  
+    "lore.oxide.weathered_red_corrugated_iron": "A decorative block of Iron with a red tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_orange_corrugated_iron": "A decorative block of Iron with a orange tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_yellow_corrugated_iron": "A decorative block of Iron with a yellow tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_lime_corrugated_iron": "A decorative block of Iron with a lime tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_green_corrugated_iron": "A decorative block of Iron with a green tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_cyan_corrugated_iron": "A decorative block of Iron with a cyan tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_blue_corrugated_iron": "A decorative block of Iron with a blue tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_light_blue_corrugated_iron": "A decorative block of Iron with a light blue tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_purple_corrugated_iron": "A decorative block of Iron with a purple tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_magenta_corrugated_iron": "A decorative block of Iron with a magenta tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_pink_corrugated_iron": "A decorative block of Iron with a pink tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_white_corrugated_iron": "A decorative block of Iron with a white tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_light_gray_corrugated_iron": "A decorative block of Iron with a light gray tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_gray_corrugated_iron": "A decorative block of Iron with a gray tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_black_corrugated_iron": "A decorative block of Iron with a black tint. It has started to rust from exposure to water.",
+    "lore.oxide.weathered_brown_corrugated_iron": "A decorative block of Iron with a brown tint. It has started to rust from exposure to water.",
+
+    "lore.oxide.rusted_corrugated_iron": "A decorative block of iron, too rusted over to determine what colour it once was.",
+  
+    "lore.oxide.heavy_iron_door": "A solid door that can only be opened with Redstone Power - subject to rusting when exposed to water.",
+    "lore.oxide.weathered_heavy_iron_door": "A solid, though partially rusted, door that can only be opened with Redstone Power.",
+    "lore.oxide.rusted_heavy_iron_door": "A solid rusted over door that can only be opened with Redstone Power.",
+  
+    "lore.oxide.heavy_iron_trapdoor": "A solid trapdoor that can only be opened with Redstone Power. It will rust when exposed to water.",
+    "lore.oxide.weathered_heavy_iron_trapdoor": "A solid, though partially rusted, trapdoor that can only be opened with Redstone Power.",
+    "lore.oxide.rusted_heavy_iron_trapdoor": "A solid rusted over trapdoor that can only be opened with Redstone Power.",
+  
+    "lore.oxide.heavy_iron_chain": "A block that can be used to hang Lanterns from the ceiling. It will rust when exposed to water.",
+    "lore.oxide.weathered_heavy_iron_chain": "A block that can be used to hang Lanterns from the ceiling. It has begun to rust from exposure to water.",
+    "lore.oxide.rusted_heavy_iron_chain": "A block that can be used to hang Lanterns from the ceiling. It has fully rusted over from exposure to water.",
+  
+    "lore.oxide.wrought_iron_fence": "A wall that cannot be jumped over and can be used to keep out mobs. It rusts when exposed to Water.",
+    "lore.oxide.weathered_wrought_iron_fence": "A wall that cannot be jumped over and can be used to keep out mobs. It has started to rust due to exposure to water.",
+    "lore.oxide.rusted_wrought_iron_fence": "A wall that cannot be jumped over and can be used to keep out mobs. It has fully rusted over due to exposure to water.",
+  
+    "lore.oxide.heavy_iron_bars": "A block that can be used as a decorative barrier, suitable for windows and railings. It rusts when exposed to Water.",
+    "lore.oxide.weathered_heavy_iron_bars": "A block that can be used as a decorative barrier, suitable for windows and railings. It has started to rust due to exposure to water.",
+    "lore.oxide.rusted_heavy_iron_bars": "A block that can be used as a decorative barrier, suitable for windows and railings. It has fully rusted over due to exposure to water.",
+  
+    "lore.oxide.waxed_iron_scaffold": "A lightweight block of Iron that was waxed to prevent rusting.",
+    "lore.oxide.waxed_weathered_iron_scaffold": "A lightweight block of Iron that was waxed after it began to rust.",
+    "lore.oxide.waxed_rusted_iron_scaffold": "A lightweight block of Iron that was waxed after it fully rusted over.",
+  
+    "lore.oxide.waxed_iron_pillar": "A block of Iron that has been carved into a Pillar. It was waxed to prevent rusting.",
+    "lore.oxide.waxed_weathered_iron_pillar": "A block of Iron that has been carved into a Pillar. It was waxed after it began to rust.",
+    "lore.oxide.waxed_rusted_iron_pillar": "A fully rusted over block of Iron that has been carved into a Pillar. It was waxed after it finished rusting.",
+  
+    "lore.oxide.waxed_red_corrugated_iron": "A decorative block of Iron with a red tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_orange_corrugated_iron": "A decorative block of Iron with a orange tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_yellow_corrugated_iron": "A decorative block of Iron with a yellow tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_lime_corrugated_iron": "A decorative block of Iron with a lime tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_green_corrugated_iron": "A decorative block of Iron with a green tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_cyan_corrugated_iron": "A decorative block of Iron with a cyan tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_blue_corrugated_iron": "A decorative block of Iron with a blue tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_light_blue_corrugated_iron": "A decorative block of Iron with a light blue tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_purple_corrugated_iron": "A decorative block of Iron with a purple tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_magenta_corrugated_iron": "A decorative block of Iron with a magenta tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_pink_corrugated_iron": "A decorative block of Iron with a pink tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_white_corrugated_iron": "A decorative block of Iron with a white tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_light_gray_corrugated_iron": "A decorative block of Iron with a light gray tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_gray_corrugated_iron": "A decorative block of Iron with a gray tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_black_corrugated_iron": "A decorative block of Iron with a black tint. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_brown_corrugated_iron": "A decorative block of Iron with a brown tint. It has been waxed to prevent rusting.",
+  
+    "lore.oxide.waxed_weathered_red_corrugated_iron": "A decorative block of Iron with a red tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_orange_corrugated_iron": "A decorative block of Iron with a orange tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_yellow_corrugated_iron": "A decorative block of Iron with a yellow tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_lime_corrugated_iron": "A decorative block of Iron with a lime tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_green_corrugated_iron": "A decorative block of Iron with a green tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_cyan_corrugated_iron": "A decorative block of Iron with a cyan tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_blue_corrugated_iron": "A decorative block of Iron with a blue tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_light_blue_corrugated_iron": "A decorative block of Iron with a light blue tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_purple_corrugated_iron": "A decorative block of Iron with a purple tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_magenta_corrugated_iron": "A decorative block of Iron with a magenta tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_pink_corrugated_iron": "A decorative block of Iron with a pink tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_white_corrugated_iron": "A decorative block of Iron with a white tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_light_gray_corrugated_iron": "A decorative block of Iron with a light gray tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_gray_corrugated_iron": "A decorative block of Iron with a gray tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_black_corrugated_iron": "A decorative block of Iron with a black tint. It was waxed after it began to rust.",
+    "lore.oxide.waxed_weathered_brown_corrugated_iron": "A decorative block of Iron with a brown tint. It was waxed after it began to rust.",
+  
+    "lore.oxide.waxed_rusted_corrugated_iron": "A decorative block of iron, too rusted over to determine what colour it once was.",
+  
+    "lore.oxide.waxed_heavy_iron_door": "A solid door that can only be opened with Redstone Power. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_weathered_heavy_iron_door": "A solid door that can only be opened with Redstone Power. It was waxed after it began to rust.",
+    "lore.oxide.waxed_rusted_heavy_iron_door": "A solid door that can only be opened with Redstone Power. It fully rusted over before it was waxed.",
+  
+    "lore.oxide.waxed_heavy_iron_trapdoor": "A solid trapdoor that can only be opened with Redstone Power. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_weathered_heavy_iron_trapdoor": "A solid trapdoor that can only be opened with Redstone Power. It was waxed after it began to rust.",
+    "lore.oxide.waxed_rusted_heavy_iron_trapdoor": "A solid trapdoor that can only be opened with Redstone Power. It fully rusted over before it was waxed.",
+  
+    "lore.oxide.waxed_heavy_iron_chain": "A block that can be used to hang Lanterns from the ceiling. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_weathered_heavy_iron_chain": "A block that can be used to hang Lanterns from the ceiling. It was waxed after it began to rust.",
+    "lore.oxide.waxed_rusted_heavy_iron_chain": "A block that can be used to hang Lanterns from the ceiling. It fully rusted over before it was waxed.",
+  
+    "lore.oxide.waxed_wrought_iron_fence": "A wall that cannot be jumped over and can be used to keep out mobs. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_weathered_wrought_iron_fence": "A wall that cannot be jumped over and can be used to keep out mobs. It was waxed after it began to rust.",
+    "lore.oxide.waxed_rusted_wrought_iron_fence": "A wall that cannot be jumped over and can be used to keep out mobs. It fully rusted over before it was waxed.",
+  
+    "lore.oxide.waxed_heavy_iron_bars": "A block that can be used as a decorative barrier, suitable for windows and railings. It has been waxed to prevent rusting.",
+    "lore.oxide.waxed_weathered_heavy_iron_bars": "A block that can be used as a decorative barrier, suitable for windows and railings. It was waxed after it began to rust.",
+    "lore.oxide.waxed_rusted_heavy_iron_bars": "A block that can be used as a decorative barrier, suitable for windows and railings. It fully rusted over before it was waxed.",
+  
+    "lore.oxide.rusty_nail": "A rusty nail that'd hurt to step on.",
+    "lore.oxide.pure_nail": "A cleaner nail that'd be a better fit in a insect's hand."
+
+  }

@@ -1,0 +1,12 @@
+{
+	"entity.dronebox.drone.description": "A remote-controlled construct that can be programmed to act in specific ways.",
+	"lore.dronebox.controller": "A tool used to control drones.",
+	"lore.dronebox.drone": "A remote-controlled construct that can be programmed to act in specific ways.",
+	"lore.dronebox.googly": "Googly!",
+	"lore.dronebox.lua_pendrive": "A tool used to program drones.",
+	"lore.dronebox.remote": "A tool used to control drones.",
+	"lore.dronebox.spotlight": "A block that emits light.",
+	"lore.dronebox.toplight": "A block that emits light."
+	
+	
+}

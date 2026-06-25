@@ -1,0 +1,6 @@
+{
+	"entity.slotcars.slot_car.description": "A remote-controlled construct that rides around slot car tracks.",
+	"lore.slotcars.chicane_track": "A track capable of being used with a slot car / controller.",
+	"lore.slotcars.controller": "A tool that places and controls a slot car on a track.",
+	"tag.slotcars.tracks.description": "A track capable of being used with a slot car / controller."
+}

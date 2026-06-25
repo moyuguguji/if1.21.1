@@ -1,0 +1,12 @@
+{
+	"lore.weird-wares.glitter": "A colourful item that causes blocks to give off an enchanted glow.",
+	"lore.weird-wares.unknown": "A block that resembles Dirt with a question mark pattern. It's a strange find.",
+	"lore.weird-wares.info_update": "A block that resembles Dirt with the text 'update!' inscribed. It's a strange find.",
+	"lore.weird-wares.info_update2": "A block that resembles Dirt with the text 'update!' inscribed. It's a strange find.",
+	"lore.weird-wares.glowing_obsidian": "This block might have once had a purpose, but now just serves as a light source. It's a strange find.",
+	"lore.weird-wares.nether_reactor": "A block that serves as a base for a Nether Reactor - allowing the Nether to come to the Overworld. It's a strange find.",
+	"lore.weird-wares.nether_reactor.active": "An active Nether Reactor is allowing the Nether to come to the Overworld. It's a strange find.",
+	"lore.weird-wares.nether_reactor.used": "This block was once used as a power source, but is now inert. It's a strange find.",
+	"lore.weird-wares.sculk_remote": "This tool can be used to remotely interact with any block when used by a player or dispenser. The target can be set by sneaking and interacting."
+
+}

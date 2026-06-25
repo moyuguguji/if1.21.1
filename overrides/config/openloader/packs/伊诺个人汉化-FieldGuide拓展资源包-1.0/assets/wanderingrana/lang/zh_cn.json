@@ -1,0 +1,9 @@
+{
+    "entity.wanderingrana.wandering_rana.description": "一种随机出现的被动生物，会交易青蛙相关的物品。无法补货。",
+    "lore.wanderingrana.cold_frog_helmet": "一种穿戴时能减免伤害的物品。",
+    "lore.wanderingrana.cold_frog_boots": "一种穿戴时能减免伤害的物品。",
+    "lore.wanderingrana.temperate_frog_helmet": "一种穿戴时能减免伤害的物品。",
+    "lore.wanderingrana.temperate_frog_boots": "一种穿戴时能减免伤害的物品。",
+    "lore.wanderingrana.warm_frog_helmet": "一种穿戴时能减免伤害的物品。",
+    "lore.wanderingrana.warm_frog_boots": "一种穿戴时能减免伤害的物品。"
+}

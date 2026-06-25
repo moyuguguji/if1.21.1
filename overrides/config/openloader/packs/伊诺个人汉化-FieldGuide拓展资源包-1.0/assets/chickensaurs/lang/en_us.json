@@ -1,0 +1,9 @@
+{
+    "entity.chickensaurs.chickensaur.description": "A territorial mob found in Soul Sand Valleys. It can be brushed for Iron. If found young, it can be tamed and ridden, but older Chickensaurs are suspicious and may attack if provoked.",
+    "lore.chickensaurs.chickensaur": "An item that should be cooked before eating. Dropped by Chickensaurs.",
+    "lore.chickensaurs.cooked_chickensaur": "A meat that restores more saturation than Cooked Chicken.",
+    "lore.chickensaurs.chickensaur_nuggets": "A quick snack made from a Cooked Chickensaur.",
+    "lore.chickensaurs.chickensaur_egg": "An egg that will eventually hatch into a Chickensaur."
+
+  
+  }

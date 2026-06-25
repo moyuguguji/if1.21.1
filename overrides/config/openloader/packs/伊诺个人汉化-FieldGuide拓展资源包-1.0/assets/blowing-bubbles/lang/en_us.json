@@ -1,0 +1,6 @@
+{
+	"entity.blowing-bubbles.bubble.description": "A floating bubble that can be stood on.",
+	"tag.blowing-bubbles.bubble_blocks.description": "A decorative block that can be passed through.",
+	"lore.blowing-bubbles.bubble_dispenser": "A machine that emits bubbles.",
+	"lore.blowing-bubbles.bubble_wand": "A tool that produces bubbles on use."
+}

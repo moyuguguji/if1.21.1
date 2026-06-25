@@ -1,0 +1,4 @@
+{
+    "tag.buoys.buoys.description": "A two block tall block that can be placed in water. It can be dyed, and can connect to nearby Chain Buoys.",
+    "tag.buoys.chain_buoys.description": "A block that can be placed in water. It can be dyed, and can connect neighbouring Buoys together."
+}

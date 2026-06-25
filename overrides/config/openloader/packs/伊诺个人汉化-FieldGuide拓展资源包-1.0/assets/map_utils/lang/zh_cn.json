@@ -1,0 +1,4 @@
+{
+    "lore.map_utils.timer_block": "一种可配置为每隔一段时间就产生红石信号的方块。",
+    "lore.map_utils.variable_redstone_block": "一种可配置为产生指定强度红石信号的方块。"
+}

@@ -1,0 +1,12 @@
+{
+	"entity.more_than_a_foxbox.box_seat.description": "A comfy box you can sit in!",
+	"lore.more_than_a_foxbox.cardboard": "A material used to make boxes.",
+	"lore.more_than_a_foxbox.cardboard_box": "A box that can contain players and plushies.",
+	"lore.more_than_a_foxbox.plushie": "A cute plushie! Can be interacted with to squish.",
+	"lore.more_than_a_foxbox.polyfill": "A material used to make plushies.",
+	"lore.more_than_a_foxbox.polyfill_block": "A decorative block made of polyfill.",
+	"lore.more_than_a_foxbox.sewing_table": "A block used to craft plushies.",
+	"lore.more_than_a_foxbox.speaker": "A plushie component that makes a custom noise.",
+	"lore.more_than_a_foxbox.squeaker": "A plushie component that makes a noise."
+
+}

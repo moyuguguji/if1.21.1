@@ -1,0 +1,6 @@
+{
+  "block.inferno.charred_log.description": "A log block that makes an excellent fuel source.",
+  "block.inferno.scorched_earth.description": "A soil block capable of growing a host of new plants when fertilized. This block will eventually heal in the rain.",
+  "entity.inferno.shining_oak_chest_raft.description": "A single-passenger vehicle that has its own storage.",
+  "entity.inferno.shining_oak_raft.description": "A two-passenger vehicle for traversing rivers and oceans."
+}

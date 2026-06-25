@@ -1,0 +1,7 @@
+{
+    "entity.toywatergun.lava_projectile.description": "由装满熔岩的玩具水枪发射的弹射物，命中时点燃火焰。",
+    "entity.toywatergun.snow_projectile.description": "由装满细雪的玩具水枪发射的弹射物，在命中处放置细雪。",
+    "entity.toywatergun.water_projectile.description": "由装满水的玩具水枪发射的弹射物，命中时熄灭实体和方块上的火焰。",
+    "lore.toywatergun.case": "一个存放水枪的盒子。",
+    "lore.toywatergun.water_gun": "一把能发射各种液体的武器。"
+}

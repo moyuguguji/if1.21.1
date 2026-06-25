@@ -1,0 +1,9 @@
+{
+  "entity.masquerader_mod.masquerader.description": "一种出身高贵的敌对灾厄村民，会根据所戴面具的不同施展各式魔法进行攻击。可参与袭击，也是假面舞厅的Boss。在舞厅所有宾客或同一波次中的袭击者被清除之前，它将免疫所有伤害。",
+  "entity.masquerader_mod.masquerader_clone.description": "伪装者的暗影分身。它会独立行动并协助伪装者进行Boss战，向目标射箭。",
+  "entity.masquerader_mod.masked_evoker.description": "一种在假面舞厅中发现的远程敌对生物，会使用恼鬼和魔法尖牙进行攻击。必须将其击杀才能使伪装者变得脆弱。",
+  "entity.masquerader_mod.masked_illusioner.description": "一种在假面舞厅中发现的远程敌对生物，能造成失明并制造虚假分身。必须将其击杀才能使伪装者变得脆弱。",
+  "entity.masquerader_mod.masked_villager.description": "一种在假面舞厅中发现的被动生物，击败伪装者后可与它交易。可将伪装者的任意四种特殊面具以少量费用换回空白面具，方便你尝试其他款式。",
+  "entity.masquerader_mod.masked_vindicator.description": "一种在假面舞厅中发现的敌对生物，手持铁斧。必须将其击杀才能使伪装者变得脆弱。",
+  "entity.masquerader_mod.masked_witch.description": "一种在假面舞厅中发现的远程敌对生物，会投掷药水。必须将其击杀才能使伪装者变得脆弱。"
+}

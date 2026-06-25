@@ -1,0 +1,10 @@
+{
+	"lore.camphor.mint": "A workstation to forge your own personal currency.",
+
+	"lore.camphor.stone_coin": "A coin of the lowest value.",
+	"lore.camphor.copper_coin": "A coin of low value, more valuable than Stone.",
+	"lore.camphor.iron_coin": "A coin of medium value, more valuable than Copper.",
+	"lore.camphor.gold_coin": "A coin of high value, more valuable than Iron.",
+	"lore.camphor.diamond_coin": "A coin of exceptional value, more valuable than Gold.",
+	"lore.camphor.coin_purse": "A bottomless bundle for your coins!"
+}

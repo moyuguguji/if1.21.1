@@ -1,0 +1,9 @@
+{
+    "entity.wanderingrana.wandering_rana.description": "A passive mob that appears randomly and trades for froggy items. Cannot restock.",
+    "lore.wanderingrana.cold_frog_helmet": "An item that reduces damage when worn.",
+    "lore.wanderingrana.cold_frog_boots": "An item that reduces damage when worn.",
+    "lore.wanderingrana.temperate_frog_helmet": "An item that reduces damage when worn.",
+    "lore.wanderingrana.temperate_frog_boots": "An item that reduces damage when worn.",
+    "lore.wanderingrana.warm_frog_helmet": "An item that reduces damage when worn.",
+    "lore.wanderingrana.warm_frog_boots": "An item that reduces damage when worn."
+  }

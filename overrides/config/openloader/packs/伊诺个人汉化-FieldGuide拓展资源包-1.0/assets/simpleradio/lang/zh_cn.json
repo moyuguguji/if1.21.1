@@ -1,0 +1,18 @@
+{
+    "lore.simpleradio.spuddie": "一种以磷酸之力驱动的早期游戏收发器。需要与其他同类设备一起丢在地上以配对频率。",
+    "lore.simpleradio.walkie_talkie": "一种以铜的导电性驱动的早期游戏收发器。需要与其他同类设备一起丢在地上以配对频率。",
+    "lore.simpleradio.transciever": "一种高性能设备，可以在无线电制作台为其指定的频率上进行收听、发射、接收和通话。",
+    "lore.simpleradio.copper_wire": "音频传输的核心部件——可用于连接音频方块以传输音频数据。",
+    "lore.simpleradio.radiosmithing_station": "用于配置无线电设备，可设置频率和调制方式。AM调幅音质较低但范围更大，PM调相则正好相反。",
+    "lore.simpleradio.insulator": "通过提供另一个连接点来延长铜线连接。也可以连接到天线上以延长其核心。",
+    "lore.simpleradio.antenna": "通过放置在发射/接收方块顶部来提供额外的发射或接收范围。底部需要一个铁块来连接发射器/接收器。",
+    "lore.simpleradio.microphone": "监听附近的语音输入并通过铜线进行传输。",
+    "lore.simpleradio.speaker": "从铜线接收音频数据，然后输出声音。",
+    "lore.simpleradio.transmitter": "通过铜线接收音频数据，并将其发射到已配置的频率上。需要镀金黑石作为催化剂才能工作。",
+    "lore.simpleradio.receiver": "通过其指定的频率接收音频数据，并将其转换为铜线数据。需要镀金黑石作为催化剂才能工作。",
+    "lore.simpleradio.radio": "一个集成了扬声器和接收器的多功能方块，可独立工作，在其指定的频率上输出音频。",
+    "lore.simpleradio.transmitting_module": "用于制作能发射无线电信号的设备。",
+    "lore.simpleradio.receiving_module": "用于制作能接收无线电信号的设备。",
+    "lore.simpleradio.speaker_module": "用于制作能将无线电信号输出为音频的设备。",
+    "lore.simpleradio.listener_module": "用于制作能传输并监听音频信号的设备。"
+}

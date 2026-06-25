@@ -1,0 +1,19 @@
+{
+    "entity.rapscallionsandrockhoppers.penguin.description": "一种在石岸和冻洋中发现的被动生物，喂食鱼类后能为你的船加速。",
+    "lore.rapscallionsandrockhoppers.penguin_egg": "一枚最终会孵化出企鹅宝宝的蛋。",
+    "lore.rapscallionsandrockhoppers.boat_hook": "一种可以将船与船或船与玩家链接在一起的工具。",
+    "lore.rapscallionsandrockhoppers.fish_bones": "通过喂食企鹅获得的合成材料，可用于制作船钩或骨粉。",
+    "lore.rapscallionsandrockhoppers.fish_scale": "通过喂食企鹅获得的合成材料，可用于制作药水。",
+    "lore.rapscallionsandrockhoppers.seahorse_fish_scale_block": "一种由鱼鳞和鲜艳染料制成的装饰性方块。",
+    "lore.rapscallionsandrockhoppers.eel_fish_scale_block": "一种由鱼鳞和鲜艳染料制成的装饰性方块。",
+    "lore.rapscallionsandrockhoppers.jellyfish_fish_scale_block": "一种由鱼鳞和鲜艳染料制成的装饰性方块。",
+    "lore.rapscallionsandrockhoppers.shark_fish_scale_block": "一种由鱼鳞和鲜艳染料制成的装饰性方块。",
+    "lore.minecraft.potion.effect.rapscallionsandrockhoppers.floating": "一种饮用后能让使用者浮到水面的物品。",
+    "lore.minecraft.splash_potion.effect.rapscallionsandrockhoppers.floating": "一种投掷后能让目标浮到水面的物品。",
+    "lore.minecraft.tipped_arrow.effect.rapscallionsandrockhoppers.floating": "一种命中后能让目标浮到水面的箭矢。",
+    "lore.minecraft.lingering_potion.effect.rapscallionsandrockhoppers.floating": "一种投掷后能让一片区域内的目标浮到水面的物品。",
+    "lore.minecraft.potion.effect.rapscallionsandrockhoppers.sinking": "一种饮用后能让使用者沉入深海海底的物品。",
+    "lore.minecraft.splash_potion.effect.rapscallionsandrockhoppers.sinking": "一种投掷后能让目标沉入深海海底的物品。",
+    "lore.minecraft.tipped_arrow.effect.rapscallionsandrockhoppers.sinking": "一种命中后能让目标沉入深海海底的箭矢。",
+    "lore.minecraft.lingering_potion.effect.rapscallionsandrockhoppers.sinking": "一种投掷后能让一片区域内的目标沉入深海海底的物品。"
+}

@@ -1,0 +1,12 @@
+{
+    "lore.amarong.amarong_core": "A block that can be placed on a Beacon to tint it rainbow. Interact with it to change the color set.",
+    "lore.amarong.amarong_boomerang": "A balanced weapon that can be thrown at far off targets, and will return to your hand.",
+    "lore.amarong.amarong_chunk": "A crafting ingredient made from cutting an Amarong Core. It can be used to make various tools.",
+    "lore.amarong.amarong_hammer": "A tool that can be used as both a Pickaxe and Mace. When the Twirling enchantment is on this item, and it is being used, the hammer will hit entities within two blocks of the user.",
+    "lore.amarong.amarong_kaleidoscope": "A tool that applies a shader effect when used.",
+    "lore.amarong.amarong_sheet": "A crafting ingredient used to make various tools.",
+    "lore.amarong.amarong_staff": "A tool that increases the reach of the equipped lore. Right-click in inventory to take/put the item on the staff.",
+    "lore.amarong.amarong_ticket_dispenser": "A tool that launches tickets like projectiles. Right-click in inventory with tickets to load.",
+    "lore.amarong.amarong_verylongsword": "A two-handed weapon that deals heavy amounts of damage, balanced by a very slow attack speed. It charges up from successful strikes.",
+    "lore.amarong.somewhat_a_duck": "A tool that can absorb water and shoot it back out."
+  }

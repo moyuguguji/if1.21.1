@@ -1,0 +1,30 @@
+{
+  "lore.domesticationinnovation.pet_bed_white": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_orange": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_magenta": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_light_blue": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_yellow": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_lime": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_pink": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_gray": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_light_gray": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_cyan": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_purple": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_blue": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_brown": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_green": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_red": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.pet_bed_black": "Lets tamed mobs respawn. Let them sit on it until ZZZ particles appear, which indicate that its respawn point was set. Mobs respawn at dawn and enchantments are preserved. Workplace for Animal Tamer Villager.",
+  "lore.domesticationinnovation.collar_tag": "Enchantable. Rename in an Anvil, place onto a pet by interacting with it, and get Collars back by swapping it with any other collar. View a pets enchants by sneaking and looking at them.",
+  "lore.domesticationinnovation.feather_on_a_stick": "When thrown, the closest pet will try to move to its feather to play with it. Useful for moving a pet onto its bed to set its respawn point.",
+  "lore.domesticationinnovation.rotten_apple": "Chance to form if an apple despawns on the ground. Feed to a tamed and saddled Horse to convert to a Zombie Horse.",
+  "lore.domesticationinnovation.sinister_carrot": "Rarely found as loot in Woodland Mansions. Fed to Zombie Horses to turn into a Skeleton Horse. Can be fed to a tamed Rabbit to transform it into a Killer Rabbit.",
+  "lore.domesticationinnovation.deed_of_ownership": "Purchased from the Animal Tamer Villager. Right Click on a pet you own to bind it to the Deed. If given to another player and they use it on the bound animal, the ownership passes to them.",
+  "lore.domesticationinnovation.drum": "Command groups of pets by interacting to change command modes. Automate by giving a redstone signal.",
+  "lore.domesticationinnovation.wayward_lantern": "If pets are lost in their follow mode, they will eventually find their way to the closest Wayward Lantern to you."
+
+
+
+
+
+}

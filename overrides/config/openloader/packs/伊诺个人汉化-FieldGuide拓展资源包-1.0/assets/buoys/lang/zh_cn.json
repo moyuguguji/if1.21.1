@@ -1,0 +1,4 @@
+{
+    "tag.buoys.buoys.description": "一种可以放置在水中的两格高方块。它可以染色，也能与附近的链式浮标相连。",
+    "tag.buoys.chain_buoys.description": "一种可以放置在水中的方块。它可以染色，并可将相邻的浮标串连在一起。"
+}

@@ -1,0 +1,4 @@
+{
+    "lore.breakerplacer.breaker": "A block that will break the block in front of it when given a Redstone Charge.",
+    "lore.breakerplacer.placer": "A block that will place stored items when given a Redstone Charge."
+  }

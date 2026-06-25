@@ -1,0 +1,9 @@
+{
+  "entity.pet_cemetery.skeleton_cat.description": "一只复活了两次的猫科动物。比它们的血肉版本稍弱一些。",
+  "entity.pet_cemetery.skeleton_parrot.description": "一只复活了两次的鸟类。比它们的血肉版本稍弱一些。",
+  "entity.pet_cemetery.skeleton_wolf.description": "一只复活了两次的犬科动物。比它们的血肉版本稍弱一些。",
+  "entity.pet_cemetery.zombie_cat.description": "一只复活了一次的猫科动物。比它们的毛茸版本稍硬朗一些。可以用虚弱药水和金苹果治愈！",
+  "entity.pet_cemetery.zombie_parrot.description": "一只复活了一次的鸟类。比它们的羽翼版本稍硬朗一些。可以用虚弱药水和金苹果治愈！",
+  "entity.pet_cemetery.zombie_wolf.description": "一只复活了一次的犬科动物。比它们的蓬松版本稍硬朗一些。可以用虚弱药水和金苹果治愈！",
+  "item.pet_cemetery.pet_collar.description": "从任何逝去的宠物身上掉落。带到重生锚处，就能让它们复活！"
+}

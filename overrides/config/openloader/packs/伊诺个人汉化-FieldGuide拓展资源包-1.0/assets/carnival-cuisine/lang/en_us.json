@@ -1,0 +1,21 @@
+{
+    "lore.carnival-cuisine.burger": "A classic meal served at a carnival stand.",
+    "lore.carnival-cuisine.hot_dog": "A classic meal served at a carnival stand.",
+    "lore.carnival-cuisine.hot_dog_ketchup": "A classic meal served at a carnival stand, coated in ketchup.",
+    "lore.carnival-cuisine.hot_dog_mustard": "A classic meal served at a carnival stand, coated in mustard.",
+    "lore.carnival-cuisine.hot_dog_both": "A classic meal served at a carnival stand, coated in ketchup and mustard.",
+    "lore.carnival-cuisine.lemonade": "A sweet drink to cool you off on a hot carnival day.",
+    "lore.carnival-cuisine.soda": "A sweet drink to cool you off on a hot carnival day.",
+    "lore.carnival-cuisine.ice_cream_cone": "A sweet treat to cool you off on a hot carnival day.",
+    "lore.carnival-cuisine.ice_cream_vanilla": "A sweet treat to cool you off on a hot carnival day.",
+    "lore.carnival-cuisine.ice_cream_chocolate": "A sweet treat to cool you off on a hot carnival day.",
+    "lore.carnival-cuisine.ice_cream_strawberry": "A sweet treat to cool you off on a hot carnival day.",
+    "lore.carnival-cuisine.fries": "A classic meal served at a carnival stand.",
+    "lore.carnival-cuisine.popcorn_bucket": "An empty container waiting to be filled with Popcorn.",
+    "lore.carnival-cuisine.popcorn": "A snack fit for a carnival.",
+
+    "lore.carnival-cuisine.tray": "A functional block that can have various carnival foods placed on top. Pick it up by sneaking and interacting!",
+    "lore.carnival-cuisine.ketchup_dispenser": "Ketchup Dispenser",
+    "lore.carnival-cuisine.mustard_dispenser": "Mustard Dispenser",
+    "lore.carnival-cuisine.napkin_holder": "Napkin Holder"
+}

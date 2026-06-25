@@ -1,0 +1,11 @@
+{
+    "lore.weird-wares.glitter": "一种色彩缤纷的物品，能使方块散发出附魔般的光芒。",
+    "lore.weird-wares.unknown": "一种外观类似泥土、带有问号图案的方块。这是一个奇异的发现。",
+    "lore.weird-wares.info_update": "一种外观类似泥土，上面刻有“update！”字样的方块。这是一个奇异的发现。",
+    "lore.weird-wares.info_update2": "一种外观类似泥土，上面刻有“update！”字样的方块。这是一个奇异的发现。",
+    "lore.weird-wares.glowing_obsidian": "这个方块或许曾经有过用途，但如今仅作为光源使用。这是一个奇异的发现。",
+    "lore.weird-wares.nether_reactor": "一种用作下界反应堆基座的方块——能让下界降临至主世界。这是一个奇异的发现。",
+    "lore.weird-wares.nether_reactor.active": "一个正在运行的下界反应堆，正让下界降临至主世界。这是一个奇异的发现。",
+    "lore.weird-wares.nether_reactor.used": "这个方块曾作为能量源使用，但如今已失去活性。这是一个奇异的发现。",
+    "lore.weird-wares.sculk_remote": "这个工具可由玩家或发射器使用，来远程与任何方块进行交互。可通过潜行并互动来设置目标。"
+}

@@ -1,0 +1,4 @@
+{
+    "lore.breakerplacer.breaker": "一个在接收到红石信号时会破坏其前方方块的方块。",
+    "lore.breakerplacer.placer": "一个在接收到红石信号时会放置其内部储存物品的方块。"
+}

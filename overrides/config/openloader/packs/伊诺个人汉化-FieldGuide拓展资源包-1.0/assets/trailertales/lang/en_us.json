@@ -1,0 +1,61 @@
+{
+    "entity.trailiertales.apparition.description": "A mysterious mob that spawns from Coffins, turning mobs against you and throwing items like projectiles. Direct contact may result in haunting.",
+  
+    "lore.minecraft.potion.effect.transfiguring": "An item that can be drunk to spawn an Apparition on the drinker's demise.",
+    "lore.minecraft.splash_potion.effect.transfiguring": "An item that can be thrown to spawn an Apparition on the target's demise. Using it on an apparition will dispel it.",
+    "lore.minecraft.lingering_potion.effect.transfiguring": "An item that can be thrown to spawn an Apparition on the demise of any target in the area. Using it on an apparition will dispel it.",
+    "lore.minecraft.tipped_arrow.effect.transfiguring": "An arrow that causes the target to spawn an Apparition on death. If this arrow hits an apparition, it will be dispelled.",
+  
+    "lore.trailiertales.ectoplasm": "A brewing ingredient dropped by Apparitions that can also be used to craft Surveyors.",
+    "lore.trailiertales.ectoplasm_block": "A solid block of Ectoplasm.",
+    
+    "lore.trailiertales.suspicious_red_sand": "A block that resembles Red Sand, but can be brushed to reveal a hidden item.",
+    "lore.trailiertales.suspicious_dirt": "A block that resembles Dirt, but can be brushed to reveal a hidden item.",
+    "lore.trailiertales.suspicious_clay": "A block that resembles Clay, but can be brushed to reveal a hidden item.",
+  
+    "lore.trailiertales.coffin": "A mob spawner block that summons apparations in waves.",
+    "lore.trailiertales.surveyor": "A block that detects players in  its line of sight, outputing Redstone Power when it detects one. Use with a Comparator to find that players distance.",
+  
+    "lore.trailiertales.cyan_rose": "An ancient flower that can be crafted into Cyan Dye or placed in a Flower Pot.",
+    "lore.trailiertales.cyan_rose_crop": "An ancient seed growing into a flower from a time before you.",
+    "lore.trailiertales.cyan_rose_seeds": "An ancient seed used to grow a flower from a time before you.",
+    "lore.trailiertales.manedrop": "An ancient flower that can be crafted into Purple Dye.",
+    "lore.trailiertales.manedrop_crop": "An ancient seed growing into a plant from a time before you.",
+    "lore.trailiertales.manedrop_germ": "An ancient seed used to grow a plant from a time before you.",
+    "lore.trailiertales.dawntrail": "An ancient moss from a time before you.",
+    "lore.trailiertales.dawntrail_crop": "An ancient seed growing into a plant from a time before you.",
+    "lore.trailiertales.dawntrail_seeds": "An ancient seed used to grow a plant from a time before you.",
+  
+    "lore.trailiertales.chiseled_granite_bricks": "A block of Granite Bricks with a chiseled pattern.",
+    "lore.trailiertales.granite_bricks": "An interlocking building block made from Granite.",
+    "lore.trailiertales.cracked_granite_bricks": "A block of Granite Bricks cracked in a furnace.",
+    "lore.trailiertales.mossy_granite_bricks": "A block of Granite Bricks covered in Moss.",
+    "lore.trailiertales.chiseled_diorite_bricks": "A block of Diorite Bricks with a chiseled pattern.",
+    "lore.trailiertales.diorite_bricks": "An interlocking building block made from Diorite.",
+    "lore.trailiertales.cracked_diorite_bricks": "A block of Granite Bricks cracked in a furnace.",
+    "lore.trailiertales.mossy_diorite_bricks": "A block of Diorite Bricks covered in Moss.",
+    "lore.trailiertales.chiseled_andesite_bricks": "A block of Andesite Bricks with a chiseled pattern.",
+    "lore.trailiertales.andesite_bricks": "An interlocking building block made from Andesite.",
+    "lore.trailiertales.cracked_andesite_bricks": "A block of Andesite Bricks cracked in a furnace.",
+    "lore.trailiertales.polished_calcite": "A block of Calcite that has been polished.",
+    "lore.trailiertales.chiseled_calcite_bricks": "A block of Calcite Bricks with a chiseled pattern.",
+    "lore.trailiertales.calcite_bricks": "An interlocking building block made from Calcite.",
+    "lore.trailiertales.cracked_calcite_bricks": "A block of Calcite Bricks cracked in a furnace.",
+    "lore.trailiertales.mossy_calcite_bricks": "A block of Calcite Bricks covered in Moss.",
+    "lore.trailiertales.cracked_tuff_bricks": "A block of Tuff Bricks cracked in a furnace.",
+    "lore.trailiertales.mossy_tuff_bricks": "A block of Tuff Bricks covered in Moss.",
+    "lore.trailiertales.cracked_bricks": "A block of Bricks cracked in a furnace.",
+    "lore.trailiertales.mossy_bricks": "A block of Bricks covered in Moss.",
+    "lore.trailiertales.mossy_cobbled_deepslate": "A block of Cobbled Deepslate covered in Moss.",
+    "lore.trailiertales.mossy_deepslate_bricks": "A block of Deepslate Bricks covered in Moss.",
+    "lore.trailiertales.mossy_deepslate_tiles": "A block of Deepslate Tiles covered in Moss.",
+    "lore.trailiertales.choral_end_stone": "A decorative variant of End Stone found in End Cities.",
+  
+    "lore.trailiertales.cracked_end_stone_bricks": "A block of End Stone Bricks cracked in a furnace.",
+    "lore.trailiertales.chiseled_end_stone_bricks": "A block of End Stone Bricks with a chiseled pattern.",
+    "lore.trailiertales.choral_end_stone_bricks": "A decorative variant of End Stone Bricks found in End Cities.",
+  
+    "lore.trailiertales.cracked_purpur_block": "A block of Purpur Bricks cracked in a furnace.",
+    "lore.trailiertales.chiseled_purpur_block": "A block of Purpur Bricks with a chiseled pattern."
+
+}

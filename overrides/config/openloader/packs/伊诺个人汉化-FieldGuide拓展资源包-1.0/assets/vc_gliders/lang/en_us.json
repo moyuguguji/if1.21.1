@@ -1,0 +1,13 @@
+{
+  "item.vc_gliders.copper_upgrade.description": "An upgrade kit used in an Anvil to make your Glider lightning resistant.",
+  "item.vc_gliders.nether_upgrade.description": "An upgrade kit used in an Anvil to make your Glider Nether resistant.",
+  "item.vc_gliders.paraglider_diamond.description": "A durable glider that will slow your fall. Gain height from hot blocks!",
+  "item.vc_gliders.paraglider_gold.description": "A glider that will slow your fall. Gain height from hot blocks!",
+  "item.vc_gliders.paraglider_iron.description": "A glider that will slow your fall. Gain height from hot blocks!",
+  "item.vc_gliders.paraglider_netherite.description": "A glider that will slow your fall. Gain height from hot blocks!",
+  "item.vc_gliders.reinforced_paper.description": "A crafting ingredient and repair material for Wooden Paragliders.",
+  "item.vc_gliders.reinforced_paper_diamond.description": "A crafting ingredient and repair material for Wooden Paragliders.",
+  "item.vc_gliders.reinforced_paper_gold.description": "A crafting ingredient and repair material for Golden Paragliders.",
+  "item.vc_gliders.reinforced_paper_iron.description": "A crafting ingredient and repair material for Iron Paragliders.",
+  "item.vc_gliders.reinforced_paper_netherite.description": "A crafting ingredient and repair material for Netherite Paragliders."
+}

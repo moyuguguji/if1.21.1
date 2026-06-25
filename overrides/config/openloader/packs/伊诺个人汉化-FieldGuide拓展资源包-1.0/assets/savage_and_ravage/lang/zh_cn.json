@@ -1,0 +1,23 @@
+{
+  "block.savage_and_ravage.spore_bomb.description": "一个被点燃时会产生巨大孢子爆炸的方块，会生成敌对附近任何生物的小苦力怕。",
+  "block.savage_and_ravage.spore_sack.description": "一袋苦力怕孢子。",
+  "block.savage_and_ravage.gloomy_tiles.description": "一种由幻翼膜和石砖制成的方块。常见于掠夺者前哨站。",
+  "block.savage_and_ravage.runed_gloomy_tiles.description": "一种覆盖着灾厄村民语言符文的阴暗瓦片，踩上时会召唤唤魔尖牙并给予玩家沉重效果。",
+  "item.savage_and_ravage.blast_proof_plating.description": "一种由苦力怕孢子和金锭制成的抗爆炸方块。用于制作防爆方块和灾厄套装。",
+  "item.savage_and_ravage.griefer_helmet.description": "一件由爆炸防护板制成的盔甲，会以消耗盔甲耐久度为代价来减少爆炸造成的伤害。附有爆炸保护的灾厄套装将减少损失的耐久度。",
+  "item.savage_and_ravage.griefer_chestplate.description": "一件由爆炸防护板制成的盔甲，会以消耗盔甲耐久度为代价来减少爆炸造成的伤害。附有爆炸保护的灾厄套装将减少损失的耐久度。",
+  "item.savage_and_ravage.griefer_leggings.description": "一件由爆炸防护板制成的盔甲，会以消耗盔甲耐久度为代价来减少爆炸造成的伤害。附有爆炸保护的灾厄套装将减少损失的耐久度。",
+  "item.savage_and_ravage.griefer_boots.description": "一件由爆炸防护板制成的盔甲，会以消耗盔甲耐久度为代价来减少爆炸造成的伤害。附有爆炸保护的灾厄套装将减少损失的耐久度。",
+  "item.savage_and_ravage.creeper_spores.description": "一种可以合成爆炸防护板、灾厄箭矢和孢子炸弹，或投掷出去以生成忠于玩家的小苦力怕的物品，至少能持续到它们长大为止。当苦力怕死于爆炸时掉落。",
+  "item.savage_and_ravage.mask_of_dishonesty.description": "一副戴上后在潜行时会让你完全隐身的面具。由诡诈者掉落。",
+  "item.savage_and_ravage.mischief_arrow.description": "一支会在其落点生成一只忠于玩家的小苦力怕的箭矢。",
+  "item.savage_and_ravage.conch_of_conjuring.description": "一个右键点击后会在地面上召唤出一排唤魔尖牙，然后进入冷却时间的物品。由唤魔者稀有地掉落。",
+  "item.savage_and_ravage.wand_of_freezing.description": "一个使用时会在生物头顶召唤一块巨大的魔法冰块，停留片刻后砸落在它们身上的物品。对地面使用时，冰块会立即落下。由冰术师稀有地掉落。",
+  "item.savage_and_ravage.cleaver_of_beheading.description": "一把刽子手使用的巨型利刃。被这把武器杀死的玩家有很高的概率掉落自己的头颅。由刽子手稀有地掉落。",
+  "entity.savage_and_ravage.griefer.description": "一种在袭击中生成的中坚灾厄村民，会向玩家投掷苦力怕孢子召唤小苦力怕进行攻击。死亡时掉落苦力怕孢子与火药，有小概率掉落破损的破坏者盔甲。",
+  "entity.savage_and_ravage.trickster.description": "一种狡诈的灾厄村民，会发射闪光造成失明和虚弱，并与目标交换位置；还能在目标脚下召唤符文监狱施加沉重效果。受到致命远程伤害时会触发类似不死图腾的效果自救并瞬移，死亡时掉落不死图腾或虚伪面具。",
+  "entity.savage_and_ravage.executioner.description": "一种手持巨型枭首劈刀的灾厄村民，攻击方式与卫道士类似但伤害极高。被它杀死的玩家有很高概率掉落自己的头颅，死亡时小概率掉落手上的枭首劈刀。",
+  "entity.savage_and_ravage.iceologer.description": "一种仅在寒冷群系生成的灾厄村民，会召唤冰云使目标陷入缓慢。尽管不会在袭击中自然生成，但它们也会主动参与袭击。死亡时掉落绿宝石，小概率掉落冰冻法杖。",
+  "entity.savage_and_ravage.skeleton_villager.description": "一种在僵尸村庄和恶地生成、手持弩箭的骷髅化村民。会主动攻击玩家和正常村民，且永远无法被治愈变回正常村民。",
+  "entity.savage_and_ravage.creepie.description": "一种小型的苦力怕幼体，可由玩家或破坏者投掷苦力怕孢子生成。敌对小苦力怕会自爆攻击玩家但不破坏方块，忠于玩家的小苦力怕会跟随主人并在主人受击时冲上前自爆。使用骨粉可加速其生长，但长大后会失去忠诚度并变成普通的敌对苦力怕。"
+}

@@ -1,0 +1,12 @@
+{
+    "lore.amarong.amarong_core": "一个可以放置在信标上使其呈现彩虹色的方块。与之互动可更改色彩组合。",
+    "lore.amarong.amarong_boomerang": "一种均衡的武器，可以投向远处的目标，然后返回你手中。",
+    "lore.amarong.amarong_chunk": "一种通过切割回音核心制成的合成材料，可用于制作各种工具。",
+    "lore.amarong.amarong_hammer": "一种既可当镐又可当锤子使用的工具。当此物品附有“旋转”附魔并使用它时，锤子会击中使用者周围两格内的实体。",
+    "lore.amarong.amarong_kaleidoscope": "一种使用时应用着色器效果的工具。",
+    "lore.amarong.amarong_sheet": "一种用于制作各种工具的合成材料。",
+    "lore.amarong.amarong_staff": "一种能增加所装备物品触及距离的工具。在物品栏中右键单击可将物品放上/取下法杖。",
+    "lore.amarong.amarong_ticket_dispenser": "一种像射弹一样发射票券的工具。在物品栏中用票券右键单击以装填。",
+    "lore.amarong.amarong_verylongsword": "一种双手武器，造成巨额伤害，但以极慢的攻击速度来平衡。成功命中后会充能。",
+    "lore.amarong.somewhat_a_duck": "一种可以吸收水并再射出去的工具。"
+}

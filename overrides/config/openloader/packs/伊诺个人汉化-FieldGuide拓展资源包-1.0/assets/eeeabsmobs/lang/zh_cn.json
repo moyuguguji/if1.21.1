@@ -1,0 +1,19 @@
+{
+  "entity.eeeabsmobs.immortal_skeleton.description": "不朽军团的低阶亡灵，拥有战士、弓兵、法师等多种职业，持盾时会格挡正面攻击。",
+  "entity.eeeabsmobs.immortal_knight.description": "不朽军团的小队长，攻击附带侵蚀效果，会指挥附近不朽骷髅并周期性吼叫强化友军。",
+  "entity.eeeabsmobs.immortal_shaman.description": "不朽军团的精英法师，发射可被反弹的巫师炸弹，能召唤不朽骷髅、释放冲击波并治疗自身。",
+  "entity.eeeabsmobs.immortal_golem.description": "不朽法师召唤的快速近战傀儡，概率携带TNT自爆，存活时间有限。",
+  "entity.eeeabsmobs.immortal.description": "征服无数维度的不朽军团首领，拥有动态减伤与伤害适应能力，拳击撼地且招式连段随血量提升。",
+  "entity.eeeabsmobs.immortal_executioner.description": "不朽军团的精英近战单位，攻击附带百分比生命伤害与侵蚀，可突进至目标身后。",
+  "entity.eeeabsmobs.corpse.description": "古陵中生成的敌对亡灵，会攻击村民与僵尸并将其转化为同类，能沿方块向上攀爬。",
+  "entity.eeeabsmobs.corpse_villager.description": "被死尸击杀的村民转化而来，行为与特性同死尸一致。",
+  "entity.eeeabsmobs.relic_ripper.description": "机核哨站的遗迹机兵，沉睡时回血，激活后用锯刃连锯、大回环与震地攻击入侵者。",
+  "entity.eeeabsmobs.relic_observer.description": "机核哨站的侦察机兵，会释放电场反伤并点燃敌人，蓄力后发射守卫者激光。",
+  "entity.eeeabsmobs.corpse_warlock.description": "血色祭坛的亡灵精英，操纵尸体召唤死尸，可狂化仆从、撕裂空间并释放腥红射线。",
+  "entity.eeeabsmobs.relic_earthshaker.description": "机核哨站的精英机兵，发射脉冲榴弹与电磁场，能擒拿目标并重砸地面，濒死时向前倒地。",
+  "entity.eeeabsmobs.nameless_guardian.description": "古陵深处的远古战争机器，挥动巨斧连击并震地，血量低于60%进入增幅状态，释放强力撼地后虚弱。",
+  "entity.eeeabsmobs.realm_warden.description": "机核哨站的传奇机兵首领，半血后进入二阶段，感电叠加增伤，使用连拳、践踏与歼灭导弹猛攻。",
+  "entity.eeeabsmobs.relic_annihilator.description": "机核哨站的高机动机兵首领，电锯连锯与导弹压制，发射激光时暴露弱点，击中可致其瘫痪。",
+  "entity.eeeabsmobs.guling_sentinel.description": "地下结构中的巡逻机兵，休眠时免疫弹射物，激活后蓄力发射点燃目标的激光。",
+  "entity.eeeabsmobs.guling_sentinel_heavy.description": "远古攻防型重机兵，发射榴弹并释放电磁脉冲，过载时攻击附带火焰，死亡时向前重砸。"
+}

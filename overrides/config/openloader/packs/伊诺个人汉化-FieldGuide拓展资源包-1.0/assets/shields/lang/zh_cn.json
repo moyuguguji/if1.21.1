@@ -1,0 +1,12 @@
+{
+    "lore.shields.plated_shield": "一种强化、更沉重的盾牌，在副手使用时可格挡攻击。此物品可以用旗帜装饰。",
+    "lore.shields.plated_gold_shield": "一种强化、更沉重的盾牌，在副手使用时可格挡攻击。此物品可以用旗帜装饰。",
+    "lore.shields.plated_netherite_shield": "一种强化、更沉重的盾牌，在副手使用时可格挡攻击。此物品可以用旗帜装饰。",
+    "lore.shields.plated_copper_shield": "一种强化、更沉重的盾牌，在副手使用时可格挡攻击。此物品可以用旗帜装饰。",
+    "lore.shields.shield_plating": "一种可用于升级你的盾牌的镀层，提升盾牌的耐久度，但也会让它变得更加沉重。",
+    "lore.shields.gold_shield_plating": "一种可用于升级你的盾牌的镀层，提升盾牌的耐久度，但也会让它变得更加沉重。",
+    "lore.shields.diamond_shield_plating": "一种可用于升级你的盾牌的镀层，提升盾牌的耐久度，但也会让它变得更加沉重。",
+    "lore.shields.netherite_shield_plating": "一种可用于升级你的盾牌的镀层，提升盾牌的耐久度，但也会让它变得更加沉重。",
+    "lore.shields.copper_shield_plating": "一种可用于升级你的盾牌的镀层，提升盾牌的耐久度，但也会让它变得更加沉重。",
+    "lore.shields.shield_repair_kit": "一套用于紧急情况下修理盾牌的修补工具，但会随时间降低盾牌的耐久度上限。"
+}

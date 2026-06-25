@@ -1,0 +1,33 @@
+{
+  
+  "entity.environmental.x.description": ".",
+  "entity.environmental.yak.description": "A hardy Bovine found in Windswept Hills, Meadows and Tundras, can be shorn for their hair but watch out! They won't be happy when you do.",
+  "entity.environmental.koi.description": "A fish found within the waters of a Cherry Grove, hostile mobs cannot spawn within a radius around Koi, the Serenity effect you gain from being near them will tell you when you are within that radius.",
+  "entity.environmental.pinecone_golem.description": "A Golem made of Pinecones, when given a sapling it will start seeking other saplings of that type and plant them on nearby blocks.",
+  "entity.environmental.deer.description": "An animal native to forests. Deer can be made to trust the player by feeding them Carrots or any type of Apples. Can be bred with Carrots",
+  "entity.environmental.reindeer.description": "A deer native to colder biomes like Taiga and Tundras. Reindeer can be made to trust a player by feeding them Cup Lichen, Carrots or any type of Apples while sneaking. They can be bred with Cup Lichen or Carrots.",
+  "entity.environmental.duck.description": "A passive, semi-aquatic bird found in rivers and swamps. Will drop feathers and occasionally lay eggs.",
+  "entity.environmental.slabfish.description": "A passive Fish (?) found in Swamps that can be tamed with Tropical Fish. Tamed Slabfish can be given wool to gain unique sweaters and given chests to gain a backpack.",
+  "entity.environmental.tapir.description": "A passive mob found in Jungles.",
+  "entity.environmental.zebra.description": "A horse relative that spawn within large groups in Savannas. They can be ridden to tame them but you risk being kicked when they buck you off. Tamed Zebras will trample any mob you run into.",
+  "entity.environmental.zorse.description": "A hybrid of a Zebra and Horse.",
+  "entity.environmental.zonkey.description": "A hybrid of a Zebra and Donkey.",
+  
+  "item.environmental.x.description": ".",
+  "item.environmental.yak_hair.description": "Hair sheared from a Yak.",
+  "item.environmental.mud_ball.description": "A ball of Mud, can be thrown.",
+  "item.environmental.cherries.description": "Small fruits that drop from Cherry Leaves.",
+  "item.environmental.venison.description": "Raw Meat dropped from a Deer or Reindeer.",
+  "item.environmental.cooked_venison.description": "Cooked Meat from a Deer or Reindeer.",
+  "item.environmental.duck_egg.description": "Egg from a Duck.",
+  "item.environmental.duck.description": "A whole Raw Duck.",
+  "item.environmental.cooked_duck.description": "A fully Cooked Duck.",
+  "item.environmental.koi.description": "A fish that can be eaten to restore a small amount of Saturation.",
+  "item.environmental.truffle.description": "A rare forest delicacy that can be found by feeding a Pig a Golden Carrot and having them lead you to one buried under dirt.",
+  "item.environmental.cattail.description": "Found along rivers and can be Bone Mealed to grow harvestable fluff.",
+  "item.environmental.cattail_fluff.description": "Can be crafted into string.",
+  "item.environmental.slabfish_bucket.description": "A bucket with a Slabfish inside.",
+  "item.environmental.koi_bucket.description": "A bucket with a Koi inside.",
+  "item.environmental.yak_pants.description": "Pants made from the hair of a Yak, will increase your blockstep height when worn."
+  
+}

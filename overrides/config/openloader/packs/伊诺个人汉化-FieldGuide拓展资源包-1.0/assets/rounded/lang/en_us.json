@@ -1,0 +1,16 @@
+{
+    "lore.rounded.lustershroom": "A magical mushroom that can be grown with Bone Meal.",
+    "lore.rounded.lustershroom_block": "A magical block that can be crafted into Luster Clusters.",
+    "lore.rounded.luster_cluster": "A block that provides Enchantment Power to nearby Enchanting Tables, allowing for higher level enchantments.",
+    "lore.rounded.trough": "A functional block that animals can graze on to heal and grow faster.",
+    "lore.rounded.smooth_prismarine": "A block of Prismarine that has been smelted to a point where it has become perfectly smooth.",
+    "lore.rounded.chiseled_prismarine_bricks": "A block of Prismarine Bricks with a chiseled pattern.",
+    "lore.rounded.prismarine_lantern": "A block that provides a light source. It can be hung from the ceiling or placed on the ground.",
+    "lore.rounded.dead_bladderwrack": "A decorative block created by placing Bladderwrack out of water.",
+    "lore.rounded.bladderwrack": "A decorative block that dies out of water.",
+    "lore.rounded.dead_bladderwrack_block": "A decorative block created by placing a Bladderwrack Block out of water.",
+    "lore.rounded.bladderwrack_block": "A decorative block that dies out of water.",
+    "lore.rounded.moisture_detector": "A block that provides Redstone Power as long as its top surface is wet.",
+    "tag.rounded.treated_planks.description": "A waxed plank that mobs cannot walk over."
+  
+  }

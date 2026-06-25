@@ -1,0 +1,8 @@
+{
+  "entity.biomesoplenty.snail.description": "沼泽中的罕见被动生物，缓慢爬行，没有攻击性。",
+  "entity.biomesoplenty.pixie.description": "魔法森林夜间出现的发光被动生物，发出好听音效，掉落妖精之尘。",
+  "entity.biomesoplenty.roster.description": "花园中的鸡形生物，走过的草方块长出罂粟，可用种子吸引。",
+  "entity.biomesoplenty.wasp.description": "下界蜂巢旁的敌对飞行生物，攻击靠近巢穴的玩家。",
+  "entity.biomesoplenty.ghastly.description": "下界漂浮的黑色雾团，受伤时发红光，击杀掉落幽魂灵魂。",
+  "entity.biomesoplenty.mudslime.description": "泥沼中生成的史莱姆变种，击杀掉落粘液球和泥球。"
+}

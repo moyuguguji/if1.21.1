@@ -1,0 +1,21 @@
+{
+    "block.happierghasts.dried_ghast.description": "一块干枯的恶魂遗骸，持续浸泡在水中会缓慢再生为乐魂幼体。",
+    "entity.happierghasts.happy_ghast.description": "由干枯的恶魂培育而成的友好飞行生物，可用雪球引诱，装上鞍具即可骑乘它翱翔天际。",
+    "entity.happierghasts.ghastling.description": "由干枯的恶魂在水中浸泡后复生的幼体，会跟随手持雪球的玩家，用雪球可以加快它的成长速度。",
+    "item.happierghasts.black_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.blue_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.brown_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.cyan_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.gray_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.green_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.light_blue_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.light_gray_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.lime_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.magenta_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.orange_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.pink_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.purple_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.red_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.white_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。",
+    "item.happierghasts.yellow_harness.description": "一个可以给乐魂装备以让你骑乘它们的物品。"
+}

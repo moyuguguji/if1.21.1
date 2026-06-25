@@ -1,0 +1,13 @@
+{
+  "item.vc_gliders.copper_upgrade.description": "一种在铁砧中使用的升级套件，可使你的滑翔伞获得抗雷击能力。",
+  "item.vc_gliders.nether_upgrade.description": "一种在铁砧中使用的升级套件，可使你的滑翔伞获得抗下界环境能力。",
+  "item.vc_gliders.paraglider_diamond.description": "一种耐用的滑翔伞，能减缓你的下落速度。可通过热方块获得升力！",
+  "item.vc_gliders.paraglider_gold.description": "一种滑翔伞，能减缓你的下落速度。可通过热方块获得升力！",
+  "item.vc_gliders.paraglider_iron.description": "一种滑翔伞，能减缓你的下落速度。可通过热方块获得升力！",
+  "item.vc_gliders.paraglider_netherite.description": "一种滑翔伞，能减缓你的下落速度。可通过热方块获得升力！",
+  "item.vc_gliders.reinforced_paper.description": "一种合成材料，也是木质滑翔伞的修复材料。",
+  "item.vc_gliders.reinforced_paper_diamond.description": "一种合成材料，也是木质滑翔伞的修复材料。",
+  "item.vc_gliders.reinforced_paper_gold.description": "一种合成材料，也是金质滑翔伞的修复材料。",
+  "item.vc_gliders.reinforced_paper_iron.description": "一种合成材料，也是铁质滑翔伞的修复材料。",
+  "item.vc_gliders.reinforced_paper_netherite.description": "一种合成材料，也是下界合金滑翔伞的修复材料。"
+}

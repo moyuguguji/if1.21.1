@@ -1,0 +1,60 @@
+{
+	"tag.blockbox.palisades.description": "A fencelike block that can be carved with a Sword.",
+	"tag.blockbox.spiked_palisades.description": "A sharp block that damages and ensnares mobs that walk upon it.",
+	"lore.blockbox.granite_bricks": "A decorative block that has been carved into bricks.",
+	"lore.blockbox.diorite_bricks": "A decorative block that has been carved into bricks.",
+	"lore.blockbox.andesite_bricks": "A decorative block that has been carved into bricks.",
+	"lore.blockbox.sandstone_bricks": "A decorative block that has been carved into bricks.",
+	"lore.blockbox.red_sandstone_bricks": "A decorative block that has been carved into bricks.",
+	"lore.blockbox.tiles": "A tiled block made from Clay.",
+	"lore.blockbox.broken_tile_mosaic": "A decorative block that has been carved into a mosaic.",
+
+	"lore.blockbox.packed_snow": "A solid block of Snow.",
+	"lore.blockbox.carved_snow": "A snow block with a friendly face.",
+	"lore.blockbox.snow_bricks": "A decorative block that has been carved into bricks.",
+	"lore.blockbox.polished_packed_ice": "A block of Packed Ice that has been polished.",
+	"lore.blockbox.packed_ice_bricks": "A decorative block that has been carved into bricks.",
+	"lore.blockbox.polished_obsidian": "A decorative block that is used to build Nether Portals.",
+
+	"lore.blockbox.rough_glass": "A block that may make for a nice window.",
+	"lore.blockbox.rough_glass_pane": "A block that may make for a nice windowpane.",
+
+	"lore.blockbox.copper_bars": "A decorative barrier block made of Copper. It must be waxed to prevent it from oxidizing.",
+	"lore.blockbox.exposed_copper_bars": "A decorative barrier that has been left alone until it has become exposed. It has been waxed to protect its patina.",
+	"lore.blockbox.weathered_copper_bars": "A decorative barrier that has has partially oxidized. It can be waxed to protect its patina.",
+	"lore.blockbox.oxidized_copper_bars": "A decorative barrier that was left to fully oxidize. It can be waxed to protect its patina.",
+	"lore.blockbox.waxed_copper_bars": "A decorative barrier block. It has been waxed to prevent any oxidization.",
+	"lore.blockbox.waxed_exposed_copper_bars": "A decorative barrier block that has begun to oxidize. It has been waxed to protect its patina.",
+	"lore.blockbox.waxed_weathered_copper_bars": "A decorative barrier block that has partially oxidized.  It has been waxed to protect its patina.",
+	"lore.blockbox.waxed_oxidized_copper_bars": "A decorative barrier that was left to fully oxidize. It has since been waxed to protect its patina.",
+	"lore.blockbox.copper_pillar": "A decorative block made of Copper. It must be waxed to prevent it from oxidizing.",
+	"lore.blockbox.exposed_copper_pillar": "A decorative block that has been left alone until it has become exposed. It has been waxed to protect its patina.",
+	"lore.blockbox.weathered_copper_pillar": "A decorative block that has has partially oxidized. It can be waxed to protect its patina.",
+	"lore.blockbox.oxidized_copper_pillar": "A decorative block that was left to fully oxidize. It can be waxed to protect its patina.",
+	"lore.blockbox.waxed_copper_pillar": "A decorative block. It has been waxed to prevent any oxidization.",
+	"lore.blockbox.waxed_exposed_copper_pillar": "A decorative block that has begun to oxidize. It has been waxed to protect its patina.",
+	"lore.blockbox.waxed_weathered_copper_pillar": "A decorative block that has partially oxidized.  It has been waxed to protect its patina.",
+	"lore.blockbox.waxed_oxidized_copper_pillar": "A decorative block that was left to fully oxidize. It has since been waxed to protect its patina.",
+
+	"lore.blockbox.iron_plate": "A decorative block of Iron.",
+	"lore.blockbox.iron_tread_plate": "A decorative block of Iron.",
+	"lore.blockbox.corrugated_iron_plate": "A decorative block of Iron.",
+	"lore.blockbox.iron_plate_pillar": "A block of Iron that has been carved into a Pillar.",
+
+	"lore.blockbox.chiseled_gold": "A block of Gold that has been chiseled.",
+	"lore.blockbox.golden_tiles": "A block of Gold that has been carved into Tiles.",
+	"lore.blockbox.golden_bricks": "A block of Gold that has been carved into Bricks.",
+	"lore.blockbox.golden_pillar": "A block of Gold that has been carved into a Pillar.",
+	"lore.blockbox.golden_bars": "A block that can be used as a decorative barrier, suitable for windows and railings.",
+
+	"lore.blockbox.polished_amethyst": "A block of Amethyst that has been polished.",
+	"lore.blockbox.cut_amethyst": "A block of Amethyst that has been cut.",
+	"lore.blockbox.amethyst_mosaic": "A decorative block that has been carved into a mosaic.",
+
+	"lore.blockbox.lapis_lazuli_bricks": "A decorative block that has been carved into bricks.",
+	"lore.blockbox.lapis_lazuli_mosaic": "A decorative block that has been carved into a mosaic.",
+
+	"tag.blockbox.wooden_seats.description": "A comfortable block that can be sat upon.",
+	"tag.blockbox.braziers.description": "A light-emitting block that burns mobs that stand on it.",
+	"tag.blockbox.sky_lanterns.description": "A light-emitting block that can be placed in midair."
+}

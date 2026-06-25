@@ -1,0 +1,8 @@
+{
+	"lore.mmdollhouse.clue": "A block that tells you information about the current mystery when interacted with.",
+	"lore.mmdollhouse.decision": "A block that allows you to enter your guess for the current mystery when interacted with.",
+	"lore.mmdollhouse.dollhouse": "A block that transports you to a mystery when interacted with.",
+	"lore.mmdollhouse.safe": "A block that is locked by a combination, that tells you information about the current mystery when unlocked.",
+	"lore.mmdollhouse.test": "Test!"
+	
+}

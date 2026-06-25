@@ -1,0 +1,11 @@
+{
+    "entity.more_than_a_foxbox.box_seat.description": "一个你可以坐在里面的舒适箱子！",
+    "lore.more_than_a_foxbox.cardboard": "一种用于制作箱子的材料。",
+    "lore.more_than_a_foxbox.cardboard_box": "一个可以容纳玩家和毛绒玩具的箱子。",
+    "lore.more_than_a_foxbox.plushie": "一只可爱的毛绒玩具！可以与它互动来揉捏。",
+    "lore.more_than_a_foxbox.polyfill": "一种用于制作毛绒玩具的材料。",
+    "lore.more_than_a_foxbox.polyfill_block": "一种由填充棉制成的装饰性方块。",
+    "lore.more_than_a_foxbox.sewing_table": "一个用于制作毛绒玩具的方块。",
+    "lore.more_than_a_foxbox.speaker": "一种能发出自定义音效的毛绒玩具部件。",
+    "lore.more_than_a_foxbox.squeaker": "一种能发出声音的毛绒玩具部件。"
+}

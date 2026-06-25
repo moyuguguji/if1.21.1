@@ -1,0 +1,10 @@
+{
+  "entity.hellstone_golem.hellstone_imp.description": "An undead hostile mob found in the Nether Wastes that ignites on hit. Has a rare chance of dropping Hellstone Nuggets.",
+  "entity.hellstone_golem.hellstone_golem.description": "A hostile mob that attacks by slamming the ground, creating shockwaves, as well as flinging up a hail of explosive debris, all of which inflict a unique type of burning effect. Highly resistant to melee damage but susceptible to ranged damage. The boss of the ruins it inhabits.",
+  "lore.hellstone_golem.raw_hellstone": "An ore that can be blasted into a Hellstone Ingot.",
+  "lore.hellstone_golem.raw_hellstone_block": "A solid block of Raw Hellstone.",
+  "lore.hellstone_golem.hellstone_nugget": "An item that can combine into a Hellstone Ingot. Rarely dropped by Hellstone Imps.",
+  "lore.hellstone_golem.hellstone_block": "A solid block of Hellstone.",
+  "lore.hellstone_golem.hellstone_ingot": "An igneous ingot that can be used to craft infernal equipment.",
+  "lore.hellstone_golem.hellstone_totem": "An item that works similarly to a Totem of Undying in that it allows one to cheat death, the difference being that it instead grants Fire Resistance on the user as well as a unique burning debuff on nearby mobs upon usage."
+}

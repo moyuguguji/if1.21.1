@@ -1,0 +1,10 @@
+{
+  "entity.hellstone_golem.hellstone_imp.description": "一种在下界荒地发现的亡灵敌对生物，攻击时会点燃目标。有较稀有的概率掉落狱岩粒。",
+  "entity.hellstone_golem.hellstone_golem.description": "一种通过猛击地面产生冲击波并掀起爆炸碎片进行攻击的敌对Boss，所有攻击都会施加一种独特的灼烧效果。对近战伤害有极高的抗性，但对远程伤害较为脆弱。盘踞于它栖身的遗迹之中。",
+  "lore.hellstone_golem.raw_hellstone": "一种可以在高炉中熔炼成狱岩锭的矿石。",
+  "lore.hellstone_golem.raw_hellstone_block": "一个实心的粗狱岩方块。",
+  "lore.hellstone_golem.hellstone_nugget": "一种可以合成为狱岩锭的物品。由狱岩小妖较稀有地掉落。",
+  "lore.hellstone_golem.hellstone_block": "一个实心的狱岩方块。",
+  "lore.hellstone_golem.hellstone_ingot": "一种可用于制作狱火装备的火成锭。",
+  "lore.hellstone_golem.hellstone_totem": "一个功能类似不死图腾的物品，可以让你逃脱死亡，区别在于使用时会为使用者提供火焰抗性，并对附近的生物施加一种独特的灼烧减益。"
+}

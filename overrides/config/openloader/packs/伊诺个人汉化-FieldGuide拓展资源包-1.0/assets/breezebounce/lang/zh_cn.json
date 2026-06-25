@@ -1,0 +1,7 @@
+{
+  "lore.breezebounce.inflation_machine": "一个功能性方块，只要为其填充风弹作为燃料，它就能让附近的弹跳方块保持充气状态。",
+  "tag.breezebounce.bounce_blocks.description": "一种注入了风弹的弹跳方块！",
+  "tag.breezebounce.bounce_stairs.description": "一种注入了风弹的弹跳楼梯！",
+  "tag.breezebounce.bounce_slabs.description": "一种注入了风弹的弹跳台阶！",
+  "tag.breezebounce.bounce_walls.description": "一种注入了风弹的弹跳墙！"
+}

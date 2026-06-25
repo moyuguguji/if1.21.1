@@ -1,0 +1,23 @@
+{
+    "entity.rapscallionsandrockhoppers.penguin.description": "A passive mob found in Stony Shores and Frozen Oceans that speeds up your boat when fed fish.",
+  
+    "lore.rapscallionsandrockhoppers.penguin_egg": "An egg that will eventually hatch into a baby Penguin.",
+  
+    "lore.rapscallionsandrockhoppers.boat_hook": "A tool that can be used to link boats together or to players.",
+    "lore.rapscallionsandrockhoppers.fish_bones": "A crafting ingredient obtained from feeding Penguins that can be used to make Boat Hooks or Bone Meal.",
+    "lore.rapscallionsandrockhoppers.fish_scale": "A crafting ingredient obtained from feeding Penguins that can be used to make Potions",
+    
+    "lore.rapscallionsandrockhoppers.seahorse_fish_scale_block": "A decorative block made from fish scales and vibrant dye.",
+    "lore.rapscallionsandrockhoppers.eel_fish_scale_block": "A decorative block made from fish scales and vibrant dye.",
+    "lore.rapscallionsandrockhoppers.jellyfish_fish_scale_block": "A decorative block made from fish scales and vibrant dye.",
+    "lore.rapscallionsandrockhoppers.shark_fish_scale_block": "A decorative block made from fish scales and vibrant dye.",
+  
+    "lore.minecraft.potion.effect.rapscallionsandrockhoppers.floating": "An item that can be drunk to make the user rise to the surface of water.",
+    "lore.minecraft.splash_potion.effect.rapscallionsandrockhoppers.floating": "An item that can be thrown to make the target rise to the surface of water.",
+    "lore.minecraft.tipped_arrow.effect.rapscallionsandrockhoppers.floating": "An arrow that makes the target rise to the surface of water on hit.",
+    "lore.minecraft.lingering_potion.effect.rapscallionsandrockhoppers.floating": "An item that can be thrown to make targets in an area rise to the surface of water.",
+    "lore.minecraft.potion.effect.rapscallionsandrockhoppers.sinking": "An item that can be drunk to make the user sink to the ocean depths.",
+    "lore.minecraft.splash_potion.effect.rapscallionsandrockhoppers.sinking": "An item that can be thrown to make the target sink to the ocean depths.",
+    "lore.minecraft.tipped_arrow.effect.rapscallionsandrockhoppers.sinking": "An arrow that makes the target sink to the ocean depths on hit.",
+    "lore.minecraft.lingering_potion.effect.rapscallionsandrockhoppers.sinking": "An item that can be thrown to make targets in an area sink to the ocean depths."
+  }

@@ -1,0 +1,7 @@
+{
+    "lore.mmdollhouse.clue": "一种在互动时会向你透露当前谜案相关信息的方块。",
+    "lore.mmdollhouse.decision": "一种在互动时允许你对当前谜案进行猜测的方块。",
+    "lore.mmdollhouse.dollhouse": "一种在互动时能将你带入一桩谜案中的方块。",
+    "lore.mmdollhouse.safe": "一种被密码锁锁定的方块，解锁后会向你透露当前谜案的相关信息。",
+    "lore.mmdollhouse.test": "测试！"
+}

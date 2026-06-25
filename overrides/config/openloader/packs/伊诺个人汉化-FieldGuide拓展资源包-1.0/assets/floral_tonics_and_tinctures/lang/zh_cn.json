@@ -1,0 +1,23 @@
+{
+  "lore.floral_tonics_and_tinctures.herbalism_table": "一个用于从植物中调制补剂与酊剂的工作站。",
+  "lore.floral_tonics_and_tinctures.herbalism_kit": "一个兼具存储与便携工作站功能的物品，能存放大量补剂及其合成材料，包括瓶子和额外原料。",
+  "lore.floral_tonics_and_tinctures.fire_lily": "一种生长于热带草原和稀疏丛林的花，可合成为橙色染料或种植在花盆中。用于制作炽焰补剂。",
+  "lore.floral_tonics_and_tinctures.heather": "一种生长于针叶林、草甸及寒冷生物群系的花，可合成为粉色染料或种植在花盆中。用于制作寒霜补剂。",
+  "lore.floral_tonics_and_tinctures.milkweed": "一种生长于沼泽的花，可合成为白色染料或种植在花盆中。用于制作净化补剂。",
+  "lore.floral_tonics_and_tinctures.moly": "一种罕见地生长于丘陵和山地等高海拔生物群系的花，可种植在花盆中，也可用于制作魔法抗性补剂。",
+  "lore.floral_tonics_and_tinctures.lavadrop": "一种生长于下界荒地和玄武岩三角洲的花，可合成为岩浆膏或种植在花盆中。用于制作爆裂酊剂。",
+  "lore.floral_tonics_and_tinctures.midas_fingers": "一种生长于绯红森林和诡异森林的花，可合成为金粒或种植在花盆中。用于制作淘金补剂。当心，别让猪灵看见你破坏它们！",
+  "lore.floral_tonics_and_tinctures.stella": "一种生长于末地的花，可种植在花盆中，也可用于制作抗性补剂。",
+  "lore.floral_tonics_and_tinctures.clover_patch": "一片草本植物丛，破坏时有极低概率掉落四叶草。用于制作远足补剂。",
+  "lore.floral_tonics_and_tinctures.four_leaf_clover": "三叶草丛的罕见掉落物，可用于酿造幸运药水。",
+  "lore.floral_tonics_and_tinctures.tonic": "服用后为使用者施加一个短时效的增益效果（补剂）或减益效果（酊剂）。可转化为药箭或药水以延长状态效果的持续时间。",
+  "effect.floral_tonics_and_tinctures.fiery.desc": "使你手中持有的物品自动烹饪/熔炼，并点燃生物。",
+  "effect.floral_tonics_and_tinctures.floral_scent.desc": "被动安抚附近的敌对生物，直到它们受到攻击为止。",
+  "effect.floral_tonics_and_tinctures.frosty.desc": "冻结实体及其走过处附近的水面。",
+  "effect.floral_tonics_and_tinctures.gold_rush.desc": "大幅增强金制工具与盔甲，使其更有效并减缓耐久度损失。",
+  "effect.floral_tonics_and_tinctures.magic_resistance.desc": "使你免疫魔法伤害，并能驱散恼鬼。",
+  "effect.floral_tonics_and_tinctures.prickly.desc": "使攻击你的生物受到反伤。",
+  "effect.floral_tonics_and_tinctures.purifying.desc": "清除你身上的所有负面药水效果，并允许你通过攻击或互动来移除其他实体身上的任何药水效果。对于已驯服的实体，你只会移除负面效果。",
+  "effect.floral_tonics_and_tinctures.volatility.desc": "效果到期时引发一场强力爆炸。",
+  "effect.floral_tonics_and_tinctures.wayfaring.desc": "在受影响实体身后留下一条持续很久的发光金叶轨迹，使其得以循迹返回。"
+}

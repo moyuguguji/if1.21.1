@@ -1,0 +1,6 @@
+{
+  "block.inferno.charred_log.description": "一种可作为绝佳燃料来源的原木方块。",
+  "block.inferno.scorched_earth.description": "一种施肥后能长出多种新植物的土壤方块。该方块最终会在雨中自愈。",
+  "entity.inferno.shining_oak_chest_raft.description": "一种自带储物空间的单人木筏。",
+  "entity.inferno.shining_oak_raft.description": "一种可搭载两名乘客的木筏，用于穿行河流与海洋。"
+}

@@ -1,0 +1,24 @@
+{
+    "lore.computercraft.computer_normal": "A block that that can be used to write code, play games, and automate your base.",
+    "lore.computercraft.computer_advanced": "A block that that can be used to write code, play games, and automate your base. Now with a colour display!",
+    "lore.computercraft.turtle_normal": "A robot that can be programmed to explore your world, placing and breaking blocks, picking up and dropping items. Just add fuel!",
+     "lore.computercraft.turtle_advanced": "A robot that that can explore your world, placing and breaking blocks, picking up and dropping items. Just add fuel!",
+     "lore.computercraft.pocket_computer_normal": "An item that that can be used to write code, manage automations, or play games on the go.",
+     "lore.computercraft.pocket_computer_advanced": "An item that that can be used to write code, manage automations, or play games on the go. Now with a colour display!",
+     "lore.computercraft.printer": "A peripheral that can be used to print computer data when supplied with paper and dye.",
+     "lore.computercraft.speaker": "A peripheral that can be used to play notes or other sound effects.",
+     "lore.computercraft.monitor_normal": "A peripheral that can be used to display computer data on a larger screen.",
+     "lore.computercraft.monitor_advanced": "A peripheral that can be used to display computer data on a larger screen. Now with in colour!",
+     "lore.computercraft.redstone_relay": "A peripheral that can be used to read and output redstone signals.",
+     "lore.computercraft.cable": "A block that can be used to network computers or other peripherals together. Just attach it to a Wired Modem!",
+     "lore.computercraft.wired_modem": "A peripheral that can be used to network computers or other peripherals together. Just add cables!",
+     "lore.computercraft.wired_modem_full": "A peripheral that can be used to network computers or other peripherals together. Just add cables!",
+     "lore.computercraft.wireless_modem_normal": "A block that can be used to wirelessly network computers or turtles together.",
+     "lore.computercraft.wireless_modem_advanced": "A block that can be used to wirelessly network computers or turtles together.",
+     "lore.computercraft.disk": "An item that can be used to store data and transfer programs between computers or turtles.",
+     "lore.computercraft.printed_page": "A freshly printed sheet of paper, straight from the Printer.",
+     "lore.computercraft.printed_pages": "A collection of printed sheets of paper with loose binding.",
+     "lore.computercraft.printed_book": "A bundle of printed pages, bound together as a book."
+
+
+}

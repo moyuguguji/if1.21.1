@@ -1,0 +1,15 @@
+{
+    "lore.rounded.lustershroom": "一种可以用骨粉催生的魔法蘑菇。",
+    "lore.rounded.lustershroom_block": "一种可以被合成为辉光簇的魔法方块。",
+    "lore.rounded.luster_cluster": "一种能为附近的附魔台提供附魔能量，从而允许进行更高等级附魔的方块。",
+    "lore.rounded.trough": "一种功能性方块，动物可以从中取食来恢复生命并加快生长。",
+    "lore.rounded.smooth_prismarine": "一块被烧炼至极致光滑的海晶石。",
+    "lore.rounded.chiseled_prismarine_bricks": "一块带有錾制花纹的海晶石砖。",
+    "lore.rounded.prismarine_lantern": "一种提供光源的方块。它可以悬挂在天花板上或放置在地面上。",
+    "lore.rounded.dead_bladderwrack": "一种通过将囊藻放置在无水处而获得的装饰性方块。",
+    "lore.rounded.bladderwrack": "一种离开水就会死亡的装饰性方块。",
+    "lore.rounded.dead_bladderwrack_block": "一种通过将囊藻方块放置在无水处而获得的装饰性方块。",
+    "lore.rounded.bladderwrack_block": "一种离开水就会死亡的装饰性方块。",
+    "lore.rounded.moisture_detector": "一种只要其顶部表面湿润就会发出红石能量的方块。",
+    "tag.rounded.treated_planks.description": "一种生物无法在其上行走的涂蜡木板。"
+}

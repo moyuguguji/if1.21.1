@@ -1,0 +1,11 @@
+{
+    "lore.oc.trench_blade": "A balanced blade that will pull entities down in water, lasting about 5 seconds, and when enchanted with Buoyant, will give the Buoyant effect, which forbids the player from entering water.",
+    "lore.oc.levi_sword": "A balanced blade that will pull any entity toward you, and when enchanted with Buoyant, will give the Buoyant effect, which forbids the player from entering water." ,
+    "lore.oc.dragon_ingot": "An alloy of iron and diamond that can used to craft oceanic weapons." ,
+    "lore.oc.abyssal_shard": "An alloy of obsidian and prismarine that can be used to craft oceanic weapons." ,
+    "lore.oc.schlorp_glorp": "A balanced blade that transports any player it slays to a custom prison dimension, which is full of water and lines the floors with the new bedrock tile blocks.",
+    "lore.oc.wind_bag": "A bundle of air that launches the player hundreds of blocks into the air when used.",
+    "lore.oc.bedrock_tiles": "A decorative variant of Bedrock that's impossible to mine.",
+    "lore.oc.levi_axe": "A heavy shield-breaking weapon that will push any entity up on right click, including the player, and when enchanted with Grounding, will throw the player down." ,
+    "lore.oc.abyssal_moor": "A weapon that resembles an anchor that can launch entities hit with it ten blocks into the air."
+}

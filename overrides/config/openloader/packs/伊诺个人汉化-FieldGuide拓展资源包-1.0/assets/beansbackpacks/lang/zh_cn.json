@@ -1,0 +1,8 @@
+{
+    "lore.beansbackpacks.backpack": "这个背包可以存储多组物品！按住冲刺键并按下放置方块键可将其放在地上。",
+    "lore.beansbackpacks.metal_backpack": "这个背包可以存储更多组物品！按住冲刺键并按下放置方块键可将其放在地上。",
+    "lore.beansbackpacks.gold_backpack": "这个背包可以存储更多组物品！按住冲刺键并按下放置方块键可将其放在地上。",
+    "lore.beansbackpacks.winged_backpack": "这个背包可以存储更多组物品，同时还能充当鞘翅使用！按住冲刺键并按下放置方块键可将其放在地上。",
+    "lore.beansbackpacks.ender_backpack": "这个背包可以存储多组物品，你可以从任何末影背包中取出这些物品，同时还能充当鞘翅使用！按住冲刺键并按下放置方块键可将其放在地上。",
+    "lore.beansbackpacks.lock": "这把物品锁可以加在你的背包上，用来阻止其他玩家打开它。"
+}

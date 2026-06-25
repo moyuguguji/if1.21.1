@@ -1,0 +1,37 @@
+{
+  
+    "lore.bovinesandbuttercups.buttercup": "A flower that can be crafted into Yellow Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.pink_daisy": "A flower that can be crafted into Pink Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.limelight": "A flower that can be crafted into Lime Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.alstroemeria": "A flower that can be crafted into Orange Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.chargelily": "A flower that can be crafted into Light Blue Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.hyacinth": "A flower that can be crafted into Purple Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.snowdrop": "A flower that can be crafted into White Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.tropical_blue": "A flower that can be crafted into Blue Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.freesia": "A flower that can be crafted into Red Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.lingholm": "A flower that can be crafted into Cyan Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.camellia": "A flower that can be crafted into Magenta Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.sombercup": "A flower that can be crafted into Black Dye or placed in a Flower Pot.",
+    "lore.bovinesandbuttercups.placeable_edible.buttercup_cupcake": "A sweet treat that prevents you from gaining the Poison effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.pink_daisy_cupcake": "A sweet treat that prevents you from gaining the Strength effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.limelight_cupcake": "A sweet treat that prevents you from gaining the Regeneration effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.alstroemeria_cupcake": "A sweet treat that prevents you from gaining the Slow Falling effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.chargelily_cupcake": "A sweet treat that prevents you from gaining the Haste effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.hyacinth_cupcake": "A sweet treat that prevents you from gaining the Wither effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.snowdrop_cupcake": "A sweet treat that prevents you from gaining the Mining Fatigue effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.tropical_blue_cupcake": "A sweet treat that prevents you from gaining the Fire Resistance effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.freesia_cupcake": "A sweet treat that prevents you from gaining the Water Breathing effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.lingholm_cupcake": "A sweet treat that prevents you from gaining the Speed effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.camellia_cupcake": "A sweet treat that prevents you from gaining the Hunger effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.sombercup_cupcake": "A sweet treat that prevents you from gaining the Darkness effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.placeable_edible.brown_mushroom_puff_pastry": "A sweet treat that can be placed into clusters and eaten in the world.",
+    "lore.bovinesandbuttercups.placeable_edible.red_mushroom_puff_pastry": "A sweet treat that can be placed into clusters and eaten in the world.",
+    "lore.bovinesandbuttercups.placeable_edible.suspicious_brown_mushroom_puff_pastry": "A sweet treat that can be placed into clusters and eaten in the world to gain a potion effect.",
+    "lore.bovinesandbuttercups.placeable_edible.suspicious_red_mushroom_puff_pastry": "A sweet treat that can be placed into clusters and eaten in the world to gain a potion effect.",
+
+  
+    "lore.bovinesandbuttercups.nectar_bowl": "A stew that prevents you from gaining the listed status effect. If you already have the effect, it freezes the effect in place, extending the duration.",
+    "lore.bovinesandbuttercups.flower_crown": "A collection of flowers woven into a crown you can wear on your head.",
+    "lore.bovinesandbuttercups.rich_honey_bottle": "An item that can be made into Rich Honey Blocks, or eaten.",
+    "lore.bovinesandbuttercups.rich_honey_block": "A solid block of Rich Honey. This will slow entities that touch it, even when falling."
+  }

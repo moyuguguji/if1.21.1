@@ -1,0 +1,14 @@
+{
+  "block.etched.album_jukebox.description": "一个拥有9个槽位的唱片机，会循环播放其中的歌曲，并可通过红石信号停止！",
+  "block.etched.etching_table.description": "吟游诗人村民的工作站点，也是你蚀刻黑胶唱片的门户！放入空白唱片和标签，输入任何MP3、WAV、OGG、MC音效或SoundCloud/Bandcamp歌曲的链接，即可自定义你的唱片标签！",
+  "block.etched.radio.description": "会播放任何指向MP3、WAV、OGG、MC音效或SoundCloud/Bandcamp歌曲的URL链接中的音乐！",
+  "entity.etched.jukebox_minecart.description": "车轮上的音乐！",
+  "item.etched.album_cover.description": "一件令人惊叹不已的物品，会从下界领域获取数据，为你放入其中的任何黑胶唱片生成专辑封面！",
+  "item.etched.blank_music_disc.description": "一张蚀刻层已被熔炼掉的音乐唱片。在唱片蚀刻台中将其与一个标签组合，即可制作自定义唱片！",
+  "item.etched.boombox.description": "一种移动播放音乐唱片的方式！在物品栏中将唱片装入该物品，然后按左Shift键+右键即可暂停播放。",
+  "item.etched.complex_music_label.description": "一个色彩丰富的音乐标签，由两个音乐标签组合而成！",
+  "item.etched.etched_music_disc.description": "一张蕴含终极力量的唱片。",
+  "item.etched.jukebox_minecart.description": "车轮上的音乐！",
+  "item.etched.music_label.description": "一张用于空白音乐唱片的贴纸！可在唱片蚀刻台中与空白唱片组合，可用染料染色，也可互相组合制成复合标签！",
+  "item.etched.portal_radio.description": "嘟 嘟嘟 嘟 嘟！嘟 嘟嘟 嘟 嘟呜 嘟 嘟呜 嘟。嘟嘟 嘟 嘟呜，嘟 嘟 嘟 嘟呜，嘟 嘟嘟。"
+}

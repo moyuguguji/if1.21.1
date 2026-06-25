@@ -1,0 +1,29 @@
+{
+    "lore.fwaystones.blackstone_brick_waystone": "This Waystone can be used to travel to other far-off Waystones at the cost of XP.",
+    "lore.fwaystones.desert_waystone": "This Waystone can be used to travel to other far-off Waystones at the cost of XP.",
+    "lore.fwaystones.stone_brick_waystone": "This Waystone can be used to travel to other far-off Waystones at the cost of XP.",
+    "lore.fwaystones.deepslate_brick_waystone": "This Waystone can be used to travel to other far-off Waystones at the cost of XP.",
+    "lore.fwaystones.nether_brick_waystone": "This Waystone can be used to travel to other far-off Waystones at the cost of XP.",
+    "lore.fwaystones.end_stone_brick_waystone": "This Waystone can be used to travel to other far-off Waystones at the cost of XP.",
+    "lore.fwaystones.red_nether_brick_waystone": "This Waystone can be used to travel to other far-off Waystones at the cost of XP.",
+    "lore.fwaystones.red_desert_waystone": "This Waystone can be used to travel to other far-off Waystones at the cost of XP.",
+    "lore.fwaystones.waystone": "This Waystone can be used to travel to other far-off Waystones at the cost of XP.",
+    "lore.fwaystones.pocket_wormhole": "This item can be used to travel to other far-off Waystones at the cost of XP.",
+    "lore.fwaystones.void_totem": "This item can be bound to a Waystone to teleport you to it after you die.",
+    "lore.fwaystones.local_void": "This item can be bound to a Waystone. Right clicking it will teleport you to that Waystone, but consume the Local Void.",
+    "lore.fwaystones.abyss_watcher": "This item can be used to craft or teleport to a Waystone.",
+    "lore.fwaystones.empty_scroll": "This item can be used on a Waystone to share it with other Players.",
+    "lore.fwaystones.scroll": "This item can be used to gain knowledge of the Waystone stored inside.",
+    "lore.fwaystones.scroll_of_infinite_knowledge": "This Creative item can be used to grant the Player knowledge of every active Waystone."
+
+
+
+
+
+
+
+
+
+
+
+}

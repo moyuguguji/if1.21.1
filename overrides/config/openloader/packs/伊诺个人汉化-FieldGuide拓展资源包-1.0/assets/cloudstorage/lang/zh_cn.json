@@ -1,0 +1,23 @@
+{
+  "entity.cloudstorage.badloon.description": "一种脆弱但敌对的手套状生物，会试图将你推向万劫不复的深渊，发现于高高的天空中。若被骷髅杀死，会掉落一些独特的东西……",
+  "entity.cloudstorage.badloon_hand.description": "会狠狠扇你一巴掌。",
+  "entity.cloudstorage.balloon.description": "一个橡胶质地的漂浮装置！",
+  "entity.cloudstorage.balloon_buddy.description": "合成之后，它将永远是你最好的朋友。可以被捡起，它的个性决定了它的行为方式。",
+  "entity.cloudstorage.balloon_cargo.description": "一个正飘向云端的容器……将会变得可访问。",
+  "entity.cloudstorage.balloon_tie.description": "它的绳结打得十分小心翼翼。",
+  "entity.cloudstorage.bloviator.description": "会用其惊人的肺活量将你吹飞。下雨时，它会为自己充能，化作雷霆劈下。掉落云块，并且可以被装进瓶子里。",
+  "lore.cloudstorage.happy_cloud_in_a_bottle": "一只被装进瓶子里的小型吹云兽。可以用来帮你实现一种二段跳式的向上助推。",
+  "lore.cloudstorage.angry_cloud_in_a_bottle": "一只被装进瓶子里的小型吹云兽。可以用来帮你实现一种二段跳式的向上助推。喂它一块曲奇就能让它高兴起来。",
+  "lore.cloudstorage.cloud": "摸起来感觉就像你希望自己枕头里填充的东西。可以用来降低摔落高度。",
+  "lore.cloudstorage.static_cloud": "天蓝色的电弧从这朵云中迸射而出。可以用来降低摔落高度。",
+  "lore.cloudstorage.cloud_chest": "你通往无限存储的门户。用与该云箱颜色相同的气球系在箱子上，即可为你的个人存储空间增加槽位。",
+  "lore.cloudstorage.static_cloud_chest": "你通往无限存储的门户。用与该静电云箱颜色相同的气球系在箱子上，即可为全局存储空间增加槽位。需要使用静电气球，可通过将气球在静电云上摩擦获得。",
+  "lore.cloudstorage.balloon": "可以系在栅栏、支架、实体、你自己以及箱子上，将它们升入云存储中。可染色。",
+  "lore.cloudstorage.balloon_buddy": "合成之后，它将永远是你最好的朋友。可以被捡起，它的个性决定了它的行为方式。",
+  "lore.cloudstorage.cloud_blower": "一个特大号的吹风机。",
+  "lore.cloudstorage.cotton_candy": "它几乎在你嘴里就蒸发掉了，但这会让浣熊感到难过。",
+  "lore.cloudstorage.balloon_piece": "由气球或坏气球掉落。用于合成更多气球——它相当有橡胶感。",
+  "lore.cloudstorage.balloon_arrow": "让它们飘起来！",
+  "lore.cloudstorage.balloon_stand": "用于组合气球并提供关于它们及其所分配存储空间的信息。村民们用它来为自己售卖气球！",
+  "lore.cloudstorage.propeller_hat": "可悲的是，它没法让你飘起来。不过戴上去倒是挺酷的。"
+}

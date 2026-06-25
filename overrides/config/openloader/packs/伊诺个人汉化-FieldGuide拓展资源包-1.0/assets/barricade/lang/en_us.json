@@ -1,0 +1,17 @@
+{
+    "lore.barricade.advanced_barrier": "A invisible block that can be both directional and predicated based on outside configuration.",
+    "lore.barricade.down_barrier": "An invisible block that prevents entities from jumping through it.",
+    "lore.barricade.up_barrier": "An invisible block that prevents entities from falling through it.",
+    "lore.barricade.south_barrier": "An invisible block that blocks out entities coming from the south.",
+    "lore.barricade.north_barrier": "An invisible block that blocks out entities coming from the north.",
+    "lore.barricade.east_barrier": "An invisible block that blocks out entities coming from the east.",
+    "lore.barricade.west_barrier": "An invisible block that blocks out entities coming from the west.",
+    "lore.barricade.horizontal_barrier": "An invisible block that blocks out entities from all horizontal directions.",
+    "lore.barricade.vertical_barrier": "An invisible block that blocks out entities from all vertical directions.",
+    "lore.barricade.player_barrier": "An invisible block that exclusively blocks out players.",
+    "lore.barricade.mob_barrier": "An invisible block that exclusively blocks out non-player mobs.",
+    "lore.barricade.passive_barrier": "An invisible block that exclusively blocks out passive and some neutral mobs.",
+    "lore.barricade.hostile_barrier": "An invisible block that exclusively blocks out hostile and some neutral mobs.",
+    "lore.barricade.creative_only_barrier": "An invisible block that exclusively blocks out non-creative players."
+    
+}

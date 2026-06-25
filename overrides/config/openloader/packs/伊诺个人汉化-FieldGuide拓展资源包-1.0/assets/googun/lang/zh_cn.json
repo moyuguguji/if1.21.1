@@ -1,0 +1,20 @@
+{
+    "entity.minecraft.speedy_goo.description": "一种涂在混凝土瓦片上时能加快奔跑速度的粘液。",
+    "entity.minecraft.bouncy_goo.description": "一种涂在混凝土瓦片上时能把实体弹开的粘液。",
+    "entity.minecraft.sticky_goo.description": "一种涂在混凝土瓦片上时能粘住实体的粘液。",
+    "lore.googun.bouncy_goo": "一种涂在混凝土瓦片上时能把实体弹开的粘液。",
+    "lore.googun.bouncy_pod": "一种用于在混凝土瓦片上涂抹能把实体弹开的粘液的弹药罐。",
+    "lore.googun.bouncy_spout": "一种能喷出粘液的方块，该粘液涂在混凝土瓦片上时会把实体弹开。",
+    "lore.googun.cleansing_pod": "一种用于清除混凝土瓦片上粘液的弹药罐。",
+    "lore.googun.cleansing_spout": "一种能清除一片区域内混凝土瓦片上粘液的方块。",
+    "lore.googun.concrete_tiles": "一种能够附着粘液的方块。",
+    "lore.googun.googun": "一把能发射粘液弹药罐的枪。",
+    "lore.googun.metal_tiles": "一种不能附着粘液的方块。",
+    "lore.googun.no_goo_concrete_tiles": "一种出乎意料地不能附着粘液的方块。",
+    "lore.googun.speedy_goo": "一种涂在混凝土瓦片上时能加快奔跑速度的粘液。",
+    "lore.googun.speedy_pod": "一种用于在混凝土瓦片上涂抹能加快奔跑速度的粘液的弹药罐。",
+    "lore.googun.speedy_spout": "一种能喷出粘液的方块，该粘液涂在混凝土瓦片上时能加快奔跑速度。",
+    "lore.googun.sticky_goo": "一种涂在混凝土瓦片上时能粘住实体的粘液。",
+    "lore.googun.sticky_pod": "一种用于在混凝土瓦片上涂抹能粘住实体的粘液的弹药罐。",
+    "lore.googun.sticky_spout": "一种能喷出粘液的方块，该粘液涂在混凝土瓦片上时能粘住实体。"
+}

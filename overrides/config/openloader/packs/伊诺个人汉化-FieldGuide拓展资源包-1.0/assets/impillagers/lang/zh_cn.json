@@ -1,0 +1,18 @@
+{
+    "lore.impillagers.belladonna": "一种有毒的花，可合成为紫色染料或种植在花盆中。",
+    "lore.impillagers.firefly_bush": "一种会散布萤火虫粒子的灌木，可用骨粉使其蔓延。需要用剪刀才能采集。",
+    "lore.impillagers.sinking_mud": "一种外表类似泥巴的方块，但不够坚固，无法支撑玩家或生物的重量。他们会陷入其中并变得迟缓。",
+    "lore.impillagers.dung_block": "一个实心的粪块。",
+    "lore.impillagers.swamp_reed": "一种水生植物方块，可合成为棕色染料。",
+    "lore.impillagers.firefly_bottle": "一个装有萤火虫的瓶子。",
+    "lore.impillagers.frog_mask": "一件戴上后可能会将你引向某个特定区域的神奇物品。",
+    "lore.impillagers.dung_ball": "一种可以投掷的物品。挖掘粪块时掉落。",
+    "lore.impillagers.gold_coin": "小恶魔的货币，用于交易。",
+    "lore.impillagers.fake_gold_coin": "小恶魔的货币，用于交易？",
+    "lore.impillagers.spider_pieye": "小恶魔卖给你的一种奇怪食物。",
+    "lore.impillagers.totem_of_undyeing": "一种用于将方块恢复为原始颜色的工具。不然你觉得它是用来干嘛的？",
+    "lore.impillagers.creeper_oil": "一种绝对安全的饮品。如果它真会爆炸的话，小恶魔是不会卖给你的，对吧？",
+    "entity.impillagers.impillager.description": "一种在沼泽中发现的中立生物，可能愿意与你交易。至于是否该接受，那就另当别论了。",
+    "entity.impillagers.zombie_impillager.description": "一种亡灵敌对生物，在虚弱时喂食金苹果可使其变回小恶魔村民。",
+    "entity.impillagers.dung_golem.description": "一种在沼泽中守护小恶魔的中立生物。"
+}

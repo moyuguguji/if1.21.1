@@ -1,0 +1,11 @@
+{
+    "lore.raccoons-rabies.raccoon_fur": "A crafting ingredient dropped by Raccoons, used to make Bandit Armor.",
+    "lore.raccoons-rabies.albino_raccoon_fur": "A crafting ingredient dropped by Raccoons, used to make Bandit Armor.",
+    "lore.raccoons-rabies.raccoon": "A tameable mob found in Forests. They can be picked up by sneaking and interacting with them, but if one bites you, it'll inflict Rabies.",
+    "lore.raccoons-rabies.bandit_hood": "An armorpiece that protects against both normal damage and Rabies.",
+    "lore.raccoons-rabies.bandit_gambeson": "An armorpiece that protects against both normal damage and Rabies.",
+    "lore.raccoons-rabies.bandit_greaves": "An armorpiece that protects against both normal damage and Rabies.",
+    "lore.raccoons-rabies.bandit_boots": "An armorpiece that protects against both normal damage and Rabies.",
+  
+    "lore.raccoons-rabies.bandit_upgrade": "A template that can be used in a Smithing Table to upgrade Diamond gear to Bandit. It's an uncommon find."
+  }

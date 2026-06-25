@@ -1,0 +1,12 @@
+{
+  "entity.doom_and_gloom.holler.description": "一种携带着哀悼迷雾的惊骇灵体。可以用守夜蜡烛驱散，被激怒时往往会召唤亡灵。它们喜欢唱片机。",
+  "lore.doom_and_gloom.bush_hammer": "由铅制成，用于錾刻石板。",
+  "lore.doom_and_gloom.hammer_and_chisel": "一种将文字刻写到石板上的工具。",
+  "lore.doom_and_gloom.sepulcher": "接受腐肉或生肉。填满后，会借助银的净化特性腐化这些肉，以产生一堆骨头。营火能加速这一过程。",
+  "lore.doom_and_gloom.stone_tablet": "一块阴森可怖、毫无标记的石板。",
+  "lore.doom_and_gloom.engraved_stone_tablet": "一块阴森可怖、刻有铭文的石板。",
+  "lore.doom_and_gloom.cracked_stone_tablet": "一块阴森可怖、破败不堪的石板。",
+  "lore.doom_and_gloom.bone_pile": "一堆压实的骨头。它在你脚下微微发颤，能减半任何摔落伤害。",
+  "lore.doom_and_gloom.burial_dirt": "一种由惊骇灵体被激怒后占据地面所形成的方块，能使亡灵复苏。",
+  "tag.doom_and_gloom.vigil_candles.description": "它摇曳的烛光能阻挡惊骇灵体，使其无法遮蔽你的视线。"
+}

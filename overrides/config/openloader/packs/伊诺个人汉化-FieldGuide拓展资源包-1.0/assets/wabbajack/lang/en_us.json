@@ -1,0 +1,6 @@
+{
+	"entity.wabbajack.magic_missile_projectile.description": "A projectile that tracks down entities.",
+	"entity.wabbajack.wabbajack_projectile.description": "A projectile that does... something.",
+	"lore.wabbajack.wabbajack": "A mysterious weapon of many effects",
+	"lore.wabbajack.wabbajack_projectile": "A mysterious projectile of many effects"
+}

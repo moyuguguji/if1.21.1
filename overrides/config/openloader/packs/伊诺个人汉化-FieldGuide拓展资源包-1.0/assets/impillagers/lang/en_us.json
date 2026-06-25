@@ -1,0 +1,20 @@
+{
+    "lore.impillagers.belladonna": "A poisonous flower that can be crafted into Purple Dye or placed in a Flower Pot.",
+    "lore.impillagers.firefly_bush": "A shrub that spreads Firefly particles and can be spread with bone meal. It requires Shears to harvest.",
+    "lore.impillagers.sinking_mud": "A block that resembles Mud, but is not strong enough to support a player or mob's weight. They will sink in and become slowed.",
+    "lore.impillagers.dung_block": "A solid block of Dung.",
+    "lore.impillagers.swamp_reed": "An aquatic block that can be crafted into Brown Dye.",
+    "lore.impillagers.firefly_bottle": "An item that contains Fireflies.",
+  
+    "lore.impillagers.frog_mask": "A magical item that may draw you to a certain area when worn.",
+    "lore.impillagers.dung_ball": "An item that can be thrown. Dropped when digging dung.",
+    "lore.impillagers.gold_coin": "The currency of the Imps, used for trading.",
+    "lore.impillagers.fake_gold_coin": "The currency of the Imps, used for trading?",
+    "lore.impillagers.spider_pieye": "An odd meal sold to you by Imps.",
+    "lore.impillagers.totem_of_undyeing": "A tool used for restoring blocks back to their original colour. Why, what did you think it was for?",
+    "lore.impillagers.creeper_oil": "An assuredly safe drink, the Imps wouldn't sell it to you if it *actually* exploded, would they?",
+  
+    "entity.impillagers.impillager.description": "A neutral mob found in the Swamps that may be willing to trade. Whether you should accept is another story.",
+    "entity.impillagers.zombie_impillager.description": "An undead hostile mob that transforms back into a Impillager if weakened and fed a Golden Apple.",
+    "entity.impillagers.dung_golem.description": "A neutral mob that can be found guarding the Impillagers in the Swamps."
+}

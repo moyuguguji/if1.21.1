@@ -1,0 +1,7 @@
+{
+  "entity.goetydelight.ghost_farmer.description": "夜晚在瓜农小屋交易的幽灵农夫，出售灵质瓜种子，会对偷瓜者造成即死魔法伤害。",
+  "block.goetydelight.cursed_ingot_pot.description": "消耗灵魂能量的魔法厨锅，烹饪速度1.5倍，食用灵魂菜肴可恢复灵魂能量。",
+  "block.goetydelight.night_stove.description": "使亡灵中立并给予友方增益的炉灶，夜晚烟熏速度四倍，上方烹饪速度翻倍。",
+  "block.goetydelight.shade_stove.description": "仅消耗灵魂能量的烟熏炉，烹饪速度为普通的1.5倍。",
+  "block.goetydelight.ectoplasmic_melon_block.description": "灵质瓜田中的瓜块，挖掘后掉落冰灵质瓜，受时运附魔影响。"
+}

@@ -1,0 +1,18 @@
+{
+  "block.savage_and_ravage.spore_bomb.description": "A block that will create a giant Spore explosion when lit, spawning Creepies hostile to any nearby mobs.",
+  "block.savage_and_ravage.spore_sack.description": "A sack of Creeper Spores.",
+  "block.savage_and_ravage.gloomy_tiles.description": "A block made of Phantom Membrane and Stone Bricks. Commonly found in Pillager Outposts.",
+  "block.savage_and_ravage.runed_gloomy_tiles.description": "A Gloomy Tile covered in runes from the Illager language, will summon an Evoker Fang and give the player the Weight effect when stepped on.",
+  "item.savage_and_ravage.blast_proof_plating.description": "A block that resists explosions made of Creeper Spores and Gold Ingots. Used to make Blast Proof Blocks and Griefer Armor.",
+  "item.savage_and_ravage.griefer_helmet.description": "An armorpiece made of Blast Proof Plating, will reduce damage taken by explosions at expense of the armors durability. Griefer Armor with Blast Resistance will reduce the amount of durability lost.",
+  "item.savage_and_ravage.griefer_chestplate.description": "An armorpiece made of Blast Proof Plating, will reduce damage taken by explosions at expense of the armors durability. Griefer Armor with Blast Resistance will reduce the amount of durability lost.",
+  "item.savage_and_ravage.griefer_leggings.description": "An armorpiece made of Blast Proof Plating, will reduce damage taken by explosions at expense of the armors durability. Griefer Armor with Blast Resistance will reduce the amount of durability lost.",
+  "item.savage_and_ravage.griefer_boots.description": "An armorpiece made of Blast Proof Plating, will reduce damage taken by explosions at expense of the armors durability. Griefer Armor with Blast Resistance will reduce the amount of durability lost.",
+  "item.savage_and_ravage.creeper_spores.description": "An item that can be crafted into Blast Proof Plating, Mischief Arrows, and Spore Bombs or thrown to spawn Creepies that are loyal to the player, at least until they grow up. Dropped when a Creeper dies from an Explosion.",
+  "item.savage_and_ravage.mask_of_dishonesty.description": "A Mask that when worn will make you fully invisible while crouching. Dropped by Tricksters.",
+  "item.savage_and_ravage.mischief_arrow.description": "An arrow that will spawn a Creepie loyal to the player wherever it lands.",
+  "item.savage_and_ravage.conch_of_conjuring.description": "An item that will summon a row of Evoker Fangs on the ground when right clicked before going on cooldown. Dropped rarely by Evokers.",
+  "item.savage_and_ravage.wand_of_freezing.description": "An item that when used will summon a large block of Magic Ice over a mob's head, staying for a few moments before dropping on them. When used on the ground, the ice will drop immediately. Rarely dropped by Iceologers.",
+  "item.savage_and_ravage.cleaver_of_beheading.description": "A massive blade wielded by Executioners. Players killed with this weapon have a high chance of dropping their heads. Rarely dropped by Executioners."
+}
+

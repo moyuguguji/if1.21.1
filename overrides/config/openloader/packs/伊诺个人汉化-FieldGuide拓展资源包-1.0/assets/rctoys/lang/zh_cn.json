@@ -1,0 +1,9 @@
+{
+    "entity.rctoys.rc_car.description": "一种可以遥控驾驶的构造体。",
+    "entity.rctoys.rc_plane.description": "一种可以遥控驾驶的构造体。",
+    "lore.rctoys.motor": "一种用于制作遥控车的零件。",
+    "lore.rctoys.rc_car": "一种可以遥控驾驶的构造体。",
+    "lore.rctoys.rc_plane": "一种可以遥控飞行的构造体。",
+    "lore.rctoys.remote": "一种可以用来遥控小车的工具。",
+    "lore.rctoys.resonating_circuit": "一种有助于控制遥控车的方块。"
+}

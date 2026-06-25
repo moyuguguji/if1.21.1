@@ -1,0 +1,10 @@
+{
+    "entity.dronebox.drone.description": "一种可远程控制的构造体，能通过编程来执行特定行为。",
+    "lore.dronebox.controller": "一种用于操控无人机的工具。",
+    "lore.dronebox.drone": "一种可远程控制的构造体，能通过编程来执行特定行为。",
+    "lore.dronebox.googly": "古里古怪！",
+    "lore.dronebox.lua_pendrive": "一种用于为无人机编程的工具。",
+    "lore.dronebox.remote": "一种用于操控无人机的工具。",
+    "lore.dronebox.spotlight": "一个能发光的方块。",
+    "lore.dronebox.toplight": "一个能发光的方块。"
+}

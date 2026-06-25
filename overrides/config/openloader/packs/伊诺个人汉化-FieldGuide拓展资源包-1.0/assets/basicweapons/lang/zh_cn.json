@@ -1,0 +1,8 @@
+{
+  "tag.basicweapons.tools.hammers.description": "一种重型单手武器，能将敌人击飞。能造成极高的伤害，但每次攻击的间隔较长。",
+  "tag.basicweapons.tools.daggers.description": "一种轻巧的单手武器，攻击速度很快。",
+  "tag.basicweapons.tools.clubs.description": "一种单手武器，能减缓被击中敌人的速度。能造成高额伤害，但每次攻击的间隔较长。",
+  "tag.basicweapons.tools.quarterstaves.description": "一种单手武器，可以同时击中多个敌人。造成的伤害较低。",
+  "tag.basicweapons.tools.spears.description": "一种双手武器，对最远四格外的攻击者造成中等伤害。",
+  "tag.basicweapons.tools.glaives.description": "一种重型单手武器，可以同时击中多个敌人。能造成极高的伤害，但每次攻击的间隔较长。"
+}

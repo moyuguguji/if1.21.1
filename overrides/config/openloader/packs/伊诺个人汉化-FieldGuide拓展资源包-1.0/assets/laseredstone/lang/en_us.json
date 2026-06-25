@@ -1,0 +1,7 @@
+{
+	"lore.laseredstone.horizontal_horizontal_mirror": "A block that deflects a laser in another horizontal direction.",
+	"lore.laseredstone.horizontal_vertical_mirror": "A block that deflects a laser between vertical and horizontal directions.",
+	"lore.laseredstone.laser": "A bright beam of light that interacts with various blocks.",
+	"lore.laseredstone.lens": "A block that overcharges a laser, causing it to singe entities.",
+	"lore.laseredstone.receiver": "A block that produces a redstone signal when struck by a laser."
+}

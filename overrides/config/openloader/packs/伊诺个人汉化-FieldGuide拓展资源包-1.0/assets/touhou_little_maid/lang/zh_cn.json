@@ -1,0 +1,13 @@
+{
+  "entity.touhou_little_maid.fairy.description": "在夜晚草原生成的飞行敌对妖精，会发射弹幕攻击。拥有多种随机外观，命名为rick会变成特殊纹理。",
+  "entity.touhou_little_maid.maid.description": "可用蛋糕驯服的多功能伙伴，拥有战斗、农耕等多种工作模式，随好感度提升而成长，并支持AI语音聊天。",
+  "block.touhou_little_maid.maid_beacon.description": "存储并自动收集周围P点，消耗P点为附近小女仆提供迅捷、力量等光环增益，如同女仆专用的信标。",
+  "block.touhou_little_maid.maid_bed.description": "专为小女仆设计的床，睡醒后增加好感度。可用染料染成多种颜色，玩家无法使用。",
+  "block.touhou_little_maid.keyboard.description": "小女仆在休息时段弹奏的乐器，可提升好感度。",
+  "block.touhou_little_maid.bookshelf.description": "小女仆在休息时段阅读的书架，可提升好感度。",
+  "block.touhou_little_maid.computer.description": "小女仆在休息时段使用的电脑，可提升好感度。",
+  "block.touhou_little_maid.scarecrow.description": "阻止女仆妖精在48×48方块范围内生成的功能性方块，适合建造无干扰刷怪场。",
+  "block.touhou_little_maid.snack_cabinet.description": "可存储物品，小女仆会将蛋糕等食物放置于此并偷吃，从而增加好感度。",
+  "block.touhou_little_maid.picnic_basket.description": "安置野餐垫的篮子，最多让4名小女仆在休息时分食食物并大幅提升好感度。",
+  "block.touhou_little_maid.garage_kit.description": "小女仆的模型手办，可通过烧制粘土雕像获得，用于装饰；在旧版中可用于复活对应的女仆。"
+}
