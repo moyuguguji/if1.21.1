@@ -103,7 +103,28 @@ event.shaped('backpacked:unlock_token', [
         B: 'minecraft:gold_nugget',
         C: 'minecraft:iron_nugget'
     })
+    
+event.shaped('refinedstorage:1k_storage_part', [
+        'ADA',
+        'BCB',
+        'ABA'
+    ], {
+        A: 'minecraft:iron_nugget',
+        B: 'minecraft:glass',
+        C: 'minecraft:redstone',
+        D: 'minecraft:iron_ingot'
+    }).id('refinedstorage:1k_storage_part')
 
+event.shaped('refinedstorage:64b_fluid_storage_part', [
+        'ADA',
+        'BCB',
+        'ABA'
+    ], {
+        A: 'minecraft:iron_nugget',
+        B: 'minecraft:glass',
+        C: 'minecraft:bucket',
+        D: 'minecraft:iron_ingot'
+    }).id('refinedstorage:64b_fluid_storage_part')
     event.custom(
         {
             "type": "spectrum:pedestal",
