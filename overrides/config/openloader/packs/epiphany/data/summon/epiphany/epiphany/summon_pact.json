@@ -17,7 +17,7 @@
     },
     {
       "type": "epiphany:attribute",
-      "attribute": "servantry:servant_damage",
+      "attribute": "lyra:servant_damage",
       "amount": 0.2,
       "operation": "add_multiplied_base"
     }

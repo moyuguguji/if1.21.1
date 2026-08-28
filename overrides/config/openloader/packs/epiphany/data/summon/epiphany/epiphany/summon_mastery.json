@@ -11,31 +11,31 @@
   "reward": [
     {
       "type": "epiphany:attribute",
-      "attribute": "servantry:servant_max_count",
+      "attribute": "lyra:servant_max_count",
       "amount": 2.0,
       "operation": "add_value"
     },
     {
       "type": "epiphany:attribute",
-      "attribute": "servantry:sentry_servant_max_count",
+      "attribute": "lyra:sentry_servant_max_count",
       "amount": 1.0,
       "operation": "add_value"
     },
     {
       "type": "epiphany:attribute",
-      "attribute": "servantry:servant_damage",
+      "attribute": "lyra:servant_damage",
       "amount": 0.15,
       "operation": "add_multiplied_base"
     },
     {
       "type": "epiphany:attribute",
-      "attribute": "servantry:servant_knockback",
+      "attribute": "lyra:servant_knockback",
       "amount": 0.15,
       "operation": "add_multiplied_base"
     },
     {
       "type": "epiphany:attribute",
-      "attribute": "servantry:servant_search_range",
+      "attribute": "lyra:servant_search_range",
       "amount": 0.1,
       "operation": "add_multiplied_base"
     }

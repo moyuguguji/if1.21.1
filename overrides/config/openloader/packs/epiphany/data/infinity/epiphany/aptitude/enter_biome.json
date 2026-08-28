@@ -1,9 +1,0 @@
-{
-  "default": 3,
-  "specials": [
-    { "target": "#minecraft:is_ocean",     "reward": 2 },
-    { "target": "#minecraft:is_badlands",  "reward": 4 },
-    { "target": "#minecraft:is_nether",    "reward": 5 },
-    { "target": "#minecraft:is_end",       "reward": 8 }
-  ]
-}

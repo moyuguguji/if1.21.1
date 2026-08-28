@@ -5,7 +5,7 @@
   "cost": 1,
   "reward": {
     "type": "epiphany:attribute",
-    "attribute": "servantry:servant_max_count",
+    "attribute": "lyra:servant_max_count",
     "amount": 1.0,
     "operation": "add_value"
   },

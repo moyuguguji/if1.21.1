@@ -1,8 +1,0 @@
-{
-  "default": 15,
-  "specials": [
-    { "target": "minecraft:overworld",   "reward": 0 },
-    { "target": "minecraft:the_nether",  "reward": 25, "first_reward": 50 },
-    { "target": "minecraft:the_end",     "reward": 30, "first_reward": 60 }
-  ]
-}

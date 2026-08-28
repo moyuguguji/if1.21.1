@@ -5,7 +5,7 @@
   "cost": 1,
   "reward": {
     "type": "epiphany:attribute",
-    "attribute": "servantry:servant_damage",
+    "attribute": "lyra:servant_damage",
     "amount": 0.1,
     "operation": "add_multiplied_base"
   },

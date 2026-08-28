@@ -5,7 +5,7 @@
   "cost": 1,
   "reward": {
     "type": "epiphany:attribute",
-    "attribute": "servantry:servant_search_range",
+    "attribute": "lyra:servant_search_range",
     "amount": 0.05,
     "operation": "add_multiplied_base"
   },

@@ -3,11 +3,6 @@
   "description": "强化仆从军团的召唤之道。第一行心得互相独立，第二行心得需要第一行全部点亮。",
   "item_icon": "servantry:imp_staff",
   "initial_state": "selectable",
-  "on_complete_reward": {
-    "type": "epiphany:insight_points",
-    "amount": 1
-  },
-  "on_complete_reward_description": "完成模块后额外获得 1 心得点",
   "insights": [
     { "id": "summon:summon_damage_1",   "depth": 0 },
     { "id": "summon:summon_range_1",    "depth": 0 },
