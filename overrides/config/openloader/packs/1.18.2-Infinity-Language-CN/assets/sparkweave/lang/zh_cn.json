@@ -1,0 +1,20 @@
+{
+  "argument.sparkweave.debug.dump_recipes.type_not_found": "未找到配方类型：%s",
+  "argument.sparkweave.registry.not_found": "未找到注册表：%s",
+  "chat.sparkweave.open_folder": "点击在文件资源管理器中查看",
+  "commands.sparkweave.error.io_exception": "执行命令时发生 IO 错误：%s",
+  "commands.sparkweave.debug.dump_recipes.success": "已成功导出类型 %s 的配方",
+  "commands.sparkweave.debug.dump_recipes.success_path": "已成功将类型 %s 的配方导出到 %s",
+  "commands.sparkweave.debug.dump_recipes.multi_success": "已成功导出 %s 种类型的配方",
+  "commands.sparkweave.debug.dump_recipes.multi_success_path": "已成功将 %s 种类型的配方导出到 %s",
+  "commands.sparkweave.debug.dump_registries.success": "已成功导出注册表 %s",
+  "commands.sparkweave.debug.dump_registries.success_path": "已成功将注册表 %s 导出到 %s",
+  "commands.sparkweave.debug.dump_registries.multi_success": "已成功导出 %s 个注册表",
+  "commands.sparkweave.debug.dump_registries.multi_success_path": "已成功将 %s 个注册表导出到 %s",
+  "commands.sparkweave.debug.dump_tags.success": "已成功导出注册表 %s 的标签",
+  "commands.sparkweave.debug.dump_tags.success_path": "已成功将注册表 %s 的标签导出到 %s",
+  "commands.sparkweave.debug.dump_tags.multi_success": "已成功导出 %s 个注册表的标签",
+  "commands.sparkweave.debug.dump_tags.multi_success_path": "已成功将 %s 个注册表的标签导出到 %s",
+  "itemGroup.sparkweave.developer_tab": "开发者工具",
+  "screen.sparkweave.consent.title": "需要授权"
+}

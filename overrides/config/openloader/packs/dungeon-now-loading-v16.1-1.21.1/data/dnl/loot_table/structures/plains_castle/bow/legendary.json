@@ -11,14 +11,16 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:lore": [
-                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
-                ],
                 "minecraft:enchantments": {
                   "levels": {
-                    "power": 6
+                    "power": 6,
+                    "flame": 1,
+                    "infinity": 1
                   }
-                }
+                },
+                "minecraft:lore": [
+                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
+                ]
               }
             },
             {

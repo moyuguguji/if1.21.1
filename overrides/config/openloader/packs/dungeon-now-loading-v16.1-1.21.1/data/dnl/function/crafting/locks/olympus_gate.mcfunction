@@ -1,5 +1,5 @@
 ### Required crafting materials ###
-execute if entity @s[nbt={Item:{id:"minecraft:skeleton_skull"}}] store success score @s dnl.success positioned ~ ~ ~ as @e[type=minecraft:item_frame,tag=dnl.material,tag=dnl.skeleton_skull,tag=!dnl.material.used,distance=..4.1,sort=random,limit=1] run function dnl:crafting/material_used
+execute if entity @s[nbt={Item:{id:"minecraft:skeleton_skull"}}] at @s positioned ~ ~ ~ if entity @e[type=minecraft:item_frame,tag=dnl.material,tag=!dnl.material.used,tag=dnl.skeleton_skull,distance=..4.1,sort=random,limit=1] run function dnl:crafting/material_used
 
 ### Reset Crafter ###
 execute if score @s dnl.success matches 1.. run function dnl:crafting/success

@@ -12,7 +12,6 @@
               "components": {
                 "minecraft:lore": [
                   "{\"text\":\"崇高 I\",\"color\":\"gray\",\"italic\":false}",
-                  "{\"translate\":\"\"}",
                   "{\"text\":\"仅用于特殊合成\",\"color\":\"dark_gray\",\"italic\":false}"
                 ],
                 "minecraft:custom_model_data": 16005

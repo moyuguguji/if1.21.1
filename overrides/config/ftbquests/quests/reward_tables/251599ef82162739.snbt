@@ -1,0 +1,6 @@
+{
+	id: "251599EF82162739"
+	loot_size: 1
+	order_index: 5
+	rewards: [{ id: "50076EA747751673", item: { count: 1, id: "waystones:waystone" } }]
+}

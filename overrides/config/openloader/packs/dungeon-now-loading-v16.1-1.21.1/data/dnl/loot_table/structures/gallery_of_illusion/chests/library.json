@@ -19,7 +19,7 @@
                 "minecraft:attribute_modifiers": {
                   "modifiers": [
                     {
-                      "type": "minecraft:max_health",
+                      "type": "minecraft:generic.max_health",
                       "slot": "offhand",
                       "amount": 4,
                       "operation": "add_value",
@@ -174,7 +174,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:written_book_content": {
+                "minecraft:writable_book_content": {
                   "pages": [
                     ""
                   ]

@@ -7,7 +7,7 @@
       "text": "击败深渊暗井之护卫者"
     },
     "icon": {
-      "item": "minecraft:trident"
+      "id": "minecraft:trident"
     },
     "frame": "task",
     "show_toast": true,

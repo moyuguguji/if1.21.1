@@ -1,4 +1,4 @@
-#particle dust 1 0 0 1 ~ ~ ~ 0 0 0 0 1
+#particle minecraft:dust {color:[1f,0f,0f],scale:1f} ~ ~ ~ 0 0 0 0 1
 
 execute unless block ^ ^ ^0.1 minecraft:air run function dnl:player/anti_block_placing/break_block
 

@@ -13,7 +13,6 @@
               "components": {
                 "minecraft:custom_name": "{\"text\":\"古代盾牌\",\"color\":\"gold\",\"italic\":false}",
                 "minecraft:custom_model_data": 15004,
-                "minecraft:hide_tooltip": {},
                 "minecraft:attribute_modifiers": {
                   "modifiers": [
                     {
@@ -26,35 +25,33 @@
                   ],
                   "show_in_tooltip": false
                 },
-                "minecraft:block_entity_data": {
-                  "Base": 0,
-                  "Patterns": [
-                    {
-                      "Color": 8,
-                      "Pattern": "cbo"
-                    },
-                    {
-                      "Color": 7,
-                      "Pattern": "bo"
-                    },
-                    {
-                      "Color": 15,
-                      "Pattern": "gra"
-                    },
-                    {
-                      "Color": 15,
-                      "Pattern": "gru"
-                    },
-                    {
-                      "Color": 15,
-                      "Pattern": "mr"
-                    },
-                    {
-                      "Color": 7,
-                      "Pattern": "flo"
-                    }
-                  ]
-                }
+                "minecraft:banner_patterns": [
+                  {
+                    "pattern": "curly_border",
+                    "color": "light_gray"
+                  },
+                  {
+                    "pattern": "border",
+                    "color": "gray"
+                  },
+                  {
+                    "pattern": "gradient",
+                    "color": "black"
+                  },
+                  {
+                    "pattern": "gradient_up",
+                    "color": "black"
+                  },
+                  {
+                    "pattern": "rhombus",
+                    "color": "black"
+                  },
+                  {
+                    "pattern": "flower",
+                    "color": "gray"
+                  }
+                ],
+                "minecraft:base_color": "white"
               }
             },
             {

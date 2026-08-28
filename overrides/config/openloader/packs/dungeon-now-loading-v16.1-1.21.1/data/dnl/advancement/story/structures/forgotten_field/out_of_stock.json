@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:chest"
+      "id": "minecraft:chest"
     },
     "title": "脱销",
     "description": "从游商处购买所有商品，好让他关张！",

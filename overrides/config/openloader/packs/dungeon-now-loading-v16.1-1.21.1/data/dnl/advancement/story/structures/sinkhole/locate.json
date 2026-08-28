@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:slime_block"
+      "id": "minecraft:slime_block"
     },
     "title": "史莱姆淤池",
     "description": "跃下深坑",
@@ -15,9 +15,17 @@
     "locate_sinkhole": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:sinkhole"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:sinkhole"
+              }
+            }
+          }
+        ]
       }
     }
   },

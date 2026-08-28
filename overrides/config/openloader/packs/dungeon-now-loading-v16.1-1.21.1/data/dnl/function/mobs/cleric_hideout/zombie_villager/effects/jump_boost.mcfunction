@@ -3,7 +3,7 @@ execute at @s if entity @p[distance=..6] run tag @s add dnl.use_potion
 
 execute if entity @s[tag=dnl.use_potion] run scoreboard players add @s dnl.timer 1
 
-execute if score @s dnl.timer matches 1 run data merge entity @s {HandItems:[{id:"minecraft:potion",count:1,tag:{Potion:"minecraft:jump_boost"}},{}]}
+execute if score @s dnl.timer matches 1 run data merge entity @s {HandItems:[{id:"minecraft:potion",count:1,components:{"minecraft:potion_contents":{"potion":"minecraft:jump_boost"}}},{}]}
 
 execute if score @s dnl.timer matches 4 run playsound entity.generic.drink ambient @a ~ ~ ~ 1.0 1 0
 execute if score @s dnl.timer matches 8 run playsound entity.generic.drink ambient @a ~ ~ ~ 1.0 1 0

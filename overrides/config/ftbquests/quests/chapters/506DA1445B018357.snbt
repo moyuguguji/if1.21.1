@@ -1,9 +1,10 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "506DA1445B018357"
-	group: ""
+	filename: "506da1445b018357"
+	group: "0B54634113ED2BBC"
 	id: "506DA1445B018357"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -430,11 +431,6 @@
 			id: "7B51BFDD655E1281"
 			rewards: [
 				{
-					exclude_from_claim_all: true
-					id: "184472FE7D871AAA"
-					type: "random"
-				}
-				{
 					advancement: "spectrum:craft_onyx_pedestal"
 					criterion: ""
 					id: "45495D1ABD7D676D"
@@ -445,6 +441,14 @@
 					criterion: ""
 					id: "3763802249FE8783"
 					type: "advancement"
+				}
+				{
+					id: "58F8F33066C90433"
+					item: {
+						count: 1
+						id: "fargo_soul:cosmic_crucible"
+					}
+					type: "item"
 				}
 			]
 			tasks: [
@@ -1028,31 +1032,6 @@
 			y: -5.5d
 		}
 		{
-			dependencies: ["51A7BA308554606F"]
-			id: "7A371AB5EA5F3986"
-			rewards: [{
-				advancement: "spectrum:midgame/grow_azurite_in_crystallarieum"
-				criterion: ""
-				id: "273E0838F04E7ADD"
-				type: "advancement"
-			}]
-			tasks: [
-				{
-					id: "1F0230AC498728BC"
-					item: { count: 1, id: "spectrum:pure_azurite" }
-					type: "item"
-				}
-				{
-					advancement: "spectrum:midgame/grow_azurite_in_crystallarieum"
-					criterion: ""
-					id: "098ABD1D4596F287"
-					type: "advancement"
-				}
-			]
-			x: 0.0d
-			y: 3.5d
-		}
-		{
 			dependencies: ["0F5773559E05C414"]
 			id: "4FA6BFF5B11A4EC3"
 			rewards: [
@@ -1552,6 +1531,23 @@
 			}]
 			x: 0.0d
 			y: 2.0d
+		}
+		{
+			dependencies: ["5637FEB12ADC8EB3"]
+			id: "30F8CE4234D30BE2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3BA3938DB8D99E6D"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2B88E51EF70BF5FF"
+				item: { count: 1, id: "kubejs:dusk_bell" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.5d
 		}
 	]
 }

@@ -1,0 +1,26 @@
+{
+  "name": "血契召唤",
+  "description": "完成召唤模块后获得。以 15% 护甲为代价，永久提升 20% 仆从伤害。",
+  "item_icon": "servantry:tempest_staff",
+  "condition": {
+    "type": "epiphany:module_completed",
+    "module": "summon:summon"
+  },
+  "condition_description": "需要完成召唤模块",
+  "initial_state": "locked",
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.armor",
+      "amount": -0.15,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "servantry:servant_damage",
+      "amount": 0.2,
+      "operation": "add_multiplied_base"
+    }
+  ],
+  "reward_description": "护甲值 -15%, 仆从伤害 +20%"
+}

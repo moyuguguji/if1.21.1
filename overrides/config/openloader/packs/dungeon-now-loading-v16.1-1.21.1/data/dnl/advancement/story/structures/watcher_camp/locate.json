@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:ice"
+      "id": "minecraft:ice"
     },
     "title": "瞭望者营地",
     "description": "发现银瞳的瞭望者们的冰冷营地",
@@ -15,9 +15,17 @@
     "locate_watcher_camp": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:watcher_camp"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:watcher_camp"
+              }
+            }
+          }
+        ]
       }
     }
   },

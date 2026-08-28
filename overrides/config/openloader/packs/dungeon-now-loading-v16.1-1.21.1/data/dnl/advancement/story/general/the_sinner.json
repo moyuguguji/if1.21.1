@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:apple"
+      "id": "minecraft:apple"
     },
     "title": "负罪之人",
     "description": "吃下任意禁果，沦为一名罪人",

@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:bow",
       "components": {
         "minecraft:custom_model_data": 12001
-      }
+      },
+      "id": "minecraft:bow"
     },
     "title": "圣物收藏家",
     "description": "获得全部三种古代弓！",

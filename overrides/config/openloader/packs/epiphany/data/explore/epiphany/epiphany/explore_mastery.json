@@ -1,0 +1,32 @@
+{
+  "name": "探索精通",
+  "description": "完成探索模块全部心得后获得。移动速度 +10%、跳跃高度 +0.5、疾跑速度 +20%。",
+  "item_icon": "minecraft:elytra",
+  "condition": {
+    "type": "epiphany:module_completed",
+    "module": "explore:explore"
+  },
+  "condition_description": "需要完成探索模块",
+  "initial_state": "locked",
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "amount": 0.1,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.jump_strength",
+      "amount": 0.5,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "artifacts:generic.sprinting_speed",
+      "amount": 0.2,
+      "operation": "add_multiplied_base"
+    }
+  ],
+  "reward_description": "移动速度 +10%, 跳跃高度 +0.5, 疾跑速度 +20%"
+}

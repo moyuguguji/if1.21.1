@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:dark_prismarine"
+      "id": "minecraft:dark_prismarine"
     },
     "title": "深渊之幽居",
     "description": "潜入深渊暗井",
@@ -15,9 +15,17 @@
     "locate_deep_oasis": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:deep_oasis"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:deep_oasis"
+              }
+            }
+          }
+        ]
       }
     }
   },

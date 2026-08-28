@@ -1,0 +1,39 @@
+{
+	id: "040AF1A73DDEA6AE"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			count: 5
+			id: "66208A4187480AC3"
+			item: {
+				count: 1
+				id: "kibe:cursed_dirt"
+			}
+		}
+		{
+			count: 5
+			id: "09FE360339CC95CF"
+			item: {
+				count: 1
+				id: "darkutils:damage_plate_player"
+			}
+		}
+		{
+			count: 5
+			id: "0CF2DD3C54F23F4B"
+			item: {
+				count: 1
+				id: "spikyspikes:diamond_spike"
+			}
+		}
+		{
+			count: 5
+			id: "76055B8311D565CD"
+			item: {
+				count: 1
+				id: "darkutils:vector_plate"
+			}
+		}
+	]
+}

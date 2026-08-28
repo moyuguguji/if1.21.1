@@ -1,0 +1,13 @@
+{
+  "name": "仆从伤害 I",
+  "description": "永久提升 10% 仆从伤害",
+  "item_icon": "servantry:blade_staff",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "servantry:servant_damage",
+    "amount": 0.1,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+10% 仆从伤害"
+}

@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:lead"
+      "id": "minecraft:lead"
     },
     "title": "铭记这场不公的交易",
     "description": "从游商处购买明显溢价的虞美人",

@@ -1,0 +1,13 @@
+{
+  "name": "召唤栏位 I",
+  "description": "永久增加 1 个仆从栏位",
+  "item_icon": "servantry:stardust_cell_staff",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "servantry:servant_max_count",
+    "amount": 1.0,
+    "operation": "add_value"
+  },
+  "reward_description": "仆从栏 +1"
+}

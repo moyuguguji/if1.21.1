@@ -1,0 +1,97 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1d7b20530fc2f4d8"
+	group: "2918506B9F30927F"
+	id: "1D7B20530FC2F4D8"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			id: "57CF4142F2A4B21D"
+			tasks: [{
+				id: "3C5DB2A2E4E53B8C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["57CF4142F2A4B21D"]
+			id: "12FB9B6F8A051E54"
+			tasks: [{
+				id: "5A5D376A518349D7"
+				item: { count: 1, id: "minecraft:iron_chestplate" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["57CF4142F2A4B21D"]
+			id: "74AF819796323889"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1FCE92A703DB1215"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6076CB7C1475C2A2"
+				item: { count: 1, id: "minecraft:diamond_chestplate" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["57CF4142F2A4B21D"]
+			id: "0A831647692D834C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "590B65D15123CA30"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "432128712231791D"
+				item: { count: 1, id: "minecraft:netherite_chestplate" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			id: "178B0722C1C4A9D0"
+			tasks: [{
+				id: "3806CC0E2F36DD66"
+				item: { count: 1, id: "twilightforest:fiery_chestplate" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			id: "4606C6CFF5659C88"
+			tasks: [{
+				id: "1C012E3DABA9B7D7"
+				item: { count: 1, id: "twilightforest:knightmetal_chestplate" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			id: "7DF5B5D43C589DD9"
+			tasks: [{
+				id: "04F62DAF7432E72A"
+				item: { count: 1, id: "twilightforest:phantom_chestplate" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+	]
+}

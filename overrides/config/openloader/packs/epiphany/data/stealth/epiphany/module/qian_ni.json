@@ -1,0 +1,13 @@
+{
+  "name": "潜匿",
+  "description": "隐匿与迅捷的暗影之道。第一行心得互相独立，第二行心得需要第一行全部点亮。",
+  "item_icon": "minecraft:leather_boots",
+  "initial_state": "selectable",
+  "insights": [
+    { "id": "stealth:qian_xing", "depth": 0 },
+    { "id": "stealth:qian_sheng", "depth": 0 },
+    { "id": "stealth:qing_yun",   "depth": 0 },
+    { "id": "stealth:su_ren",     "depth": 1 },
+    { "id": "stealth:su_qian",    "depth": 1 }
+  ]
+}

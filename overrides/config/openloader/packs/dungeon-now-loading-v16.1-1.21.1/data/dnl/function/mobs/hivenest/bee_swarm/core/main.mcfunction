@@ -15,7 +15,7 @@ execute if entity @s[tag=dnl.healthdown,tag=!dnl.bossstarted] run function dnl:m
 execute if entity @s[tag=dnl.bossstarted] run bossbar set dnl:bee_swarm players @a[distance=..50]
 
 ### Count Total Bees ###
-execute store result score @s dnl.variable run if entity @e[type=minecraft:bee,tag=dnl.mob,tag=dnl.hivenest,tag=dnl.angry_bee,tag=dnl.boss,distance=..150]
+execute store result score @s dnl.variable run execute if entity @e[type=minecraft:bee,tag=dnl.mob,tag=dnl.hivenest,tag=dnl.angry_bee,tag=dnl.boss,distance=..150]
 
 ### Phase 1 - (6 ~ 5 Bee Nest) ###
 execute if score @s dnl.phase matches 1 run function dnl:mobs/hivenest/bee_swarm/core/phase/effect/1

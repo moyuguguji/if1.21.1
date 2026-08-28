@@ -7,12 +7,12 @@
       "text": "击败冷血神箭手"
     },
     "icon": {
-      "item": "minecraft:tipped_arrow",
       "components": {
         "minecraft:potion_contents": {
           "potion": "minecraft:slowness"
         }
-      }
+      },
+      "id": "minecraft:tipped_arrow"
     },
     "frame": "task",
     "show_toast": true,

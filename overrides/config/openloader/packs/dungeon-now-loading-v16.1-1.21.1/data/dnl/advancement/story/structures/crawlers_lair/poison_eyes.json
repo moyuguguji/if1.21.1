@@ -7,7 +7,7 @@
       "text": "碾碎那只瘦小的八眼虫！"
     },
     "icon": {
-      "item": "minecraft:spider_eye"
+      "id": "minecraft:spider_eye"
     },
     "frame": "task",
     "show_toast": true,

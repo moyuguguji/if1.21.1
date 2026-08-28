@@ -21,8 +21,7 @@
                 "minecraft:lore": [
                   "{\"text\":\"幻象厅堂\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4040009,
-                "minecraft:hide_tooltip": {}
+                "minecraft:custom_model_data": 4040009
               }
             },
             {

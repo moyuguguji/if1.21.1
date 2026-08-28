@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:bee_nest"
+      "id": "minecraft:bee_nest"
     },
     "title": "蜜蜂之家",
     "description": "潜入蜂房",
@@ -15,9 +15,17 @@
     "locate_hivenest": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:hivenest"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:hivenest"
+              }
+            }
+          }
+        ]
       }
     }
   },

@@ -1,0 +1,13 @@
+{
+  "name": "生命强化 I",
+  "description": "永久提升 2 点最大生命值",
+  "item_icon": "minecraft:golden_apple",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.max_health",
+    "amount": 2.0,
+    "operation": "add_value"
+  },
+  "reward_description": "+2 最大生命值"
+}

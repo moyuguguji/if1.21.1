@@ -1,7 +1,7 @@
 scoreboard objectives add dist dummy
 scoreboard objectives add math dummy
 
-forceload add 6942069 6942069
+forceload add 433879 433879
 setblock 6942069 255 6942069 shulker_box
 data remove block 6942069 255 6942069 Items
 

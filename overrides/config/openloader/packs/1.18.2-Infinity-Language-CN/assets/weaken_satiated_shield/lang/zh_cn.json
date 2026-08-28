@@ -1,0 +1,12 @@
+{
+  "itemGroup.weaken_satiated_shield": "示例模组标签",
+  "block.weaken_satiated_shield.example_block": "示例方块",
+  "item.weaken_satiated_shield.example_item": "示例物品",
+  "weaken_satiated_shield.configuration.title": "削弱饱食盾配置",
+  "weaken_satiated_shield.configuration.section.weaken_satiated_shield.common.toml": "削弱饱食盾配置",
+  "weaken_satiated_shield.configuration.section.weaken_satiated_shield.common.toml.title": "削弱饱食盾配置",
+  "weaken_satiated_shield.configuration.items": "物品列表",
+  "weaken_satiated_shield.configuration.logDirtBlock": "记录泥土方块",
+  "weaken_satiated_shield.configuration.magicNumberIntroduction": "魔法数字说明",
+  "weaken_satiated_shield.configuration.magicNumber": "魔法数字"
+}

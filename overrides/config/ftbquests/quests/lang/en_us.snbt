@@ -1,1 +1,2935 @@
-{ }
+{
+	chapter.027AAA6A3553F7DB.chapter_subtitle: ["{chapter.1.subtitle}"]
+	chapter.027AAA6A3553F7DB.title: "{chapter.1.title}"
+	chapter.04020613388D3EDC.title: "{chapter.26.title}"
+	chapter.044742DB8829B0D7.title: "{chapter.14.title}"
+	chapter.047C69C01183971C.title: "Epiphany"
+	chapter.0AF526CBD940C290.title: "{chapter.10.title}"
+	chapter.0B7315F6F0EE99FC.chapter_subtitle: ["{chapter.17.subtitle}"]
+	chapter.0B7315F6F0EE99FC.title: "{chapter.17.title}"
+	chapter.0D5012EE04308BC4.title: "{chapter.21.title}"
+	chapter.131547FE8F2C0CF7.title: "{chapter.131547FE8F2C0CF7.title}"
+	chapter.179173663FF4BF5D.title: "{chapter.11.title}"
+	chapter.194EB3EF0DBDC513.title: "Cataclysm"
+	chapter.1D7B20530FC2F4D8.chapter_subtitle: ["{chapter.16.subtitle}"]
+	chapter.1D7B20530FC2F4D8.title: "{chapter.16.title}"
+	chapter.1F23C01CE64FFC64.title: "{chapter.B8223ECAE4265719.title}"
+	chapter.2075628C724711F8.title: "{chapter.3.title}"
+	chapter.21063B7AC5E48D88.title: "{chapter.923D389DF33E873A.title}"
+	chapter.216FF70058DE3290.title: "{chapter.FF76E660B5F1E73B.title}"
+	chapter.2412CB977AEF6F07.chapter_subtitle: ["{chapter.19.subtitle}"]
+	chapter.2412CB977AEF6F07.title: "{chapter.19.title}"
+	chapter.262F5E783D39E163.title: "{chapter.9.title}"
+	chapter.2885AFA02D057AD4.title: "{chapter.2885AFA02D057AD4.title}"
+	chapter.3022F8914C5B5968.title: "{chapter.23.title}"
+	chapter.30877432D1026706.title: "Getting Started"
+	chapter.348DB14877F54235.title: "{chapter.24.title}"
+	chapter.3A5E393142121544.title: "Artifacts"
+	chapter.3F7D87FE101A579C.title: "{chapter.E59DE1DF00541095.title}"
+	chapter.47F81EE1C9EE8615.title: "{chapter.25.title}"
+	chapter.493A38874D3008C8.title: "{chapter.D0CFADAF20E1F35D.title}"
+	chapter.49742D55629C2760.title: "{chapter.85F466B30A2BB592.title}"
+	chapter.4E3D324CAD623C98.title: "{chapter.4E3D324CAD623C98.title}"
+	chapter.506DA1445B018357.title: "{chapter.12.title}"
+	chapter.50B517D4B2FF7057.title: "{chapter.4.title}"
+	chapter.50C72ECC4F2C9C03.title: "{chapter.50C72ECC4F2C9C03.title}"
+	chapter.53CFE663DBD6A2DD.title: "{chapter.AFA690EFAFDD46BF.title}"
+	chapter.54A143AC00492D8E.title: "{chapter.5.title}"
+	chapter.570A081DC7552FFA.title: "{chapter.9FE3550EBC821CBD.title}"
+	chapter.5C718540177558D5.title: "{chapter.5C718540177558D5.title}"
+	chapter.6465ADA1103EA622.title: "KubeJS Customs"
+	chapter.67A3EB35654DEF4F.title: "{chapter.7.title}"
+	chapter.69DACF7EB67256F1.chapter_subtitle: ["{chapter.20.subtitle}"]
+	chapter.69DACF7EB67256F1.title: "{chapter.20.title}"
+	chapter.6A564BB4A1D843A1.title: "{chapter.6A564BB4A1D843A1.title}"
+	chapter.6CC2229E5B049045.title: "{chapter.6CC2229E5B049045.title}"
+	chapter.6CD2CA17E5329E1A.title: "{chapter.D602AC71D790E23F.title}"
+	chapter.6CD34BC650723C10.title: "Spectrum"
+	chapter.711006E3E736F02C.title: "{chapter.13.title}"
+	chapter.7313FF073C3956C4.title: "{chapter.8.title}"
+	chapter.7370EC6FD8C3FB4E.title: "{chapter.7370EC6FD8C3FB4E.title}"
+	chapter.756E510EB54A40A9.chapter_subtitle: ["{chapter.15.subtitle}"]
+	chapter.756E510EB54A40A9.title: "{chapter.15.title}"
+	chapter.7907847491C47ED3.title: "{chapter.B44DC6F2C2820893.title}"
+	chapter.79317DE23F0749D0.title: "The Nether"
+	chapter.85F466B30A2BB592.title: "Getting Started"
+	chapter.923D389DF33E873A.title: "Feature Systems"
+	chapter.996FAFB893CCB491.title: "The End"
+	chapter.9FE3550EBC821CBD.title: "Survival & Resources"
+	chapter.A667D3F291D4619A.title: "Endgame"
+	chapter.A9064560233C19C4.title: "Curios Trinkets"
+	chapter.AE6300BA08FAD59F.title: "Boss Codex"
+	chapter.AED16DC0CF0B9CD7.title: "Overworld Resources"
+	chapter.AFA690EFAFDD46BF.title: "Twilight Forest"
+	chapter.B20259CC9673BACD.title: "Other Mods"
+	chapter.B44DC6F2C2820893.title: "Endgame"
+	chapter.B8223ECAE4265719.title: "Spectrum"
+	chapter.B8529DE47751BB4C.title: "Storage & Logistics"
+	chapter.BB1C863E2601A746.title: "Overworld Exploration"
+	chapter.D0CFADAF20E1F35D.title: "Boss Codex"
+	chapter.D35C790730359CCA.title: "Collectors Album"
+	chapter.D602AC71D790E23F.title: "Boss Codex"
+	chapter.D9700AE4CD3F7D73.title: "Field Guide"
+	chapter.E59DE1DF00541095.title: "KubeJS Custom Items"
+	chapter.F812815A064C2957.title: "Twilight Forest"
+	chapter.FF76E660B5F1E73B.title: "Dimension Guide"
+	chapter_group.0B54634113ED2BBC.title: "{category.4}"
+	chapter_group.2197A2D4484C1345.title: "{category.2}"
+	chapter_group.2918506B9F30927F.title: "{category.5}"
+	chapter_group.2D4526175EFBC1B2.title: "{category.3}"
+	chapter_group.5D8C97B73DA1279B.title: "{category.7}"
+	quest.00596BA4ED087A90.quest_desc: [
+		"The Watcher attacks with its gaze."
+		"Damage erupts where it looks."
+		"Watch its facing at all times!"
+	]
+	quest.00596BA4ED087A90.quest_subtitle: "It watches all"
+	quest.00596BA4ED087A90.title: "The Watcher"
+	quest.006400DA28DBE1F5.quest_desc: ["{chapter.19.quest.40.description.1}"]
+	quest.00A78BD1F10BE5D5.quest_desc: ["{chapter.12.quest.4.description.1}"]
+	quest.00FF658D8A728CA0.quest_desc: ["{chapter.9.quest.9.description.1}"]
+	quest.00FF658D8A728CA0.quest_subtitle: "{chapter.9.quest.9.subtitle}"
+	quest.00FF658D8A728CA0.title: "{chapter.9.quest.9.title}"
+	quest.017DB777ABE56E5A.quest_desc: ["{chapter.10.quest.7.description.1}"]
+	quest.02AEC569D0486F89.quest_desc: ["{chapter.12.quest.40.description.1}"]
+	quest.02E6CAED08671CD3.quest_desc: [
+		"Spectrum is a deep magic system."
+		"Get the guidebook — it guides you."
+		"The existing Spectrum chapter in this book helps too."
+	]
+	quest.02E6CAED08671CD3.quest_subtitle: "Magic begins"
+	quest.02E6CAED08671CD3.title: "Spectrum Guide"
+	quest.0363D2DF18E5F504.quest_desc: ["{chapter.19.quest.38.description.1}"]
+	quest.0363D2DF18E5F504.quest_subtitle: "{chapter.19.quest.38.subtitle}"
+	quest.036AE68A182F07A6.quest_desc: [
+		"Craft Ignitium gear from Cataclysm materials."
+		"Powerful late-game stats."
+		"Upgrade with smithing templates."
+		"Cataclysm weapons have unique effects."
+	]
+	quest.036AE68A182F07A6.quest_subtitle: "Rise stronger"
+	quest.036AE68A182F07A6.title: "Cataclysm Gear"
+	quest.038FCF046B7B86E4.quest_desc: ["{chapter.12.quest.65.description.1}"]
+	quest.038FCF046B7B86E4.quest_subtitle: "{chapter.12.quest.65.subtitle}"
+	quest.03B86DF7F13FFE73.quest_desc: [
+		"The pack adds/modifies recipes via KubeJS."
+		"Browse all in EMI (E key)."
+		"Some recipes have special conditions."
+	]
+	quest.03B86DF7F13FFE73.quest_subtitle: "Custom crafting"
+	quest.03B86DF7F13FFE73.title: "KubeJS Recipes"
+	quest.03D0B0978BF86FB0.quest_desc: ["{chapter.9.quest.6.description.1}"]
+	quest.03D0B0978BF86FB0.quest_subtitle: "{chapter.9.quest.6.subtitle}"
+	quest.03D0B0978BF86FB0.title: "{chapter.9.quest.6.title}"
+	quest.04BF6A22E80AA0A1.quest_desc: [
+		"The Ur-Ghast, final boss, floats above the Dark Tower."
+		"It summons fireballs and minions."
+		"Bring plenty of bows!"
+	]
+	quest.04BF6A22E80AA0A1.quest_subtitle: "Ur-Ghast"
+	quest.04BF6A22E80AA0A1.title: "Dark Tower"
+	quest.04C39DE9789CF158.title: "{chapter.8.quest.26.title}"
+	quest.04D42F8AC2ACAF12.quest_desc: [
+		"Barrels are compact and stackable against walls."
+		"Sophisticated Storage adds upgradable storage."
+		"Use sort hotkeys to manage."
+	]
+	quest.04D42F8AC2ACAF12.quest_subtitle: "Organize loot"
+	quest.04D42F8AC2ACAF12.title: "Storage"
+	quest.051A4AD9A44AAD7C.quest_desc: ["{quest.051A4AD9A44AAD7C.quest_desc}"]
+	quest.051A4AD9A44AAD7C.quest_subtitle: "{quest.051A4AD9A44AAD7C.quest_subtitle}"
+	quest.051A4AD9A44AAD7C.title: "{quest.051A4AD9A44AAD7C.title}"
+	quest.05356A9854E67806.quest_desc: ["Sanctum Fallen is a mysterious ruin dimension."]
+	quest.05356A9854E67806.quest_subtitle: "Mystery dimension"
+	quest.05356A9854E67806.title: "Sanctum Fallen"
+	quest.0551B892DEBBFE73.quest_desc: ["{quest.0551B892DEBBFE73.quest_desc}"]
+	quest.0551B892DEBBFE73.quest_subtitle: "{quest.0551B892DEBBFE73.quest_subtitle}"
+	quest.0551B892DEBBFE73.title: "{quest.0551B892DEBBFE73.title}"
+	quest.0644644B29DC26DB.quest_desc: ["{quest.0644644B29DC26DB.quest_desc}"]
+	quest.0644644B29DC26DB.quest_subtitle: "{quest.0644644B29DC26DB.quest_subtitle}"
+	quest.0644644B29DC26DB.title: "{quest.0644644B29DC26DB.title}"
+	quest.067AE3CC58FD48DC.title: "{chapter.3.quest.2.title}"
+	quest.06B89C0B48780A85.quest_desc: ["{chapter.12.quest.69.description.1}"]
+	quest.06B89C0B48780A85.quest_subtitle: "{chapter.12.quest.69.subtitle}"
+	quest.06F247E00A3D4F27.quest_desc: [
+		"The Ur-Ghast is Twilight's final boss."
+		"It floats above the tower, summoning fireballs."
+		"Huge HP — stock up on arrows."
+		"Twilight main line complete!"
+	]
+	quest.06F247E00A3D4F27.quest_subtitle: "Ur-Ghast"
+	quest.06F247E00A3D4F27.title: "Dark Tower"
+	quest.074101B012EFA0D0.quest_desc: ["{chapter.19.quest.17.description.1}"]
+	quest.07A50888B110583B.quest_desc: ["{chapter.15.quest.2.description.1}"]
+	quest.07E865C19F2BE25F.quest_desc: [
+		"Comforts adds sleeping bags and hammocks for outdoor sleep."
+		"Never fear the night while traveling."
+	]
+	quest.07E865C19F2BE25F.quest_subtitle: "Rest on the road"
+	quest.07E865C19F2BE25F.title: "Camping"
+	quest.08957853429A69F6.quest_subtitle: "{chapter.24.quest.27.subtitle}"
+	quest.08957853429A69F6.title: "{chapter.24.quest.27.title}"
+	quest.08F9BF423B2906E5.quest_desc: ["{chapter.8.quest.32.description.1}"]
+	quest.08F9BF423B2906E5.title: "{chapter.8.quest.32.title}"
+	quest.098B8BA9BACAFC0D.quest_desc: ["{quest.098B8BA9BACAFC0D.quest_desc}"]
+	quest.098B8BA9BACAFC0D.quest_subtitle: "{quest.098B8BA9BACAFC0D.quest_subtitle}"
+	quest.098B8BA9BACAFC0D.title: "{quest.098B8BA9BACAFC0D.title}"
+	quest.09E84A78CBC3A9B4.quest_desc: [
+		"Maledictus attacks with cursed wings."
+		"Soul attacks are hard to block."
+		"Watch soul volley trajectories."
+	]
+	quest.09E84A78CBC3A9B4.quest_subtitle: "Cursed wings"
+	quest.09E84A78CBC3A9B4.title: "Maledictus"
+	quest.0A32770CB61EB13B.quest_desc: ["{quest.0A32770CB61EB13B.quest_desc}"]
+	quest.0A32770CB61EB13B.quest_subtitle: "{quest.0A32770CB61EB13B.quest_subtitle}"
+	quest.0A32770CB61EB13B.title: "{quest.0A32770CB61EB13B.title}"
+	quest.0AF3AE7F010C0237.quest_desc: [
+		"Beeps on task completion."
+		"Never miss a finish."
+	]
+	quest.0AF3AE7F010C0237.quest_subtitle: "Notification trinket"
+	quest.0AF3AE7F010C0237.title: "Beeper"
+	quest.0B0A492803DA084D.quest_desc: [
+		"Rotten Creatures adds swamp/ice/ocean variants."
+		"Graveyard adds graveyards and risen undead."
+		"Nights are livelier."
+		"Unique drops abound."
+	]
+	quest.0B0A492803DA084D.quest_subtitle: "Risen dead"
+	quest.0B0A492803DA084D.title: "Undead Ecology"
+	quest.0B322F0C26B487EF.quest_desc: ["{chapter.9.quest.28.description.1}"]
+	quest.0B322F0C26B487EF.title: "{chapter.9.quest.28.title}"
+	quest.0B4C8D1E23AAA139.quest_desc: ["{chapter.8.quest.3.description.1}"]
+	quest.0BC3BEA171B52A6F.quest_desc: [
+		"The pack has even more: cooking (Kaleidoscope Cookery), Nether mobs, weather, ambient sounds."
+		"Open JEI to browse all recipes!"
+	]
+	quest.0BC3BEA171B52A6F.quest_subtitle: "More content"
+	quest.0BC3BEA171B52A6F.title: "Explore More"
+	quest.0BC50F6C1C779650.quest_desc: ["{chapter.13.quest.14.description.1}"]
+	quest.0BC50F6C1C779650.title: "{chapter.13.quest.14.title}"
+	quest.0BCBC476BE6FA8B2.quest_desc: ["{chapter.12.quest.51.description.1}"]
+	quest.0C1A11FC3741DB27.quest_desc: [
+		"The Ender Guardian defends End areas."
+		"Melee and projectiles."
+		"Block and dodge in combination."
+	]
+	quest.0C1A11FC3741DB27.quest_subtitle: "End guardian"
+	quest.0C1A11FC3741DB27.title: "Ender Guardian"
+	quest.0C4D54711D5DA01A.quest_desc: [
+		"Artifacts adds trinkets found in structures."
+		"Everlasting Beef, Lava Boots and more."
+		"Equip in Curios slots for unique effects."
+	]
+	quest.0C4D54711D5DA01A.quest_subtitle: "Exploration loot"
+	quest.0C4D54711D5DA01A.title: "Artifacts"
+	quest.0CC482B38956B8C8.quest_subtitle: "{chapter.4.quest.2.subtitle}"
+	quest.0CC482B38956B8C8.title: "{chapter.4.quest.2.title}"
+	quest.0CEDE251E1251429.title: "{chapter.11.quest.1.title}"
+	quest.0E25E1420827424B.quest_subtitle: "{chapter.19.quest.33.subtitle}"
+	quest.0E4B5A4A81630D9D.quest_desc: [
+		"Lava Boots grant fire immunity."
+		"Perfect for Nether exploration."
+		"Found in Nether loot."
+	]
+	quest.0E4B5A4A81630D9D.quest_subtitle: "Walk on lava"
+	quest.0E4B5A4A81630D9D.title: "Lava Boots"
+	quest.0EDDF9E0B7569322.quest_desc: ["{chapter.19.quest.24.description.1}"]
+	quest.0EDDF9E0B7569322.quest_subtitle: "你需要获得竹子来解锁配方"
+	quest.0F39D234B9AE6FBF.quest_desc: [
+		"Naga scales craft the Scale armor set."
+		"Solid mid-game protection."
+		"Full set gives set bonus."
+	]
+	quest.0F39D234B9AE6FBF.quest_subtitle: "Scale armor"
+	quest.0F39D234B9AE6FBF.title: "Naga Scale"
+	quest.0F5773559E05C414.quest_desc: ["{chapter.12.quest.26.description.1}"]
+	quest.0F5E37F2E0D41F0D.quest_desc: ["{quest.0F5E37F2E0D41F0D.quest_desc}"]
+	quest.0F5E37F2E0D41F0D.quest_subtitle: "{quest.0F5E37F2E0D41F0D.quest_subtitle}"
+	quest.0F5E37F2E0D41F0D.title: "{quest.0F5E37F2E0D41F0D.title}"
+	quest.0F91A9C806F4391E.quest_desc: ["{chapter.1.quest.6.description.1}"]
+	quest.0F91A9C806F4391E.title: "{chapter.1.quest.6.title}"
+	quest.0FF0EE9A5D227A0F.quest_desc: ["{chapter.1.quest.3.description.1}"]
+	quest.101189C9EB665FB6.quest_desc: ["{chapter.8.quest.12.description.1}"]
+	quest.10392C28A3A418E4.quest_desc: ["{chapter.19.quest.37.description.1}"]
+	quest.10392C28A3A418E4.title: "{chapter.19.quest.37.title}"
+	quest.1094065E8A05FF1B.quest_desc: ["{chapter.24.quest.7.description.1}"]
+	quest.1094065E8A05FF1B.quest_subtitle: "{chapter.24.quest.7.subtitle}"
+	quest.1094065E8A05FF1B.title: "{chapter.24.quest.7.title}"
+	quest.10F0EF3196CB5AF1.quest_desc: ["现在统计信息能显示更多东西了,你可以用这个来查漏补缺"]
+	quest.10F0EF3196CB5AF1.title: "更好的统计信息"
+	quest.1103F2F0E787154A.quest_desc: [
+		"你可以跟制图师交易结构地图,配置较差可能会卡顿较久"
+		"如果你不会或者不想看地图,可以把地图拿主手输入/kubejs hand指令,x和z后面的数字就是坐标点"
+	]
+	quest.1103F2F0E787154A.quest_subtitle: "同一个村民卖的地图是同样的"
+	quest.1103F2F0E787154A.title: "关于跑图"
+	quest.1114AFE44AA5C9AF.quest_desc: [
+		"Magma cubes drop magma cream."
+		"Key for fire resistance potions."
+	]
+	quest.1114AFE44AA5C9AF.quest_subtitle: "Brewing & slime"
+	quest.1114AFE44AA5C9AF.title: "Magma Cream"
+	quest.1122A7C68DF8DA62.quest_desc: ["{chapter.12.quest.32.description.1}"]
+	quest.1122A7C68DF8DA62.quest_subtitle: "{chapter.12.quest.32.subtitle}"
+	quest.1122A7C68DF8DA62.title: "{chapter.12.quest.32.title}"
+	quest.112347F734F40B51.quest_desc: ["{chapter.23.quest.1.description.1}"]
+	quest.116BF87094EA4E42.quest_desc: ["{chapter.12.quest.22.description.1}"]
+	quest.116BF87094EA4E42.quest_subtitle: "{chapter.12.quest.22.subtitle}"
+	quest.11A11F5125227C37.quest_desc: [
+		"3 wool + 3 planks."
+		"Sleep to skip night and set spawn."
+		"Find sheep for wool!"
+	]
+	quest.11A11F5125227C37.quest_subtitle: "Sleep & respawn"
+	quest.11A11F5125227C37.title: "Bed"
+	quest.11C9DDC24829264A.quest_desc: [
+		"Knightmetal from Knight Phantoms."
+		"Crafts Knightmetal gear."
+		"Also used in recipes."
+	]
+	quest.11C9DDC24829264A.quest_subtitle: "Advanced material"
+	quest.11C9DDC24829264A.title: "Knightmetal"
+	quest.12120F20E3E5F5AD.quest_desc: ["{quest.12120F20E3E5F5AD.quest_desc}"]
+	quest.12120F20E3E5F5AD.quest_subtitle: "{quest.12120F20E3E5F5AD.quest_subtitle}"
+	quest.12120F20E3E5F5AD.title: "{quest.12120F20E3E5F5AD.title}"
+	quest.122DAB74138DB133.quest_desc: ["{quest.A0C3C6A7BBD33DAD.quest_desc}"]
+	quest.122DAB74138DB133.quest_subtitle: "{quest.A0C3C6A7BBD33DAD.quest_subtitle}"
+	quest.122DAB74138DB133.title: "{quest.A0C3C6A7BBD33DAD.title}"
+	quest.1260255A7D43E8E4.quest_desc: ["{quest.1260255A7D43E8E4.quest_desc}"]
+	quest.1260255A7D43E8E4.quest_subtitle: "{quest.1260255A7D43E8E4.quest_subtitle}"
+	quest.1260255A7D43E8E4.title: "{quest.1260255A7D43E8E4.title}"
+	quest.12766F7759AA7EE6.quest_desc: ["{chapter.12.quest.13.description.1}"]
+	quest.12766F7759AA7EE6.quest_subtitle: "{chapter.12.quest.13.subtitle}"
+	quest.127E60F0B9B02FA1.quest_desc: ["用于传输物品"]
+	quest.127E60F0B9B02FA1.quest_subtitle: "给我干哪来了,这还是xx包吗?"
+	quest.12A3A0E72B79AE96.quest_desc: [
+		"Made of netherite, extremely defensive."
+		"A late-game Cataclysm boss."
+	]
+	quest.12A3A0E72B79AE96.quest_subtitle: "Metal monster"
+	quest.12A3A0E72B79AE96.title: "Netherite Monstrosity"
+	quest.12B400C752DF166B.quest_desc: [
+		"Twilight Souls adds soul materials from Twilight bosses."
+		"Collect souls and craft powerful items."
+	]
+	quest.12B400C752DF166B.quest_subtitle: "Soul power"
+	quest.12B400C752DF166B.title: "Twilight Souls"
+	quest.13663D80DDB84B89.quest_subtitle: "{chapter.3.quest.6.subtitle}"
+	quest.13663D80DDB84B89.title: "{chapter.3.quest.6.title}"
+	quest.141777F271C9ADB7.quest_desc: ["{quest.88CE4EACE6BE7BA6.quest_desc}"]
+	quest.141777F271C9ADB7.quest_subtitle: "{quest.88CE4EACE6BE7BA6.quest_subtitle}"
+	quest.141777F271C9ADB7.title: "{quest.88CE4EACE6BE7BA6.title}"
+	quest.141C7F400CC683B5.quest_desc: ["{quest.141C7F400CC683B5.quest_desc}"]
+	quest.141C7F400CC683B5.quest_subtitle: "{quest.141C7F400CC683B5.quest_subtitle}"
+	quest.141C7F400CC683B5.title: "{quest.141C7F400CC683B5.title}"
+	quest.152C94B2BEB2F234.quest_desc: [
+		"The Ancient Remnant wields primeval power."
+		"Alternating elemental attacks."
+		"Learn the rhythm and dodge each."
+	]
+	quest.152C94B2BEB2F234.quest_subtitle: "Ancient being"
+	quest.152C94B2BEB2F234.title: "Ancient Remnant"
+	quest.167DC6260F08F575.quest_desc: ["{chapter.9.quest.5.description.1}"]
+	quest.16CCC47CD878429D.quest_subtitle: "{chapter.26.quest.6.subtitle}"
+	quest.16CCC47CD878429D.title: "{chapter.26.quest.6.title}"
+	quest.16F2AA5B627A73D7.quest_desc: ["Teleports and deals area damage."]
+	quest.16F2AA5B627A73D7.quest_subtitle: "End creation"
+	quest.16F2AA5B627A73D7.title: "Ender Golem"
+	quest.1700C02AF0373ED2.quest_desc: [
+		"{chapter.11.quest.26.description.1}"
+		"{image:kubejs:textures/ftbq/2022-08-18_15.18.30.png width:200 height:130 align:1}"
+	]
+	quest.1700C02AF0373ED2.quest_subtitle: "{chapter.11.quest.26.subtitle}"
+	quest.1700C02AF0373ED2.title: "{chapter.11.quest.26.title}"
+	quest.1728BDC9041B7147.quest_desc: [
+		"Modules are themed: attack, survival, stealth, summon, defense, explore, mining, sacrifice, study."
+		"Insights grant permanent attribute bonuses."
+		"Unlock prerequisites first."
+		"Prioritize modules that fit your playstyle."
+	]
+	quest.1728BDC9041B7147.quest_subtitle: "Permanent bonuses"
+	quest.1728BDC9041B7147.title: "Modules & Insights"
+	quest.179363BEC3FD2F15.quest_desc: ["{chapter.23.quest.6.description.1}"]
+	quest.17CD0A3691B796CE.quest_desc: [
+		"Cataclysm is a late-game hard mod."
+		"It has 8 dimensions and 10+ powerful bosses."
+		"Finish Twilight and Spectrum basics first!"
+	]
+	quest.17CD0A3691B796CE.quest_subtitle: "High difficulty"
+	quest.17CD0A3691B796CE.title: "About Cataclysm"
+	quest.17DFD26338E03804.quest_desc: ["{chapter.11.quest.8.description.1}"]
+	quest.17DFD26338E03804.quest_subtitle: "{chapter.11.quest.8.subtitle}"
+	quest.17F4708EA2DA3077.quest_desc: ["{quest.17F4708EA2DA3077.quest_desc}"]
+	quest.17F4708EA2DA3077.quest_subtitle: "{quest.17F4708EA2DA3077.quest_subtitle}"
+	quest.17F4708EA2DA3077.title: "{quest.17F4708EA2DA3077.title}"
+	quest.181A77296EDDEB0E.quest_desc: ["{chapter.23.quest.7.description.1}"]
+	quest.18428EA815D7B567.quest_desc: [
+		"Mine deep for diamonds (most dense near Y=-59)."
+		"Diamonds enable advanced gear and the Twilight portal."
+	]
+	quest.18428EA815D7B567.quest_subtitle: "Precious ore"
+	quest.18428EA815D7B567.title: "Diamond Mining"
+	quest.185D5EDC65B1C487.title: "{chapter.8.quest.30.title}"
+	quest.18DF456E1A56DCD1.quest_desc: ["{chapter.12.quest.49.description.1}"]
+	quest.18DF456E1A56DCD1.quest_subtitle: "{chapter.12.quest.49.subtitle}"
+	quest.18DF456E1A56DCD1.title: "{chapter.12.quest.49.title}"
+	quest.1948F098E2BA2B6E.quest_desc: [
+		"Press K for the Epiphany screen."
+		"Complete modules for insight points and slots."
+		"Unlock insights and epiphanies for power."
+		"Aptitude upgrades insight points (10 = +1)."
+	]
+	quest.1948F098E2BA2B6E.quest_subtitle: "Core progression"
+	quest.1948F098E2BA2B6E.title: "Epiphany System"
+	quest.194A0C7FDCBD4476.quest_desc: ["{chapter.12.quest.35.description.1}"]
+	quest.194A0C7FDCBD4476.quest_subtitle: "{chapter.12.quest.35.subtitle}"
+	quest.194A0C7FDCBD4476.title: "{chapter.12.quest.35.title}"
+	quest.196161A9CF8169B1.quest_desc: [
+		"The Nether is netherrack and lava."
+		"Watch ghasts, piglins, blazes."
+		"Gold armor pacifies piglins."
+	]
+	quest.196161A9CF8169B1.quest_subtitle: "Red & black"
+	quest.196161A9CF8169B1.title: "Nether Land"
+	quest.199BDB49DFDF0EC9.quest_desc: ["{quest.199BDB49DFDF0EC9.quest_desc}"]
+	quest.199BDB49DFDF0EC9.quest_subtitle: "{quest.199BDB49DFDF0EC9.quest_subtitle}"
+	quest.199BDB49DFDF0EC9.title: "{quest.199BDB49DFDF0EC9.title}"
+	quest.1A7831E3B72C20BC.quest_desc: ["{chapter.9.quest.15.description.1}"]
+	quest.1A7831E3B72C20BC.quest_subtitle: "{chapter.9.quest.15.subtitle}"
+	quest.1A7831E3B72C20BC.title: "{chapter.9.quest.15.title}"
+	quest.1AA597C88E816253.quest_desc: ["{chapter.8.quest.8.description.1}"]
+	quest.1AA597C88E816253.quest_subtitle: "{chapter.8.quest.8.subtitle}"
+	quest.1AA597C88E816253.title: "{chapter.8.quest.8.title}"
+	quest.1AEF781EE1C71C31.quest_desc: [
+		"Earn aptitude from:"
+		"killing bosses, entering dimensions, eating new foods, unlocking guide entries (+2)."
+		"Explore a lot!"
+	]
+	quest.1AEF781EE1C71C31.quest_subtitle: "How to grow"
+	quest.1AEF781EE1C71C31.title: "Earning Aptitude"
+	quest.1BCBA10BC193FAAF.quest_desc: ["{quest.1BCBA10BC193FAAF.quest_desc}"]
+	quest.1BCBA10BC193FAAF.quest_subtitle: "{quest.1BCBA10BC193FAAF.quest_subtitle}"
+	quest.1BCBA10BC193FAAF.title: "{quest.1BCBA10BC193FAAF.title}"
+	quest.1CDC2A8C45E4CEBA.quest_desc: [
+		"Primeval power, elemental attacks."
+		"Learn and dodge each."
+	]
+	quest.1CDC2A8C45E4CEBA.quest_subtitle: "Ancient being"
+	quest.1CDC2A8C45E4CEBA.title: "Ancient Remnant"
+	quest.1D0820FB787F6787.quest_desc: [
+		"{chapter.8.quest.22.description.1}"
+		"{image:kubejs:textures/ftbq/fumo.png width:200 height:95 align:1}"
+	]
+	quest.1D0820FB787F6787.title: "{chapter.8.quest.22.title}"
+	quest.1D26B4EA81538C0A.quest_desc: ["{chapter.12.quest.5.description.1}"]
+	quest.1D26B4EA81538C0A.quest_subtitle: "{chapter.12.quest.5.subtitle}"
+	quest.1D26B4EA81538C0A.title: "{chapter.12.quest.5.title}"
+	quest.1D636573584F5603.quest_desc: ["{chapter.23.quest.9.description.1}"]
+	quest.1E114E9019D2C90E.quest_desc: ["{chapter.12.quest.23.description.1}"]
+	quest.1E65B98B6DD68122.title: "{chapter.25.quest.4.title}"
+	quest.1EA74B8A4FBAA239.quest_desc: ["{quest.1EA74B8A4FBAA239.quest_desc}"]
+	quest.1EA74B8A4FBAA239.quest_subtitle: "{quest.1EA74B8A4FBAA239.quest_subtitle}"
+	quest.1EA74B8A4FBAA239.title: "{quest.1EA74B8A4FBAA239.title}"
+	quest.1EDA65B90D71CDB6.quest_subtitle: "{chapter.12.quest.66.subtitle}"
+	quest.1F4B9BB9DE3E4691.title: "{chapter.25.quest.13.title}"
+	quest.1F4D8896C043EE72.quest_desc: [
+		"Reach 10 entries: +1 attack damage."
+		"The guide also teaches you the mobs."
+		"Collect them all!"
+	]
+	quest.1F4D8896C043EE72.quest_subtitle: "Collection targets"
+	quest.1F4D8896C043EE72.title: "Codex Goals"
+	quest.209AEE075F1D0C49.quest_desc: ["{quest.209AEE075F1D0C49.quest_desc}"]
+	quest.209AEE075F1D0C49.quest_subtitle: "{quest.209AEE075F1D0C49.quest_subtitle}"
+	quest.209AEE075F1D0C49.title: "{quest.209AEE075F1D0C49.title}"
+	quest.20A6E081D6A47E98.quest_desc: ["{chapter.12.quest.59.description.1}"]
+	quest.20A6E081D6A47E98.quest_subtitle: "{chapter.12.quest.59.subtitle}"
+	quest.21599E3E9C8FE21D.quest_desc: [
+		"Zombies drop carrots/potatoes; villages have them."
+		"Variety keeps saturation high."
+	]
+	quest.21599E3E9C8FE21D.quest_subtitle: "Carrots & potatoes"
+	quest.21599E3E9C8FE21D.title: "More Crops"
+	quest.21853980AEDF8B54.quest_desc: [
+		"{chapter.13.quest.3.description.1}"
+		"{image:kubejs:textures/ftbq/bcj.png width:200 height:200 align:1}"
+	]
+	quest.2186D0F99F7C9E21.quest_desc: [
+		"Netherite is the strongest base material."
+		"Upgrade all tools and armor."
+		"Netherite gear survives lava."
+	]
+	quest.2186D0F99F7C9E21.quest_subtitle: "Top material"
+	quest.2186D0F99F7C9E21.title: "Netherite Ingot"
+	quest.21A1E9E65D7D11B7.quest_desc: ["{chapter.10.quest.5.description.1}"]
+	quest.21A1E9E65D7D11B7.quest_subtitle: "{chapter.10.quest.5.subtitle}"
+	quest.21A1E9E65D7D11B7.title: "{chapter.10.quest.5.title}"
+	quest.21A278F64F7FD633.quest_desc: [
+		"Craft a furnace from 8 cobblestone."
+		"Smelt ore into ingots and cook food."
+		"Fuel: planks, coal, lava buckets."
+	]
+	quest.21A278F64F7FD633.quest_subtitle: "Smelt & cook"
+	quest.21A278F64F7FD633.title: "Furnace"
+	quest.222C4ADE306F53DF.quest_desc: ["{quest.222C4ADE306F53DF.quest_desc}"]
+	quest.222C4ADE306F53DF.quest_subtitle: "{quest.222C4ADE306F53DF.quest_subtitle}"
+	quest.222C4ADE306F53DF.title: "{quest.222C4ADE306F53DF.title}"
+	quest.22360EF6CFC10023.quest_desc: [
+		"The Lich Tower stands in the Dark Forest."
+		"The Lich teleports, summons and casts spells."
+		"Drops the Twilight Wand."
+	]
+	quest.22360EF6CFC10023.quest_subtitle: "Magical duel"
+	quest.22360EF6CFC10023.title: "Lich Tower"
+	quest.2272834FCD7D4573.quest_desc: ["{chapter.23.quest.21.description.1}"]
+	quest.229D05A1A967C5A2.quest_desc: ["{chapter.20.quest.5.description.1}"]
+	quest.229D05A1A967C5A2.quest_subtitle: "{chapter.20.quest.5.subtitle}"
+	quest.229D05A1A967C5A2.title: "{chapter.20.quest.5.title}"
+	quest.22F2C96C2130885B.quest_desc: ["{chapter.15.quest.104.description.1}"]
+	quest.22F2C96C2130885B.quest_subtitle: "{chapter.15.quest.104.subtitle}"
+	quest.22F2C96C2130885B.title: "{chapter.15.quest.104.title}"
+	quest.2316A9931F204D97.title: "{chapter.8.quest.25.title}"
+	quest.238C937E4DF8D960.quest_desc: ["{quest.238C937E4DF8D960.quest_desc}"]
+	quest.238C937E4DF8D960.quest_subtitle: "{quest.238C937E4DF8D960.quest_subtitle}"
+	quest.238C937E4DF8D960.title: "{quest.238C937E4DF8D960.title}"
+	quest.23FBA190C03FEB2E.quest_desc: ["{quest.F56FF33A915720E5.quest_desc}"]
+	quest.23FBA190C03FEB2E.quest_subtitle: "{quest.F56FF33A915720E5.quest_subtitle}"
+	quest.23FBA190C03FEB2E.title: "{quest.F56FF33A915720E5.title}"
+	quest.2457188B993DFC33.quest_desc: ["Powerful melee and projectiles."]
+	quest.2457188B993DFC33.quest_subtitle: "End guardian"
+	quest.2457188B993DFC33.title: "Ender Guardian"
+	quest.248525855A8CE23B.quest_desc: ["{quest.248525855A8CE23B.quest_desc}"]
+	quest.248525855A8CE23B.quest_subtitle: "{quest.248525855A8CE23B.quest_subtitle}"
+	quest.248525855A8CE23B.title: "{quest.248525855A8CE23B.title}"
+	quest.25C519F9D655D18F.quest_desc: ["{chapter.19.quest.7.description.1}"]
+	quest.25F6F8B72A56AD84.quest_desc: [
+		"A Curios trinket that beeps when you complete tasks."
+		"Never miss an achievement."
+	]
+	quest.25F6F8B72A56AD84.quest_subtitle: "Task notification"
+	quest.25F6F8B72A56AD84.title: "Beeper"
+	quest.261182F08FC7A1F1.quest_desc: ["{chapter.21.quest.25.description.1}"]
+	quest.263D5D0A0DF132C5.quest_desc: ["{quest.E9B65D4AF20FF2B3.quest_desc}"]
+	quest.263D5D0A0DF132C5.quest_subtitle: "{quest.E9B65D4AF20FF2B3.quest_subtitle}"
+	quest.263D5D0A0DF132C5.title: "{quest.E9B65D4AF20FF2B3.title}"
+	quest.2646F4AE06A6AD56.quest_desc: ["{chapter.12.quest.67.description.1}"]
+	quest.2646F4AE06A6AD56.quest_subtitle: "{chapter.12.quest.67.subtitle}"
+	quest.2661980BC534404A.quest_desc: ["{chapter.8.quest.9.description.1}"]
+	quest.2661980BC534404A.quest_subtitle: "{chapter.8.quest.9.subtitle}"
+	quest.2661980BC534404A.title: "{chapter.8.quest.9.title}"
+	quest.2667A40844853040.quest_desc: [
+		"Craft maps to record explored areas."
+		"8 paper + compass."
+		"Carry one while exploring."
+	]
+	quest.2667A40844853040.quest_subtitle: "Record the world"
+	quest.2667A40844853040.title: "Cartography"
+	quest.26A1C2632410801B.quest_desc: [
+		"Modonomicon provides in-game manuals for mods."
+		"Find them in creative or from the mods."
+		"Read before you mod!"
+	]
+	quest.26A1C2632410801B.quest_subtitle: "Manuals"
+	quest.26A1C2632410801B.title: "Modonomicon"
+	quest.26A99350D57ADE4A.quest_desc: ["{chapter.9.quest.26.description.1}"]
+	quest.26A99350D57ADE4A.quest_subtitle: "{chapter.9.quest.26.subtitle}"
+	quest.271877E8E7393D05.quest_desc: ["{chapter.12.quest.1.description.1}"]
+	quest.271877E8E7393D05.quest_subtitle: "{chapter.12.quest.1.subtitle}"
+	quest.2736671C13390278.quest_desc: [
+		"Bastion Lost is Cataclysm's final area."
+		"The strongest guardians dwell here."
+		"Bring your best gear, supplies and Evolution Sword."
+	]
+	quest.2736671C13390278.quest_subtitle: "Final realm"
+	quest.2736671C13390278.title: "Bastion Lost"
+	quest.275A0F585FBD2541.quest_desc: ["{chapter.12.quest.44.description.1}"]
+	quest.275A0F585FBD2541.quest_subtitle: "需要先解锁午夜残片"
+	quest.2790966C917FC37F.quest_desc: [
+		"Fiery ingots from fiery pools/Ur-Ghast loot."
+		"Craft the Fiery armor set."
+		"Excellent fire resistance."
+	]
+	quest.2790966C917FC37F.quest_subtitle: "Top Twilight material"
+	quest.2790966C917FC37F.title: "Fiery Ingot"
+	quest.27BDB8EB14207BC2.quest_desc: [
+		"{chapter.11.quest.7.description.1}"
+		"{image:kubejs:textures/ftbq/void.png width:200 height:130 align:1}"
+		"{chapter.11.quest.7.description.2}"
+	]
+	quest.27BDB8EB14207BC2.quest_subtitle: "{chapter.11.quest.7.subtitle}"
+	quest.27BDB8EB14207BC2.title: "{chapter.11.quest.7.title}"
+	quest.2811B7791BA407FF.quest_desc: ["{chapter.19.quest.25.description.1}"]
+	quest.288285DBDAB1C5FD.quest_desc: ["{chapter.12.quest.7.description.1}"]
+	quest.288285DBDAB1C5FD.quest_subtitle: "{chapter.12.quest.7.subtitle}"
+	quest.289C10B2FFA438A6.quest_desc: ["{quest.289C10B2FFA438A6.quest_desc}"]
+	quest.289C10B2FFA438A6.quest_subtitle: "{quest.289C10B2FFA438A6.quest_subtitle}"
+	quest.289C10B2FFA438A6.title: "{quest.289C10B2FFA438A6.title}"
+	quest.293EEB54696C325B.quest_subtitle: "{chapter.24.quest.9.subtitle}"
+	quest.293EEB54696C325B.title: "{chapter.24.quest.9.title}"
+	quest.29F2ED7A74C38F97.quest_desc: [
+		"Graveyard adds undead-themed content."
+		"Explore graveyards and fight risen skeletons."
+		"Gain bone weapons and materials."
+	]
+	quest.29F2ED7A74C38F97.quest_subtitle: "Whispers of the dead"
+	quest.29F2ED7A74C38F97.title: "Graveyard"
+	quest.2A139B079AFC90B6.quest_desc: [
+		"Abyssal Depths is the first Cataclysm dimension."
+		"Enter via Cataclysm travel."
+		"Mobs are significantly stronger."
+	]
+	quest.2A139B079AFC90B6.quest_subtitle: "Cataclysm start"
+	quest.2A139B079AFC90B6.title: "Abyssal Depths"
+	quest.2A3D9FBC98774A7E.quest_desc: [
+		"Challenge the Ender Dragon on the central island."
+		"Bring bows, golden apples and healing."
+		"End cities and elytra unlock after victory."
+	]
+	quest.2A3D9FBC98774A7E.quest_subtitle: "Final battle"
+	quest.2A3D9FBC98774A7E.title: "Defeat the Dragon"
+	quest.2A455B18F6F66218.quest_desc: [
+		"Final Twilight boss above the Dark Tower."
+		"Summons fireballs and minions, huge HP."
+		"Stock up on arrows and healing."
+		"Twilight main line done!"
+	]
+	quest.2A455B18F6F66218.quest_subtitle: "Above the tower"
+	quest.2A455B18F6F66218.title: "Ur-Ghast"
+	quest.2BCE8921C56DFD6B.quest_desc: ["{chapter.19.quest.31.description.1}"]
+	quest.2BCE8921C56DFD6B.quest_subtitle: "{chapter.19.quest.31.subtitle}"
+	quest.2BE6F94629B66CAB.quest_desc: ["{chapter.12.quest.33.description.1}"]
+	quest.2BE6F94629B66CAB.quest_subtitle: "{chapter.12.quest.33.subtitle}"
+	quest.2BE6F94629B66CAB.title: "{chapter.12.quest.33.title}"
+	quest.2BFFF1F4F53B97D9.title: "{chapter.25.quest.12.title}"
+	quest.2C0A6D0EC40C766A.quest_desc: [
+		"Artifacts: Everlasting Beef, Lava Boots, llama cloaks."
+		"Found in structure loot."
+		"Unique effects when worn."
+	]
+	quest.2C0A6D0EC40C766A.quest_subtitle: "Exploration loot"
+	quest.2C0A6D0EC40C766A.title: "Artifact Trinkets"
+	quest.2C5A7460D61847D0.quest_desc: ["{chapter.11.quest.5.description.1}"]
+	quest.2C5A7460D61847D0.quest_subtitle: "{chapter.11.quest.5.subtitle}"
+	quest.2C5A7460D61847D0.title: "{chapter.11.quest.5.title}"
+	quest.2C622CF2C07E45A4.quest_subtitle: "{chapter.12.quest.61.subtitle}"
+	quest.2C622CF2C07E45A4.title: "{chapter.12.quest.61.title}"
+	quest.2CC69C0C75EC9D75.quest_desc: [
+		"RS provides a digital storage network."
+		"Controller + disks for mass storage."
+		"Access via wireless terminals."
+		"Highly recommended mid-game!"
+	]
+	quest.2CC69C0C75EC9D75.quest_subtitle: "Digital warehouse"
+	quest.2CC69C0C75EC9D75.title: "Refined Storage"
+	quest.2D072479520225FC.quest_desc: [
+		"Craft a bed from wool and planks."
+		"Sleep to skip the night and set your spawn."
+	]
+	quest.2D072479520225FC.quest_subtitle: "Night shelter"
+	quest.2D072479520225FC.title: "Sleep & Respawn"
+	quest.2D272D9D7D56A20F.title: "{chapter.3.quest.3.title}"
+	quest.2D59A32A99ED5EBE.quest_desc: [
+		"Quartz is common in netherrack."
+		"Used in redstone and crafting."
+	]
+	quest.2D59A32A99ED5EBE.quest_subtitle: "White ore"
+	quest.2D59A32A99ED5EBE.title: "Quartz"
+	quest.2D7F4CA9374AB0BB.quest_desc: [
+		"The difficulty changer adjusts global difficulty."
+		"Higher: stronger mobs, better drops."
+		"Match it to your power."
+	]
+	quest.2D7F4CA9374AB0BB.quest_subtitle: "Tune challenge"
+	quest.2D7F4CA9374AB0BB.title: "Difficulty System"
+	quest.2DF39DE88E938CFA.quest_desc: [
+		"Adjusts global difficulty."
+		"Higher: stronger mobs, better drops, more aptitude."
+		"Lower: relaxed exploration."
+		"Tune anytime to your pace."
+	]
+	quest.2DF39DE88E938CFA.quest_subtitle: "Tune challenge"
+	quest.2DF39DE88E938CFA.title: "Difficulty Changer"
+	quest.2DF48F5B040D7823.quest_desc: ["{chapter.8.quest.10.description.1}"]
+	quest.2DF48F5B040D7823.quest_subtitle: "{chapter.8.quest.10.subtitle}"
+	quest.2DF48F5B040D7823.title: "{chapter.8.quest.10.title}"
+	quest.2E1B84B260EA5FA4.quest_desc: ["Its gaze attacks — keep moving."]
+	quest.2E1B84B260EA5FA4.quest_subtitle: "It watches"
+	quest.2E1B84B260EA5FA4.title: "The Watcher"
+	quest.2E2034FD5ADFAAF4.quest_desc: ["Darts through water at great speed."]
+	quest.2E2034FD5ADFAAF4.quest_subtitle: "Siren legend"
+	quest.2E2034FD5ADFAAF4.title: "Scylla"
+	quest.2E9D34119F3374CE.quest_desc: [
+		"Planks + iron ingot."
+		"Right-click to block most damage."
+		"Essential for melee."
+	]
+	quest.2E9D34119F3374CE.quest_subtitle: "Block master"
+	quest.2E9D34119F3374CE.title: "Shield"
+	quest.2EB2618C1266F6A9.quest_desc: [
+		"Obsidian + eye of ender."
+		"Contents are global per player."
+		"Combine with shulker boxes for ultimate carry."
+	]
+	quest.2EB2618C1266F6A9.quest_subtitle: "Cross-space storage"
+	quest.2EB2618C1266F6A9.title: "Ender Chest"
+	quest.2F01B7210760474F.quest_desc: [
+		"Gold spawns Y=-64~32, more in the Nether."
+		"Used in crafting and piglin trading."
+		"Wearing gold armor pacifies piglins."
+	]
+	quest.2F01B7210760474F.quest_subtitle: "Piglin favorite"
+	quest.2F01B7210760474F.title: "Gold Ore"
+	quest.2F08F5EB273B58D8.quest_desc: ["{chapter.12.quest.25.description.1}"]
+	quest.2F0DF9C52403D984.title: "{chapter.8.quest.23.title}"
+	quest.2F9225A107E24475.quest_desc: [
+		"Modonomicon provides in-game manuals."
+		"Find in creative or from mods."
+		"Complex mods (Spectrum etc.) have full guides."
+		"When in doubt, read!"
+	]
+	quest.2F9225A107E24475.quest_subtitle: "Read first"
+	quest.2F9225A107E24475.title: "Modonomicon"
+	quest.3003B874EC470373.quest_desc: [
+		"Forge of Aeons is forging-themed."
+		"Great forges and mechanical creations."
+		"Guardians fight with forge power."
+	]
+	quest.3003B874EC470373.quest_subtitle: "Forge dimension"
+	quest.3003B874EC470373.title: "Forge of Aeons"
+	quest.302E302BDA7BF0F5.quest_desc: [
+		"{chapter.11.quest.4.description.1}"
+		"{image:kubejs:textures/ftbq/fuhuomoyinglong.png width:144 height:90 align:1}"
+	]
+	quest.302E302BDA7BF0F5.quest_subtitle: "{chapter.11.quest.4.subtitle}"
+	quest.302E302BDA7BF0F5.title: "{chapter.11.quest.4.title}"
+	quest.309077656D4899C2.quest_desc: ["{chapter.12.quest.9.description.1}"]
+	quest.309077656D4899C2.quest_subtitle: "{chapter.12.quest.9.subtitle}"
+	quest.30FF2936E2DF45B0.quest_desc: [
+		"Sanctum Fallen is a mystic ruin dimension."
+		"Floating sanctum ruins."
+		"Great power lies hidden."
+	]
+	quest.30FF2936E2DF45B0.quest_subtitle: "Mystery dimension"
+	quest.30FF2936E2DF45B0.title: "Sanctum Fallen"
+	quest.311E19EE7CA783E0.quest_subtitle: "{chapter.25.quest.2.subtitle}"
+	quest.311E19EE7CA783E0.title: "{chapter.25.quest.2.title}"
+	quest.314AB380E74AEEB9.quest_desc: ["{chapter.23.quest.10.description.1}"]
+	quest.314AB380E74AEEB9.title: "{chapter.23.quest.10.title}"
+	quest.31AF2DC5C9E1BB86.quest_desc: ["{chapter.13.quest.8.description.1}"]
+	quest.31F3BC4709A0DAD7.quest_desc: [
+		"Chests and barrels are basic storage."
+		"Shulker boxes travel with you."
+		"Organize your base."
+	]
+	quest.31F3BC4709A0DAD7.quest_subtitle: "Chest craft"
+	quest.31F3BC4709A0DAD7.title: "Basic Storage"
+	quest.326C4515FBA399A7.quest_desc: [
+		"Many QoL mods: Jade, Xaero maps, Appleskin, EMI, Controlling, BetterF3, Inventory HUD."
+		"Set up hotkeys for smooth play!"
+	]
+	quest.326C4515FBA399A7.quest_subtitle: "Comfort"
+	quest.326C4515FBA399A7.title: "Quality of Life"
+	quest.32949E1A7CEA3523.quest_desc: ["当你获得棕色颜料后便可打开棕色孢子花的门拿到鎏金之书"]
+	quest.32A705F82AAEFF35.title: "{chapter.3.quest.1.title}"
+	quest.3374854BF7B08DB1.quest_desc: [
+		"Teleport strikes."
+		"Predict landings."
+	]
+	quest.3374854BF7B08DB1.quest_subtitle: "End creation"
+	quest.3374854BF7B08DB1.title: "Ender Golem"
+	quest.337AE5E877B10BC1.quest_desc: ["{quest.337AE5E877B10BC1.quest_desc}"]
+	quest.337AE5E877B10BC1.quest_subtitle: "{quest.337AE5E877B10BC1.quest_subtitle}"
+	quest.337AE5E877B10BC1.title: "{quest.337AE5E877B10BC1.title}"
+	quest.342A014E8BAC0BE8.quest_desc: [
+		"Wearable Backpacked packs."
+		"Double capacity while exploring."
+		"Upgraded versions hold more."
+	]
+	quest.342A014E8BAC0BE8.quest_subtitle: "Carry everything"
+	quest.342A014E8BAC0BE8.title: "Travel Backpack"
+	quest.342B58A3A0009BCB.quest_desc: [
+		"Suggested path:"
+		"Early: survival/defense → attack."
+		"Mid: Sword Evolution → explore."
+		"Late: master everything."
+		"Slots are limited — plan ahead!"
+	]
+	quest.342B58A3A0009BCB.quest_subtitle: "How to choose"
+	quest.342B58A3A0009BCB.title: "Epiphany Strategy"
+	quest.346CB1473CEF0DF6.quest_desc: [
+		"{chapter.12.quest.3.description.1}"
+		"{image:kubejs:textures/ftbq/10.png width:100 height:100 align:1}"
+	]
+	quest.347055DAF7FDB87E.quest_desc: ["{chapter.20.quest.3.description.1}"]
+	quest.347055DAF7FDB87E.quest_subtitle: "{chapter.20.quest.3.subtitle}"
+	quest.34B001698E943339.quest_desc: ["{chapter.21.quest.23.description.1}"]
+	quest.34D0A8688691BAB0.quest_desc: [
+		"More Villagers adds new villager professions."
+		"Build profession sites like the Blueprint Table."
+		"Trade emeralds for rare goods."
+	]
+	quest.34D0A8688691BAB0.quest_subtitle: "Trade network"
+	quest.34D0A8688691BAB0.title: "Villagers & Crafters"
+	quest.34F02BD7100DC8B2.quest_desc: ["{quest.34F02BD7100DC8B2.quest_desc}"]
+	quest.34F02BD7100DC8B2.quest_subtitle: "{quest.34F02BD7100DC8B2.quest_subtitle}"
+	quest.34F02BD7100DC8B2.title: "{quest.34F02BD7100DC8B2.title}"
+	quest.35E4EEBF2966F7DB.quest_desc: ["{chapter.9.quest.4.description.1}"]
+	quest.35E4EEBF2966F7DB.quest_subtitle: "{chapter.9.quest.4.subtitle}"
+	quest.35E4EEBF2966F7DB.title: "{chapter.9.quest.4.title}"
+	quest.35EEEB73D2022C20.quest_desc: ["{quest.35EEEB73D2022C20.quest_desc}"]
+	quest.35EEEB73D2022C20.quest_subtitle: "{quest.35EEEB73D2022C20.quest_subtitle}"
+	quest.35EEEB73D2022C20.title: "{quest.35EEEB73D2022C20.title}"
+	quest.3634E1C8CF0A0E14.quest_desc: [
+		"Adjust game difficulty."
+		"Higher: stronger mobs, better drops."
+		"Pick your pace."
+	]
+	quest.3634E1C8CF0A0E14.quest_subtitle: "Tune challenge"
+	quest.3634E1C8CF0A0E14.title: "Difficulty Changer"
+	quest.3660C7ACAF4E08ED.quest_desc: [
+		"{chapter.12.quest.53.description.1}"
+		"{image:kubejs:textures/ftbq/jiyan.png width:180 height:100 align:1}"
+	]
+	quest.3660C7ACAF4E08ED.quest_subtitle: "你可以在rei里对保护石按r查看在哪层生成多"
+	quest.36E6A6481D6A9D4A.quest_desc: ["{chapter.15.quest.119.description.1}"]
+	quest.36FED93821C6D12B.quest_desc: [
+		"Kaleidoscope Cookery adds foods and recipes."
+		"Note: first-time foods grant aptitude!"
+		"Try everything."
+	]
+	quest.36FED93821C6D12B.quest_subtitle: "Delicious pack"
+	quest.36FED93821C6D12B.title: "Cooking Mods"
+	quest.37C390D86B5B5639.title: "{chapter.10.quest.13.title}"
+	quest.37CA18187EB337AA.quest_desc: ["{chapter.9.quest.17.description.1}"]
+	quest.37CA18187EB337AA.quest_subtitle: "{chapter.9.quest.17.subtitle}"
+	quest.37CA18187EB337AA.title: "{chapter.9.quest.17.title}"
+	quest.37CBDFEC78D528C5.quest_desc: [
+		"The pack customizes many mechanics with KubeJS:"
+		"boss-kill records, first-food aptitude, guide unlocks, card collection."
+		"They tie into the Epiphany system."
+		"Use them to grow faster!"
+	]
+	quest.37CBDFEC78D528C5.quest_subtitle: "Pack features"
+	quest.37CBDFEC78D528C5.title: "KubeJS Mechanics"
+	quest.380B8D448CD2582B.quest_desc: ["{chapter.12.quest.6.description.1}"]
+	quest.3858073E73BFA3D3.quest_desc: [
+		"A key crafting material."
+		"Obtain via the difficulty changer or other means."
+	]
+	quest.3858073E73BFA3D3.quest_subtitle: "Rare material"
+	quest.3858073E73BFA3D3.title: "Eternal Star"
+	quest.38689F74FC60C316.quest_desc: ["{quest.38689F74FC60C316.quest_desc}"]
+	quest.38689F74FC60C316.quest_subtitle: "{quest.38689F74FC60C316.quest_subtitle}"
+	quest.38689F74FC60C316.title: "{quest.38689F74FC60C316.title}"
+	quest.3887B13CA03E9CEC.quest_desc: ["{chapter.21.quest.1.description.1}"]
+	quest.388E99FC39230C6C.quest_subtitle: "{chapter.19.quest.35.subtitle}"
+	quest.3899DECE76473D1D.quest_desc: [
+		"{chapter.9.quest.2.description.1}"
+		"{image:kubejs:textures/ftbq/map.png width:100 height:100 align:1}"
+		"{chapter.9.quest.2.description.2}"
+		"{image:kubejs:textures/ftbq/map2.png width:210 height:250 align:1}"
+	]
+	quest.389A9378320C110A.quest_desc: ["{quest.389A9378320C110A.quest_desc}"]
+	quest.389A9378320C110A.quest_subtitle: "{quest.389A9378320C110A.quest_subtitle}"
+	quest.389A9378320C110A.title: "{quest.389A9378320C110A.title}"
+	quest.38C77C2926DAA827.quest_desc: ["{quest.38C77C2926DAA827.quest_desc}"]
+	quest.38C77C2926DAA827.quest_subtitle: "{quest.38C77C2926DAA827.quest_subtitle}"
+	quest.38C77C2926DAA827.title: "{quest.38C77C2926DAA827.title}"
+	quest.39306979BEE3BA74.quest_desc: ["{quest.39306979BEE3BA74.quest_desc}"]
+	quest.39306979BEE3BA74.quest_subtitle: "{quest.39306979BEE3BA74.quest_subtitle}"
+	quest.39306979BEE3BA74.title: "{quest.39306979BEE3BA74.title}"
+	quest.39BCCC18E1E065EB.quest_desc: [
+		"Dark Forest castle."
+		"Invisible strikes in groups."
+		"Listen to predict."
+		"Drops Phantom Armor."
+	]
+	quest.39BCCC18E1E065EB.quest_subtitle: "Castle shadow"
+	quest.39BCCC18E1E065EB.title: "Knight Phantom"
+	quest.39EA94DE7DD39CD7.quest_desc: ["{quest.39EA94DE7DD39CD7.quest_desc}"]
+	quest.39EA94DE7DD39CD7.quest_subtitle: "{quest.39EA94DE7DD39CD7.quest_subtitle}"
+	quest.39EA94DE7DD39CD7.title: "{quest.39EA94DE7DD39CD7.title}"
+	quest.3A8376D522D7FF6B.quest_desc: ["{chapter.9.quest.8.description.1}"]
+	quest.3A977758D7357A5B.quest_desc: ["{chapter.12.quest.38.description.1}"]
+	quest.3B04CA23B884375D.quest_desc: ["{quest.C722854B7B43A77D.quest_desc}"]
+	quest.3B04CA23B884375D.quest_subtitle: "{quest.C722854B7B43A77D.quest_subtitle}"
+	quest.3B04CA23B884375D.title: "{quest.C722854B7B43A77D.title}"
+	quest.3B1F49F98146B468.quest_desc: [
+		"{chapter.21.quest.21.description.1}"
+		"{image:kubejs:textures/ftbq/toms_storage.png width:180 height:100 align:1}"
+	]
+	quest.3C122B53D101D605.quest_desc: [
+		"Craft a furnace with 8 cobblestone."
+		"Smelt ores and cook food."
+	]
+	quest.3C122B53D101D605.quest_subtitle: "Cook & smelt"
+	quest.3C122B53D101D605.title: "Furnace & Smelting"
+	quest.3C435F4C85C21151.quest_desc: [
+		"Cataclysm is the pack's late-game hard mod."
+		"It has 8 dimensions and 10+ powerful bosses."
+		"Bosses drop core materials for top gear."
+		"Tip: finish Twilight and Spectrum basics first!"
+	]
+	quest.3C435F4C85C21151.quest_subtitle: "High difficulty"
+	quest.3C435F4C85C21151.title: "About Cataclysm"
+	quest.3C58D69771D29D63.quest_desc: [
+		"Mowzie's Mobs adds stylized beasts."
+		"Ferrous Wroughtnaut, Frostmaw, Sculptor, Umvuthi."
+		"They feed your Evolution Sword."
+	]
+	quest.3C58D69771D29D63.quest_subtitle: "Ancient beasts"
+	quest.3C58D69771D29D63.title: "Mowzie's Mobs"
+	quest.3C9A3EF0A5CD63BD.quest_desc: ["{chapter.23.quest.5.description.1}"]
+	quest.3DABE93FB53EDDF5.quest_desc: [
+		"The Harbinger foretells Cataclysm."
+		"Strong ranged attacks."
+		"Keep moving to dodge volleys."
+	]
+	quest.3DABE93FB53EDDF5.quest_subtitle: "Herald of calamity"
+	quest.3DABE93FB53EDDF5.title: "The Harbinger"
+	quest.3DD77F75AE982826.quest_desc: ["{chapter.8.quest.31.description.1}"]
+	quest.3DD77F75AE982826.quest_subtitle: "{chapter.8.quest.31.subtitle}"
+	quest.3E28E364C078C67A.quest_desc: ["{chapter.7.quest.1.description.1}"]
+	quest.3E28E364C078C67A.quest_subtitle: "{chapter.7.quest.1.subtitle}"
+	quest.3E28E364C078C67A.title: "{chapter.7.quest.1.title}"
+	quest.3ED4375227A692E0.quest_desc: ["{chapter.21.quest.22.description.1}"]
+	quest.3F7878BD0E23B432.quest_desc: ["{quest.3F7878BD0E23B432.quest_desc}"]
+	quest.3F7878BD0E23B432.quest_subtitle: "{quest.3F7878BD0E23B432.quest_subtitle}"
+	quest.3F7878BD0E23B432.title: "{quest.3F7878BD0E23B432.title}"
+	quest.3FBD5195FBCC4547.quest_desc: ["{quest.3FBD5195FBCC4547.quest_desc}"]
+	quest.3FBD5195FBCC4547.quest_subtitle: "{quest.3FBD5195FBCC4547.quest_subtitle}"
+	quest.3FBD5195FBCC4547.title: "{quest.3FBD5195FBCC4547.title}"
+	quest.3FD3D4F9A36C114D.quest_desc: ["{quest.3FD3D4F9A36C114D.quest_desc}"]
+	quest.3FD3D4F9A36C114D.quest_subtitle: "{quest.3FD3D4F9A36C114D.quest_subtitle}"
+	quest.3FD3D4F9A36C114D.title: "{quest.3FD3D4F9A36C114D.title}"
+	quest.405FB85B4830AD82.quest_desc: [
+		"Twilight is a maze of biomes."
+		"Craft magic maps to reveal terrain."
+		"Ore maps and maze maps too."
+	]
+	quest.405FB85B4830AD82.quest_subtitle: "Never get lost"
+	quest.405FB85B4830AD82.title: "Twilight Maps"
+	quest.40679BB3E5EE91AD.quest_desc: [
+		"Craft a full iron armor set."
+		"Iron lets you handle most regular threats."
+	]
+	quest.40679BB3E5EE91AD.quest_subtitle: "Ready to explore"
+	quest.40679BB3E5EE91AD.title: "Iron Armor"
+	quest.409F3D5E82CAF509.title: "{chapter.24.quest.22.title}"
+	quest.41F63E4DA8343311.quest_desc: [
+		"A Curios trinket that beeps on task completion."
+		"Never miss a finished task."
+	]
+	quest.41F63E4DA8343311.quest_subtitle: "Task notification"
+	quest.41F63E4DA8343311.title: "Beeper"
+	quest.426CD7CD07A2DAEC.quest_desc: ["{chapter.13.quest.15.description.1}"]
+	quest.426CD7CD07A2DAEC.title: "{chapter.13.quest.15.title}"
+	quest.42DB0B956AF67442.quest_desc: [
+		"Name animals and servants."
+		"Found via fishing and dungeon loot."
+		"Essential for servants and pets!"
+	]
+	quest.42DB0B956AF67442.quest_subtitle: "Name your pets"
+	quest.42DB0B956AF67442.title: "Name Tag"
+	quest.4355E479445EE1F4.quest_desc: ["{chapter.12.quest.58.description.1}"]
+	quest.440073C91F3B1DC0.quest_desc: ["{chapter.12.quest.31.description.1}"]
+	quest.440073C91F3B1DC0.quest_subtitle: "{chapter.12.quest.31.subtitle}"
+	quest.440073C91F3B1DC0.title: "{chapter.12.quest.31.title}"
+	quest.440302897E3B45A7.quest_desc: ["{chapter.23.quest.3.description.1}"]
+	quest.4414FF368FEE1026.quest_desc: ["{chapter.16.quest.9.description.1}"]
+	quest.4414FF368FEE1026.quest_subtitle: "{chapter.16.quest.9.subtitle}"
+	quest.44181735FC427CA0.quest_desc: ["{chapter.8.quest.29.description.1}"]
+	quest.44181735FC427CA0.title: "{chapter.8.quest.29.title}"
+	quest.4480F414CD6F4ADA.quest_desc: [
+		"Fish for food, treasure and enchanted books."
+		"Dungeons & Taverns structures generate worldwide."
+	]
+	quest.4480F414CD6F4ADA.quest_subtitle: "Waterside loot"
+	quest.4480F414CD6F4ADA.title: "Fishing"
+	quest.44B40A8E5A8B1D76.quest_desc: ["{quest.9B85FBF009BB407E.quest_desc}"]
+	quest.44B40A8E5A8B1D76.quest_subtitle: "{quest.9B85FBF009BB407E.quest_subtitle}"
+	quest.44B40A8E5A8B1D76.title: "{quest.9B85FBF009BB407E.title}"
+	quest.44CA0FCF370354AE.quest_desc: ["{quest.D68A5AA6BD281F42.quest_desc}"]
+	quest.44CA0FCF370354AE.quest_subtitle: "{quest.D68A5AA6BD281F42.quest_subtitle}"
+	quest.44CA0FCF370354AE.title: "{quest.D68A5AA6BD281F42.title}"
+	quest.44F05BA1279FD750.quest_desc: ["{chapter.12.quest.56.description.1}"]
+	quest.44F05BA1279FD750.title: "{chapter.12.quest.56.title}"
+	quest.451DD380D9CD172E.quest_desc: ["Pharaoh's Bane is a desert pyramid dimension."]
+	quest.451DD380D9CD172E.quest_subtitle: "Desert dimension"
+	quest.451DD380D9CD172E.title: "Pharaoh's Bane"
+	quest.459F1D78F4B49528.quest_desc: ["{chapter.9.quest.12.description.1}"]
+	quest.45B688454B595552.quest_desc: ["{chapter.13.quest.32.description.1}"]
+	quest.45B688454B595552.title: "{chapter.13.quest.32.title}"
+	quest.4620EC0F432AC2DF.quest_desc: ["{chapter.19.quest.19.description.1}"]
+	quest.4681D07DF29F8D33.quest_desc: ["{quest.BB05982BA542C980.quest_desc}"]
+	quest.4681D07DF29F8D33.quest_subtitle: "{quest.BB05982BA542C980.quest_subtitle}"
+	quest.4681D07DF29F8D33.title: "{quest.BB05982BA542C980.title}"
+	quest.471360EAD4D6DF14.quest_desc: [
+		"Wither skeletons rarely drop skulls."
+		"3 skulls + soul sand summon the Wither."
+		"It feeds your Evolution Sword!"
+	]
+	quest.471360EAD4D6DF14.quest_subtitle: "Wither summon"
+	quest.471360EAD4D6DF14.title: "Wither Skull"
+	quest.473E65CEA7686F41.quest_desc: [
+		"Built-in QoL mods:"
+		"Jade, Xaero maps, Appleskin, EMI, Controlling."
+		"Use them for a smoother game!"
+	]
+	quest.473E65CEA7686F41.quest_subtitle: "Comfort"
+	quest.473E65CEA7686F41.title: "Quality of Life"
+	quest.4768B8C2BCE77921.quest_desc: [
+		"Nether stars from the Wither."
+		"Beacons grant area buffs."
+		"Iron pyramids amplify them."
+	]
+	quest.4768B8C2BCE77921.quest_subtitle: "Buff aura"
+	quest.4768B8C2BCE77921.title: "Beacon"
+	quest.47835F8BE4D980F2.quest_desc: ["{chapter.2.quest.20.description.1}"]
+	quest.47835F8BE4D980F2.quest_subtitle: "{chapter.2.quest.20.subtitle}"
+	quest.47835F8BE4D980F2.title: "{chapter.2.quest.20.title}"
+	quest.48B717F28D4E847B.quest_desc: [
+		"Collect common mob cards first."
+		"Dupes can be broken down or traded."
+		"Complements the Field Guide."
+	]
+	quest.48B717F28D4E847B.quest_subtitle: "Guide"
+	quest.48B717F28D4E847B.title: "Collection Tips"
+	quest.48DF3D8A679435E4.quest_desc: ["{chapter.8.quest.11.description.1}"]
+	quest.48DF3D8A679435E4.quest_subtitle: "{chapter.8.quest.11.subtitle}"
+	quest.48DF3D8A679435E4.title: "{chapter.8.quest.11.title}"
+	quest.48F57785B56CE5C5.quest_desc: ["{chapter.12.quest.16.description.1}"]
+	quest.48F57785B56CE5C5.quest_subtitle: "{chapter.12.quest.16.subtitle}"
+	quest.490AFFEC3212B899.quest_desc: [
+		"The Ender Dragon dwells on the End central island."
+		"Kill it for XP and End cities."
+		"Tip: enchanted bow, golden apples, feather falling."
+	]
+	quest.490AFFEC3212B899.quest_subtitle: "King of the End"
+	quest.490AFFEC3212B899.title: "Ender Dragon"
+	quest.4929277AC11875DD.title: "{chapter.12.quest.71.title}"
+	quest.494C83C4596F5FF0.quest_desc: ["{chapter.12.quest.47.description.1}"]
+	quest.494C83C4596F5FF0.title: "{chapter.12.quest.47.title}"
+	quest.495E85B80EDBAC5F.quest_desc: ["{quest.BB2CCA83BBC3FA51.quest_desc}"]
+	quest.495E85B80EDBAC5F.quest_subtitle: "{quest.BB2CCA83BBC3FA51.quest_subtitle}"
+	quest.495E85B80EDBAC5F.title: "{quest.BB2CCA83BBC3FA51.title}"
+	quest.49DE46D73DB69B92.quest_subtitle: "已ban"
+	quest.4A38BD53E2E31681.quest_subtitle: "{chapter.7.quest.2.subtitle}"
+	quest.4A38BD53E2E31681.title: "{chapter.7.quest.2.title}"
+	quest.4A47625AB6A07B6B.quest_desc: ["{chapter.9.quest.3.description.1}"]
+	quest.4A7CF48DCE22C8BE.quest_desc: [
+		"The Alpha Yeti lives in a snowy cave."
+		"Throws ice and slams hard."
+		"Dodge in the tight cave."
+	]
+	quest.4A7CF48DCE22C8BE.quest_subtitle: "Alpha Yeti"
+	quest.4A7CF48DCE22C8BE.title: "Snowy Summit"
+	quest.4ADEA4FA1526CE3E.quest_desc: ["{chapter.12.quest.55.description.1}"]
+	quest.4AEF8610880B89E8.title: "{chapter.25.quest.9.title}"
+	quest.4CAB3209EB83425D.quest_desc: [
+		"Step through the portal."
+		"Twilight has mushroom forests, dark forests, snows, glaciers."
+		"Time is frozen at dusk here."
+		"Nights are dangerous too."
+	]
+	quest.4CAB3209EB83425D.quest_subtitle: "New world"
+	quest.4CAB3209EB83425D.title: "Enter Twilight"
+	quest.4CE237AE8F58B2CB.quest_desc: ["{chapter.12.quest.19.description.1}"]
+	quest.4CE9B355B43E155E.quest_desc: [
+		"{chapter.12.quest.14.description.1}"
+		"{image:kubejs:textures/ftbq/moon.png width:170 height:140 align:1}"
+		"{chapter.12.quest.14.description.2}"
+	]
+	quest.4D9E8822ADD4BC89.quest_desc: [
+		"Till soil and plant wheat."
+		"Farming gives a steady food supply."
+	]
+	quest.4D9E8822ADD4BC89.quest_subtitle: "Self sufficient"
+	quest.4D9E8822ADD4BC89.title: "Farmland"
+	quest.4DC63D1752013975.quest_desc: ["{chapter.12.quest.24.description.1}"]
+	quest.4E1532E2E3308C7F.quest_desc: [
+		"Ignis is Cataclysm's most famous boss."
+		"Wreathed in fire, it spits fireballs."
+		"Tip: fire resistance + ranged kiting."
+		"Drops core materials."
+	]
+	quest.4E1532E2E3308C7F.quest_subtitle: "Cataclysm icon"
+	quest.4E1532E2E3308C7F.title: "The Ignis Trial"
+	quest.4E2FE981B29EE11B.quest_desc: [
+		"Find or place waystones and right-click to activate."
+		"Warp between them afterwards."
+		"Scrolls work from inventory too!"
+	]
+	quest.4E2FE981B29EE11B.quest_subtitle: "Teleport network"
+	quest.4E2FE981B29EE11B.title: "Waystones"
+	quest.4E9B737A33054BED.quest_subtitle: "{chapter.3.quest.5.subtitle}"
+	quest.4E9B737A33054BED.title: "{chapter.3.quest.5.title}"
+	quest.4EADBCC6AAC062D6.quest_desc: [
+		"Collect citrine, amethyst and more shards."
+		"Each crystal holds different Spectrum energy."
+	]
+	quest.4EADBCC6AAC062D6.quest_subtitle: "Colorful power"
+	quest.4EADBCC6AAC062D6.title: "Spectrum Crystals"
+	quest.4EB2B20AF5A14705.quest_desc: ["{quest.CF0A974C5636ABBF.quest_desc}"]
+	quest.4EB2B20AF5A14705.quest_subtitle: "{quest.CF0A974C5636ABBF.quest_subtitle}"
+	quest.4EB2B20AF5A14705.title: "{quest.CF0A974C5636ABBF.title}"
+	quest.4ED84A65F59D6212.quest_desc: ["{quest.E1CF783788172148.quest_desc}"]
+	quest.4ED84A65F59D6212.quest_subtitle: "{quest.E1CF783788172148.quest_subtitle}"
+	quest.4ED84A65F59D6212.title: "{quest.E1CF783788172148.title}"
+	quest.4EF5AD0030EED009.quest_desc: [
+		"{chapter.19.quest.23.description.1}"
+		"{image:kubejs:textures/ftbq/kibe.png width:200 height:100 align:1}"
+		"{chapter.19.quest.23.description.2}"
+	]
+	quest.4F309FFEA518F32C.quest_desc: [
+		"Redstone powers automation and contraptions."
+		"Pair with Refined Storage for automation."
+	]
+	quest.4F309FFEA518F32C.quest_subtitle: "Tech & automation"
+	quest.4F309FFEA518F32C.title: "Redstone"
+	quest.4F507917FD331CA5.quest_desc: ["{chapter.12.quest.2.description.1}"]
+	quest.4F507917FD331CA5.title: "{chapter.12.quest.2.title}"
+	quest.4F511210D472406E.quest_desc: [
+		"Collect dragon breath in glass bottles."
+		"Brew lingering potions."
+		"Gather near the tail mid-fight."
+	]
+	quest.4F511210D472406E.quest_subtitle: "Brewing essence"
+	quest.4F511210D472406E.title: "Dragon's Breath"
+	quest.4F711C6FBE38D154.quest_desc: ["{chapter.17.quest.154.description.1}"]
+	quest.4FA113E035EE0D64.quest_desc: [
+		"The Snow Queen guards the Aurora Palace."
+		"Summons ice guards, fires spikes."
+		"Fight her at the palace top."
+	]
+	quest.4FA113E035EE0D64.quest_subtitle: "Snow Queen"
+	quest.4FA113E035EE0D64.title: "Aurora Palace"
+	quest.4FA6BFF5B11A4EC3.quest_desc: [
+		"{chapter.12.quest.43.description.1}"
+		"{image:kubejs:textures/ftbq/spectrum_relic.png width:256 height:137 align:1}"
+		"{chapter.12.quest.43.description.2}"
+	]
+	quest.4FA6BFF5B11A4EC3.title: "{chapter.12.quest.43.title}"
+	quest.4FA9B82FCD02090C.quest_desc: ["{chapter.23.quest.2.description.1}"]
+	quest.50196DC829EF6061.quest_desc: ["{chapter.12.quest.10.description.1}"]
+	quest.50196DC829EF6061.title: "{chapter.12.quest.10.title}"
+	quest.506B54553A52830B.quest_desc: [
+		"Throw 12 diamonds into a 2×2 pool of water."
+		"A portal to the Twilight Forest forms."
+	]
+	quest.506B54553A52830B.quest_subtitle: "Fairy-tale gate"
+	quest.506B54553A52830B.title: "Twilight Portal"
+	quest.515D3C2DC0BFA8C1.quest_desc: ["{chapter.12.quest.68.description.1}"]
+	quest.515D3C2DC0BFA8C1.quest_subtitle: "{chapter.12.quest.68.subtitle}"
+	quest.517EE5BB9CDA1A2A.quest_desc: [
+		"Comforts adds sleeping bags and hammocks."
+		"Sleep anywhere to skip the night."
+	]
+	quest.517EE5BB9CDA1A2A.quest_subtitle: "Rest anywhere"
+	quest.517EE5BB9CDA1A2A.title: "Camping"
+	quest.52314DE43D9BCC64.quest_desc: ["{quest.F140844712855577.quest_desc}"]
+	quest.52314DE43D9BCC64.quest_subtitle: "{quest.F140844712855577.quest_subtitle}"
+	quest.52314DE43D9BCC64.title: "{quest.F140844712855577.title}"
+	quest.52618EFB4027816B.quest_desc: ["Eternal Frosthold is a frost-themed dimension."]
+	quest.52618EFB4027816B.quest_subtitle: "Frost dimension"
+	quest.52618EFB4027816B.title: "Eternal Frosthold"
+	quest.52A176794B2F9CE9.quest_desc: ["{quest.83A2BB772DA9F7F7.quest_desc}"]
+	quest.52A176794B2F9CE9.quest_subtitle: "{quest.83A2BB772DA9F7F7.quest_subtitle}"
+	quest.52A176794B2F9CE9.title: "{quest.83A2BB772DA9F7F7.title}"
+	quest.52C87CD7A0FCBB80.quest_desc: [
+		"Chop wood and craft a crafting table."
+		"It is the basis of almost all crafting."
+	]
+	quest.52C87CD7A0FCBB80.quest_subtitle: "First steps"
+	quest.52C87CD7A0FCBB80.title: "Wood & Crafting Table"
+	quest.5372EB0354DDD939.quest_desc: ["{chapter.12.quest.64.description.1}"]
+	quest.5372EB0354DDD939.quest_subtitle: "{chapter.12.quest.64.subtitle}"
+	quest.53A5F9E22D1CEA53.quest_desc: ["{quest.53A5F9E22D1CEA53.quest_desc}"]
+	quest.53A5F9E22D1CEA53.quest_subtitle: "{quest.53A5F9E22D1CEA53.quest_subtitle}"
+	quest.53A5F9E22D1CEA53.title: "{quest.53A5F9E22D1CEA53.title}"
+	quest.53F69E71BEFAB57B.quest_desc: [
+		"Breed cows, sheep and pigs with wheat."
+		"Cooked meat gives high saturation."
+	]
+	quest.53F69E71BEFAB57B.quest_subtitle: "Meat supply"
+	quest.53F69E71BEFAB57B.title: "Animal Husbandry"
+	quest.542F1F70D5491B84.title: "{chapter.25.quest.1.title}"
+	quest.5441F04C53578811.quest_desc: ["{quest.5441F04C53578811.quest_desc}"]
+	quest.5441F04C53578811.quest_subtitle: "{quest.5441F04C53578811.quest_subtitle}"
+	quest.5441F04C53578811.title: "{quest.5441F04C53578811.title}"
+	quest.54B18C774EF22FE1.quest_desc: ["{chapter.12.quest.41.description.1}"]
+	quest.54DAA2CCC8AF46C3.quest_subtitle: "{chapter.24.quest.21.subtitle}"
+	quest.54DAA2CCC8AF46C3.title: "{chapter.24.quest.21.title}"
+	quest.552F1E0718D4CC49.quest_desc: ["{chapter.13.quest.16.description.1}"]
+	quest.552F1E0718D4CC49.title: "{chapter.13.quest.16.title}"
+	quest.5587E918EADADC9B.quest_desc: [
+		"Top of the Lich Tower, fights with magic."
+		"Drops the Twilight Wand."
+	]
+	quest.5587E918EADADC9B.quest_subtitle: "Twilight sorcerer"
+	quest.5587E918EADADC9B.title: "The Lich"
+	quest.55F31FFFA9AB2411.quest_desc: [
+		"Tutorial done!"
+		"Next: explore dimensions, collect gear, fight bosses."
+		"Remember Epiphany (K) — it is your core progression!"
+	]
+	quest.55F31FFFA9AB2411.quest_subtitle: "Journey begins"
+	quest.55F31FFFA9AB2411.title: "Tutorial Complete"
+	quest.562449479CC3324A.quest_desc: [
+		"当装备下有显示如图的信息即可按shift+ctrl查看套装效果"
+		"{image:kubejs:textures/ftbq/20250830211605.png width:200 height:43 align:1 fit:true}"
+	]
+	quest.562449479CC3324A.title: "套装效果"
+	quest.56356E60719E4E6D.title: "{chapter.25.quest.6.title}"
+	quest.5637FEB12ADC8EB3.quest_desc: ["{chapter.12.quest.12.description.1}"]
+	quest.5637FEB12ADC8EB3.quest_subtitle: "{chapter.12.quest.12.subtitle}"
+	quest.5637FEB12ADC8EB3.title: "{chapter.12.quest.12.title}"
+	quest.56477830634A43ED.quest_desc: ["{quest.E10460053EF8A566.quest_desc}"]
+	quest.56477830634A43ED.quest_subtitle: "{quest.E10460053EF8A566.quest_subtitle}"
+	quest.56477830634A43ED.title: "{quest.E10460053EF8A566.title}"
+	quest.56AAEF01957A0B51.quest_desc: [
+		"Auto-dodge attacks, consuming stacks."
+		"Overheat then recover."
+		"Life-saver on high difficulty."
+	]
+	quest.56AAEF01957A0B51.quest_subtitle: "Dodge trinket"
+	quest.56AAEF01957A0B51.title: "Precognition Eye"
+	quest.56E4502CB2030DB1.quest_desc: [
+		"Backpacked adds a wearable backpack."
+		"Carry more loot while exploring."
+	]
+	quest.56E4502CB2030DB1.quest_subtitle: "Portable storage"
+	quest.56E4502CB2030DB1.title: "Travel Backpack"
+	quest.56E89E0BEC14B19C.quest_desc: [
+		"The dragon guards the End island."
+		"Destroy crystals first, then attack."
+		"Tip: enchanted bow, apples, feather falling."
+		"Massive XP and End cities after."
+	]
+	quest.56E89E0BEC14B19C.quest_subtitle: "King of the End"
+	quest.56E89E0BEC14B19C.title: "Ender Dragon"
+	quest.56F69C092532A443.quest_desc: ["{chapter.19.quest.18.description.1}"]
+	quest.56F7E5AB654115CE.quest_desc: ["{chapter.12.quest.50.description.1}"]
+	quest.57A19E3BCEC1B133.quest_desc: [
+		"The Evolution Sword is this pack's signature weapon."
+		"+5 attack damage per Boss defeated (visible when held)."
+		"Hold Shift to view the Boss kill list."
+		"Get it from the Sword Evolution epiphany or rewards."
+	]
+	quest.57A19E3BCEC1B133.quest_subtitle: "Growing weapon"
+	quest.57A19E3BCEC1B133.title: "Evolution Sword"
+	quest.57B936C6A67F2BFB.quest_desc: ["{chapter.9.quest.27.description.1}"]
+	quest.57B936C6A67F2BFB.quest_subtitle: "{chapter.9.quest.27.subtitle}"
+	quest.57B936C6A67F2BFB.title: "{chapter.9.quest.27.title}"
+	quest.57B9DD9B38F6E11E.quest_desc: ["{quest.57B9DD9B38F6E11E.quest_desc}"]
+	quest.57B9DD9B38F6E11E.quest_subtitle: "{quest.57B9DD9B38F6E11E.quest_subtitle}"
+	quest.57B9DD9B38F6E11E.title: "{quest.57B9DD9B38F6E11E.title}"
+	quest.57CF4142F2A4B21D.quest_desc: ["{chapter.16.quest.1.description.1}"]
+	quest.5817C97811C89FDB.quest_desc: ["{chapter.10.quest.9.description.1}"]
+	quest.5817C97811C89FDB.quest_subtitle: "{chapter.10.quest.9.subtitle}"
+	quest.5817C97811C89FDB.title: "{chapter.10.quest.9.title}"
+	quest.5873A2517F7CE2BD.quest_desc: ["{chapter.15.quest.107.description.1}"]
+	quest.5873A2517F7CE2BD.quest_subtitle: "{chapter.15.quest.107.subtitle}"
+	quest.58CB04E34DFCAC0D.quest_desc: ["{chapter.12.quest.21.description.1}"]
+	quest.5922BF1DDE1E062E.quest_desc: ["{chapter.13.quest.13.description.1}"]
+	quest.5922BF1DDE1E062E.title: "{chapter.13.quest.13.title}"
+	quest.598831BA59D96B49.quest_desc: ["{chapter.19.quest.46.description.1}"]
+	quest.59D6B500E090C86B.quest_desc: ["{chapter.12.quest.18.description.1}"]
+	quest.5A185D7F1A427109.quest_desc: [
+		"Artifacts spawn in structure chests:"
+		"dungeons, mineshafts, temples, villages."
+		"Explore and collect them all!"
+	]
+	quest.5A185D7F1A427109.quest_subtitle: "Dungeon loot"
+	quest.5A185D7F1A427109.title: "Artifact Hunting"
+	quest.5BAC0510191FA425.quest_desc: ["{chapter.12.quest.30.description.1}"]
+	quest.5BAC0510191FA425.title: "{chapter.12.quest.30.title}"
+	quest.5BDD9D290D63ECE7.quest_desc: [
+		"Pick by need:"
+		"Boss fights → Lucky Seven + Precognition Eye."
+		"Exploration → Beeper + Artifacts."
+		"Mix freely per scenario!"
+	]
+	quest.5BDD9D290D63ECE7.quest_subtitle: "Strategy"
+	quest.5BDD9D290D63ECE7.title: "Trinket Loadouts"
+	quest.5C16F04C17DD2408.quest_subtitle: "呱,是沙皇!大家快退!"
+	quest.5C16F04C17DD2408.title: "通通杀头!"
+	quest.5CC8D2A1F4AAF533.quest_desc: [
+		"潜行右键取下管道,右键可以将组件卸下"
+		"详细使用方法可以查看无限之书"
+	]
+	quest.5CC8D2A1F4AAF533.quest_subtitle: "新月锤(并不)"
+	quest.5D05AD7853C1F76E.quest_desc: [
+		"A stone sword is cheap and effective."
+		"Zombies, skeletons and spiders are dangerous at night."
+		"Craft a shield too!"
+	]
+	quest.5D05AD7853C1F76E.quest_subtitle: "Self defense"
+	quest.5D05AD7853C1F76E.title: "Weapon"
+	quest.5D2CCE8038A39D5E.quest_desc: [
+		"Craft a table from 4 planks."
+		"It unlocks the 3×3 grid for almost all recipes."
+		"Place and right-click to use."
+	]
+	quest.5D2CCE8038A39D5E.quest_subtitle: "Crafting core"
+	quest.5D2CCE8038A39D5E.title: "Crafting Table"
+	quest.5D331D77BFF11B48.quest_desc: ["{chapter.12.quest.36.description.1}"]
+	quest.5D331D77BFF11B48.quest_subtitle: "{chapter.12.quest.36.subtitle}"
+	quest.5D331D77BFF11B48.title: "{chapter.12.quest.36.title}"
+	quest.5DD02E2AA0578752.quest_desc: [
+		"Defeat beasts for weapons and gear."
+		"The spear is iconic."
+		"Beast materials craft advanced gear."
+	]
+	quest.5DD02E2AA0578752.quest_subtitle: "Hunting loot"
+	quest.5DD02E2AA0578752.title: "Beast Weapons"
+	quest.5E210CF7E49C569C.quest_desc: ["{chapter.12.quest.8.description.1}"]
+	quest.5E210CF7E49C569C.title: "{chapter.12.quest.8.title}"
+	quest.5E4A29BE8E269DF3.quest_desc: ["{chapter.23.quest.20.description.1}"]
+	quest.5E4A4F7213FA89DC.quest_desc: ["{chapter.15.quest.4.description.1}"]
+	quest.5E67014B4B9DF3BC.title: "{chapter.25.quest.15.title}"
+	quest.5EAB171F4402FF2D.quest_desc: [
+		"Fast water darts."
+		"Watch footing."
+	]
+	quest.5EAB171F4402FF2D.quest_subtitle: "Siren legend"
+	quest.5EAB171F4402FF2D.title: "Scylla"
+	quest.5EF371628CAF40D7.title: "{chapter.12.quest.70.title}"
+	quest.5F3AD962583CF3B6.quest_desc: ["{quest.F6E780D8A1C55C01.quest_desc}"]
+	quest.5F3AD962583CF3B6.quest_subtitle: "{quest.F6E780D8A1C55C01.quest_subtitle}"
+	quest.5F3AD962583CF3B6.title: "{quest.F6E780D8A1C55C01.title}"
+	quest.5F6CD2EA20FB10F3.quest_desc: ["用于一次抽取大量容器"]
+	quest.5FAC6D85F06F842A.quest_desc: ["{chapter.19.quest.56.description.1}"]
+	quest.5FAC6D85F06F842A.quest_subtitle: "{chapter.19.quest.56.subtitle}"
+	quest.5FBA81F5B8EFCB82.quest_desc: ["{quest.A531943C9E4EFCFD.quest_desc}"]
+	quest.5FBA81F5B8EFCB82.quest_subtitle: "{quest.A531943C9E4EFCFD.quest_subtitle}"
+	quest.5FBA81F5B8EFCB82.title: "{quest.A531943C9E4EFCFD.title}"
+	quest.5FBDB3162466DBD9.quest_desc: [
+		"{chapter.9.quest.1.description.1}"
+		"{image:kubejs:textures/ftbq/twilight.png width:200 height:130 align:1}"
+	]
+	quest.5FBDB3162466DBD9.title: "{chapter.9.quest.1.title}"
+	quest.602ABE47D5800364.quest_desc: ["用于分流物品"]
+	quest.606F8D312E3CD95E.title: "{chapter.10.quest.2.title}"
+	quest.60828A261E819292.quest_desc: [
+		"Spectrum offers crystal swords, bedrock swords and more."
+		"Unlock stronger ones progressively."
+		"Bedrock series is Spectrum's peak."
+	]
+	quest.60828A261E819292.quest_subtitle: "Magic weapon line"
+	quest.60828A261E819292.title: "Spectrum Weapons"
+	quest.61407E4973BFDDF0.quest_desc: [
+		"The Overworld generates dungeons, mineshafts, villages and ruins."
+		"Explore YUNG-improved structures."
+		"Death drops are real — be careful!"
+	]
+	quest.61407E4973BFDDF0.quest_subtitle: "Landmarks & ruins"
+	quest.61407E4973BFDDF0.title: "Overworld Wonders"
+	quest.615A2A1A324F4D67.quest_desc: ["{chapter.9.quest.18.description.1}"]
+	quest.615A2A1A324F4D67.quest_subtitle: "{chapter.9.quest.18.subtitle}"
+	quest.615A2A1A324F4D67.title: "{chapter.9.quest.18.title}"
+	quest.615CFF1D6BBF6732.quest_desc: ["{chapter.19.quest.30.description.1}"]
+	quest.615CFF1D6BBF6732.quest_subtitle: "{chapter.19.quest.30.subtitle}"
+	quest.61628DB272EB8907.quest_desc: [
+		"Extreme defense."
+		"Avoid head-on trades."
+	]
+	quest.61628DB272EB8907.quest_subtitle: "Metal monster"
+	quest.61628DB272EB8907.title: "Netherite Monstrosity"
+	quest.6164C15A5FBDC286.quest_desc: ["{chapter.19.quest.34.description.1}"]
+	quest.6164C15A5FBDC286.quest_subtitle: "{chapter.19.quest.34.subtitle}"
+	quest.6164C15A5FBDC286.title: "{chapter.19.quest.34.title}"
+	quest.617AF69B1A6A6DBD.quest_desc: [
+		"Combine ender pearls and blaze powder."
+		"Locate the stronghold and activate the portal."
+	]
+	quest.617AF69B1A6A6DBD.quest_subtitle: "Road to the End"
+	quest.617AF69B1A6A6DBD.title: "Find the End"
+	quest.62A1ADF64FFCA79B.quest_desc: ["{quest.D2D6BADB723EEA35.quest_desc}"]
+	quest.62A1ADF64FFCA79B.quest_subtitle: "{quest.D2D6BADB723EEA35.quest_subtitle}"
+	quest.62A1ADF64FFCA79B.title: "{quest.D2D6BADB723EEA35.title}"
+	quest.62CD35B4D7C5D6C2.quest_desc: ["{chapter.21.quest.24.description.1}"]
+	quest.63C17D1EDF175651.quest_desc: ["{quest.CCF66ECDE48B8CCC.quest_desc}"]
+	quest.63C17D1EDF175651.quest_subtitle: "{quest.CCF66ECDE48B8CCC.quest_subtitle}"
+	quest.63C17D1EDF175651.title: "{quest.CCF66ECDE48B8CCC.title}"
+	quest.64B858F9A3E247CB.quest_desc: [
+		"Shears harvest wool without killing sheep."
+		"Also used in many recipes."
+	]
+	quest.64B858F9A3E247CB.quest_subtitle: "Wool & leaves"
+	quest.64B858F9A3E247CB.title: "Shears"
+	quest.64F8CAE2AB24B228.quest_desc: [
+		"A Curios trinket."
+		"Gain stacks that auto-dodge attacks."
+		"Overheat when empty, then recover."
+		"Nearly essential on high difficulty."
+	]
+	quest.64F8CAE2AB24B228.quest_subtitle: "Predict & dodge"
+	quest.64F8CAE2AB24B228.title: "Precognition Eye"
+	quest.651C28CAE854B433.quest_desc: ["{chapter.12.quest.60.description.1}"]
+	quest.652CBA57728ADDCF.quest_desc: ["{chapter.9.quest.10.description.1}"]
+	quest.6560F3358C8B4EC4.quest_desc: ["{quest.6560F3358C8B4EC4.quest_desc}"]
+	quest.6560F3358C8B4EC4.quest_subtitle: "{quest.6560F3358C8B4EC4.quest_subtitle}"
+	quest.6560F3358C8B4EC4.title: "{quest.6560F3358C8B4EC4.title}"
+	quest.65B7F130B8D01443.title: "{chapter.25.quest.7.title}"
+	quest.65C1FF66C15D29D9.quest_desc: ["{quest.65C1FF66C15D29D9.quest_desc}"]
+	quest.65C1FF66C15D29D9.quest_subtitle: "{quest.65C1FF66C15D29D9.quest_subtitle}"
+	quest.65C1FF66C15D29D9.title: "{quest.65C1FF66C15D29D9.title}"
+	quest.66185FED92AEE8F4.quest_desc: [
+		"Pharaoh's Bane is desert-pyramid themed."
+		"Maze-like pyramid interiors."
+		"The Pharaoh's curse guards treasure."
+	]
+	quest.66185FED92AEE8F4.quest_subtitle: "Desert dimension"
+	quest.66185FED92AEE8F4.title: "Pharaoh's Bane"
+	quest.66221472C5C98E3A.quest_subtitle: "{chapter.12.quest.29.subtitle}"
+	quest.66221472C5C98E3A.title: "{chapter.12.quest.29.title}"
+	quest.66C28F94F76B55D2.quest_desc: ["{quest.ECDBE596D03C54EF.quest_desc}"]
+	quest.66C28F94F76B55D2.quest_subtitle: "{quest.ECDBE596D03C54EF.quest_subtitle}"
+	quest.66C28F94F76B55D2.title: "{quest.ECDBE596D03C54EF.title}"
+	quest.6705C2F5802E6E11.quest_desc: ["{chapter.13.quest.21.description.1}"]
+	quest.67350E8461A70320.quest_desc: ["{chapter.23.quest.8.description.1}"]
+	quest.679791F5C97C9032.quest_desc: ["{quest.D2E9B3FF0A867939.quest_desc}"]
+	quest.679791F5C97C9032.quest_subtitle: "{quest.D2E9B3FF0A867939.quest_subtitle}"
+	quest.679791F5C97C9032.title: "{quest.D2E9B3FF0A867939.title}"
+	quest.689C8C17F83821A1.quest_desc: [
+		"The Field Guide records discovered mobs."
+		"Kill or scan to unlock entries."
+		"Open it with its hotkey."
+	]
+	quest.689C8C17F83821A1.quest_subtitle: "Explore & collect"
+	quest.689C8C17F83821A1.title: "Field Guide"
+	quest.691A82DC4003E532.quest_desc: [
+		"Spectrum crafting revolves around pedestals and devices."
+		"Build a basic pedestal and set up your workshop."
+		"Follow the guidebook's placement rules."
+	]
+	quest.691A82DC4003E532.quest_subtitle: "Crafting core"
+	quest.691A82DC4003E532.title: "Spectrum Pedestal"
+	quest.692958838A0E6845.quest_subtitle: "{chapter.19.quest.29.subtitle}"
+	quest.698B07E7D62E2E78.quest_desc: [
+		"As resources grow, chests are not enough."
+		"Expand with barrels or Sophisticated Storage."
+		"Use inventory-sort hotkeys to organize."
+	]
+	quest.698B07E7D62E2E78.quest_subtitle: "Organize loot"
+	quest.698B07E7D62E2E78.title: "Storage Expansion"
+	quest.69E0714830293B37.quest_desc: ["{quest.86155CBFCF3C41C1.quest_desc}"]
+	quest.69E0714830293B37.quest_subtitle: "{quest.86155CBFCF3C41C1.quest_subtitle}"
+	quest.69E0714830293B37.title: "{quest.86155CBFCF3C41C1.title}"
+	quest.6A70688CE69F99FB.quest_desc: ["{chapter.12.quest.45.description.1}"]
+	quest.6ACAC6A1FEAE25A3.quest_desc: ["{quest.6ACAC6A1FEAE25A3.quest_desc}"]
+	quest.6ACAC6A1FEAE25A3.quest_subtitle: "{quest.6ACAC6A1FEAE25A3.quest_subtitle}"
+	quest.6ACAC6A1FEAE25A3.title: "{quest.6ACAC6A1FEAE25A3.title}"
+	quest.6AD2CCFC1E9FC97A.title: "{chapter.25.quest.14.title}"
+	quest.6B1BC4A2A7B0ED4A.quest_desc: ["{chapter.9.quest.14.description.1}"]
+	quest.6B1BC4A2A7B0ED4A.quest_subtitle: "{chapter.9.quest.14.subtitle}"
+	quest.6B1BC4A2A7B0ED4A.title: "{chapter.9.quest.14.title}"
+	quest.6C47B6AC84B6C0F4.quest_desc: [
+		"{chapter.12.quest.37.description.1}"
+		"{image:kubejs:textures/ftbq/2023-07-28_19.57.46.png width:128 height:123 align:1}"
+	]
+	quest.6C549B8189876609.quest_desc: ["{chapter.12.quest.48.description.1}"]
+	quest.6C549B8189876609.title: "{chapter.12.quest.48.title}"
+	quest.6C8D82CE418EBBEF.quest_desc: ["{chapter.9.quest.11.description.1}"]
+	quest.6C8D82CE418EBBEF.quest_subtitle: "{chapter.9.quest.11.subtitle}"
+	quest.6C8D82CE418EBBEF.title: "{chapter.9.quest.11.title}"
+	quest.6C9600709B930FD4.quest_desc: ["{quest.887EBDF2C3D98D7F.quest_desc}"]
+	quest.6C9600709B930FD4.quest_subtitle: "{quest.887EBDF2C3D98D7F.quest_subtitle}"
+	quest.6C9600709B930FD4.title: "{quest.887EBDF2C3D98D7F.title}"
+	quest.6CD923D48AF77852.quest_desc: ["{chapter.12.quest.27.description.1}"]
+	quest.6CD923D48AF77852.quest_subtitle: "{chapter.12.quest.27.subtitle}"
+	quest.6CE26B24CB40E642.quest_desc: ["{chapter.12.quest.46.description.1}"]
+	quest.6CE26B24CB40E642.quest_subtitle: "基岩装备无法重铸"
+	quest.6CFC7403D75E173E.quest_desc: [
+		"Tutorial complete!"
+		"Next steps:"
+		"1. Mine diamonds (Y=-59)"
+		"2. Explore the Overworld"
+		"3. Prepare the Twilight portal (12 diamonds)"
+		"Epiphany (K) and the Evolution Sword are your long-term growth!"
+	]
+	quest.6CFC7403D75E173E.quest_subtitle: "Journey begins"
+	quest.6CFC7403D75E173E.title: "Tutorial Complete"
+	quest.6D1E31042946C339.quest_desc: [
+		"Waystones mod adds teleport stones."
+		"Right-click to activate, then warp between them."
+		"Use scrolls from your inventory!"
+	]
+	quest.6D1E31042946C339.quest_subtitle: "Fast travel"
+	quest.6D1E31042946C339.title: "Waystones"
+	quest.6D8C0D09392FF49D.title: "{chapter.24.quest.23.title}"
+	quest.6DC885FDEAC29649.title: "{chapter.8.quest.27.title}"
+	quest.6DD1E9341E34E29A.quest_desc: ["{chapter.12.quest.39.description.1}"]
+	quest.6EC40899DA484216.quest_desc: ["{chapter.12.quest.63.description.1}"]
+	quest.6EC40899DA484216.quest_subtitle: "{chapter.12.quest.63.subtitle}"
+	quest.6ECFD8FA28F0009A.quest_desc: [
+		"A powerful Monstrosity appears late in Spectrum."
+		"It guards rare Spectrum resources."
+		"Defeat it for rare materials."
+		"It feeds your Evolution Sword too!"
+	]
+	quest.6ECFD8FA28F0009A.quest_subtitle: "Mighty guardian"
+	quest.6ECFD8FA28F0009A.title: "Spectrum Monstrosity"
+	quest.6F4F9D2BBF37887C.quest_desc: [
+		"Farm wheat, fish or hunt for food."
+		"Bread is a basic portable food."
+	]
+	quest.6F4F9D2BBF37887C.quest_subtitle: "Don't starve"
+	quest.6F4F9D2BBF37887C.title: "Food Sources"
+	quest.6FABEC58659F2E35.quest_desc: ["{quest.6FABEC58659F2E35.quest_desc}"]
+	quest.6FABEC58659F2E35.quest_subtitle: "{quest.6FABEC58659F2E35.quest_subtitle}"
+	quest.6FABEC58659F2E35.title: "{quest.6FABEC58659F2E35.title}"
+	quest.6FBC36D7ADBB5CF9.quest_desc: [
+		"Servantry adds tameable servants."
+		"Recruit servants to fight beside you."
+		"Advanced servants have gear and skills."
+	]
+	quest.6FBC36D7ADBB5CF9.quest_subtitle: "Fight together"
+	quest.6FBC36D7ADBB5CF9.title: "Servantry"
+	quest.6FD67E00C769E643.quest_desc: ["{chapter.1.quest.2.description.1}"]
+	quest.6FE26D3D5BFDB85F.quest_desc: [
+		"Defeat beasts for unique weapons and gear."
+		"The spear is iconic to Mowzie's Mobs."
+	]
+	quest.6FE26D3D5BFDB85F.quest_subtitle: "Hunting loot"
+	quest.6FE26D3D5BFDB85F.title: "Beast Weapons"
+	quest.703BDC86051012F5.quest_desc: ["{chapter.12.quest.62.description.1}"]
+	quest.703BDC86051012F5.quest_subtitle: "{chapter.12.quest.62.subtitle}"
+	quest.70C5CA3A1AF5901A.quest_desc: ["{chapter.23.quest.34.description.1}"]
+	quest.7128F82FA4A706F4.quest_desc: [
+		"Eternal Frosthold is frost-themed."
+		"Blizzards and ice mobs."
+		"Watch for cold damage."
+	]
+	quest.7128F82FA4A706F4.quest_subtitle: "Frost dimension"
+	quest.7128F82FA4A706F4.title: "Eternal Frosthold"
+	quest.715195FE8612B929.quest_desc: ["{chapter.12.quest.28.description.1}"]
+	quest.716343CB40FF2863.quest_desc: [
+		"Ender chest contents are global."
+		"With shulker boxes = ultimate carry."
+		"Essential for exploring."
+	]
+	quest.716343CB40FF2863.quest_subtitle: "Cross-dimension"
+	quest.716343CB40FF2863.title: "Ender Chest"
+	quest.71722F244F58D669.quest_desc: [
+		"Craft a wooden pick, then mine 3 cobblestone for stone tools."
+		"Stone picks mine iron ore."
+		"Tool tier: wood→stone→iron→diamond→netherite."
+	]
+	quest.71722F244F58D669.quest_subtitle: "Tool upgrade"
+	quest.71722F244F58D669.title: "Wood & Stone Tools"
+	quest.719E01FCD3FE22A4.quest_desc: [
+		"Boats are the fastest water transport."
+		"5 planks."
+		"Don't fall off!"
+	]
+	quest.719E01FCD3FE22A4.quest_subtitle: "Sail the seas"
+	quest.719E01FCD3FE22A4.title: "Boat"
+	quest.72180FB3893E4210.title: "{chapter.23.quest.69.title}"
+	quest.727AC493F445255B.quest_desc: [
+		"Strong ranged volleys."
+		"Keep moving."
+	]
+	quest.727AC493F445255B.quest_subtitle: "Herald"
+	quest.727AC493F445255B.title: "The Harbinger"
+	quest.738EC65A3C5D8366.quest_desc: ["{chapter.4.quest.1.description.1}"]
+	quest.738EC65A3C5D8366.quest_subtitle: "{chapter.4.quest.1.subtitle}"
+	quest.738EC65A3C5D8366.title: "{chapter.4.quest.1.title}"
+	quest.73931BDB2A0DF3DB.quest_desc: [
+		"Diamonds concentrate near Y=-59."
+		"Require an iron pick or better."
+		"Enable advanced gear and the Twilight portal (12)."
+	]
+	quest.73931BDB2A0DF3DB.quest_subtitle: "Precious ore"
+	quest.73931BDB2A0DF3DB.title: "Diamond"
+	quest.7393807F10C36C3E.quest_desc: ["{chapter.11.quest.27.description.1}"]
+	quest.73A0D71EF5B35DE3.quest_desc: ["{quest.73A0D71EF5B35DE3.quest_desc}"]
+	quest.73A0D71EF5B35DE3.quest_subtitle: "{quest.73A0D71EF5B35DE3.quest_subtitle}"
+	quest.73A0D71EF5B35DE3.title: "{quest.73A0D71EF5B35DE3.title}"
+	quest.73EE9254E54EDB50.quest_desc: ["{chapter.9.quest.20.description.1}"]
+	quest.73EE9254E54EDB50.quest_subtitle: "{chapter.9.quest.20.subtitle}"
+	quest.73EE9254E54EDB50.title: "{chapter.9.quest.20.title}"
+	quest.74358F64A7B34614.quest_desc: [
+		"A powerful Monstrosity appears late in Spectrum."
+		"Defeat it for rare Spectrum materials."
+		"It also counts for your Evolution Sword!"
+	]
+	quest.74358F64A7B34614.quest_subtitle: "Mighty guardian"
+	quest.74358F64A7B34614.title: "Spectrum Monstrosity"
+	quest.74C39EB32A2520AA.quest_desc: ["{chapter.3.quest.7.description.1}"]
+	quest.74C39EB32A2520AA.title: "{chapter.3.quest.7.title}"
+	quest.7567DE1CB217C515.quest_desc: [
+		"The Naga, first Twilight boss, is in the Courtyard."
+		"Dodge its charges."
+		"Drops Naga Scales."
+	]
+	quest.7567DE1CB217C515.quest_subtitle: "First boss"
+	quest.7567DE1CB217C515.title: "Naga Courtyard"
+	quest.75B2CE19DA0AF3BF.quest_desc: ["{chapter.19.quest.48.description.1}"]
+	quest.75B2CE19DA0AF3BF.title: "{chapter.19.quest.48.title}"
+	quest.75CE6DA78754C070.quest_desc: ["{chapter.23.quest.4.description.1}"]
+	quest.75EB3CA204BE74C1.quest_desc: [
+		"{chapter.12.quest.54.description.1}"
+		"{image:kubejs:textures/ftbq/tiaose.png width:196 height:126 align:1}"
+		"{chapter.12.quest.54.description.2}"
+	]
+	quest.75EB3CA204BE74C1.quest_subtitle: "你可以在rei里对保护石按r查看在哪层生成多"
+	quest.75EB3CA204BE74C1.title: "{chapter.12.quest.54.title}"
+	quest.76629036263B3588.quest_desc: ["{quest.76629036263B3588.quest_desc}"]
+	quest.76629036263B3588.quest_subtitle: "{quest.76629036263B3588.quest_subtitle}"
+	quest.76629036263B3588.title: "{quest.76629036263B3588.title}"
+	quest.76CD21804384CF1E.quest_desc: ["Forge of Aeons is a forging-themed dimension."]
+	quest.76CD21804384CF1E.quest_subtitle: "Forge dimension"
+	quest.76CD21804384CF1E.title: "Forge of Aeons"
+	quest.76F89A4D5E66DB15.quest_desc: ["{chapter.15.quest.108.description.1}"]
+	quest.76F89A4D5E66DB15.quest_subtitle: "{chapter.15.quest.108.subtitle}"
+	quest.77ABAE960300D29F.quest_desc: ["{chapter.9.quest.16.description.1}"]
+	quest.77ABAE960300D29F.quest_subtitle: "{chapter.9.quest.16.subtitle}"
+	quest.77ABAE960300D29F.title: "{chapter.9.quest.16.title}"
+	quest.78A7397CB4D437E2.quest_desc: ["{quest.C5BB0713ACCD1881.quest_desc}"]
+	quest.78A7397CB4D437E2.quest_subtitle: "{quest.C5BB0713ACCD1881.quest_subtitle}"
+	quest.78A7397CB4D437E2.title: "{quest.C5BB0713ACCD1881.title}"
+	quest.78C3922D0F17AB63.quest_desc: ["{chapter.9.quest.19.description.1}"]
+	quest.78C3922D0F17AB63.quest_subtitle: "{chapter.9.quest.19.subtitle}"
+	quest.78C3922D0F17AB63.title: "{chapter.9.quest.19.title}"
+	quest.78F3185B02B4A80F.quest_desc: ["{chapter.15.quest.3.description.1}"]
+	quest.79352E8E51E56E91.quest_desc: [
+		"When all is done, you are a legend."
+		"Enjoy the adventure — or dig deeper."
+		"Thanks for playing if-1.3!"
+	]
+	quest.79352E8E51E56E91.quest_subtitle: "Become a legend"
+	quest.79352E8E51E56E91.title: "Final Goal"
+	quest.7945125249DD7028.quest_desc: ["{chapter.12.quest.20.description.1}"]
+	quest.7945125249DD7028.quest_subtitle: "{chapter.12.quest.20.subtitle}"
+	quest.7968DC7E215BD20C.quest_desc: ["{chapter.20.quest.4.description.1}"]
+	quest.7968DC7E215BD20C.quest_subtitle: "{chapter.20.quest.4.subtitle}"
+	quest.7970EDF642E739C3.quest_desc: ["{chapter.21.quest.33.description.1}"]
+	quest.7970EDF642E739C3.quest_subtitle: "注意!合成不会保留背包内物品"
+	quest.7A3F4122CAD87DD9.quest_desc: ["{chapter.12.quest.34.description.1}"]
+	quest.7A3F4122CAD87DD9.quest_subtitle: "{chapter.12.quest.34.subtitle}"
+	quest.7A3F4122CAD87DD9.title: "{chapter.12.quest.34.title}"
+	quest.7A3F4EBAD53DEB1E.title: "{chapter.9.quest.13.title}"
+	quest.7AACC55C1BC80F2A.quest_desc: ["{chapter.12.quest.11.description.1}"]
+	quest.7ABCD25967260037.quest_desc: ["{quest.7ABCD25967260037.quest_desc}"]
+	quest.7ABCD25967260037.quest_subtitle: "{quest.7ABCD25967260037.quest_subtitle}"
+	quest.7ABCD25967260037.title: "{quest.7ABCD25967260037.title}"
+	quest.7AEC5DE0101252EB.quest_subtitle: "{chapter.24.quest.8.subtitle}"
+	quest.7AEC5DE0101252EB.title: "{chapter.24.quest.8.title}"
+	quest.7AF59E2FDA4EBDEF.quest_desc: ["{chapter.12.quest.17.description.1}"]
+	quest.7B51BFDD655E1281.quest_desc: ["{chapter.12.quest.15.description.1}"]
+	quest.7B5F0E479A9086BD.title: "{chapter.3.quest.4.title}"
+	quest.7BC9EF328769CA36.title: "{chapter.5.quest.25.title}"
+	quest.7BD9945C70E88D38.quest_desc: ["{chapter.12.quest.52.description.1}"]
+	quest.7BF30ECF34165771.quest_desc: [
+		"Finish every Epiphany module."
+		"Unlock all insights and epiphanies."
+		"Epiphany master!"
+	]
+	quest.7BF30ECF34165771.quest_subtitle: "Knowledge peak"
+	quest.7BF30ECF34165771.title: "Complete Epiphany"
+	quest.7C485B0F106CE6BF.quest_desc: ["{chapter.19.quest.32.description.1}"]
+	quest.7C485B0F106CE6BF.title: "{chapter.19.quest.32.title}"
+	quest.7CCA01C1EF73E6F6.quest_desc: ["{quest.7CCA01C1EF73E6F6.quest_desc}"]
+	quest.7CCA01C1EF73E6F6.quest_subtitle: "{quest.7CCA01C1EF73E6F6.quest_subtitle}"
+	quest.7CCA01C1EF73E6F6.title: "{quest.7CCA01C1EF73E6F6.title}"
+	quest.7D6625A6144DE062.quest_desc: [
+		"Fire Swamp, multi-headed fire breath, heads regenerate."
+		"Ranged damage recommended."
+	]
+	quest.7D6625A6144DE062.quest_subtitle: "Fire beast"
+	quest.7D6625A6144DE062.title: "Hydra"
+	quest.7D6F9B4FE5AAF10E.quest_desc: [
+		"The Evolution Sword is the pack's signature."
+		"+5 attack damage per Boss defeated."
+		"Visible when held; Shift for the kill list."
+		"Get it via the Sword Evolution epiphany."
+		"It grows with you through every boss!"
+	]
+	quest.7D6F9B4FE5AAF10E.quest_subtitle: "Growing weapon"
+	quest.7D6F9B4FE5AAF10E.title: "Evolution Sword"
+	quest.7D8DDBF98196D013.quest_desc: ["{chapter.9.quest.7.description.1}"]
+	quest.7DCB56A33C24D9D6.quest_desc: [
+		"Shows the moon phase and time."
+		"Moon phases affect some mod mechanics."
+	]
+	quest.7DCB56A33C24D9D6.quest_subtitle: "Moon watching"
+	quest.7DCB56A33C24D9D6.title: "Moon Clock"
+	quest.7E097322277CEA03.quest_desc: ["{quest.7E097322277CEA03.quest_desc}"]
+	quest.7E097322277CEA03.quest_subtitle: "{quest.7E097322277CEA03.quest_subtitle}"
+	quest.7E097322277CEA03.title: "{quest.7E097322277CEA03.title}"
+	quest.7E38E74319CD75AA.quest_desc: [
+		"Upgrade to a netherite sword at the smithing table."
+		"Enchant it for power."
+		"Mod gear surpasses it later."
+	]
+	quest.7E38E74319CD75AA.quest_subtitle: "Peak melee"
+	quest.7E38E74319CD75AA.title: "Netherite Sword"
+	quest.7E7FB0BE7396ED40.quest_desc: [
+		"放在要输出的管道接口上"
+		"{image:patchouli:textures/pipe3.png width:180 height:180 align:1}"
+	]
+	quest.7E8358CFBF84CD30.quest_desc: ["{quest.7E8358CFBF84CD30.quest_desc}"]
+	quest.7E8358CFBF84CD30.quest_subtitle: "{quest.7E8358CFBF84CD30.quest_subtitle}"
+	quest.7E8358CFBF84CD30.title: "{quest.7E8358CFBF84CD30.title}"
+	quest.7E9186EDED489A36.quest_desc: [
+		"Step through into the Twilight Forest."
+		"Find ironwood, steeleaf and unique blocks."
+	]
+	quest.7E9186EDED489A36.quest_subtitle: "New world"
+	quest.7E9186EDED489A36.title: "Enter Twilight"
+	quest.7E9291638F5BB78C.quest_desc: ["{quest.7E9291638F5BB78C.quest_desc}"]
+	quest.7E9291638F5BB78C.quest_subtitle: "{quest.7E9291638F5BB78C.quest_subtitle}"
+	quest.7E9291638F5BB78C.title: "{quest.7E9291638F5BB78C.title}"
+	quest.7EB0C92228380C82.quest_desc: ["{chapter.21.quest.26.description.1}"]
+	quest.7FEB1850709B6C3B.quest_desc: [
+		"Cards have rarities: common, rare, epic, mythic."
+		"Higher rarity = more first-time aptitude (+1 common … +6 mythic)."
+		"Complete sets for bonus rewards!"
+	]
+	quest.7FEB1850709B6C3B.quest_subtitle: "Higher is better"
+	quest.7FEB1850709B6C3B.title: "Card Rarity"
+	quest.8069C8033A4E6ACC.quest_desc: [
+		"Knight Phantoms guard the Dark Forest castle."
+		"They strike from invisibility."
+	]
+	quest.8069C8033A4E6ACC.quest_subtitle: "Knight Phantoms"
+	quest.8069C8033A4E6ACC.title: "Dark Castle"
+	quest.8099F4EFBACEA67C.quest_desc: [
+		"Backpacked adds wearable backpacks."
+		"Wear one to double your carry capacity."
+	]
+	quest.8099F4EFBACEA67C.quest_subtitle: "Portable storage"
+	quest.8099F4EFBACEA67C.title: "Travel Backpack"
+	quest.80CA1607D0153EBE.quest_desc: [
+		"The Everlasting Beef sits in the food slot."
+		"Eat it and it refills — never hungry!"
+		"Found in dungeon loot."
+	]
+	quest.80CA1607D0153EBE.quest_subtitle: "Never hungry"
+	quest.80CA1607D0153EBE.title: "Everlasting Beef"
+	quest.815F07687ABBE20F.quest_desc: [
+		"Attack modules grant damage, crit and speed insights."
+		"Worth it for any damage dealer."
+		"Boost before boss fights."
+	]
+	quest.815F07687ABBE20F.quest_subtitle: "Damage boost"
+	quest.815F07687ABBE20F.title: "Attack Modules"
+	quest.81C4696C6D33F406.quest_desc: ["Summons ice guards and fires spikes."]
+	quest.81C4696C6D33F406.quest_subtitle: "Aurora palace"
+	quest.81C4696C6D33F406.title: "Snow Queen"
+	quest.839EE6A848B19C62.quest_desc: ["Souls Anvil is an undead-themed dimension."]
+	quest.839EE6A848B19C62.quest_subtitle: "Undead dimension"
+	quest.839EE6A848B19C62.title: "Souls Anvil"
+	quest.83A2BB772DA9F7F7.quest_desc: [
+		"The Moon Clock shows the current moon phase and time."
+		"Moon phases affect some mod mechanics (e.g. occult rituals)."
+	]
+	quest.83A2BB772DA9F7F7.quest_subtitle: "Moon phase & time"
+	quest.83A2BB772DA9F7F7.title: "Moon Clock"
+	quest.845F08E38DA86D39.quest_desc: [
+		"Signature Cataclysm boss."
+		"Fire blasts and fireballs."
+		"Fire resistance required."
+		"Drops core materials."
+	]
+	quest.845F08E38DA86D39.quest_subtitle: "Cataclysm flame"
+	quest.845F08E38DA86D39.title: "Ignis"
+	quest.84DC2EFCD1B237B5.quest_desc: [
+		"The Naga is in the central courtyard."
+		"It charges with its head."
+		"Tip: shield block + side dodging."
+		"Drops Naga Scales."
+	]
+	quest.84DC2EFCD1B237B5.quest_subtitle: "First Twilight boss"
+	quest.84DC2EFCD1B237B5.title: "Naga Courtyard"
+	quest.852AA90163605253.quest_desc: [
+		"Curios adds charm, ring, belt, necklace slots."
+		"Trinkets give unique effects."
+		"The pack customizes many Curios trinkets."
+	]
+	quest.852AA90163605253.quest_subtitle: "Mix and match"
+	quest.852AA90163605253.title: "Trinket System"
+	quest.8563DBC619DA39C1.quest_desc: [
+		"Epiphanies are the ultimate Epiphany rewards."
+		"Usually require completing modules."
+		"Rewards: permanent attributes, effects, items."
+		"E.g. Sword Evolution grants the Evolution Sword."
+	]
+	quest.8563DBC619DA39C1.quest_subtitle: "Awakened power"
+	quest.8563DBC619DA39C1.title: "Epiphanies"
+	quest.85780F0EC2AA5C95.quest_desc: [
+		"Graveyard structures across the world."
+		"Risen skeletons and bone weapons."
+		"Gain bone materials."
+	]
+	quest.85780F0EC2AA5C95.quest_subtitle: "Whispers of the dead"
+	quest.85780F0EC2AA5C95.title: "Graveyards"
+	quest.85813DBAD3C681D0.quest_desc: [
+		"Mine iron with a stone pick, smelt to ingots."
+		"Diamonds near Y=-59; iron around Y=0-16."
+		"Beware lava, creepers and getting lost."
+	]
+	quest.85813DBAD3C681D0.quest_subtitle: "Iron & coal"
+	quest.85813DBAD3C681D0.title: "Mining"
+	quest.85D6FFE855549928.quest_desc: [
+		"Welcome to the if-1.3 modpack!"
+		"Spectrum, Twilight Forest, Cataclysm, Epiphany, Field Guide and many custom KubeJS items await."
+		"Press K for Epiphany, Q for the quest book — follow the guides!"
+	]
+	quest.85D6FFE855549928.quest_subtitle: "Begin your adventure"
+	quest.85D6FFE855549928.title: "Welcome to if-1.3"
+	quest.86155CBFCF3C41C1.quest_desc: [
+		"The Lich guards the top of the Lich Tower, fighting with magic."
+		"It teleports, summons minions and casts spells."
+		"Drops the Twilight Wand."
+	]
+	quest.86155CBFCF3C41C1.quest_subtitle: "Twilight sorcerer"
+	quest.86155CBFCF3C41C1.title: "The Lich"
+	quest.880DB55798EC59CC.quest_desc: [
+		"A Curios charm."
+		"Every 7th attack deals 77%~777% damage."
+		"Equip in a charm slot."
+		"For the lucky!"
+	]
+	quest.880DB55798EC59CC.quest_subtitle: "Lucky charm"
+	quest.880DB55798EC59CC.title: "Lucky Seven"
+	quest.887EBDF2C3D98D7F.quest_desc: [
+		"The Wither is summoned with soul sand and wither skeleton skulls."
+		"It explodes on spawn and applies Wither effect."
+		"Tip: ranged kiting, milk for the effect."
+	]
+	quest.887EBDF2C3D98D7F.quest_subtitle: "Scourge of the Nether"
+	quest.887EBDF2C3D98D7F.title: "Wither"
+	quest.88CE4EACE6BE7BA6.quest_desc: [
+		"The Harbinger foretells the coming of Cataclysm."
+		"It appears in Cataclysm dimensions with strong ranged attacks."
+	]
+	quest.88CE4EACE6BE7BA6.quest_subtitle: "Herald of calamity"
+	quest.88CE4EACE6BE7BA6.title: "The Harbinger"
+	quest.890AB42FF4F2C1DA.quest_desc: [
+		"Defeat every target in the Boss Codex."
+		"Vanilla 2 + Twilight 8 + Cataclysm 10 + more."
+		"Your Evolution Sword reaches its peak!"
+	]
+	quest.890AB42FF4F2C1DA.quest_subtitle: "Complete codex"
+	quest.890AB42FF4F2C1DA.title: "Conquer All Bosses"
+	quest.893622E90AA0F49B.quest_desc: [
+		"Weather2 adds dynamic storms and tornadoes."
+		"Ambient Sounds and Presence Footsteps enhance audio."
+		"Enhanced Celestials changes the sky."
+		"Fully immersive."
+	]
+	quest.893622E90AA0F49B.quest_subtitle: "Immersive world"
+	quest.893622E90AA0F49B.title: "Environment & Weather"
+	quest.89A30FD54C7B2C1D.quest_desc: [
+		"Trade with villagers for emeralds."
+		"More Villagers adds miner, hunter, carpenter jobs."
+		"Build profession sites to unlock trades."
+	]
+	quest.89A30FD54C7B2C1D.quest_subtitle: "Village economy"
+	quest.89A30FD54C7B2C1D.title: "Villager Trades"
+	quest.8B5239FBD1FD2B42.quest_desc: [
+		"Abyssal Depths is the first Cataclysm dimension."
+		"Dark waters hide deep-sea monsters."
+		"Mobs here are noticeably stronger."
+	]
+	quest.8B5239FBD1FD2B42.quest_subtitle: "Cataclysm start"
+	quest.8B5239FBD1FD2B42.title: "Abyssal Depths"
+	quest.8B9D96B756F177A5.quest_desc: [
+		"The Alpha Yeti lives in a snowy forest cave."
+		"It throws ice and slams the ground."
+	]
+	quest.8B9D96B756F177A5.quest_subtitle: "Alpha Yeti"
+	quest.8B9D96B756F177A5.title: "Snowy Summit"
+	quest.8BDC5AC1D6BCB31E.quest_desc: [
+		"The Field Guide records discovered mobs."
+		"Kill or scan to unlock entries."
+		"+2 aptitude per new entry!"
+		"Reach 10 entries for +1 attack damage."
+	]
+	quest.8BDC5AC1D6BCB31E.quest_subtitle: "Explore & collect"
+	quest.8BDC5AC1D6BCB31E.title: "Field Guide"
+	quest.8EB1374A2A9E7740.quest_desc: [
+		"When geared up:"
+		"defeat all Cataclysm bosses, the Spectrum Monstrosity, and complete the codex."
+		"Your Evolution Sword records every victory!"
+	]
+	quest.8EB1374A2A9E7740.quest_subtitle: "Test your might"
+	quest.8EB1374A2A9E7740.title: "Overall Challenge"
+	quest.912715D51CF59109.quest_desc: [
+		"Blaze powder + ender pearl."
+		"Throw it — it flies toward the stronghold."
+		"Follow until it digs into the ground."
+	]
+	quest.912715D51CF59109.quest_subtitle: "Find the stronghold"
+	quest.912715D51CF59109.title: "Eye of Ender"
+	quest.9136682575250DEF.quest_desc: [
+		"Till soil and plant wheat."
+		"Wheat→bread, or breed cows."
+		"Keep farmland hydrated."
+	]
+	quest.9136682575250DEF.quest_subtitle: "Food security"
+	quest.9136682575250DEF.title: "Farming"
+	quest.91D7745CFA3D1339.quest_desc: [
+		"The Bedrock Sword is one of Spectrum's strongest."
+		"Requires deep Spectrum progress."
+		"Powerful with Spectrum enchants and paint."
+	]
+	quest.91D7745CFA3D1339.quest_subtitle: "Spectrum peak"
+	quest.91D7745CFA3D1339.title: "Bedrock Sword"
+	quest.91E8B2E376BD5466.quest_desc: [
+		"Knight Phantoms guard the Dark Forest castle."
+		"They strike from invisibility in groups."
+		"Listen for armor clinks."
+		"Drops Phantom Armor."
+	]
+	quest.91E8B2E376BD5466.quest_subtitle: "Knight Phantoms"
+	quest.91E8B2E376BD5466.title: "Dark Castle"
+	quest.929EC2010363124F.quest_desc: [
+		"Top of the Aurora Palace."
+		"Summons ice guards, fires spikes."
+		"Clear guards first."
+	]
+	quest.929EC2010363124F.quest_subtitle: "Aurora palace"
+	quest.929EC2010363124F.title: "Snow Queen"
+	quest.92BE8F6688437717.quest_desc: [
+		"Endermen drop pearls."
+		"Pearls teleport and make eyes of ender."
+		"Don't look at endermen!"
+	]
+	quest.92BE8F6688437717.quest_subtitle: "Teleport & seek"
+	quest.92BE8F6688437717.title: "Ender Pearl"
+	quest.933196043300DD20.quest_desc: [
+		"Summon with soul sand and wither skulls."
+		"It applies Wither."
+		"Tip: ranged kiting, milk to cure."
+	]
+	quest.933196043300DD20.quest_subtitle: "Scourge of the Nether"
+	quest.933196043300DD20.title: "Wither"
+	quest.96BA46CAC64CFB8D.quest_desc: [
+		"The Hydra guards its lair in the Fire Swamp."
+		"It breathes fire with many heads."
+		"Ranged damage recommended."
+	]
+	quest.96BA46CAC64CFB8D.quest_subtitle: "The Hydra"
+	quest.96BA46CAC64CFB8D.title: "Fire Swamp"
+	quest.9700E54746450CAC.quest_desc: ["The ink flask is for Spectrum writing and drawing."]
+	quest.9700E54746450CAC.quest_subtitle: "Ink power"
+	quest.9700E54746450CAC.title: "Ink Flask"
+	quest.9796E026F977A580.quest_desc: [
+		"A Servantry trinket."
+		"Wear after recruiting servants."
+		"Fight alongside your servants."
+	]
+	quest.9796E026F977A580.quest_subtitle: "Fight together"
+	quest.9796E026F977A580.title: "Servant Scarf"
+	quest.97C9C3593B2C2F54.quest_desc: [
+		"More bosses await:"
+		"Mowzie's Mobs: Ferrous Wroughtnaut, Frostmaw, Sculptor, Umvuthi."
+		"Dungeons Now Loading: Fairkeeper Boros & Ouros."
+		"They all feed your Evolution Sword!"
+	]
+	quest.97C9C3593B2C2F54.quest_subtitle: "More challenges"
+	quest.97C9C3593B2C2F54.title: "More Bosses"
+	quest.982A239ED56773FA.quest_desc: ["Deep in the Maze Garden, powerful charges."]
+	quest.982A239ED56773FA.quest_subtitle: "Maze master"
+	quest.982A239ED56773FA.title: "Minoshroom"
+	quest.99C90A0B38A62E4A.quest_desc: [
+		"Dispensers use items automatically."
+		"Pair with redstone timers."
+	]
+	quest.99C90A0B38A62E4A.quest_subtitle: "Auto use"
+	quest.99C90A0B38A62E4A.title: "Dispenser"
+	quest.9A2145128EDFED86.quest_desc: [
+		"The Overworld has dungeons, mineshafts, villages."
+		"YUNG mods improve structure quality."
+		"Dungeons & Taverns and Ancient Towns add new ones."
+		"Loot every chest!"
+	]
+	quest.9A2145128EDFED86.quest_subtitle: "Dungeons & loot"
+	quest.9A2145128EDFED86.title: "Ruins"
+	quest.9B85FBF009BB407E.quest_desc: [
+		"The Beeper is a Curios trinket."
+		"It plays a sound when you complete tasks."
+		"Equip it in a trinket slot."
+	]
+	quest.9B85FBF009BB407E.quest_subtitle: "Task notification"
+	quest.9B85FBF009BB407E.title: "Beeper"
+	quest.9E779F6BEE9CD564.quest_desc: [
+		"Saddles let you ride pigs/horses."
+		"Found in dungeons or via fishing."
+		"Much faster than walking."
+	]
+	quest.9E779F6BEE9CD564.quest_subtitle: "Ride to explore"
+	quest.9E779F6BEE9CD564.title: "Saddle"
+	quest.9EACC2519AD1E933.quest_desc: [
+		"Cataclysm sea monster."
+		"Sweeps and charges."
+		"Keep distance."
+	]
+	quest.9EACC2519AD1E933.quest_subtitle: "Sea beast"
+	quest.9EACC2519AD1E933.title: "The Leviathan"
+	quest.9EB901A17FF1BEF8.quest_desc: [
+		"Defeat every Boss Codex target."
+		"Vanilla 2 + Twilight 8 + Cataclysm 10 + more."
+		"Your Evolution Sword peaks!"
+	]
+	quest.9EB901A17FF1BEF8.quest_subtitle: "Complete codex"
+	quest.9EB901A17FF1BEF8.title: "Conquer All Bosses"
+	quest.9EF307590D273E34.quest_desc: [
+		"Cooking mods add recipes (Kaleidoscope Cookery)."
+		"Note: first-time foods grant aptitude!"
+		"Try different foods."
+	]
+	quest.9EF307590D273E34.quest_subtitle: "Better food"
+	quest.9EF307590D273E34.title: "Cooking"
+	quest.9FB762BA2205FBC5.quest_desc: [
+		"Collect amethyst, citrine and other shards."
+		"Each holds distinct Spectrum energy."
+		"Used in devices and recipes."
+	]
+	quest.9FB762BA2205FBC5.quest_subtitle: "Colorful power"
+	quest.9FB762BA2205FBC5.title: "Spectrum Shards"
+	quest.9FF903D48BCB1C16.quest_desc: [
+		"Nether Depth Upgrade adds Nether fish."
+		"Fish in lava with a lava rod!"
+		"Obsidianfish, soulsandfish and more."
+	]
+	quest.9FF903D48BCB1C16.quest_subtitle: "Lava fish"
+	quest.9FF903D48BCB1C16.title: "Nether Fishing"
+	quest.A0B994C1E6D3301B.quest_desc: [
+		"First Twilight boss in the Naga Courtyard."
+		"Drops Naga Scales for armor."
+	]
+	quest.A0B994C1E6D3301B.quest_subtitle: "Serpent king"
+	quest.A0B994C1E6D3301B.title: "Naga"
+	quest.A0C3C6A7BBD33DAD.quest_desc: [
+		"Scylla is a sea-monster boss of Cataclysm."
+		"It darts through water at great speed."
+	]
+	quest.A0C3C6A7BBD33DAD.quest_subtitle: "Siren legend"
+	quest.A0C3C6A7BBD33DAD.title: "Scylla"
+	quest.A2E0CA9576DCA77A.quest_desc: [
+		"The Ender Golem is an End-themed boss."
+		"Teleport strikes + area blasts."
+		"Keep distance and predict landings."
+	]
+	quest.A2E0CA9576DCA77A.quest_subtitle: "End creation"
+	quest.A2E0CA9576DCA77A.title: "Ender Golem"
+	quest.A2EEB454D134955A.quest_desc: [
+		"Ancient debris spawns at Y=8-22."
+		"4 debris + 4 gold = 1 scrap."
+		"4 scraps + 4 gold = 1 netherite ingot."
+		"Upgrade diamond gear at a smithing table!"
+	]
+	quest.A2EEB454D134955A.quest_subtitle: "Netherite path"
+	quest.A2EEB454D134955A.title: "Ancient Debris"
+	quest.A47F64AD184B1A97.quest_desc: [
+		"Aptitude is the currency for insight points."
+		"Every 10 aptitude = +1 insight point."
+		"Earn aptitude by: killing bosses, entering dimensions, first foods, new guide entries (+2)."
+	]
+	quest.A47F64AD184B1A97.quest_subtitle: "Growth path"
+	quest.A47F64AD184B1A97.title: "Aptitude & Insight"
+	quest.A52C57FCB52AB6B5.quest_desc: [
+		"Deep in the Maze Garden."
+		"Bull-like charges."
+		"Mark your maze path."
+	]
+	quest.A52C57FCB52AB6B5.quest_subtitle: "Maze master"
+	quest.A52C57FCB52AB6B5.title: "Minoshroom"
+	quest.A531943C9E4EFCFD.quest_desc: [
+		"Pharaoh's Bane is a desert pyramid themed Cataclysm dimension."
+		"Explore the pyramid and face the Pharaoh's curse."
+	]
+	quest.A531943C9E4EFCFD.quest_subtitle: "Desert pyramid"
+	quest.A531943C9E4EFCFD.title: "Cataclysm: Pharaoh's Bane"
+	quest.A57F27CE66775314.quest_desc: [
+		"The Collectors Album system."
+		"First-time card acquisition grants aptitude (common+1 … mythic+6)."
+	]
+	quest.A57F27CE66775314.quest_subtitle: "Collection fun"
+	quest.A57F27CE66775314.title: "Collectors Album"
+	quest.A5D6330BF28C0ED5.quest_desc: [
+		"The transmogrification table reskins gear."
+		"Costs void fragments."
+		"Look good and be strong."
+	]
+	quest.A5D6330BF28C0ED5.quest_subtitle: "Style freedom"
+	quest.A5D6330BF28C0ED5.title: "Transmog"
+	quest.A6B3CAAAECA180ED.quest_desc: [
+		"A mysterious item symbolizing dusk."
+		"More uses await discovery."
+	]
+	quest.A6B3CAAAECA180ED.quest_subtitle: "Witness of dusk"
+	quest.A6B3CAAAECA180ED.title: "Dusk Bell"
+	quest.A8214CA682F72835.quest_desc: [
+		"Lair in the Fire Swamp."
+		"Multi-headed fire, heads regrow."
+		"Ranged kiting recommended."
+		"Drops Hydra Scales."
+	]
+	quest.A8214CA682F72835.quest_subtitle: "Fire beast"
+	quest.A8214CA682F72835.title: "Hydra"
+	quest.A965CDA2C354FA70.quest_desc: [
+		"Find the frame in the stronghold."
+		"Insert 12 eyes to activate."
+		"Jump in — welcome to the End!"
+	]
+	quest.A965CDA2C354FA70.quest_subtitle: "Activate the End"
+	quest.A965CDA2C354FA70.title: "End Portal"
+	quest.A9A5BF753DFE0394.quest_desc: ["Attacks with cursed wings and soul power."]
+	quest.A9A5BF753DFE0394.quest_subtitle: "Cursed wings"
+	quest.A9A5BF753DFE0394.title: "Maledictus"
+	quest.A9DB6653DDAB8797.quest_desc: [
+		"Bastion Lost is the final Cataclysm challenge."
+		"The strongest guardians dwell here — prepare!"
+	]
+	quest.A9DB6653DDAB8797.quest_subtitle: "Final realm"
+	quest.A9DB6653DDAB8797.title: "Bastion Lost"
+	quest.AB2B74978D7FD9A4.quest_desc: [
+		"Late Spectrum can forge powerful bedrock gear."
+		"The Bedrock Sword symbolizes Spectrum might."
+	]
+	quest.AB2B74978D7FD9A4.quest_subtitle: "Spectrum peak"
+	quest.AB2B74978D7FD9A4.title: "Bedrock Sword"
+	quest.AC925CB4E00F15AA.quest_desc: [
+		"Mine amethyst for powder."
+		"It is the base of most Spectrum crafting."
+	]
+	quest.AC925CB4E00F15AA.quest_subtitle: "Foundation"
+	quest.AC925CB4E00F15AA.title: "Gemstone Powder"
+	quest.ACFBBDF2F0EAC5DC.quest_desc: [
+		"Lucky Seven is a Curios trinket."
+		"Every 7th attack deals 77%~777% damage!"
+		"Equip in a charm slot."
+	]
+	quest.ACFBBDF2F0EAC5DC.quest_subtitle: "Lucky charm"
+	quest.ACFBBDF2F0EAC5DC.title: "Lucky Seven"
+	quest.AD21739A903CB1D8.quest_desc: [
+		"The Snow Queen guards the Aurora Palace."
+		"She summons ice guards and fires spikes."
+	]
+	quest.AD21739A903CB1D8.quest_subtitle: "Snow Queen"
+	quest.AD21739A903CB1D8.title: "Aurora Palace"
+	quest.AE8DB663EF0663E8.quest_desc: [
+		"Hookshot, barrel-roll flight and more."
+		"Waystones + elytra."
+		"Pick your travel style."
+	]
+	quest.AE8DB663EF0663E8.quest_subtitle: "Travel fast"
+	quest.AE8DB663EF0663E8.title: "Mobility"
+	quest.AEE7C2BD49FF87F2.quest_desc: [
+		"+2 aptitude per new guide entry!"
+		"Killing mobs unlocks entries fastest."
+		"Links into the Epiphany aptitude pool."
+	]
+	quest.AEE7C2BD49FF87F2.quest_subtitle: "Aptitude reward"
+	quest.AEE7C2BD49FF87F2.title: "Unlock Entries"
+	quest.B0D1CB7C2B70A3A4.quest_desc: [
+		"Dropped by evokers and raid captains."
+		"Revives you once while held."
+		"The ultimate survival tool."
+	]
+	quest.B0D1CB7C2B70A3A4.quest_subtitle: "Second chance"
+	quest.B0D1CB7C2B70A3A4.title: "Totem of Undying"
+	quest.B1005EC615523A56.quest_desc: ["Foretells Cataclysm, strong ranged attacks."]
+	quest.B1005EC615523A56.quest_subtitle: "Herald"
+	quest.B1005EC615523A56.title: "The Harbinger"
+	quest.B1AA6D591AB90640.quest_desc: [
+		"The ink flask is for Spectrum writing and drawing."
+		"Use with brushes."
+		"Inks come in colors and functions."
+	]
+	quest.B1AA6D591AB90640.quest_subtitle: "Writing power"
+	quest.B1AA6D591AB90640.title: "Ink Flask"
+	quest.B212F19D54DBCECC.quest_desc: [
+		"Outer islands spawn after the dragon dies."
+		"End cities and ships lie far out."
+		"Bridge or fly with pearls/elytra."
+	]
+	quest.B212F19D54DBCECC.quest_subtitle: "Void & islands"
+	quest.B212F19D54DBCECC.title: "End Islands"
+	quest.B2A953238A391BC3.quest_desc: [
+		"The Collectors Album card system."
+		"First-time cards grant aptitude."
+		"Cards come from exploring, killing, loot."
+	]
+	quest.B2A953238A391BC3.quest_subtitle: "Collection fun"
+	quest.B2A953238A391BC3.title: "Collectors Album"
+	quest.B363BF685DCF2C12.quest_desc: [
+		"A Curios trinket granting Precognition stacks that auto-dodge."
+		"Overheat when depleted, then recover."
+	]
+	quest.B363BF685DCF2C12.quest_subtitle: "Predict & dodge"
+	quest.B363BF685DCF2C12.title: "Precognition Eye"
+	quest.B3918C98CD48CE27.quest_desc: [
+		"A key crafting material."
+		"Obtain via the difficulty changer or quests."
+		"Needed in advanced recipes."
+	]
+	quest.B3918C98CD48CE27.quest_subtitle: "Rare material"
+	quest.B3918C98CD48CE27.title: "Eternal Star"
+	quest.B3EF4E56A2F07D91.quest_desc: [
+		"Mowzie's Mobs adds stylized beasts."
+		"Wroughtnaut, Frostmaw, Sculptor, Umvuthi."
+		"They feed your Evolution Sword."
+		"Defeat them for unique gear."
+	]
+	quest.B3EF4E56A2F07D91.quest_subtitle: "Ancient beasts"
+	quest.B3EF4E56A2F07D91.title: "Mowzie's Mobs"
+	quest.B545C9C73333EB2A.quest_desc: [
+		"The Minoshroom hides deep in the Maze Garden."
+		"Mark your path in the maze!"
+	]
+	quest.B545C9C73333EB2A.quest_subtitle: "Lost & charging"
+	quest.B545C9C73333EB2A.title: "Maze Garden"
+	quest.B637B72EF66E29A1.quest_desc: [
+		"Mystic's Biomes, Ecologics, Swaying Garden expand biomes."
+		"Dungeons & Taverns and Ancient Towns add structures."
+		"Exploration is its own reward."
+	]
+	quest.B637B72EF66E29A1.quest_subtitle: "Colorful world"
+	quest.B637B72EF66E29A1.title: "Ecology & Buildings"
+	quest.B7CF16C18BAD8CE2.quest_desc: [
+		"Craft a stone sword."
+		"Night mobs are dangerous — arm yourself."
+	]
+	quest.B7CF16C18BAD8CE2.quest_subtitle: "Self defense"
+	quest.B7CF16C18BAD8CE2.title: "Stone Sword"
+	quest.B7D52B20CF1CB80B.quest_desc: [
+		"10 obsidian in a 4×5 frame."
+		"Light with flint and steel."
+		"Enter the Nether!"
+	]
+	quest.B7D52B20CF1CB80B.quest_subtitle: "Fire land"
+	quest.B7D52B20CF1CB80B.title: "Open the Portal"
+	quest.B8212B0CFB5058FD.quest_desc: [
+		"Other mods add rings and necklaces."
+		"Combine trinkets per scenario."
+		"Watch for trinket slots when exploring."
+	]
+	quest.B8212B0CFB5058FD.quest_subtitle: "More options"
+	quest.B8212B0CFB5058FD.title: "Rings & Necklaces"
+	quest.B943596383F992AA.quest_desc: [
+		"Mine ancient debris for netherite scraps."
+		"Upgrade diamond gear with netherite."
+	]
+	quest.B943596383F992AA.quest_subtitle: "Top material"
+	quest.B943596383F992AA.title: "Netherite"
+	quest.B9937FF0D0858F84.quest_desc: [
+		"When all is done:"
+		"you are a legend of this world."
+		"Enjoy the adventure — or dig for hidden content!"
+	]
+	quest.B9937FF0D0858F84.quest_subtitle: "Become a legend"
+	quest.B9937FF0D0858F84.title: "Final Goal"
+	quest.BA07960EE4AFC585.quest_desc: [
+		"Start with zombies, skeletons, spiders."
+		"Kill once to unlock."
+		"A night out is a codex harvest."
+	]
+	quest.BA07960EE4AFC585.quest_subtitle: "Beginner codex"
+	quest.BA07960EE4AFC585.title: "Common Mobs"
+	quest.BA5A3468677062A9.quest_desc: [
+		"Soul attacks."
+		"Watch trajectories."
+	]
+	quest.BA5A3468677062A9.quest_subtitle: "Cursed wings"
+	quest.BA5A3468677062A9.title: "Maledictus"
+	quest.BB05982BA542C980.quest_desc: [
+		"Spectrum adds a unique magic system."
+		"Start by collecting gemstone powder and unlock Spectrum tech."
+		"The Spectrum chapter in this book guides you."
+	]
+	quest.BB05982BA542C980.quest_subtitle: "Mystic power"
+	quest.BB05982BA542C980.title: "Spectrum Magic"
+	quest.BB2CCA83BBC3FA51.quest_desc: [
+		"The Naga is the first Twilight boss, found in the Naga Courtyard."
+		"It charges and rams with its head."
+		"Drops Naga Scales for armor crafting."
+	]
+	quest.BB2CCA83BBC3FA51.quest_subtitle: "Serpent king"
+	quest.BB2CCA83BBC3FA51.title: "Naga"
+	quest.BBC14EBBE24BCA87.quest_desc: [
+		"Blazes drop rods."
+		"Blaze powder makes eyes of ender and brewing."
+		"Find blaze spawners in fortresses."
+	]
+	quest.BBC14EBBE24BCA87.quest_subtitle: "Brewing & End"
+	quest.BBC14EBBE24BCA87.title: "Blaze Rod"
+	quest.BC2BB668EA47D51A.quest_desc: [
+		"Craft a pickaxe, mine iron ore and smelt it."
+		"Iron is the base of mid-game gear."
+	]
+	quest.BC2BB668EA47D51A.quest_subtitle: "Resource start"
+	quest.BC2BB668EA47D51A.title: "Mine Iron"
+	quest.BD47D5552C7F47E8.quest_desc: [
+		"Hoppers transfer items automatically."
+		"Simple automation with chests/furnaces."
+		"See Storage & Logistics for more."
+	]
+	quest.BD47D5552C7F47E8.quest_subtitle: "Auto basics"
+	quest.BD47D5552C7F47E8.title: "Hopper"
+	quest.BDABE898736A3566.quest_desc: [
+		"Emeralds are the villager currency."
+		"Mine them or trade for them."
+		"More Villagers expands professions."
+	]
+	quest.BDABE898736A3566.quest_subtitle: "Trade currency"
+	quest.BDABE898736A3566.title: "Emerald"
+	quest.BE5924A37935B4CD.quest_desc: [
+		"The Minoshroom hides deep in the maze."
+		"Mark your path!"
+		"Its charge hits hard."
+	]
+	quest.BE5924A37935B4CD.quest_subtitle: "Maze master"
+	quest.BE5924A37935B4CD.title: "Maze Garden"
+	quest.BF2FE182CA486294.quest_desc: [
+		"Use a compass and map to navigate."
+		"Explore biomes for unique resources."
+	]
+	quest.BF2FE182CA486294.quest_subtitle: "Find biomes"
+	quest.BF2FE182CA486294.title: "Compass"
+	quest.BF864F9D07D9642A.quest_desc: [
+		"Explore modules reward entering dimensions/structures."
+		"Ties into the Dimension Guide."
+		"Explore more, earn more aptitude."
+	]
+	quest.BF864F9D07D9642A.quest_subtitle: "Travel far"
+	quest.BF864F9D07D9642A.title: "Explore Modules"
+	quest.BF9B79C7F92B3D3F.quest_desc: [
+		"Transmog lets you change item appearance."
+		"Use the transmogrification table."
+		"Look good AND be strong!"
+	]
+	quest.BF9B79C7F92B3D3F.quest_subtitle: "Style freedom"
+	quest.BF9B79C7F92B3D3F.title: "Transmog"
+	quest.BFB36D9406E7C5CA.quest_desc: [
+		"Shows moon phase and time."
+		"Moon phases affect some mechanics."
+		"Check before rituals."
+	]
+	quest.BFB36D9406E7C5CA.quest_subtitle: "Moon watching"
+	quest.BFB36D9406E7C5CA.title: "Moon Clock"
+	quest.BFE3FA6BAD17408D.quest_desc: [
+		"Grows on End islands."
+		"Eating teleports randomly (fall risk!)."
+		"Popped chorus is a food source."
+	]
+	quest.BFE3FA6BAD17408D.quest_subtitle: "End crop"
+	quest.BFE3FA6BAD17408D.title: "Chorus Fruit"
+	quest.C54898F425D8D9F2.quest_desc: [
+		"Ironwood trees cover Twilight."
+		"Ironwood ingots make tools and gear."
+		"Twilight gear matters in mid-game."
+	]
+	quest.C54898F425D8D9F2.quest_subtitle: "Twilight base material"
+	quest.C54898F425D8D9F2.title: "Ironwood"
+	quest.C580C6DDCC6D2BC6.quest_desc: [
+		"Craft Cataclysm gear from Ignitium materials."
+		"Powerful stats make it core late-game gear."
+	]
+	quest.C580C6DDCC6D2BC6.quest_subtitle: "Rise stronger"
+	quest.C580C6DDCC6D2BC6.title: "Cataclysm Gear"
+	quest.C59C0996DAEEE6F5.quest_desc: [
+		"Craft full iron armor, sword and pick."
+		"Iron lets you go deep and enter the Nether."
+		"Now explore the world!"
+	]
+	quest.C59C0996DAEEE6F5.quest_subtitle: "Mid-game start"
+	quest.C59C0996DAEEE6F5.title: "Iron Gear"
+	quest.C5BB0713ACCD1881.quest_desc: [
+		"Epiphany is the core progression system:"
+		"Complete modules for insight points and slots."
+		"Unlock insights for permanent bonuses; activate epiphanies for power."
+		"Press K to open the Epiphany screen!"
+	]
+	quest.C5BB0713ACCD1881.quest_subtitle: "Core progression"
+	quest.C5BB0713ACCD1881.title: "Epiphany System"
+	quest.C5E3A6003C1CE62E.quest_desc: [
+		"Nether Depth Upgrade adds unique Nether fish."
+		"Fish in lava with a lava fishing rod!"
+	]
+	quest.C5E3A6003C1CE62E.quest_subtitle: "Lava fish"
+	quest.C5E3A6003C1CE62E.title: "Nether Fishing"
+	quest.C722854B7B43A77D.quest_desc: [
+		"The Hydra guards the Hydra Lair in the Fire Swamp with multiple heads."
+		"Its fire breath is wide and heads regenerate."
+		"Tip: ranged damage and dodge the flames."
+	]
+	quest.C722854B7B43A77D.quest_subtitle: "Fire beast"
+	quest.C722854B7B43A77D.title: "Hydra"
+	quest.C87A171AC826A6FC.quest_desc: [
+		"Break logs by hand or with tools."
+		"Collect at least 20 logs first."
+		"Logs make planks and sticks — the start of everything."
+	]
+	quest.C87A171AC826A6FC.quest_subtitle: "First log"
+	quest.C87A171AC826A6FC.title: "Chop Wood"
+	quest.C8B45A8415D6AC00.quest_desc: [
+		"Summon with 3 skulls + 4 soul sand."
+		"Explodes on spawn, applies Wither."
+		"Tip: fight underground, ranged, milk to cure."
+		"Drops the nether star."
+	]
+	quest.C8B45A8415D6AC00.quest_subtitle: "Scourge of the Nether"
+	quest.C8B45A8415D6AC00.title: "Wither"
+	quest.C939B774F4EBDF67.quest_desc: [
+		"The dragon guards the central island."
+		"Destroy crystals, then shoot the dragon."
+		"Bring enchanted bows, apples, feather falling."
+		"A portal appears after victory."
+	]
+	quest.C939B774F4EBDF67.quest_subtitle: "King of the End"
+	quest.C939B774F4EBDF67.title: "Ender Dragon"
+	quest.C9787A40B7127372.quest_desc: [
+		"Craft a map; Xaero minimap is always on."
+		"Press M for the world map."
+	]
+	quest.C9787A40B7127372.quest_subtitle: "Don't get lost"
+	quest.C9787A40B7127372.title: "Mapping"
+	quest.CA0FA5F6B8A88062.quest_desc: [
+		"Lapis fuels enchanting."
+		"Save it for your enchanting table."
+	]
+	quest.CA0FA5F6B8A88062.quest_subtitle: "Enchanting source"
+	quest.CA0FA5F6B8A88062.title: "Lapis Lazuli"
+	quest.CAC42B13D72ACA08.quest_desc: [
+		"Collect 12 diamonds."
+		"Dig a 2×2 water pool."
+		"Throw diamonds in — the water becomes a portal!"
+		"Twilight is a key mid-game dimension."
+	]
+	quest.CAC42B13D72ACA08.quest_subtitle: "Fairy-tale gate"
+	quest.CAC42B13D72ACA08.title: "Twilight Portal"
+	quest.CB721D9DF9013F10.quest_desc: [
+		"Design for: quick access, auto-sorting, batch smelting."
+		"Combine RS, hoppers, redstone."
+		"A clean base is a happy base."
+	]
+	quest.CB721D9DF9013F10.quest_subtitle: "Warehouse design"
+	quest.CB721D9DF9013F10.title: "Logistics Planning"
+	quest.CBBB7E313AA182B8.quest_desc: [
+		"Sea monster of Cataclysm oceans."
+		"Huge attack range."
+	]
+	quest.CBBB7E313AA182B8.quest_subtitle: "Sea beast"
+	quest.CBBB7E313AA182B8.title: "The Leviathan"
+	quest.CC3732855F6C0843.quest_desc: [
+		"Bosses and rare mobs are in the codex too."
+		"Kill bosses for rare entries (+2 aptitude)."
+		"Ties into the Boss Codex chapter."
+	]
+	quest.CC3732855F6C0843.quest_subtitle: "Codex master"
+	quest.CC3732855F6C0843.title: "Rare Mobs"
+	quest.CCF66ECDE48B8CCC.quest_desc: [
+		"Before a boss fight:"
+		"1. Enchanted gear (Protection/Sharpness/Power)"
+		"2. Plenty of food and healing potions"
+		"3. Evolution Sword bonus ready"
+		"4. Learn the boss attack patterns"
+	]
+	quest.CCF66ECDE48B8CCC.quest_subtitle: "Pre-battle checklist"
+	quest.CCF66ECDE48B8CCC.title: "Boss Prep"
+	quest.CF0A974C5636ABBF.quest_desc: [
+		"The Ender Dragon dwells on the central island of the End."
+		"Kill it for massive XP and to open End cities."
+		"Tip: enchanted bow, golden apples, feather falling."
+	]
+	quest.CF0A974C5636ABBF.quest_subtitle: "King of the End"
+	quest.CF0A974C5636ABBF.title: "Ender Dragon"
+	quest.CF92947BBFD30E04.quest_desc: [
+		"Mine amethyst clusters for powder."
+		"The base of all Spectrum crafting."
+		"Budding amethyst regrows."
+	]
+	quest.CF92947BBFD30E04.quest_subtitle: "Foundation"
+	quest.CF92947BBFD30E04.title: "Gemstone Powder"
+	quest.D0BAB9D0E20010D8.quest_desc: [
+		"The Leviathan is Cataclysm's sea monster."
+		"Its huge body sweeps the arena."
+		"Watch for charges and tail swipes."
+	]
+	quest.D0BAB9D0E20010D8.quest_subtitle: "Sea beast"
+	quest.D0BAB9D0E20010D8.title: "The Leviathan"
+	quest.D18DB316B929AA79.quest_desc: [
+		"Find elytra on End ships."
+		"Use fireworks to fly."
+		"Explore distant End islands!"
+	]
+	quest.D18DB316B929AA79.quest_subtitle: "Soar the skies"
+	quest.D18DB316B929AA79.title: "Elytra Flight"
+	quest.D22946A9A0455BF8.quest_desc: [
+		"Ancient debris spawns in the Nether at Y=8-22."
+		"4 debris + 4 gold ingots = 1 netherite scrap."
+	]
+	quest.D22946A9A0455BF8.quest_subtitle: "Netherite path"
+	quest.D22946A9A0455BF8.title: "Ancient Debris"
+	quest.D2698C92D3386F3B.quest_desc: [
+		"Gaze attacks."
+		"Dodge by facing."
+	]
+	quest.D2698C92D3386F3B.quest_subtitle: "It watches"
+	quest.D2698C92D3386F3B.title: "The Watcher"
+	quest.D2D6BADB723EEA35.quest_desc: [
+		"Open the Twilight portal with 12 diamonds."
+		"Defeat Twilight bosses in order: Naga→Lich→Hydra→…"
+		"Twilight gear is key mid-game power."
+	]
+	quest.D2D6BADB723EEA35.quest_subtitle: "Fairy-tale adventure"
+	quest.D2D6BADB723EEA35.title: "Twilight Path"
+	quest.D2E9B3FF0A867939.quest_desc: [
+		"Furnaces smelt ores and cook food."
+		"Craft one with 8 cobblestone."
+	]
+	quest.D2E9B3FF0A867939.quest_subtitle: "Smelting & cooking"
+	quest.D2E9B3FF0A867939.title: "Craft a Furnace"
+	quest.D37DC2C9A7A5236B.quest_desc: [
+		"A More Villagers profession site."
+		"Villagers become architects."
+		"Trade for building blueprints."
+	]
+	quest.D37DC2C9A7A5236B.quest_subtitle: "New profession"
+	quest.D37DC2C9A7A5236B.title: "Blueprint Table"
+	quest.D3B87449D2538927.quest_desc: [
+		"The Llama Cloak grants extra protection."
+		"Found in structure loot."
+	]
+	quest.D3B87449D2538927.quest_subtitle: "Protection"
+	quest.D3B87449D2538927.title: "Llama Cloak"
+	quest.D49A6FA5CA9F7AC8.quest_desc: [
+		"Steeleaf grows in steeleaf forests."
+		"Steeleaf ingots beat ironwood."
+		"Upgrade your Twilight gear."
+	]
+	quest.D49A6FA5CA9F7AC8.quest_subtitle: "Better material"
+	quest.D49A6FA5CA9F7AC8.title: "Steeleaf"
+	quest.D51DABFFD083575F.quest_desc: ["Dark Forest castle, strikes from invisibility."]
+	quest.D51DABFFD083575F.quest_subtitle: "Castle shadow"
+	quest.D51DABFFD083575F.title: "Knight Phantom"
+	quest.D58E72E310275DFF.quest_desc: [
+		"Stick + coal/charcoal makes torches."
+		"Light caves and nights to prevent spawns."
+		"Carry at least 4."
+	]
+	quest.D58E72E310275DFF.quest_subtitle: "Light the dark"
+	quest.D58E72E310275DFF.title: "Torches"
+	quest.D68A5AA6BD281F42.quest_desc: [
+		"Ignis is a powerful Cataclysm boss."
+		"Defeat it for Cataclysm core materials used in advanced crafting."
+		"Bring the Evolution Sword and prepare well!"
+	]
+	quest.D68A5AA6BD281F42.quest_subtitle: "Cataclysm boss"
+	quest.D68A5AA6BD281F42.title: "The Ignis Trial"
+	quest.D6A502F1FAF95099.quest_desc: [
+		"Unique modules include:"
+		"Sacrifice: power at a price."
+		"Study: aptitude multiplier, XP, eating speed."
+		"Infinity: global aptitude config."
+		"Something for everyone!"
+	]
+	quest.D6A502F1FAF95099.quest_subtitle: "Varied play"
+	quest.D6A502F1FAF95099.title: "Special Modules"
+	quest.D72E7B724DDB2B6A.quest_desc: [
+		"Spectrum uses paint and brushes for color magic."
+		"Craft a paintbrush and start creating."
+	]
+	quest.D72E7B724DDB2B6A.quest_subtitle: "Color magic"
+	quest.D72E7B724DDB2B6A.title: "Paint & Brush"
+	quest.D7857CC3B8E7C8CC.quest_desc: [
+		"Spectrum uses paint and brushes for color magic."
+		"Craft brushes and paint."
+		"Color is a core Spectrum concept."
+	]
+	quest.D7857CC3B8E7C8CC.quest_subtitle: "Color magic"
+	quest.D7857CC3B8E7C8CC.title: "Paint & Brush"
+	quest.D791594464568FC5.quest_desc: [
+		"Souls Anvil is undead-themed."
+		"Wastelands of undead hordes."
+		"Collect soul essence for crafting."
+	]
+	quest.D791594464568FC5.quest_subtitle: "Undead dimension"
+	quest.D791594464568FC5.title: "Souls Anvil"
+	quest.D7E805DA846A32C3.quest_desc: [
+		"Welcome to the if-1.3 modpack!"
+		"Core: Spectrum, Twilight Forest and Cataclysm, plus Epiphany progression, Field Guide and custom KubeJS items."
+		"Press K for Epiphany, Q for quests, E for inventory (EMI recipes)."
+		"This book guides you from zero to hero."
+	]
+	quest.D7E805DA846A32C3.quest_subtitle: "Begin your adventure"
+	quest.D7E805DA846A32C3.title: "Welcome to if-1.3"
+	quest.D810A485ED03241B.quest_desc: [
+		"Leather from cows/horses/rabbits."
+		"Craft a leather set as a stopgap."
+		"Upgrade to iron soon."
+	]
+	quest.D810A485ED03241B.quest_subtitle: "Basic protection"
+	quest.D810A485ED03241B.title: "Leather Armor"
+	quest.D85618F82AF29F9C.quest_desc: [
+		"Cards drop from mobs, dungeons, trades and quests."
+		"Explore and collect!"
+	]
+	quest.D85618F82AF29F9C.quest_subtitle: "Explore & collect"
+	quest.D85618F82AF29F9C.title: "Get Cards"
+	quest.D8722C2EF60FDCB1.quest_desc: [
+		"Signature Cataclysm boss wreathed in fire."
+		"Drops core materials."
+	]
+	quest.D8722C2EF60FDCB1.quest_subtitle: "Cataclysm flame"
+	quest.D8722C2EF60FDCB1.title: "Ignis"
+	quest.D8B4DD5FA687D1A6.quest_desc: ["Inferno's Maw is a fire-themed dimension."]
+	quest.D8B4DD5FA687D1A6.quest_subtitle: "Fire dimension"
+	quest.D8B4DD5FA687D1A6.title: "Inferno's Maw"
+	quest.D9815DF1BCADD49C.quest_desc: [
+		"Shulkers drop shells in End cities."
+		"2 shells + chest = shulker box."
+		"Carry your whole base with you!"
+	]
+	quest.D9815DF1BCADD49C.quest_subtitle: "Portable chests"
+	quest.D9815DF1BCADD49C.title: "Shulker Shell"
+	quest.DAE719AC7A0A253A.quest_desc: [
+		"Hoppers move items automatically."
+		"Chains + chests for simple sorting."
+		"Refined Storage for advanced."
+	]
+	quest.DAE719AC7A0A253A.quest_subtitle: "Automation start"
+	quest.DAE719AC7A0A253A.title: "Hopper Logistics"
+	quest.DB49B4AA10026CE3.quest_desc: [
+		"Finish every Epiphany module."
+		"Unlock all insights and epiphanies."
+		"You are a true Epiphany master!"
+	]
+	quest.DB49B4AA10026CE3.quest_subtitle: "Knowledge peak"
+	quest.DB49B4AA10026CE3.title: "Complete Epiphany"
+	quest.DDDD7D5F36454E2F.quest_desc: [
+		"Some artifacts can be upgraded."
+		"Combine in Curios slots."
+		"A key late-game power boost."
+	]
+	quest.DDDD7D5F36454E2F.quest_subtitle: "Stronger"
+	quest.DDDD7D5F36454E2F.title: "Artifact Upgrades"
+	quest.DE73CD5AC0B6F474.quest_desc: [
+		"First Twilight boss in the Courtyard."
+		"Charges with its head."
+		"Tip: shield block + side dodge."
+		"Drops Naga Scales."
+	]
+	quest.DE73CD5AC0B6F474.quest_subtitle: "Serpent king"
+	quest.DE73CD5AC0B6F474.title: "Naga"
+	quest.DE7C55DC06EDC066.quest_desc: [
+		"The Lich Tower stands tall in the Dark Forest."
+		"The Lich teleports, summons, casts."
+		"Drops the Twilight Wand."
+	]
+	quest.DE7C55DC06EDC066.quest_subtitle: "Magical duel"
+	quest.DE7C55DC06EDC066.title: "Lich Tower"
+	quest.DF2163C96DE52B50.quest_desc: [
+		"Made of netherite with extreme defense."
+		"Don't trade blows head-on."
+		"Find weak points or wear it down."
+	]
+	quest.DF2163C96DE52B50.quest_subtitle: "Metal monster"
+	quest.DF2163C96DE52B50.title: "Netherite Monstrosity"
+	quest.E0A5FD34FDC2A625.quest_desc: [
+		"Snowy forest cave."
+		"Throws ice and slams."
+		"Dodge in tight quarters."
+	]
+	quest.E0A5FD34FDC2A625.quest_subtitle: "Snow king"
+	quest.E0A5FD34FDC2A625.title: "Alpha Yeti"
+	quest.E10460053EF8A566.quest_desc: [
+		"The Ender Golem is an End-themed Cataclysm boss."
+		"It teleports and deals area damage."
+	]
+	quest.E10460053EF8A566.quest_subtitle: "Creation of the End"
+	quest.E10460053EF8A566.title: "Ender Golem"
+	quest.E1CF783788172148.quest_desc: [
+		"The Eternal Star is a key crafting material in this pack."
+		"Obtain it via the difficulty changer or other means for advanced recipes."
+	]
+	quest.E1CF783788172148.quest_subtitle: "Rare material"
+	quest.E1CF783788172148.title: "Eternal Star"
+	quest.E32684B27B95E909.quest_desc: [
+		"Break grass for seeds, till farmland."
+		"Fish or hunt as alternatives."
+		"Hunger zero = damage. Stay fed!"
+	]
+	quest.E32684B27B95E909.quest_subtitle: "Don't starve"
+	quest.E32684B27B95E909.title: "Food"
+	quest.E44E6257822598F9.quest_desc: [
+		"Scylla is Cataclysm's siren boss."
+		"Darts through water at speed."
+		"Watch your footing in water."
+	]
+	quest.E44E6257822598F9.quest_subtitle: "Siren legend"
+	quest.E44E6257822598F9.title: "Scylla"
+	quest.E598F2F4A0E545E1.quest_desc: ["Snowy forest cave, throws ice and slams."]
+	quest.E598F2F4A0E545E1.quest_subtitle: "Snow king"
+	quest.E598F2F4A0E545E1.title: "Alpha Yeti"
+	quest.E5DE59D4C45610AC.quest_desc: [
+		"Ultimate loadout:"
+		"netherite base → Twilight/Cataclysm/Spectrum upgrades → Artifacts."
+		"Enchant and template-upgrade everything."
+		"Mix Curios trinkets."
+	]
+	quest.E5DE59D4C45610AC.quest_subtitle: "Arm to the teeth"
+	quest.E5DE59D4C45610AC.title: "Best Gear"
+	quest.E5E2AB29955B7364.quest_desc: [
+		"Ghasts drop tears."
+		"Used in regeneration potions."
+		"Deflect their fireballs!"
+	]
+	quest.E5E2AB29955B7364.quest_subtitle: "Rare drop"
+	quest.E5E2AB29955B7364.title: "Ghast Tear"
+	quest.E6685B6D38EDBB40.quest_desc: [
+		"Press K for the Epiphany screen."
+		"Epiphany is the pack's progression:"
+		"Module → Insight → Epiphany."
+		"Modules grant insight points; insights give permanent bonuses; epiphanies give power."
+	]
+	quest.E6685B6D38EDBB40.quest_subtitle: "Core progression"
+	quest.E6685B6D38EDBB40.title: "Epiphany System"
+	quest.E916CA91C663E544.quest_desc: [
+		"A mysterious item symbolizing dusk."
+		"More uses await discovery."
+		"It is unique to this pack."
+	]
+	quest.E916CA91C663E544.quest_subtitle: "Witness of dusk"
+	quest.E916CA91C663E544.title: "Dusk Bell"
+	quest.E9583683C22EB2F4.quest_desc: [
+		"Forge your ultimate set:"
+		"netherite base + Cataclysm/Twilight/Spectrum upgrades + Artifacts."
+		"Mix and match Curios trinkets."
+	]
+	quest.E9583683C22EB2F4.quest_subtitle: "Arm to the teeth"
+	quest.E9583683C22EB2F4.title: "Best Gear"
+	quest.E9B65D4AF20FF2B3.quest_desc: [
+		"Mine iron and diamonds for basic gear."
+		"Gather Twilight portal materials (12 diamonds)."
+		"Collect XP to prepare for boss fights."
+	]
+	quest.E9B65D4AF20FF2B3.quest_subtitle: "Gear & resources"
+	quest.E9B65D4AF20FF2B3.title: "Mid Game"
+	quest.EAC2126C6C8DACB1.quest_desc: [
+		"Inferno's Maw is fire-themed."
+		"Scorching corridors and fire mobs."
+		"Bring fire resistance."
+	]
+	quest.EAC2126C6C8DACB1.quest_subtitle: "Fire dimension"
+	quest.EAC2126C6C8DACB1.title: "Inferno's Maw"
+	quest.EAFAF2B85B417408.quest_desc: [
+		"Ignis is Cataclysm's signature boss."
+		"Defeat it for core materials."
+		"More bosses in the Boss Codex chapter."
+	]
+	quest.EAFAF2B85B417408.quest_subtitle: "Cataclysm icon"
+	quest.EAFAF2B85B417408.title: "The Ignis Trial"
+	quest.EB4793C119CB7487.quest_desc: [
+		"Spectrum is a deep magic system."
+		"Get the guidebook — it guides you step by step."
+		"It has its own progression line."
+		"Core resources: gemstone powder and shards."
+	]
+	quest.EB4793C119CB7487.quest_subtitle: "Magic begins"
+	quest.EB4793C119CB7487.title: "Spectrum Guide"
+	quest.EB48631D076231E1.quest_desc: [
+		"Elytra hangs in End ships."
+		"Wear in the chest slot."
+		"Fly with fireworks."
+		"Core for late-game exploration!"
+	]
+	quest.EB48631D076231E1.quest_subtitle: "Soar the skies"
+	quest.EB48631D076231E1.title: "Elytra"
+	quest.ECABBBF7EABF091B.quest_desc: [
+		"Even more bosses await:"
+		"Mowzie's Mobs: Wroughtnaut, Frostmaw, Sculptor, Umvuthi."
+		"Dungeons Now Loading: Boros & Ouros."
+		"Spectrum: the Monstrosity."
+		"Your Evolution Sword records them all!"
+	]
+	quest.ECABBBF7EABF091B.quest_subtitle: "More challenges"
+	quest.ECABBBF7EABF091B.title: "More Bosses"
+	quest.ECD3ADA8B4F2222D.quest_desc: [
+		"Fish for food, treasure and enchanted books."
+		"Night fishing is peaceful."
+		"Rods appear in many recipes."
+	]
+	quest.ECD3ADA8B4F2222D.quest_subtitle: "Patience pays"
+	quest.ECD3ADA8B4F2222D.title: "Fishing"
+	quest.ECDBE596D03C54EF.quest_desc: [
+		"The Alpha Yeti lives in the Yeti Cave in the Snowy Forest."
+		"It throws ice and slams the ground."
+		"Drops Yeti Fur."
+	]
+	quest.ECDBE596D03C54EF.quest_subtitle: "King of the snows"
+	quest.ECDBE596D03C54EF.title: "Alpha Yeti"
+	quest.ED227718A931E2DA.quest_desc: [
+		"Final Twilight boss above the Dark Tower."
+		"Summons fireballs and minions."
+	]
+	quest.ED227718A931E2DA.quest_subtitle: "Above the tower"
+	quest.ED227718A931E2DA.title: "Ur-Ghast"
+	quest.ED269A28FECA1CE2.quest_desc: ["Wields primeval power with varied attacks."]
+	quest.ED269A28FECA1CE2.quest_subtitle: "Ancient being"
+	quest.ED269A28FECA1CE2.title: "Ancient Remnant"
+	quest.ED3A266A79C1C11A.quest_desc: [
+		"Trade with villagers for emeralds."
+		"Find More Villagers profession sites for more trades."
+	]
+	quest.ED3A266A79C1C11A.quest_subtitle: "Trade routes"
+	quest.ED3A266A79C1C11A.title: "Village Economy"
+	quest.EDB9591A59DB2DBC.quest_desc: [
+		"Build a 4×5 obsidian frame and light it."
+		"The Nether holds quartz, ancient debris and more."
+	]
+	quest.EDB9591A59DB2DBC.quest_subtitle: "Fire land"
+	quest.EDB9591A59DB2DBC.title: "Open the Portal"
+	quest.EFF99EFCFE38687F.quest_desc: [
+		"Every 7th attack: 77%~777% damage."
+		"Charm slot."
+		"For the lucky."
+	]
+	quest.EFF99EFCFE38687F.quest_subtitle: "Lucky charm"
+	quest.EFF99EFCFE38687F.title: "Lucky Seven"
+	quest.F12FD9B79022240E.quest_desc: [
+		"Bedrock armor offers top protection."
+		"Full set + enchants = among the best defense."
+		"On par with Cataclysm gear."
+	]
+	quest.F12FD9B79022240E.quest_subtitle: "Spectrum protection"
+	quest.F12FD9B79022240E.title: "Bedrock Armor"
+	quest.F140844712855577.quest_desc: [
+		"This pack adds many custom items and mechanics with KubeJS."
+		"Evolution Sword, Lucky Seven, Precognition Eye, Beeper and more — see the Gear chapter."
+		"Each has unique gameplay worth exploring."
+	]
+	quest.F140844712855577.quest_subtitle: "Pack features"
+	quest.F140844712855577.title: "Custom KubeJS Items"
+	quest.F1E58684A519DBD5.quest_desc: [
+		"Top of the Lich Tower."
+		"Teleports, summons, magic volleys."
+		"Spot the real one (with wand)."
+		"Drops the Twilight Wand."
+	]
+	quest.F1E58684A519DBD5.quest_subtitle: "Twilight sorcerer"
+	quest.F1E58684A519DBD5.title: "The Lich"
+	quest.F37CB990C801F97B.quest_desc: [
+		"A compass points to world spawn."
+		"Xaero minimap is always on; M for world map."
+		"Mark your way home."
+	]
+	quest.F37CB990C801F97B.quest_subtitle: "Don't get lost"
+	quest.F37CB990C801F97B.title: "Compass & Maps"
+	quest.F46CFDFDEF520791.quest_desc: [
+		"The Hydra lairs in the Fire Swamp."
+		"Multi-headed fire breath, heads regrow."
+		"Ranged kiting recommended."
+		"Drops hydra scales."
+	]
+	quest.F46CFDFDEF520791.quest_subtitle: "The Hydra"
+	quest.F46CFDFDEF520791.title: "Fire Swamp"
+	quest.F56FF33A915720E5.quest_desc: [
+		"The pack adds many custom KubeJS items:"
+		"Evolution Sword (boss growth), Lucky Seven (random crit), Precognition Eye (dodge), Beeper (notifications)."
+		"See the Gear chapter."
+	]
+	quest.F56FF33A915720E5.quest_subtitle: "Pack features"
+	quest.F56FF33A915720E5.title: "KubeJS Custom Items"
+	quest.F58950C56BB5C96D.quest_desc: [
+		"Redstone circuits power automation."
+		"Start with piston doors."
+	]
+	quest.F58950C56BB5C96D.quest_subtitle: "Logic & machines"
+	quest.F58950C56BB5C96D.title: "Redstone Engineering"
+	quest.F6DEE1E450D3C17B.quest_desc: [
+		"Melee and projectiles."
+		"Block and dodge."
+	]
+	quest.F6DEE1E450D3C17B.quest_subtitle: "End guardian"
+	quest.F6DEE1E450D3C17B.title: "Ender Guardian"
+	quest.F6E780D8A1C55C01.quest_desc: [
+		"Congratulations on finishing the tutorial!"
+		"Now explore dimensions, collect gear and trinkets."
+		"Prepare well before boss fights and use the Evolution Sword growth mechanic!"
+	]
+	quest.F6E780D8A1C55C01.quest_subtitle: "Ready for challenges"
+	quest.F6E780D8A1C55C01.title: "Tutorial Complete"
+	quest.F73BB387D080589A.quest_desc: [
+		"Swamps host witch huts and slimes at night."
+		"Mystic's Biomes adds more biomes."
+		"Each biome has unique resources."
+	]
+	quest.F73BB387D080589A.quest_subtitle: "Unique biomes"
+	quest.F73BB387D080589A.title: "Wetlands"
+	quest.F78DF0CAC5E40C02.quest_desc: [
+		"Iron is common below Y=16."
+		"Used for tools, armor, buckets, hoppers."
+		"You need a lot early on."
+	]
+	quest.F78DF0CAC5E40C02.quest_subtitle: "Base of iron gear"
+	quest.F78DF0CAC5E40C02.title: "Iron Ore"
+	quest.FBDAA35ADF9C1E2A.quest_desc: [
+		"Breed cows with wheat."
+		"Steak is one of the best early foods."
+		"Keep 4-5 cows for steady supply."
+	]
+	quest.FBDAA35ADF9C1E2A.quest_subtitle: "Meat supply"
+	quest.FBDAA35ADF9C1E2A.title: "Animal Farm"
+	quest.FE09B25DF26D7A44.quest_desc: [
+		"Defense/survival modules grant HP, armor and mitigation."
+		"Survival first on high difficulty."
+		"Pair with trinkets like the Precognition Eye."
+	]
+	quest.FE09B25DF26D7A44.quest_subtitle: "Stay alive"
+	quest.FE09B25DF26D7A44.title: "Defense & Survival"
+	task.02E9C3FBC2704232.title: "{chapter.4.quest.1.task.1.title}"
+	task.038DA9EA2BF0A0E5.title: "{chapter.17.quest.154.task.1.title}"
+	task.05BA24DFC0154028.title: "{chapter.23.quest.69.task.1.title}"
+	task.0622AFA9C09B20C7.title: "{chapter.19.quest.34.task.3.title}"
+	task.06FA3FA24EF43E70.title: "{chapter.23.quest.67.task.1.title}"
+	task.07636D6AD42006D4.title: "{chapter.23.quest.72.task.1.title}"
+	task.0CAFB4DB2D529C89.title: "{chapter.8.quest.12.task.1.title}"
+	task.1079EF1E86F58A72.title: "{chapter.1.quest.2.task.1.title}"
+	task.10CE006D2CA11145.title: "{chapter.23.quest.21.task.1.title}"
+	task.12D08BDC608D5AC8.title: "{chapter.23.quest.64.task.1.title}"
+	task.185D0974CBFFBF05.title: "{chapter.23.quest.68.task.1.title}"
+	task.1A256BD67A0F3610.title: "{chapter.23.quest.34.task.1.title}"
+	task.1A4328145F848E33.title: "{chapter.21.quest.24.task.1.title}"
+	task.1CDDA83D7A551ACF.title: "{chapter.12.quest.53.task.1.title}"
+	task.1D41F95AB4A9FCFD.title: "{chapter.23.quest.73.task.1.title}"
+	task.2055D26027AAD096.title: "{chapter.12.quest.17.task.1.title}"
+	task.25247428EBD98FDB.title: "{chapter.13.quest.8.task.1.title}"
+	task.283862A082FFA8D8.title: "{chapter.23.quest.63.task.1.title}"
+	task.2B5D4862CAF20909.title: "{chapter.13.quest.21.task.1.title}"
+	task.3007C950F77C68D9.title: "{chapter.20.quest.4.task.1.title}"
+	task.30D8D825A9EF3481.title: "{chapter.1.quest.6.task.1.title}"
+	task.34FDA1083471A9AD.title: "获取所有生物的头颅"
+	task.37B199824E03A92F.title: "{chapter.23.quest.1.task.1.title}"
+	task.3B0AFD5C4387DCDA.title: "{chapter.12.quest.46.task.1.title}"
+	task.3C5DB2A2E4E53B8C.title: "{chapter.16.quest.1.task.1.title}"
+	task.3EC38B47861BE33F.title: "{chapter.21.quest.21.task.1.title}"
+	task.4058B29960FCF9C7.title: "{chapter.3.quest.7.task.1.title}"
+	task.46407E5A459F83E1.title: "{chapter.12.quest.12.task.12.title}"
+	task.472167884584FEF9.title: "{chapter.1.quest.3.task.1.title}"
+	task.49D8FDC343C262C5.title: "{chapter.12.quest.11.task.1.title}"
+	task.4FEAC8A25B89E3A2.title: "{chapter.12.quest.3.task.1.title}"
+	task.5179838AE7D0D0D9.title: "{chapter.13.quest.3.task.1.title}"
+	task.556BE23287345F4D.title: "{chapter.23.quest.70.task.1.title}"
+	task.5603CA70D5EC4A4C.title: "{chapter.2.quest.20.task.1.title}"
+	task.56E6D2B1066E22E9.title: "{chapter.19.quest.19.task.1.title}"
+	task.58B77FACDE94F2E1.title: "{chapter.23.quest.66.task.1.title}"
+	task.58C29EA9439B9E1B.title: "{chapter.23.quest.65.task.1.title}"
+	task.5915B46241E45B12.title: "{chapter.23.quest.71.task.1.title}"
+	task.5A8940A099180C73.title: "{chapter.16.quest.9.task.1.title}"
+	task.5AD81B3D4B6E27C7.title: "{chapter.12.quest.31.task.1.title}"
+	task.5EDD672885A47EB5.title: "{chapter.20.quest.3.task.1.title}"
+	task.67A151C1E2CF7D00.title: "{chapter.23.quest.20.task.1.title}"
+	task.7251AB4D10E7A93C.title: "{chapter.20.quest.3.task.2.title}"
+	task.7A4EE0CF6A089CF2.title: "{chapter.12.quest.4.task.1.title}"
+	task.7EB5C1669F137287.title: "{chapter.12.quest.54.task.1.title}"
+}

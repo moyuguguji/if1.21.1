@@ -1,0 +1,15 @@
+{
+  "name": "拾获",
+  "description": "更善于汲取旅途中的经验。",
+  "item_icon": "minecraft:experience_bottle",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "artifacts:player.entity_experience",
+      "amount": 0.1,
+      "operation": "add_multiplied_base"
+    }
+  ],
+  "reward_description": "实体掉落经验 +10%"
+}

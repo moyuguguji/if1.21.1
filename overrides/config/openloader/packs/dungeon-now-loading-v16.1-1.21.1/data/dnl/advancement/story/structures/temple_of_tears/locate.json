@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:cracked_polished_blackstone_bricks"
+      "id": "minecraft:cracked_polished_blackstone_bricks"
     },
     "title": "魂泪之天宇",
     "description": "发现一座古代天空神殿",
@@ -15,9 +15,17 @@
     "locate_temple_of_tears": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:temple_of_tears"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:temple_of_tears"
+              }
+            }
+          }
+        ]
       }
     }
   },

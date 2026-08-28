@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "id": "kubejs:blueprint_qixing_sword"
+    },
+    "title": {
+      "translate": "advancement.kubejs.blueprint.root.title"
+    },
+    "description": {
+      "translate": "advancement.kubejs.blueprint.root.description"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

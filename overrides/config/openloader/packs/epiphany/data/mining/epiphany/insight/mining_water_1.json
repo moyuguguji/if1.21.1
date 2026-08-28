@@ -1,0 +1,13 @@
+{
+  "name": "潜掘 I",
+  "description": "永久提升 20% 水下挖掘速度",
+  "item_icon": "minecraft:golden_pickaxe",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:player.submerged_mining_speed",
+    "amount": 0.2,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+20% 水下挖掘速度"
+}

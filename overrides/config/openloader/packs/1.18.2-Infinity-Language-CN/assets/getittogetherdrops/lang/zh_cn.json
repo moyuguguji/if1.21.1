@@ -1,0 +1,6 @@
+{
+  "getittogetherdrops.configuration.checkY": "检查 Y 轴",
+  "getittogetherdrops.configuration.checkY.tooltip": "设为 true 时，掉落物也会检查其上方和下方是否有其他掉落物，设为 false 则不检查（\"false\" 为原版行为）。",
+  "getittogetherdrops.configuration.radius": "半径",
+  "getittogetherdrops.configuration.radius.tooltip": "掉落物检查周围可合并的其他掉落物的半径（以方块为单位）（\"0.5\" 为原版行为）。"
+}

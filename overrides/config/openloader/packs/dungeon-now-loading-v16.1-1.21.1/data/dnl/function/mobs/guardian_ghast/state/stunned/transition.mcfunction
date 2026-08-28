@@ -1,5 +1,5 @@
 ### NBT Change ###
-data merge entity @s {Invulnerable:1b,Silent:1b,CustomName:'{"text":"Guardian Ghast","obfuscated":true}',Attributes:[{id:"minecraft:follow_range",base:0}]}
+data merge entity @s {Invulnerable:1b,Silent:1b,CustomName:'{"text":"Guardian Ghast","obfuscated":true}',Attributes:[{id:"minecraft:generic.follow_range",base:0}]}
 
 ### Reset Arrow Stun ###
 scoreboard players reset @s dnl.variable

@@ -1,0 +1,13 @@
+{
+  "name": "索敌范围 I",
+  "description": "永久提升 5% 仆从索敌范围",
+  "item_icon": "servantry:hornet_staff",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "servantry:servant_search_range",
+    "amount": 0.05,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+5% 仆从索敌范围"
+}

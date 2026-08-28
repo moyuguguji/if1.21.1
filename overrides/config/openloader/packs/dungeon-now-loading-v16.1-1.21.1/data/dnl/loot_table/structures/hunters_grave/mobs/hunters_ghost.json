@@ -33,11 +33,21 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:barrier",
+          "name": "minecraft:bone",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": 1
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{hunter_killed:1b}"
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"猎人信标\",\"color\":\"gold\",\"italic\":false}"
+              }
             }
           ]
         }

@@ -1,0 +1,13 @@
+{
+  "name": "攻击伤害 I",
+  "description": "永久提升 5% 攻击伤害",
+  "item_icon": "minecraft:iron_sword",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.attack_damage",
+    "amount": 0.05,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+5% 攻击伤害"
+}

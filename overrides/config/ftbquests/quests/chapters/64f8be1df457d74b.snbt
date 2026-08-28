@@ -1,0 +1,33 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "64f8be1df457d74b"
+	group: "2918506B9F30927F"
+	icon: {
+		id: "minecraft:writable_book"
+	}
+	id: "64F8BE1DF457D74B"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7D5CDB74F2C76D75"
+			tasks: [{
+				id: "087D597B192D19A4"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "10A51CAEF127EBB8"
+			tasks: [{
+				id: "5A89763FBF723F23"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+	]
+}

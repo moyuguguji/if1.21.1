@@ -1,3 +1,3 @@
 #built using mc-build (https://github.com/mc-build/mc-build)
 
-give @s cat_spawn_egg[minecraft:custom_name='{"text":"plains_castle_spawner_chest spawner chest","color":"gold","italic":false}',"minecraft:entity_data":{id:"minecraft:marker",Tags:['dnl.spawner_chest','dnl.plains_castle_spawner_chest']}] 1
+give @s cat_spawn_egg[minecraft:custom_name='{"text":"plains_castle_spawner_chest spawner chest","color":"gold","italic":false}',minecraft:entity_data={id:"minecraft:marker",Tags:['dnl.spawner_chest','dnl.plains_castle_spawner_chest']}] 1

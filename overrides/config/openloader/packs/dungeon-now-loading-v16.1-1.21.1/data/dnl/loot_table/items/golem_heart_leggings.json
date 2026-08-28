@@ -42,7 +42,7 @@
                       "id": "dnl:loot_vj4hod"
                     },
                     {
-                      "type": "minecraft:max_health",
+                      "type": "minecraft:generic.max_health",
                       "slot": "legs",
                       "amount": 2,
                       "operation": "add_value",

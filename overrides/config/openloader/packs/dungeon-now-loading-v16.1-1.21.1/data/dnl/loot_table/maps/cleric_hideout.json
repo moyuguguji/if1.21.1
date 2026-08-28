@@ -22,8 +22,7 @@
                 "minecraft:lore": [
                   "{\"text\":\"死徒之藏身所\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4040005,
-                "minecraft:hide_tooltip": {}
+                "minecraft:custom_model_data": 4040005
               }
             },
             {

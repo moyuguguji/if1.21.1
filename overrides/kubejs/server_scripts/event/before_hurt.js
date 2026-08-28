@@ -1,5 +1,5 @@
 
-// 1. 在 LivingShieldBlockEvent 中设置标记
+// 1. 在 LivingShieldBlockEvent 中设置标记(顶层 NativeEvents 注册, 类本地声明不依赖加载顺序)
 const $LivingShieldBlockEvent = Java.loadClass('net.neoforged.neoforge.event.entity.living.LivingShieldBlockEvent')
 
 NativeEvents.onEvent($LivingShieldBlockEvent, event => {

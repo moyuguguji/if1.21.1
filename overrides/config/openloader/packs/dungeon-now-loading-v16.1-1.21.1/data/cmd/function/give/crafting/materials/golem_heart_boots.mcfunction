@@ -1,0 +1,6 @@
+# golem_heart_boots 材料框(每种 2 个, 共 8 个, 达到 6 即完成)
+# 放置在合成器上方 ~1.5 格范围(2 格内)
+give @s item_frame[minecraft:custom_name='{"text":"iron_ingot","color":"gray","italic":false}',minecraft:entity_data={id:"minecraft:item_frame",Tags:['dnl.material','dnl.iron_ingot'],Item:{id:"minecraft:iron_ingot",count:1},Invulnerable:1b,Invisible:1b,Fixed:1b}] 2
+give @s item_frame[minecraft:custom_name='{"text":"iron_block","color":"gray","italic":false}',minecraft:entity_data={id:"minecraft:item_frame",Tags:['dnl.material','dnl.iron_block'],Item:{id:"minecraft:iron_block",count:1},Invulnerable:1b,Invisible:1b,Fixed:1b}] 2
+give @s item_frame[minecraft:custom_name='{"text":"vine","color":"gray","italic":false}',minecraft:entity_data={id:"minecraft:item_frame",Tags:['dnl.material','dnl.vine'],Item:{id:"minecraft:vine",count:1},Invulnerable:1b,Invisible:1b,Fixed:1b}] 2
+give @s item_frame[minecraft:custom_name='{"text":"poppy_of_flanders","color":"gray","italic":false}',minecraft:entity_data={id:"minecraft:item_frame",Tags:['dnl.material','dnl.poppy_of_flanders'],Item:{id:"minecraft:poppy",components:{"minecraft:custom_data":{"dnl.poppy_of_flanders":1b}},count:1},Invulnerable:1b,Invisible:1b,Fixed:1b}] 2

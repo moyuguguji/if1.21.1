@@ -1,0 +1,21 @@
+{
+  "name": "再生",
+  "description": "生命值自然恢复速度+10%，并提升 0.5 护甲韧性",
+  "item_icon": "minecraft:golden_apple",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "cataclysm:nature_heal",
+      "amount": 0.1,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.armor_toughness",
+      "amount": 0.5,
+      "operation": "add_value"
+    }
+  ],
+  "reward_description": "生命值自然恢复速度+10%, 护甲韧性 +0.5"
+}

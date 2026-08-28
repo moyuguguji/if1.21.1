@@ -1,0 +1,21 @@
+{
+  "name": "壁垒 II",
+  "description": "永久提升 20% 击退抗性并增加 1 点护甲值",
+  "item_icon": "minecraft:diamond_chestplate",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.knockback_resistance",
+      "amount": 0.2,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.armor",
+      "amount": 1.0,
+      "operation": "add_value"
+    }
+  ],
+  "reward_description": "击退抗性 +20%, 护甲值 +1"
+}

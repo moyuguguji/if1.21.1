@@ -14,24 +14,22 @@
                 "minecraft:custom_name": "{\"text\":\"巫毒长刃\",\"color\":\"gold\",\"italic\":false}",
                 "minecraft:lore": [
                   "{\"text\":\"毒针 I\",\"color\":\"dark_purple\",\"italic\":false}",
-                  "{\"translate\":\"\"}",
                   "{\"text\":\"在主手时:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\" 4 攻击伤害\",\"color\":\"dark_green\",\"italic\":false}",
                   "{\"text\":\" 2.0 攻击速度\",\"color\":\"dark_green\",\"italic\":false}"
                 ],
                 "minecraft:custom_model_data": 13002,
-                "minecraft:hide_tooltip": {},
                 "minecraft:attribute_modifiers": {
                   "modifiers": [
                     {
-                      "type": "minecraft:attack_damage",
+                      "type": "minecraft:generic.attack_damage",
                       "slot": "mainhand",
                       "amount": 4,
                       "operation": "add_value",
                       "id": "dnl:loot_69yppk"
                     },
                     {
-                      "type": "minecraft:attack_speed",
+                      "type": "minecraft:generic.attack_speed",
                       "slot": "mainhand",
                       "amount": -2,
                       "operation": "add_value",

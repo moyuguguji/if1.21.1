@@ -1,63 +1,953 @@
 {
+	chapter.047C69C01183971C.title: "顿悟系统"
+	chapter.131547FE8F2C0CF7.title: "灾厄 Cataclysm"
+	chapter.194EB3EF0DBDC513.title: "灾厄 Cataclysm"
+	chapter.2885AFA02D057AD4.title: "玩法指南"
+	chapter.30877432D1026706.title: "新手教程"
+	chapter.3A5E393142121544.title: "Artifacts 神器"
+	chapter.4E3D324CAD623C98.title: "其他模组"
 	chapter.506DA1445B018357.title: "{chapter.12.title}"
+	chapter.50C72ECC4F2C9C03.title: "新手教程"
+	chapter.5C718540177558D5.title: "主世界探索"
+	chapter.5E1C70EDB8DA0F44.title: "商店"
+	chapter.6465ADA1103EA622.title: "KubeJS 定制"
+	chapter.64F8BE1DF457D74B.title: "顿悟与阅历"
+	chapter.6A564BB4A1D843A1.title: "下界与末地"
+	chapter.6CC2229E5B049045.title: "装备与饰品"
+	chapter.6CD34BC650723C10.title: "光谱 Spectrum"
+	chapter.7370EC6FD8C3FB4E.title: "特色系统"
+	chapter.7826939E50B6D5FF.title: "魂石"
+	chapter.79317DE23F0749D0.title: "下界"
+	chapter.85F466B30A2BB592.title: "新手教程"
+	chapter.923D389DF33E873A.title: "特色系统"
+	chapter.996FAFB893CCB491.title: "末地"
+	chapter.9FE3550EBC821CBD.title: "生存与资源"
+	chapter.A667D3F291D4619A.title: "终局"
+	chapter.A9064560233C19C4.title: "Curios 饰品"
+	chapter.AE6300BA08FAD59F.title: "Boss 图鉴"
+	chapter.AED16DC0CF0B9CD7.title: "主世界资源"
+	chapter.AFA690EFAFDD46BF.title: "暮色森林"
+	chapter.B20259CC9673BACD.title: "其他模组"
+	chapter.B44DC6F2C2820893.title: "终局"
+	chapter.B8223ECAE4265719.title: "光谱 Spectrum"
+	chapter.B8529DE47751BB4C.title: "存储与物流"
+	chapter.BB1C863E2601A746.title: "主世界探索"
+	chapter.D0CFADAF20E1F35D.title: "Boss 图鉴"
+	chapter.D35C790730359CCA.title: "集卡册"
+	chapter.D602AC71D790E23F.title: "Boss 图鉴"
+	chapter.D9700AE4CD3F7D73.title: "Field Guide 图鉴"
+	chapter.E59DE1DF00541095.title: "KubeJS 定制物品"
+	chapter.F812815A064C2957.title: "暮色森林"
+	chapter.FF76E660B5F1E73B.title: "维度指引"
+	chapter_group.2634E495B96103D5.title: "商店"
+	quest.00596BA4ED087A90.quest_desc: [
+		"观测者（The Watcher）以目光为武器。"
+		"它注视的区域会爆发伤害。"
+		"时刻注意它的朝向！"
+	]
+	quest.00596BA4ED087A90.quest_subtitle: "注视一切"
+	quest.00596BA4ED087A90.title: "观测者"
 	quest.00A78BD1F10BE5D5.quest_desc: ["{chapter.12.quest.4.description.1}"]
 	quest.02AEC569D0486F89.quest_desc: ["{chapter.12.quest.40.description.1}"]
+	quest.02E6CAED08671CD3.quest_desc: [
+		"光谱（Spectrum）是一套深度魔法系统。"
+		"先获得光谱指南书，它会指导你。"
+		"任务书中的光谱章节（原有）会逐步引导。"
+	]
+	quest.02E6CAED08671CD3.quest_subtitle: "魔法的开始"
+	quest.02E6CAED08671CD3.title: "光谱指南"
+	quest.036AE68A182F07A6.quest_desc: [
+		"用灾厄材料合成 Ignitium 系列装备。"
+		"灾厄装备属性强大，是后期核心。"
+		"升级锻造模板可进一步提升。"
+		"灾厄武器附带独特效果。"
+	]
+	quest.036AE68A182F07A6.quest_subtitle: "变强的阶梯"
+	quest.036AE68A182F07A6.title: "灾厄装备"
+	quest.03B86DF7F13FFE73.quest_desc: [
+		"本包用 KubeJS 添加/修改了大量配方。"
+		"在 EMI 中查看所有配方（E 键）。"
+		"注意：部分配方有特殊条件。"
+	]
+	quest.03B86DF7F13FFE73.quest_subtitle: "定制合成"
+	quest.03B86DF7F13FFE73.title: "KubeJS 配方"
+	quest.04BF6A22E80AA0A1.quest_desc: [
+		"暮初恶魂是暮色的最终 Boss，漂浮在暗黑高塔之上。"
+		"它召唤火球与爪牙，血量极高。"
+		"准备充足的弓弩！"
+	]
+	quest.04BF6A22E80AA0A1.quest_subtitle: "暮初恶魂"
+	quest.04BF6A22E80AA0A1.title: "暗黑高塔"
+	quest.04D42F8AC2ACAF12.quest_desc: [
+		"木桶比箱子更紧凑（可贴墙）。"
+		"Sophisticated Storage 模组提供升级型存储。"
+		"配合物品整理快捷键高效管理。"
+	]
+	quest.04D42F8AC2ACAF12.quest_subtitle: "整理物资"
+	quest.04D42F8AC2ACAF12.title: "存储扩展"
+	quest.051A4AD9A44AAD7C.quest_desc: [
+		"击败末影龙，完成原版的主线目标之一。"
+		"末影龙也是进化之剑的成长记录之一。"
+		"战后可探索末地城获取鞘翅。"
+	]
+	quest.051A4AD9A44AAD7C.quest_subtitle: "终焉之战"
+	quest.051A4AD9A44AAD7C.title: "末影龙讨伐"
+	quest.05356A9854E67806.quest_desc: ["陨落圣殿（Sanctum Fallen）是神秘遗迹维度。"]
+	quest.05356A9854E67806.quest_subtitle: "神秘维度"
+	quest.05356A9854E67806.title: "陨落圣殿"
+	quest.0551B892DEBBFE73.quest_desc: [
+		"用 12 颗钻石扔进水中可开启暮色传送门。"
+		"暮色森林有娜迦、巫妖、九头蛇等众多 Boss。"
+		"完成 Boss 挑战可获得强力装备。"
+	]
+	quest.0551B892DEBBFE73.quest_subtitle: "童话中的冒险"
+	quest.0551B892DEBBFE73.title: "暮色森林"
+	quest.0644644B29DC26DB.quest_desc: [
+		"暮初恶魂是暗黑高塔的最终 Boss，漂浮在塔顶。"
+		"它召唤火球与爪牙，血量极高。"
+		"推荐：准备充足的弓弩与治疗。"
+	]
+	quest.0644644B29DC26DB.quest_subtitle: "高塔之上"
+	quest.0644644B29DC26DB.title: "暮初恶魂"
 	quest.06B89C0B48780A85.quest_desc: ["{chapter.12.quest.69.description.1}"]
 	quest.06B89C0B48780A85.quest_subtitle: "{chapter.12.quest.69.subtitle}"
+	quest.06F247E00A3D4F27.quest_desc: [
+		"暮初恶魂是暮色最终 Boss。"
+		"它漂浮在暗黑高塔上空，召唤火球与爪牙。"
+		"血量极高——准备大量弓弩弹药。"
+		"击败后暮色主线完成！"
+	]
+	quest.06F247E00A3D4F27.quest_subtitle: "暮初恶魂"
+	quest.06F247E00A3D4F27.title: "暗黑高塔"
+	quest.07E865C19F2BE25F.quest_desc: [
+		"Comforts 提供睡袋与吊床，可在户外睡觉。"
+		"旅行途中不再需要担心夜晚。"
+	]
+	quest.07E865C19F2BE25F.quest_subtitle: "旅人的休憩"
+	quest.07E865C19F2BE25F.title: "露营装备"
+	quest.098B8BA9BACAFC0D.quest_desc: [
+		"远古遗魂（Ancient Remnant）是灾厄的古老 Boss。"
+		"它掌握远古之力，攻击多样。"
+	]
+	quest.098B8BA9BACAFC0D.quest_subtitle: "古老的存在"
+	quest.098B8BA9BACAFC0D.title: "远古遗魂"
+	quest.09E84A78CBC3A9B4.quest_desc: [
+		"咒翼灵骸（Maledictus）挥舞诅咒之翼。"
+		"灵魂系攻击难以格挡。"
+		"注意灵魂弹幕的轨迹。"
+	]
+	quest.09E84A78CBC3A9B4.quest_subtitle: "诅咒之翼"
+	quest.09E84A78CBC3A9B4.title: "咒翼灵骸"
+	quest.0A32770CB61EB13B.quest_desc: [
+		"锻造厂是灾厄的锻造主题维度。"
+		"在这里可以挑战强大的锻炉守护者。"
+	]
+	quest.0A32770CB61EB13B.quest_subtitle: "Forge of Aeons"
+	quest.0A32770CB61EB13B.title: "灾厄·锻造厂"
+	quest.0AF3AE7F010C0237.quest_desc: [
+		"任务完成提示音效。"
+		"佩戴后不错过任何完成。"
+	]
+	quest.0AF3AE7F010C0237.quest_subtitle: "提示饰品"
+	quest.0AF3AE7F010C0237.title: "哔哔机"
+	quest.0B0A492803DA084D.quest_desc: [
+		"Rotten Creatures 添加腐烂生物（沼泽、冰雪、海洋变种）。"
+		"Graveyard 添加墓园与复活的亡灵。"
+		"夜晚的世界更加热闹。"
+		"它们都有独特掉落。"
+	]
+	quest.0B0A492803DA084D.quest_subtitle: "丧尸与骷髅"
+	quest.0B0A492803DA084D.title: "亡灵生态"
+	quest.0BC3BEA171B52A6F.quest_desc: [
+		"整合包还有更多内容等你发掘："
+		"烹饪模组（万花筒厨艺）、更多下界生物、环境音效、天气系统等。"
+		"打开 JEI（E 键附近）查看所有配方！"
+	]
+	quest.0BC3BEA171B52A6F.quest_subtitle: "更多内容"
+	quest.0BC3BEA171B52A6F.title: "探索其他"
 	quest.0BCBC476BE6FA8B2.quest_desc: ["{chapter.12.quest.51.description.1}"]
+	quest.0C1A11FC3741DB27.quest_desc: [
+		"末影守卫（Ender Guardian）守护灾厄的末影区域。"
+		"近战与投射兼备。"
+		"建议格挡与闪避结合。"
+	]
+	quest.0C1A11FC3741DB27.quest_subtitle: "末影守护"
+	quest.0C1A11FC3741DB27.title: "末影守卫"
+	quest.0C4D54711D5DA01A.quest_desc: [
+		"Artifacts 模组为探索添加神器饰品。"
+		"无尽的牛肉、熔岩之靴等神器散落在遗迹中。"
+		"装备在 Curios 栏位获得独特效果。"
+	]
+	quest.0C4D54711D5DA01A.quest_subtitle: "探索战利品"
+	quest.0C4D54711D5DA01A.title: "神器饰品 Artifacts"
+	quest.0E4B5A4A81630D9D.quest_desc: [
+		"熔岩之靴免疫火焰伤害。"
+		"下界探险神器。"
+		"从下界遗迹宝箱获得。"
+	]
+	quest.0E4B5A4A81630D9D.quest_subtitle: "踏火而行"
+	quest.0E4B5A4A81630D9D.title: "熔岩之靴"
+	quest.0F39D234B9AE6FBF.quest_desc: [
+		"娜迦鳞片合成娜迦鳞甲。"
+		"鳞甲是暮色中期防具。"
+		"完成整套获得套装效果。"
+	]
+	quest.0F39D234B9AE6FBF.quest_subtitle: "鳞甲材料"
+	quest.0F39D234B9AE6FBF.title: "娜迦鳞片"
 	quest.0F5773559E05C414.quest_desc: ["{chapter.12.quest.26.description.1}"]
+	quest.0F5773559E05C414.quest_subtitle: "会有蓝色的特效与声音"
+	quest.0F5E37F2E0D41F0D.quest_desc: [
+		"主世界是冒险的起点。"
+		"探索地形、寻找村庄、发展农业与矿物。"
+		"夜晚小心怪物，做好防御。"
+	]
+	quest.0F5E37F2E0D41F0D.quest_subtitle: "你的起点"
+	quest.0F5E37F2E0D41F0D.title: "主世界"
+	quest.10A51CAEF127EBB8.quest_desc: [
+		"选择模块需要花费一点心得点,当一个模块点满之后可以解锁一个顿悟槽"
+		"顿悟有些有解锁条件,目前暂时不能重置"
+	]
+	quest.10A51CAEF127EBB8.title: "心得与顿悟"
+	quest.1114AFE44AA5C9AF.quest_desc: [
+		"岩浆怪掉落岩浆膏。"
+		"酿造抗火药水必备。"
+		"下界与下界要塞常见。"
+	]
+	quest.1114AFE44AA5C9AF.quest_subtitle: "史莱姆与酿造"
+	quest.1114AFE44AA5C9AF.title: "岩浆膏"
 	quest.116BF87094EA4E42.quest_desc: ["{chapter.12.quest.22.description.1}"]
+	quest.11A11F5125227C37.quest_desc: [
+		"3 羊毛 + 3 木板合成床。"
+		"夜晚睡觉跳过黑夜并设置重生点。"
+		"找不到羊毛就找羊！"
+	]
+	quest.11A11F5125227C37.quest_subtitle: "安睡与重生"
+	quest.11A11F5125227C37.title: "床"
+	quest.11C9DDC24829264A.quest_desc: [
+		"骑士金属来自幻影骑士。"
+		"合成骑士金属装备。"
+		"也可用于其他合成。"
+	]
+	quest.11C9DDC24829264A.quest_subtitle: "进阶材料"
+	quest.11C9DDC24829264A.title: "骑士金属"
+	quest.12120F20E3E5F5AD.quest_desc: [
+		"本任务书由 FTB Quests 提供。"
+		"任务之间可能存在前置依赖，完成前置才能解锁后续任务。"
+		"完成任务可获得奖励，奖励会自动发放到背包。"
+	]
+	quest.12120F20E3E5F5AD.quest_subtitle: "FTB 任务说明"
+	quest.12120F20E3E5F5AD.title: "认识任务系统"
+	quest.1260255A7D43E8E4.quest_desc: [
+		"欢迎来到 if-1.3 整合包！"
+		"这个整合包包含神秘、暮色森林、灾变等众多模组，以及大量 KubeJS 定制内容。"
+		"打开任务书（默认按键 Q 或按章节图标）跟随指引，一步步变强吧！"
+	]
+	quest.1260255A7D43E8E4.quest_subtitle: "开始你的冒险"
+	quest.1260255A7D43E8E4.title: "欢迎来到 if-1.3"
 	quest.12766F7759AA7EE6.quest_desc: [""]
 	quest.12766F7759AA7EE6.quest_subtitle: "{chapter.12.quest.13.subtitle}"
+	quest.12A3A0E72B79AE96.quest_desc: [
+		"下界合金构成，防御极高。"
+		"灾厄终局 Boss 之一。"
+	]
+	quest.12A3A0E72B79AE96.quest_subtitle: "金属怪物"
+	quest.12A3A0E72B79AE96.title: "下界合金巨兽"
+	quest.12B400C752DF166B.quest_desc: [
+		"Twilight Souls 为暮色 Boss 添加灵魂材料。"
+		"击败暮色 Boss 收集灵魂，合成强力物品。"
+	]
+	quest.12B400C752DF166B.quest_subtitle: "灵魂的力量"
+	quest.12B400C752DF166B.title: "暮色之魂"
+	quest.141C7F400CC683B5.quest_desc: [
+		"整合包中还有更多 Boss 等待挑战："
+		"mowziesmobs 的钢铁守护者、霜冻巨兽、雕刻家、太阳鸟；"
+		"dungeonnowloading 的公正衔环·波罗斯与乌洛斯等。"
+		"击败它们同样计入进化之剑的成长记录！"
+	]
+	quest.141C7F400CC683B5.quest_subtitle: "更多挑战"
+	quest.141C7F400CC683B5.title: "其他 Boss"
+	quest.152C94B2BEB2F234.quest_desc: [
+		"远古遗魂（Ancient Remnant）掌握远古之力。"
+		"多种元素攻击交替。"
+		"熟悉节奏后逐个躲避。"
+	]
+	quest.152C94B2BEB2F234.quest_subtitle: "古老存在"
+	quest.152C94B2BEB2F234.title: "远古遗魂"
+	quest.16F2AA5B627A73D7.quest_desc: ["瞬移与范围伤害。"]
+	quest.16F2AA5B627A73D7.quest_subtitle: "末影造物"
+	quest.16F2AA5B627A73D7.title: "末影傀儡"
+	quest.1728BDC9041B7147.quest_desc: [
+		"模块分主题：攻击、生存、潜匿、召唤、防御、探索、采矿、牺牲、研习等。"
+		"点亮心得获得永久属性加成。"
+		"布局规则：先点亮前置心得。"
+		"选择适合你玩法的模块优先。"
+	]
+	quest.1728BDC9041B7147.quest_subtitle: "永久加成"
+	quest.1728BDC9041B7147.title: "模块与心得"
+	quest.17CD0A3691B796CE.quest_desc: [
+		"灾厄（L_Ender's Cataclysm）是后期高难模组。"
+		"它包含 8 个独立维度与 10+ 个强力 Boss。"
+		"建议先完成暮色森林与光谱基础再来挑战！"
+	]
+	quest.17CD0A3691B796CE.quest_subtitle: "高难挑战"
+	quest.17CD0A3691B796CE.title: "灾厄简介"
+	quest.17F4708EA2DA3077.quest_desc: [
+		"Field Guide 图鉴记录你发现的世界："
+		"击杀/扫描新生物解锁图鉴条目。"
+		"每解锁一个新图鉴获得 2 阅历！"
+		"图鉴总数达到 10 时攻击伤害 +1。"
+	]
+	quest.17F4708EA2DA3077.quest_subtitle: "探索与收集"
+	quest.17F4708EA2DA3077.title: "Field Guide 图鉴"
+	quest.18428EA815D7B567.quest_desc: [
+		"深入地下寻找钻石（Y=-59 附近最密集）。"
+		"钻石是高级装备与暮色传送门的材料。"
+	]
+	quest.18428EA815D7B567.quest_subtitle: "珍贵矿物"
+	quest.18428EA815D7B567.title: "钻石勘探"
 	quest.18DF456E1A56DCD1.quest_desc: ["{chapter.12.quest.49.description.1}"]
 	quest.18DF456E1A56DCD1.quest_subtitle: "{chapter.12.quest.49.subtitle}"
 	quest.18DF456E1A56DCD1.title: "{chapter.12.quest.49.title}"
+	quest.1948F098E2BA2B6E.quest_desc: [
+		"按 K 打开顿悟界面。"
+		"完成模块获得心得点与顿悟槽位。"
+		"点亮心得得永久加成，激活顿悟得强大能力。"
+		"阅历升级心得点（每 10 阅历 +1 心得点）。"
+	]
+	quest.1948F098E2BA2B6E.quest_subtitle: "成长核心"
+	quest.1948F098E2BA2B6E.title: "顿悟系统 Epiphany"
+	quest.196161A9CF8169B1.quest_desc: [
+		"下界由地狱岩构成，遍布岩浆。"
+		"注意恶魂、猪灵、烈焰人。"
+		"金制装备可避免猪灵攻击。"
+	]
+	quest.196161A9CF8169B1.quest_subtitle: "红黑的世界"
+	quest.196161A9CF8169B1.title: "下界地貌"
+	quest.199BDB49DFDF0EC9.quest_desc: [
+		"冰雪女王镇守极光宫殿。"
+		"她会召唤冰晶守卫并发射冰刺。"
+		"击败后获得冰霜权杖等奖励。"
+	]
+	quest.199BDB49DFDF0EC9.quest_subtitle: "冰川宫殿"
+	quest.199BDB49DFDF0EC9.title: "冰雪女王"
+	quest.1AEF781EE1C71C31.quest_desc: [
+		"阅历可以从多种行为获得："
+		"击杀 Boss（+心得点）、首次进维度、首次吃新食物、解锁新图鉴（+2）。"
+		"多多探索，阅历滚滚而来！"
+	]
+	quest.1AEF781EE1C71C31.quest_subtitle: "如何升级"
+	quest.1AEF781EE1C71C31.title: "阅历获取方式"
+	quest.1BCBA10BC193FAAF.quest_desc: [
+		"下界合金巨兽（Netherite Monstrosity）是灾厄的终局 Boss 之一。"
+		"全身由下界合金构成，防御极高。"
+	]
+	quest.1BCBA10BC193FAAF.quest_subtitle: "金属的怪物"
+	quest.1BCBA10BC193FAAF.title: "下界合金巨兽"
+	quest.1CDC2A8C45E4CEBA.quest_desc: [
+		"远古之力，多元素攻击。"
+		"熟悉节奏逐个躲避。"
+	]
+	quest.1CDC2A8C45E4CEBA.quest_subtitle: "古老存在"
+	quest.1CDC2A8C45E4CEBA.title: "远古遗魂"
 	quest.1D26B4EA81538C0A.quest_desc: ["{chapter.12.quest.5.description.1}"]
 	quest.1D26B4EA81538C0A.quest_subtitle: "{chapter.12.quest.5.subtitle}"
 	quest.1D26B4EA81538C0A.title: "{chapter.12.quest.5.title}"
 	quest.1E114E9019D2C90E.quest_desc: ["{chapter.12.quest.23.description.1}"]
+	quest.1EA74B8A4FBAA239.quest_desc: [
+		"击败末影龙是原版的最终目标之一。"
+		"准备足够的弓箭、金苹果与附魔装备。"
+		"击败末影龙后可前往末地城获得鞘翅。"
+	]
+	quest.1EA74B8A4FBAA239.quest_subtitle: "终焉之地"
+	quest.1EA74B8A4FBAA239.title: "末地"
+	quest.1F4D8896C043EE72.quest_desc: [
+		"图鉴总数达到 10：攻击伤害 +1。"
+		"图鉴也是了解整合包生物的好帮手。"
+		"努力集齐吧！"
+	]
+	quest.1F4D8896C043EE72.quest_subtitle: "收集目标"
+	quest.1F4D8896C043EE72.title: "图鉴成就"
+	quest.209AEE075F1D0C49.quest_desc: [
+		"进化之剑是一把会成长的武器：每击杀过一个 Boss，攻击伤害 +5。"
+		"手持时属性面板可见加成，Shift 查看已击杀 Boss 列表。"
+		"获得方式：顿悟「剑之进化」或任务奖励。"
+	]
+	quest.209AEE075F1D0C49.quest_subtitle: "会成长的武器"
+	quest.209AEE075F1D0C49.title: "进化之剑"
 	quest.20A6E081D6A47E98.quest_desc: ["{chapter.12.quest.59.description.1}"]
 	quest.20A6E081D6A47E98.quest_subtitle: "{chapter.12.quest.59.subtitle}"
+	quest.21599E3E9C8FE21D.quest_desc: [
+		"僵尸掉落胡萝卜/马铃薯，村庄也有。"
+		"多种作物让饮食多样化，饱食更高。"
+	]
+	quest.21599E3E9C8FE21D.quest_subtitle: "胡萝卜与马铃薯"
+	quest.21599E3E9C8FE21D.title: "多样作物"
+	quest.2186D0F99F7C9E21.quest_desc: [
+		"下界合金是当前版本最强基础材料。"
+		"升级全套装备：工具+护甲。"
+		"下界合金装备不会被岩浆烧毁。"
+	]
+	quest.2186D0F99F7C9E21.quest_subtitle: "顶级材料"
+	quest.2186D0F99F7C9E21.title: "下界合金锭"
+	quest.21A278F64F7FD633.quest_desc: [
+		"8 个圆石合成熔炉。"
+		"熔炉烧炼矿物（矿石→锭）和烹饪食物。"
+		"燃料：木板、煤炭、熔岩桶等。"
+	]
+	quest.21A278F64F7FD633.quest_subtitle: "冶炼与烹饪"
+	quest.21A278F64F7FD633.title: "熔炉"
+	quest.222C4ADE306F53DF.quest_desc: [
+		"一切从工作台开始。"
+		"砍树获得原木，合成工作台，然后开始你的生存之旅。"
+	]
+	quest.222C4ADE306F53DF.quest_subtitle: "第一步"
+	quest.222C4ADE306F53DF.title: "制作工作台"
+	quest.22360EF6CFC10023.quest_desc: [
+		"巫妖塔矗立在暗黑森林。"
+		"巫妖会瞬移、召唤仆从、释放法术。"
+		"击败后获得巫师权杖。"
+	]
+	quest.22360EF6CFC10023.quest_subtitle: "魔法对决"
+	quest.22360EF6CFC10023.title: "巫妖塔"
+	quest.238C937E4DF8D960.quest_desc: [
+		"整合包包含多个维度："
+		"主世界/下界/末地 + 暮色森林 + 灾厄 8 维。"
+		"每个维度都有独特的资源与 Boss。"
+		"详见「维度指引」章节。"
+	]
+	quest.238C937E4DF8D960.quest_subtitle: "广阔的世界"
+	quest.238C937E4DF8D960.title: "维度探索"
+	quest.2457188B993DFC33.quest_desc: ["强大的近战与投射攻击。"]
+	quest.2457188B993DFC33.quest_subtitle: "末影守护"
+	quest.2457188B993DFC33.title: "末影守卫"
+	quest.248525855A8CE23B.quest_desc: [
+		"米诺菇隐藏在迷宫花园深处。"
+		"它像牛一样冲撞，威力巨大。"
+		"迷宫内注意岔路与宝箱。"
+	]
+	quest.248525855A8CE23B.quest_subtitle: "蘑菇迷宫之主"
+	quest.248525855A8CE23B.title: "米诺菇"
+	quest.24CC5CBAFC6DB119.quest_desc: ["用于解锁背包内容,拿起对着背包中的锁右键即可解锁"]
+	quest.25F6F8B72A56AD84.quest_desc: [
+		"哔哔机是一件 Curios 饰品。"
+		"完成各种任务时会发出提示音效。"
+		"装备后不错过任何成就。"
+	]
+	quest.25F6F8B72A56AD84.quest_subtitle: "任务提示"
+	quest.25F6F8B72A56AD84.title: "哔哔机"
 	quest.2646F4AE06A6AD56.quest_desc: ["{chapter.12.quest.67.description.1}"]
 	quest.2646F4AE06A6AD56.quest_subtitle: "{chapter.12.quest.67.subtitle}"
+	quest.2667A40844853040.quest_desc: [
+		"制作地图记录已探索区域。"
+		"8 张纸 + 指南针合成空地图。"
+		"探索时随身携带。"
+	]
+	quest.2667A40844853040.quest_subtitle: "记录世界"
+	quest.2667A40844853040.title: "制图师之路"
+	quest.26A1C2632410801B.quest_desc: [
+		"Modonomicon 提供各模组的指南书。"
+		"在创造模式搜索或从模组获取。"
+		"看不懂模组？先读书！"
+	]
+	quest.26A1C2632410801B.quest_subtitle: "学习手册"
+	quest.26A1C2632410801B.title: "指南书 Modonomicon"
 	quest.271877E8E7393D05.quest_desc: ["{chapter.12.quest.1.description.1}"]
 	quest.271877E8E7393D05.quest_subtitle: "{chapter.12.quest.1.subtitle}"
+	quest.2736671C13390278.quest_desc: [
+		"失落堡垒（Bastion Lost）是灾厄的最终挑战区域。"
+		"最强的守护者在此盘踞。"
+		"进入前确保：全套最强装备、充足补给、进化之剑加成。"
+	]
+	quest.2736671C13390278.quest_subtitle: "最终领域"
+	quest.2736671C13390278.title: "失落堡垒"
 	quest.275A0F585FBD2541.quest_desc: ["{chapter.12.quest.44.description.1}"]
 	quest.275A0F585FBD2541.quest_subtitle: "需要先解锁午夜残片"
+	quest.2790966C917FC37F.quest_desc: [
+		"炽热锭来自炽热血池/恶魂战利品。"
+		"合成炽热套装——暮色最强防具。"
+		"火焰抗性极佳。"
+	]
+	quest.2790966C917FC37F.quest_subtitle: "暮色顶级材料"
+	quest.2790966C917FC37F.title: "炽热锭"
 	quest.288285DBDAB1C5FD.quest_desc: ["{chapter.12.quest.7.description.1}"]
 	quest.288285DBDAB1C5FD.quest_subtitle: "{chapter.12.quest.7.subtitle}"
+	quest.289C10B2FFA438A6.quest_desc: [
+		"本任务书由 FTB Quests 提供。"
+		"每个章节都有明确的目标与指引。"
+		"完成任务的奖励会自动发放。"
+	]
+	quest.289C10B2FFA438A6.quest_subtitle: "指引与奖励"
+	quest.289C10B2FFA438A6.title: "FTB 任务系统"
+	quest.29F2ED7A74C38F97.quest_desc: [
+		"Graveyard 模组添加亡灵主题内容。"
+		"探索墓园，面对复活的骷髅。"
+		"击败它们获得骨制武器与材料。"
+	]
+	quest.29F2ED7A74C38F97.quest_subtitle: "死者的低语"
+	quest.29F2ED7A74C38F97.title: "墓园 Graveyard"
+	quest.2A139B079AFC90B6.quest_desc: [
+		"深渊（Abyssal Depths）是灾厄第一个维度。"
+		"通过灾厄的传送方式进入。"
+		"这里的怪物明显更强。"
+	]
+	quest.2A139B079AFC90B6.quest_subtitle: "Cataclysm 起点"
+	quest.2A139B079AFC90B6.title: "深渊"
+	quest.2A3D9FBC98774A7E.quest_desc: [
+		"在末地中央龙岛挑战末影龙。"
+		"准备弓箭、金苹果与充足治疗。"
+		"击败后解锁末地城与鞘翅。"
+	]
+	quest.2A3D9FBC98774A7E.quest_subtitle: "终焉之战"
+	quest.2A3D9FBC98774A7E.title: "末影龙讨伐"
+	quest.2A455B18F6F66218.quest_desc: [
+		"暮色最终 Boss，暗黑高塔上空。"
+		"召唤火球与爪牙，血量极高。"
+		"准备大量弓弩弹药与治疗。"
+		"暮色主线完成！"
+	]
+	quest.2A455B18F6F66218.quest_subtitle: "高塔之巅"
+	quest.2A455B18F6F66218.title: "暮初恶魂"
+	quest.2C0A6D0EC40C766A.quest_desc: [
+		"Artifacts 模组的神器：无尽的牛肉、熔岩之靴、羊驼披风等。"
+		"它们散落在遗迹宝箱中。"
+		"装备获得独特效果。"
+	]
+	quest.2C0A6D0EC40C766A.quest_subtitle: "探索战利品"
+	quest.2C0A6D0EC40C766A.title: "神器饰品"
+	quest.2CC69C0C75EC9D75.quest_desc: [
+		"Refined Storage 提供数字存储网络。"
+		"控制器 + 磁盘 = 大规模存储。"
+		"无线终端随处访问。"
+		"中期以后强烈推荐！"
+	]
+	quest.2CC69C0C75EC9D75.quest_subtitle: "数字仓库"
+	quest.2CC69C0C75EC9D75.title: "精制存储 RS"
+	quest.2D072479520225FC.quest_desc: [
+		"用 3 羊毛 + 3 木板做一张床。"
+		"睡觉能跳过夜晚并设置重生点。"
+	]
+	quest.2D072479520225FC.quest_subtitle: "夜晚的庇护"
+	quest.2D072479520225FC.title: "安睡与重生"
+	quest.2D59A32A99ED5EBE.quest_desc: [
+		"下界石英用于红石与合成。"
+		"地狱岩层中常见。"
+		"挖石英注意岩浆。"
+	]
+	quest.2D59A32A99ED5EBE.quest_subtitle: "白色矿物"
+	quest.2D59A32A99ED5EBE.title: "下界石英"
+	quest.2D7F4CA9374AB0BB.quest_desc: [
+		"难度调节器调整全局难度。"
+		"高难度下怪物更强，掉落更丰。"
+		"与你的实力匹配，享受挑战。"
+	]
+	quest.2D7F4CA9374AB0BB.quest_subtitle: "自定义挑战"
+	quest.2D7F4CA9374AB0BB.title: "难度系统"
+	quest.2DF39DE88E938CFA.quest_desc: [
+		"难度调节器调整全局难度。"
+		"更高难度：怪物更强、掉落更丰、阅历更多。"
+		"低难度适合休闲探索。"
+		"随时可调，选择适合你的节奏。"
+	]
+	quest.2DF39DE88E938CFA.quest_subtitle: "自定义挑战"
+	quest.2DF39DE88E938CFA.title: "难度调节器"
+	quest.2E1B84B260EA5FA4.quest_desc: ["目光即是攻击，注意走位。"]
+	quest.2E1B84B260EA5FA4.quest_subtitle: "注视一切"
+	quest.2E1B84B260EA5FA4.title: "观测者"
+	quest.2E2034FD5ADFAAF4.quest_desc: ["水域穿梭，速度极快。"]
+	quest.2E2034FD5ADFAAF4.quest_subtitle: "海妖传说"
+	quest.2E2034FD5ADFAAF4.title: "斯库拉"
+	quest.2E9D34119F3374CE.quest_desc: [
+		"木板 + 铁锭合成盾牌。"
+		"右键格挡减少大量伤害。"
+		"与武器配合是近战标配。"
+	]
+	quest.2E9D34119F3374CE.quest_subtitle: "格挡的艺术"
+	quest.2E9D34119F3374CE.title: "盾牌"
+	quest.2EB2618C1266F6A9.quest_desc: [
+		"黑曜石 + 末影之眼合成末影箱。"
+		"每个玩家的末影箱内容独立且全局共享。"
+		"配合潜影盒实现终极随身仓库。"
+	]
+	quest.2EB2618C1266F6A9.quest_subtitle: "跨空间存储"
+	quest.2EB2618C1266F6A9.title: "末影箱"
+	quest.2F01B7210760474F.quest_desc: [
+		"金矿在 Y=-64~32 生成，下界更多。"
+		"金用于合成、猪灵交易。"
+		"装备金制物品可避免猪灵攻击。"
+	]
+	quest.2F01B7210760474F.quest_subtitle: "猪灵的最爱"
+	quest.2F01B7210760474F.title: "金矿"
 	quest.2F08F5EB273B58D8.quest_desc: ["{chapter.12.quest.25.description.1}"]
+	quest.2F9225A107E24475.quest_desc: [
+		"Modonomicon 提供各模组的游戏内指南书。"
+		"在创造搜索或从模组获取。"
+		"复杂的模组（光谱等）都有详细指南。"
+		"不懂就读书！"
+	]
+	quest.2F9225A107E24475.quest_subtitle: "读书破万卷"
+	quest.2F9225A107E24475.title: "Modonomicon 指南"
+	quest.3003B874EC470373.quest_desc: [
+		"锻造厂（Forge of Aeons）是锻造主题维度。"
+		"巨大熔炉与机械造物。"
+		"这里的守护者以锻造之力战斗。"
+	]
+	quest.3003B874EC470373.quest_subtitle: "锻造维度"
+	quest.3003B874EC470373.title: "锻造厂"
 	quest.309077656D4899C2.quest_desc: ["{chapter.12.quest.9.description.1}"]
 	quest.309077656D4899C2.quest_subtitle: "{chapter.12.quest.9.subtitle}"
+	quest.30F8CE4234D30BE2.quest_subtitle: "用于开启暮色森林传送门"
+	quest.30F8CE4234D30BE2.title: "步入暮色"
+	quest.30FF2936E2DF45B0.quest_desc: [
+		"陨落圣殿（Sanctum Fallen）是神秘遗迹维度。"
+		"悬浮的圣殿遗迹。"
+		"隐藏着强大的力量。"
+	]
+	quest.30FF2936E2DF45B0.quest_subtitle: "神秘维度"
+	quest.30FF2936E2DF45B0.title: "陨落圣殿"
+	quest.31F3BC4709A0DAD7.quest_desc: [
+		"箱子/木桶是基础存储。"
+		"潜影盒随身携带（末地）。"
+		"组织好你的仓库。"
+	]
+	quest.31F3BC4709A0DAD7.quest_subtitle: "箱子的学问"
+	quest.31F3BC4709A0DAD7.title: "基础存储"
+	quest.326C4515FBA399A7.quest_desc: [
+		"大量 QoL 模组提升体验："
+		"Jade（方块信息）、Xaero 地图、Appleskin（饱食）、EMI（配方）、Controlling（按键）、BetterF3（调试屏）、Inventory HUD 等。"
+		"配置好快捷键，游戏更顺畅！"
+	]
+	quest.326C4515FBA399A7.quest_subtitle: "舒适游玩"
+	quest.326C4515FBA399A7.title: "体验增强"
 	quest.32949E1A7CEA3523.quest_desc: ["当你获得棕色颜料后便可打开棕色孢子花的门拿到鎏金之书"]
+	quest.3374854BF7B08DB1.quest_desc: [
+		"瞬移突袭。"
+		"预判落点。"
+	]
+	quest.3374854BF7B08DB1.quest_subtitle: "末影造物"
+	quest.3374854BF7B08DB1.title: "末影傀儡"
+	quest.337AE5E877B10BC1.quest_desc: [
+		"进入下界需要黑曜石与打火石。"
+		"下界蕴藏石英、远古残骸等资源。"
+		"注意恶魂、猪灵与烈焰人！"
+	]
+	quest.337AE5E877B10BC1.quest_subtitle: "烈焰与熔岩"
+	quest.337AE5E877B10BC1.title: "下界"
+	quest.342A014E8BAC0BE8.quest_desc: [
+		"Backpacked 背包可穿戴。"
+		"探险前背上，容量翻倍。"
+		"升级版本容量更大。"
+	]
+	quest.342A014E8BAC0BE8.quest_subtitle: "走到哪装到哪"
+	quest.342A014E8BAC0BE8.title: "随身背包"
+	quest.342B58A3A0009BCB.quest_desc: [
+		"推荐顿悟路线："
+		"前期：生存/防御模块保命 → 攻击模块提输出。"
+		"中期：剑之进化（进化之剑）→ 探索模块。"
+		"后期：全模块精通。"
+		"顿悟槽位有限，规划好优先级！"
+	]
+	quest.342B58A3A0009BCB.quest_subtitle: "如何选择"
+	quest.342B58A3A0009BCB.title: "顿悟策略"
 	quest.346CB1473CEF0DF6.quest_desc: [
 		"{chapter.12.quest.3.description.1}"
 		"{image:kubejs:textures/ftbq/10.png width:100 height:100 align:1}"
 	]
+	quest.34D0A8688691BAB0.quest_desc: [
+		"More Villagers 为村庄带来更多职业。"
+		"建造蓝图桌等职业站点，招募特殊村民。"
+		"用绿宝石交易稀有物品。"
+	]
+	quest.34D0A8688691BAB0.quest_subtitle: "以物易物"
+	quest.34D0A8688691BAB0.title: "村民与工匠"
+	quest.34F02BD7100DC8B2.quest_desc: [
+		"尽早获得进化之剑（顿悟「剑之进化」）。"
+		"每击杀一个 Boss，剑的攻击伤害 +5。"
+		"Boss 图鉴中的每个目标都是它的养料！"
+	]
+	quest.34F02BD7100DC8B2.quest_subtitle: "成长的武器"
+	quest.34F02BD7100DC8B2.title: "进化之剑养成"
+	quest.35EEEB73D2022C20.quest_desc: [
+		"第一天：砍树、造工具、挖石头。"
+		"尽快做出石制装备并找到食物来源。"
+		"夜晚来临前建好庇护所。"
+	]
+	quest.35EEEB73D2022C20.quest_subtitle: "活下去"
+	quest.35EEEB73D2022C20.title: "开局起步"
+	quest.3634E1C8CF0A0E14.quest_desc: [
+		"难度调节器调整游戏难度。"
+		"更高难度：怪物更强、掉落更丰。"
+		"选择适合你的节奏。"
+	]
+	quest.3634E1C8CF0A0E14.quest_subtitle: "自定义挑战"
+	quest.3634E1C8CF0A0E14.title: "难度调节器"
 	quest.3660C7ACAF4E08ED.quest_desc: [
 		"{chapter.12.quest.53.description.1}"
 		"{image:kubejs:textures/ftbq/jiyan.png width:180 height:100 align:1}"
 	]
+	quest.36FED93821C6D12B.quest_desc: [
+		"Kaleidoscope Cookery 添加大量新食物与烹饪配方。"
+		"注意：首次食用新食物获得阅历！"
+		"多尝试不同食物。"
+	]
+	quest.36FED93821C6D12B.quest_subtitle: "舌尖上的整合包"
+	quest.36FED93821C6D12B.title: "烹饪模组"
+	quest.37CBDFEC78D528C5.quest_desc: [
+		"本包用 KubeJS 定制了大量机制："
+		"Boss 击杀记录（进化之剑）、食物首吃阅历、图鉴解锁阅历、集卡册阅历等。"
+		"这些机制与顿悟系统深度联动。"
+		"善用它们加速成长！"
+	]
+	quest.37CBDFEC78D528C5.quest_subtitle: "本包特色"
+	quest.37CBDFEC78D528C5.title: "KubeJS 机制说明"
 	quest.380B8D448CD2582B.quest_desc: ["{chapter.12.quest.6.description.1}"]
+	quest.3858073E73BFA3D3.quest_desc: [
+		"永恒之星是重要合成材料。"
+		"通过难度调节器或其他途径获取。"
+	]
+	quest.3858073E73BFA3D3.quest_subtitle: "稀有材料"
+	quest.3858073E73BFA3D3.title: "永恒之星"
+	quest.38689F74FC60C316.quest_desc: [
+		"观测者（The Watcher）监视着灾厄的世界。"
+		"它的目光即是攻击，注意走位躲避。"
+	]
+	quest.38689F74FC60C316.quest_subtitle: "注视一切"
+	quest.38689F74FC60C316.title: "观测者"
+	quest.3899DECE76473D1D.quest_desc: ["{chapter.9.quest.2.description.1}"]
+	quest.389A9378320C110A.quest_desc: [
+		"失落堡垒是灾厄的最终挑战区域。"
+		"这里盘踞着灾厄最强的守护者，做好准备再来！"
+	]
+	quest.389A9378320C110A.quest_subtitle: "Bastion Lost"
+	quest.389A9378320C110A.title: "灾厄·失落堡垒"
+	quest.38C77C2926DAA827.quest_desc: [
+		"使用难度调节器调整游戏难度。"
+		"更高难度：怪物更强，但掉落更丰厚。"
+		"选择适合你的节奏。"
+	]
+	quest.38C77C2926DAA827.quest_subtitle: "自定义挑战"
+	quest.38C77C2926DAA827.title: "难度系统"
+	quest.39306979BEE3BA74.quest_desc: [
+		"阅历（Aptitude）是升级心得点的货币："
+		"击杀 Boss、进入新维度、首次食用食物、解锁新图鉴都能获得阅历。"
+		"每获得 10 点阅历 +1 心得点。"
+	]
+	quest.39306979BEE3BA74.quest_subtitle: "获取方式"
+	quest.39306979BEE3BA74.title: "阅历与心得点"
+	quest.39BCCC18E1E065EB.quest_desc: [
+		"暗黑森林城堡。"
+		"隐身突袭，成群出现。"
+		"听声音预判攻击。"
+		"掉落幻影铠甲。"
+	]
+	quest.39BCCC18E1E065EB.quest_subtitle: "城堡之影"
+	quest.39BCCC18E1E065EB.title: "幻影骑士"
+	quest.39EA94DE7DD39CD7.quest_desc: [
+		"暮色毕业后再挑战灾厄（Cataclysm）。"
+		"灾厄有 8 个维度，Boss 强度远超暮色。"
+		"灾厄核心材料用于高级合成。"
+	]
+	quest.39EA94DE7DD39CD7.quest_subtitle: "高难区域"
+	quest.39EA94DE7DD39CD7.title: "灾厄挑战"
 	quest.3A977758D7357A5B.quest_desc: ["{chapter.12.quest.38.description.1}"]
+	quest.3C122B53D101D605.quest_desc: [
+		"用 8 个圆石合成熔炉。"
+		"熔炉用于冶炼矿物和烹饪食物，是生存的核心。"
+	]
+	quest.3C122B53D101D605.quest_subtitle: "烹饪与烧矿"
+	quest.3C122B53D101D605.title: "熔炉与冶炼"
+	quest.3C435F4C85C21151.quest_desc: [
+		"灾厄（L_Ender's Cataclysm）是整合包的后期高难模组。"
+		"它包含 8 个独立维度与 10+ 个强力 Boss。"
+		"灾厄的 Boss 掉落核心材料，用于合成最强装备。"
+		"建议：先完成暮色森林与光谱基础，装备成型后再来！"
+	]
+	quest.3C435F4C85C21151.quest_subtitle: "高难挑战"
+	quest.3C435F4C85C21151.title: "灾厄简介"
+	quest.3C58D69771D29D63.quest_desc: [
+		"Mowzie's Mobs 添加了风格独特的巨兽生物。"
+		"钢铁守护者、霜冻巨兽、雕刻家、太阳鸟。"
+		"它们散落在世界各地，是进化之剑的养料。"
+	]
+	quest.3C58D69771D29D63.quest_subtitle: "远古巨兽"
+	quest.3C58D69771D29D63.title: "Mowzie's Mobs"
+	quest.3DABE93FB53EDDF5.quest_desc: [
+		"先驱者（The Harbinger）预示灾厄降临。"
+		"强大的远程攻击。"
+		"保持移动躲避弹幕。"
+	]
+	quest.3DABE93FB53EDDF5.quest_subtitle: "灾厄使者"
+	quest.3DABE93FB53EDDF5.title: "先驱者"
+	quest.3F7878BD0E23B432.quest_desc: [
+		"永恒冰封是一个冰霜主题的灾厄维度。"
+		"这里有强大的冰霜生物与丰厚奖励。"
+	]
+	quest.3F7878BD0E23B432.quest_subtitle: "Eternal Frosthold"
+	quest.3F7878BD0E23B432.title: "灾厄·永恒冰封"
+	quest.3FBD5195FBCC4547.quest_desc: [
+		"使用 KubeJS 的难度调节器可以调整游戏难度。"
+		"高难度下怪物更强，但掉落与阅历收益也更高。"
+		"选择适合你的难度，享受游戏！"
+	]
+	quest.3FBD5195FBCC4547.quest_subtitle: "掌握你的挑战"
+	quest.3FBD5195FBCC4547.title: "难度调节器"
+	quest.3FD3D4F9A36C114D.quest_desc: [
+		"灵魂铁砧是一个亡灵主题的灾厄维度。"
+		"小心亡灵大军，收集灵魂精华。"
+	]
+	quest.3FD3D4F9A36C114D.quest_subtitle: "Souls Anvil"
+	quest.3FD3D4F9A36C114D.title: "灾厄·灵魂铁砧"
+	quest.405FB85B4830AD82.quest_desc: [
+		"暮色地形迷宫重重。"
+		"合成暮色地图显示地形。"
+		"还有矿图、迷宫图等变体。"
+	]
+	quest.405FB85B4830AD82.quest_subtitle: "不迷路的保证"
+	quest.405FB85B4830AD82.title: "暮色地图"
+	quest.40679BB3E5EE91AD.quest_desc: [
+		"打造一套铁质护甲。"
+		"铁装让你能应对大多数常规威胁。"
+	]
+	quest.40679BB3E5EE91AD.quest_subtitle: "小有所成"
+	quest.40679BB3E5EE91AD.title: "铁装毕业"
+	quest.41F63E4DA8343311.quest_desc: [
+		"哔哔机是 Curios 饰品。"
+		"完成各种任务时发出提示音效。"
+		"装备后不错过任何任务完成。"
+	]
+	quest.41F63E4DA8343311.quest_subtitle: "任务提示"
+	quest.41F63E4DA8343311.title: "哔哔机"
+	quest.42DB0B956AF67442.quest_desc: [
+		"命名牌给动物/仆从起名。"
+		"钓鱼与地牢宝箱获得。"
+		"仆从与宠物必备！"
+	]
+	quest.42DB0B956AF67442.quest_subtitle: "给宠物起名"
+	quest.42DB0B956AF67442.title: "命名牌"
 	quest.4355E479445EE1F4.quest_desc: ["{chapter.12.quest.58.description.1}"]
+	quest.4480F414CD6F4ADA.quest_desc: [
+		"钓鱼获得食物、宝藏与附魔书。"
+		"Dungeons & Taverns 等地牢也在世界各处生成。"
+	]
+	quest.4480F414CD6F4ADA.quest_subtitle: "水边的收获"
+	quest.4480F414CD6F4ADA.title: "垂钓时光"
 	quest.44F05BA1279FD750.quest_desc: ["{chapter.12.quest.56.description.1}"]
 	quest.44F05BA1279FD750.title: "{chapter.12.quest.56.title}"
+	quest.451DD380D9CD172E.quest_desc: ["法老之灾（Pharaoh's Bane）是沙漠金字塔主题维度。"]
+	quest.451DD380D9CD172E.quest_subtitle: "沙漠维度"
+	quest.451DD380D9CD172E.title: "法老之灾"
+	quest.471360EAD4D6DF14.quest_desc: [
+		"凋灵骷髅掉落头颅（低概率）。"
+		"3 个头颅 + 灵魂沙召唤凋灵。"
+		"凋灵是进化之剑的成长目标！"
+	]
+	quest.471360EAD4D6DF14.quest_subtitle: "凋灵召唤"
+	quest.471360EAD4D6DF14.title: "凋灵骷髅头"
+	quest.473E65CEA7686F41.quest_desc: [
+		"整合包内置大量 QoL 模组："
+		"Jade（方块信息）、Xaero 地图、Appleskin（饱食显示）、EMI（配方查询）、Controlling（按键管理）。"
+		"善用它们让游戏更顺畅！"
+	]
+	quest.473E65CEA7686F41.quest_subtitle: "舒适体验"
+	quest.473E65CEA7686F41.title: "核心辅助模组"
+	quest.4768B8C2BCE77921.quest_desc: [
+		"击败凋灵获下界之星。"
+		"信标提供范围增益（速度/力量/急迫等）。"
+		"铁块金字塔放大效果。"
+	]
+	quest.4768B8C2BCE77921.quest_subtitle: "增益光环"
+	quest.4768B8C2BCE77921.title: "信标"
+	quest.48B717F28D4E847B.quest_desc: [
+		"优先收集常见生物的卡片（容易重复）。"
+		"重复卡片可分解或交易。"
+		"与 Field Guide 图鉴互补。"
+	]
+	quest.48B717F28D4E847B.quest_subtitle: "收集指南"
+	quest.48B717F28D4E847B.title: "集卡策略"
 	quest.48F57785B56CE5C5.quest_desc: ["{chapter.12.quest.16.description.1}"]
 	quest.48F57785B56CE5C5.quest_subtitle: "{chapter.12.quest.16.subtitle}"
+	quest.490AFFEC3212B899.quest_desc: [
+		"末影龙盘踞末地龙岛。"
+		"击杀掉落经验并开启末地城。"
+		"推荐：附魔弓、金苹果、落地防护。"
+	]
+	quest.490AFFEC3212B899.quest_subtitle: "终焉之王"
+	quest.490AFFEC3212B899.title: "末影龙"
 	quest.4929277AC11875DD.title: "{chapter.12.quest.71.title}"
 	quest.494C83C4596F5FF0.quest_desc: ["{chapter.12.quest.47.description.1}"]
 	quest.494C83C4596F5FF0.title: "{chapter.12.quest.47.title}"
+	quest.4A7CF48DCE22C8BE.quest_desc: [
+		"雪怪首领在积雪森林的洞穴。"
+		"投掷冰块、猛烈锤击。"
+		"洞穴狭窄，注意躲避。"
+	]
+	quest.4A7CF48DCE22C8BE.quest_subtitle: "雪怪首领"
+	quest.4A7CF48DCE22C8BE.title: "雪山之巅"
 	quest.4ADEA4FA1526CE3E.quest_desc: ["{chapter.12.quest.55.description.1}"]
+	quest.4CAB3209EB83425D.quest_desc: [
+		"穿越传送门进入暮色森林。"
+		"暮色有独特生态：蘑菇森林、暗黑森林、雪山、冰川。"
+		"这里的时间永远定格在黄昏。"
+		"小心：暮色的夜晚同样危险。"
+	]
+	quest.4CAB3209EB83425D.quest_subtitle: "新世界"
+	quest.4CAB3209EB83425D.title: "进入暮色"
 	quest.4CE237AE8F58B2CB.quest_desc: ["{chapter.12.quest.19.description.1}"]
 	quest.4CE9B355B43E155E.quest_desc: [
 		"{chapter.12.quest.14.description.1}"
 		"{image:kubejs:textures/ftbq/moon.png width:170 height:140 align:1}"
 		"{chapter.12.quest.14.description.2}"
 	]
+	quest.4D9E8822ADD4BC89.quest_desc: [
+		"用锄头开垦农田，种植小麦。"
+		"农业提供稳定的食物来源。"
+	]
+	quest.4D9E8822ADD4BC89.quest_subtitle: "自给自足"
+	quest.4D9E8822ADD4BC89.title: "农田开垦"
 	quest.4DC63D1752013975.quest_desc: ["{chapter.12.quest.24.description.1}"]
+	quest.4E1532E2E3308C7F.quest_desc: [
+		"焰魔（Ignis）是灾厄最知名的 Boss。"
+		"它浑身烈焰，喷吐火球与烈焰冲击。"
+		"推荐：火焰抗性 + 远程风筝。"
+		"击败后获得灾厄核心材料。"
+	]
+	quest.4E1532E2E3308C7F.quest_subtitle: "灾厄的标志"
+	quest.4E1532E2E3308C7F.title: "焰魔"
+	quest.4E2FE981B29EE11B.quest_desc: [
+		"找到或放置路石并右键激活。"
+		"之后可在路石间传送。"
+		"背包里的传送卷轴也能用！"
+		"路石是长途探索的最佳伴侣。"
+	]
+	quest.4E2FE981B29EE11B.quest_subtitle: "传送网络"
+	quest.4E2FE981B29EE11B.title: "路石"
+	quest.4EADBCC6AAC062D6.quest_desc: [
+		"收集黄水晶、紫水晶等各色水晶碎片。"
+		"不同水晶对应不同的光谱能量。"
+	]
+	quest.4EADBCC6AAC062D6.quest_subtitle: "多彩的力量"
+	quest.4EADBCC6AAC062D6.title: "光谱水晶"
+	quest.4F309FFEA518F32C.quest_desc: [
+		"红石是自动化与机关的核心。"
+		"配合 Refined Storage 等模组实现自动化。"
+	]
+	quest.4F309FFEA518F32C.quest_subtitle: "科技与自动化"
+	quest.4F309FFEA518F32C.title: "红石"
 	quest.4F507917FD331CA5.quest_desc: ["{chapter.12.quest.2.description.1}"]
 	quest.4F507917FD331CA5.title: "{chapter.12.quest.2.title}"
+	quest.4F511210D472406E.quest_desc: [
+		"末影龙喷吐的龙息可收集（玻璃瓶）。"
+		"酿造滞留药水。"
+		"战斗时在龙尾附近收集。"
+	]
+	quest.4F511210D472406E.quest_subtitle: "酿造精华"
+	quest.4F511210D472406E.title: "龙息"
+	quest.4FA113E035EE0D64.quest_desc: [
+		"冰雪女王在极光宫殿。"
+		"召唤冰晶守卫、发射冰刺。"
+		"宫殿顶层是最终战场。"
+	]
+	quest.4FA113E035EE0D64.quest_subtitle: "冰雪女王"
+	quest.4FA113E035EE0D64.title: "极光宫殿"
 	quest.4FA6BFF5B11A4EC3.quest_desc: [
 		"{chapter.12.quest.43.description.1}"
 		"{image:kubejs:textures/ftbq/spectrum_relic.png width:256 height:137 align:1}"
@@ -66,24 +956,252 @@
 	quest.4FA6BFF5B11A4EC3.title: "{chapter.12.quest.43.title}"
 	quest.50196DC829EF6061.quest_desc: ["{chapter.12.quest.10.description.1}"]
 	quest.50196DC829EF6061.title: "{chapter.12.quest.10.title}"
+	quest.506B54553A52830B.quest_desc: [
+		"收集 12 颗钻石，扔进 2×2 的水池中。"
+		"水面会出现通往暮色森林的传送门。"
+	]
+	quest.506B54553A52830B.quest_subtitle: "童话之门"
+	quest.506B54553A52830B.title: "开启暮色传送门"
 	quest.515D3C2DC0BFA8C1.quest_desc: ["{chapter.12.quest.68.description.1}"]
 	quest.515D3C2DC0BFA8C1.quest_subtitle: "{chapter.12.quest.68.subtitle}"
+	quest.517EE5BB9CDA1A2A.quest_desc: [
+		"Comforts 提供睡袋与吊床。"
+		"吊床可悬挂使用，睡袋随处可睡。"
+		"在野外也能跳过夜晚。"
+	]
+	quest.517EE5BB9CDA1A2A.quest_subtitle: "旅途休憩"
+	quest.517EE5BB9CDA1A2A.title: "露营"
+	quest.51A7BA308554606F.quest_desc: ["后面的内容请先自行看光谱世界书"]
 	quest.51A7BA308554606F.quest_subtitle: "破坏最底层的毁蚀微生物以开启传送门"
 	quest.51A7BA308554606F.title: "进入更深的地方"
+	quest.52618EFB4027816B.quest_desc: ["永恒冰封（Eternal Frosthold）是冰霜主题维度。"]
+	quest.52618EFB4027816B.quest_subtitle: "冰霜维度"
+	quest.52618EFB4027816B.title: "永恒冰封"
+	quest.52C87CD7A0FCBB80.quest_desc: [
+		"先砍树获得原木，制作工作台。"
+		"工作台是几乎所有合成的基础，尽快做出来。"
+	]
+	quest.52C87CD7A0FCBB80.quest_subtitle: "生存第一步"
+	quest.52C87CD7A0FCBB80.title: "砍树与工作台"
+	quest.53A5F9E22D1CEA53.quest_desc: [
+		"咒翼灵骸（Maledictus）是灾厄的神秘 Boss。"
+		"它挥舞诅咒之翼发动灵魂攻击。"
+	]
+	quest.53A5F9E22D1CEA53.quest_subtitle: "诅咒之翼"
+	quest.53A5F9E22D1CEA53.title: "咒翼灵骸"
+	quest.53F69E71BEFAB57B.quest_desc: [
+		"用小麦繁殖牛、羊、猪。"
+		"烹饪肉类获得更高的饱食度。"
+	]
+	quest.53F69E71BEFAB57B.quest_subtitle: "肉食供应"
+	quest.53F69E71BEFAB57B.title: "畜牧养殖"
+	quest.5441F04C53578811.quest_desc: [
+		"暮色森林的 Boss 掉落强力装备。"
+		"娜迦掉落娜迦鳞甲套装。"
+		"击败暮色各 Boss 收集完整套装！"
+	]
+	quest.5441F04C53578811.quest_subtitle: "Boss 战利品"
+	quest.5441F04C53578811.title: "暮色装备"
 	quest.54B18C774EF22FE1.quest_desc: ["{chapter.12.quest.41.description.1}"]
+	quest.5587E918EADADC9B.quest_desc: [
+		"巫妖塔顶层，使用魔法战斗。"
+		"掉落巫师权杖。"
+	]
+	quest.5587E918EADADC9B.quest_subtitle: "暮色法师"
+	quest.5587E918EADADC9B.title: "巫妖"
+	quest.55F31FFFA9AB2411.quest_desc: [
+		"恭喜完成新手教程！"
+		"接下来：探索维度、收集装备、挑战 Boss。"
+		"记住顿悟系统（K 键）——它是你成长的核心！"
+	]
+	quest.55F31FFFA9AB2411.quest_subtitle: "旅程开始"
+	quest.55F31FFFA9AB2411.title: "新手毕业"
 	quest.5637FEB12ADC8EB3.quest_desc: ["{chapter.12.quest.12.description.1}"]
 	quest.5637FEB12ADC8EB3.title: "{chapter.12.quest.12.title}"
+	quest.56AAEF01957A0B51.quest_desc: [
+		"受击自动闪避（消耗层数）。"
+		"过热后恢复。"
+		"高难度保命神器。"
+	]
+	quest.56AAEF01957A0B51.quest_subtitle: "闪避饰品"
+	quest.56AAEF01957A0B51.title: "预知眼"
+	quest.56E4502CB2030DB1.quest_desc: [
+		"Backpacked 模组提供随身背包。"
+		"背包让你在外出时有更多空间。"
+	]
+	quest.56E4502CB2030DB1.quest_subtitle: "随身仓库"
+	quest.56E4502CB2030DB1.title: "旅行背包"
+	quest.56E89E0BEC14B19C.quest_desc: [
+		"末影龙盘踞末地龙岛。"
+		"先摧毁末影水晶，再攻击本体。"
+		"推荐：附魔弓、金苹果、落地防护。"
+		"击杀后获得大量经验并开启末地城。"
+	]
+	quest.56E89E0BEC14B19C.quest_subtitle: "终焉之王"
+	quest.56E89E0BEC14B19C.title: "末影龙"
 	quest.56F7E5AB654115CE.quest_desc: ["{chapter.12.quest.50.description.1}"]
+	quest.57A19E3BCEC1B133.quest_desc: [
+		"进化之剑是本包的招牌武器。"
+		"每击杀一个 Boss，攻击伤害 +5（手持时属性面板可见）。"
+		"按住 Shift 查看已击杀 Boss 列表。"
+		"获得：顿悟「剑之进化」或任务奖励。"
+	]
+	quest.57A19E3BCEC1B133.quest_subtitle: "会成长的武器"
+	quest.57A19E3BCEC1B133.title: "进化之剑"
+	quest.57B9DD9B38F6E11E.quest_desc: [
+		"幸运7 是一件 Curios 饰品。"
+		"每第 7 次攻击造成 77%~777% 的随机伤害！"
+		"装备在饰品栏的护符槽位即可生效。"
+	]
+	quest.57B9DD9B38F6E11E.quest_subtitle: "幸运饰物"
+	quest.57B9DD9B38F6E11E.title: "幸运7"
 	quest.58CB04E34DFCAC0D.quest_desc: ["{chapter.12.quest.21.description.1}"]
 	quest.59D6B500E090C86B.quest_desc: ["{chapter.12.quest.18.description.1}"]
-	quest.5D331D77BFF11B48.quest_desc: ["{chapter.12.quest.36.description.1}"]
+	quest.5A185D7F1A427109.quest_desc: [
+		"Artifacts 神器都在遗迹宝箱中："
+		"地牢、矿井、神殿、村庄等。"
+		"多探索地牢，收集全部神器！"
+	]
+	quest.5A185D7F1A427109.quest_subtitle: "地牢寻宝"
+	quest.5A185D7F1A427109.title: "探索神器"
+	quest.5BDD9D290D63ECE7.quest_desc: [
+		"饰品选择看需求："
+		"打 Boss → 幸运7（爆发）+ 预知眼（保命）。"
+		"探索 → 哔哔机 + 神器。"
+		"根据场景自由组合！"
+	]
+	quest.5BDD9D290D63ECE7.quest_subtitle: "策略"
+	quest.5BDD9D290D63ECE7.title: "饰品搭配"
+	quest.5CC8D2A1F4AAF533.quest_desc: [
+		"潜行右键取下管道,右键可以将组件卸下"
+		""
+	]
+	quest.5D05AD7853C1F76E.quest_desc: [
+		"石剑是前期最实惠的武器。"
+		"夜晚的僵尸、骷髅、蜘蛛都很危险。"
+		"顺手做一面盾牌！"
+	]
+	quest.5D05AD7853C1F76E.quest_subtitle: "防身必备"
+	quest.5D05AD7853C1F76E.title: "武器"
+	quest.5D2CCE8038A39D5E.quest_desc: [
+		"用 4 个木板合成工作台。"
+		"工作台解锁 3×3 合成网格，几乎所有物品都需要它。"
+		"放置后右键使用。"
+	]
+	quest.5D2CCE8038A39D5E.quest_subtitle: "合成核心"
+	quest.5D2CCE8038A39D5E.title: "工作台"
+	quest.5D331D77BFF11B48.quest_desc: [""]
 	quest.5D331D77BFF11B48.quest_subtitle: "{chapter.12.quest.36.subtitle}"
 	quest.5D331D77BFF11B48.title: "{chapter.12.quest.36.title}"
+	quest.5DD02E2AA0578752.quest_desc: [
+		"击败巨兽获得武器与装备。"
+		"长矛是 Mowzie 的标志武器。"
+		"巨兽材料可制作高级装备。"
+	]
+	quest.5DD02E2AA0578752.quest_subtitle: "狩猎战利品"
+	quest.5DD02E2AA0578752.title: "巨兽武器"
 	quest.5E210CF7E49C569C.quest_desc: ["{chapter.12.quest.8.description.1}"]
 	quest.5E210CF7E49C569C.title: "{chapter.12.quest.8.title}"
+	quest.5EAB171F4402FF2D.quest_desc: [
+		"高速水中穿梭。"
+		"注意立足点。"
+	]
+	quest.5EAB171F4402FF2D.quest_subtitle: "海妖传说"
+	quest.5EAB171F4402FF2D.title: "斯库拉"
 	quest.5EF371628CAF40D7.title: "{chapter.12.quest.70.title}"
+	quest.5FBDB3162466DBD9.quest_desc: ["{chapter.9.quest.1.description.1}"]
+	quest.60828A261E819292.quest_desc: [
+		"光谱提供多种武器：水晶剑、基岩剑等。"
+		"逐步解锁更强大的光谱武器。"
+		"基岩系列是光谱战力的巅峰。"
+	]
+	quest.60828A261E819292.quest_subtitle: "魔法武器线"
+	quest.60828A261E819292.title: "光谱武器"
+	quest.61407E4973BFDDF0.quest_desc: [
+		"主世界生成大量地标：地牢、矿井、村庄、遗迹。"
+		"使用 YUNG 系列结构模组改善的遗迹探索。"
+		"死亡不掉落？不存在的——小心为上！"
+	]
+	quest.61407E4973BFDDF0.quest_subtitle: "地标与遗迹"
+	quest.61407E4973BFDDF0.title: "主世界奇观"
+	quest.61628DB272EB8907.quest_desc: [
+		"防御极高。"
+		"避免正面硬拼。"
+	]
+	quest.61628DB272EB8907.quest_subtitle: "金属怪物"
+	quest.61628DB272EB8907.title: "下界合金巨兽"
+	quest.6164C15A5FBDC286.quest_desc: ["{chapter.19.quest.34.description.1}"]
+	quest.6164C15A5FBDC286.quest_subtitle: "{chapter.19.quest.34.subtitle}"
+	quest.6164C15A5FBDC286.title: "{chapter.19.quest.34.title}"
+	quest.617AF69B1A6A6DBD.quest_desc: [
+		"用末影珍珠 + 烈焰粉合成末影之眼。"
+		"用末影之眼定位要塞，激活末地传送门。"
+	]
+	quest.617AF69B1A6A6DBD.quest_subtitle: "终焉之路"
+	quest.617AF69B1A6A6DBD.title: "寻找末地"
+	quest.64B858F9A3E247CB.quest_desc: [
+		"剪刀剪羊毛不伤害羊、剪树叶得树苗。"
+		"也用于很多模组配方。"
+	]
+	quest.64B858F9A3E247CB.quest_subtitle: "羊毛与树叶"
+	quest.64B858F9A3E247CB.title: "剪刀"
+	quest.64F8CAE2AB24B228.quest_desc: [
+		"预知眼是 Curios 饰品。"
+		"装备获得预知眼层数，受击自动闪避并消耗层数。"
+		"层数归零后过热，随后恢复。"
+		"高难度下几乎是必需品。"
+	]
+	quest.64F8CAE2AB24B228.quest_subtitle: "预知与闪避"
+	quest.64F8CAE2AB24B228.title: "不完善的预知眼"
 	quest.651C28CAE854B433.quest_desc: ["{chapter.12.quest.60.description.1}"]
+	quest.6560F3358C8B4EC4.quest_desc: [
+		"幻影骑士与幻影领主守卫暗黑森林的城堡。"
+		"它们会隐身并突然袭击。"
+		"击败后获得幻影铠甲等战利品。"
+	]
+	quest.6560F3358C8B4EC4.quest_subtitle: "黑暗城堡之影"
+	quest.6560F3358C8B4EC4.title: "幻影骑士"
+	quest.65C1FF66C15D29D9.quest_desc: [
+		"陨落圣殿是一个神秘的灾厄维度。"
+		"这里的圣殿遗迹隐藏着强大的力量。"
+	]
+	quest.65C1FF66C15D29D9.quest_subtitle: "Sanctum Fallen"
+	quest.65C1FF66C15D29D9.title: "灾厄·陨落圣殿"
+	quest.66185FED92AEE8F4.quest_desc: [
+		"法老之灾（Pharaoh's Bane）是沙漠金字塔主题。"
+		"迷宫般的金字塔内部。"
+		"法老的诅咒守护着宝藏。"
+	]
+	quest.66185FED92AEE8F4.quest_subtitle: "沙漠维度"
+	quest.66185FED92AEE8F4.title: "法老之灾"
+	quest.689C8C17F83821A1.quest_desc: [
+		"Field Guide 图鉴记录你发现的生物。"
+		"击杀或扫描新生物解锁图鉴条目。"
+		"按图鉴快捷键查看已解锁条目。"
+	]
+	quest.689C8C17F83821A1.quest_subtitle: "探索与收集"
+	quest.689C8C17F83821A1.title: "Field Guide 图鉴"
+	quest.691A82DC4003E532.quest_desc: [
+		"光谱的合成围绕基座（Pedestal）等装置。"
+		"先制作基础基座，搭建光谱工坊。"
+		"参考光谱指南的摆放要求。"
+	]
+	quest.691A82DC4003E532.quest_subtitle: "合成核心"
+	quest.691A82DC4003E532.title: "光谱基座"
+	quest.698B07E7D62E2E78.quest_desc: [
+		"随着资源增多，箱子不够用了。"
+		"可以用木桶、精制存储（Sophisticated Storage）等扩展存储。"
+		"善用物品栏整理快捷键整理物资。"
+	]
+	quest.698B07E7D62E2E78.quest_subtitle: "整理物资"
+	quest.698B07E7D62E2E78.title: "存储扩容"
 	quest.6A70688CE69F99FB.quest_desc: ["{chapter.12.quest.45.description.1}"]
+	quest.6ACAC6A1FEAE25A3.quest_desc: [
+		"地狱之口是一个烈焰主题的灾厄维度。"
+		"击败这里的守护者以获得灾厄核心材料。"
+	]
+	quest.6ACAC6A1FEAE25A3.quest_subtitle: "Inferno's Maw"
+	quest.6ACAC6A1FEAE25A3.title: "灾厄·地狱之口"
 	quest.6C47B6AC84B6C0F4.quest_desc: [
 		"{chapter.12.quest.37.description.1}"
 		"{image:kubejs:textures/ftbq/2023-07-28_19.57.46.png width:128 height:123 align:1}"
@@ -93,20 +1211,1450 @@
 	quest.6CD923D48AF77852.quest_desc: ["{chapter.12.quest.27.description.1}"]
 	quest.6CD923D48AF77852.quest_subtitle: "{chapter.12.quest.27.subtitle}"
 	quest.6CE26B24CB40E642.quest_desc: ["{chapter.12.quest.46.description.1}"]
+	quest.6CFC7403D75E173E.quest_desc: [
+		"恭喜完成新手教程！"
+		"下一步建议："
+		"① 挖钻石（Y=-59）"
+		"② 去主世界探索（见「主世界探索」）"
+		"③ 准备开启暮色传送门（12 钻石）"
+		"记住：顿悟（K）和进化之剑（Boss 成长）是你长期变强的核心！"
+	]
+	quest.6CFC7403D75E173E.quest_subtitle: "旅程开始"
+	quest.6CFC7403D75E173E.title: "新手毕业"
+	quest.6D1E31042946C339.quest_desc: [
+		"Waystones 模组提供传送路石。"
+		"右键激活路石，之后可快速传送。"
+		"在背包里也能使用传送卷轴！"
+	]
+	quest.6D1E31042946C339.quest_subtitle: "畅行天下"
+	quest.6D1E31042946C339.title: "路石传送"
 	quest.6DD1E9341E34E29A.quest_desc: ["{chapter.12.quest.39.description.1}"]
+	quest.6ECFD8FA28F0009A.quest_desc: [
+		"光谱后期会出现强大的怪物（Monstrosity）。"
+		"它守护着光谱的珍稀资源。"
+		"击败它获得光谱稀有材料。"
+		"它也是进化之剑的成长目标！"
+	]
+	quest.6ECFD8FA28F0009A.quest_subtitle: "强大的守护者"
+	quest.6ECFD8FA28F0009A.title: "光谱怪物"
+	quest.6F4F9D2BBF37887C.quest_desc: [
+		"种小麦、钓鱼或猎杀动物获得食物。"
+		"面包是最基础的便携食物。"
+	]
+	quest.6F4F9D2BBF37887C.quest_subtitle: "别饿肚子"
+	quest.6F4F9D2BBF37887C.title: "食物来源"
+	quest.6FABEC58659F2E35.quest_desc: [
+		"Curios 提供独立饰品栏位："
+		"护符、戒指、腰带等槽位可装备特殊饰品。"
+		"幸运7、预知眼、哔哔机都是 Curios 饰品。"
+	]
+	quest.6FABEC58659F2E35.quest_subtitle: "自由搭配"
+	quest.6FABEC58659F2E35.title: "Curios 饰品系统"
+	quest.6FBC36D7ADBB5CF9.quest_desc: [
+		"Servantry 提供可驯服的仆从。"
+		"招募仆从与你并肩作战。"
+		"进阶仆从有专属装备与能力。"
+	]
+	quest.6FBC36D7ADBB5CF9.quest_subtitle: "并肩作战"
+	quest.6FBC36D7ADBB5CF9.title: "仆从系统 Servantry"
+	quest.6FE26D3D5BFDB85F.quest_desc: [
+		"击败巨兽获得独特武器与装备。"
+		"长矛是 Mowzie 系列的标志武器。"
+	]
+	quest.6FE26D3D5BFDB85F.quest_subtitle: "狩猎的战利品"
+	quest.6FE26D3D5BFDB85F.title: "巨兽武器"
+	quest.7128F82FA4A706F4.quest_desc: [
+		"永恒冰封（Eternal Frosthold）是冰霜主题维度。"
+		"暴风雪与冰晶生物。"
+		"寒冷伤害需要注意——保暖装备。"
+	]
+	quest.7128F82FA4A706F4.quest_subtitle: "冰霜维度"
+	quest.7128F82FA4A706F4.title: "永恒冰封"
 	quest.715195FE8612B929.quest_desc: ["{chapter.12.quest.28.description.1}"]
+	quest.716343CB40FF2863.quest_desc: [
+		"末影箱内容全局共享。"
+		"配合潜影盒 = 终极随身仓库。"
+		"探险必备。"
+	]
+	quest.716343CB40FF2863.quest_subtitle: "跨维度存取"
+	quest.716343CB40FF2863.title: "末影箱"
+	quest.71722F244F58D669.quest_desc: [
+		"先做木镐，挖 3 个圆石做石镐。"
+		"石镐能挖铁矿石，是升级的关键。"
+		"工具顺序：木→石→铁→钻石→下界合金。"
+	]
+	quest.71722F244F58D669.quest_subtitle: "工具升级"
+	quest.71722F244F58D669.title: "木镐与石镐"
+	quest.719E01FCD3FE22A4.quest_desc: [
+		"船是跨海探索最快的载具。"
+		"5 个木板合成。"
+		"小心落水！"
+	]
+	quest.719E01FCD3FE22A4.quest_subtitle: "渡海利器"
+	quest.719E01FCD3FE22A4.title: "水路航行"
+	quest.727AC493F445255B.quest_desc: [
+		"远程弹幕强大。"
+		"保持移动。"
+	]
+	quest.727AC493F445255B.quest_subtitle: "灾厄使者"
+	quest.727AC493F445255B.title: "先驱者"
+	quest.738EC65A3C5D8366.quest_desc: [""]
+	quest.73931BDB2A0DF3DB.quest_desc: [
+		"钻石集中在 Y=-59 附近（深板岩层）。"
+		"需要铁镐以上才能开采。"
+		"钻石 = 高级装备 + 暮色传送门（12 颗）。"
+	]
+	quest.73931BDB2A0DF3DB.quest_subtitle: "珍贵矿物"
+	quest.73931BDB2A0DF3DB.title: "钻石"
+	quest.73A0D71EF5B35DE3.quest_desc: [
+		"末影守卫（Ender Guardian）守护灾厄的末影区域。"
+		"它拥有强大的近战与投射攻击。"
+	]
+	quest.73A0D71EF5B35DE3.quest_subtitle: "末影的守护者"
+	quest.73A0D71EF5B35DE3.title: "末影守卫"
+	quest.74358F64A7B34614.quest_desc: [
+		"光谱后期会出现强大的怪物（Monstrosity）。"
+		"击败它获得光谱的珍稀材料。"
+		"它也是进化之剑的成长目标之一！"
+	]
+	quest.74358F64A7B34614.quest_subtitle: "强大的守护者"
+	quest.74358F64A7B34614.title: "光谱怪物"
+	quest.7567DE1CB217C515.quest_desc: [
+		"娜迦是暮色第一个 Boss，在娜迦庭院。"
+		"它横冲直撞，注意闪避。"
+		"击败后获得娜迦鳞片。"
+	]
+	quest.7567DE1CB217C515.quest_subtitle: "第一位 Boss"
+	quest.7567DE1CB217C515.title: "娜迦庭院"
 	quest.75EB3CA204BE74C1.quest_desc: [
 		"{chapter.12.quest.54.description.1}"
 		"{image:kubejs:textures/ftbq/tiaose.png width:196 height:126 align:1}"
 		"{chapter.12.quest.54.description.2}"
 	]
 	quest.75EB3CA204BE74C1.title: "{chapter.12.quest.54.title}"
+	quest.76629036263B3588.quest_desc: [
+		"挑战所有 Boss，集齐图鉴。"
+		"完成各模组的主线。"
+		"打造最强装备，成为这个世界的传奇！"
+	]
+	quest.76629036263B3588.quest_subtitle: "成为传奇"
+	quest.76629036263B3588.title: "终局目标"
+	quest.76CD21804384CF1E.quest_desc: ["锻造厂（Forge of Aeons）是锻造主题维度。"]
+	quest.76CD21804384CF1E.quest_subtitle: "锻造维度"
+	quest.76CD21804384CF1E.title: "锻造厂"
+	quest.79352E8E51E56E91.quest_desc: [
+		"全部完成后："
+		"你已是这个世界的传奇。"
+		"享受冒险，或挖掘隐藏内容。"
+		"感谢游玩 if-1.3！"
+	]
+	quest.79352E8E51E56E91.quest_subtitle: "成为传奇"
+	quest.79352E8E51E56E91.title: "终局目标"
 	quest.7945125249DD7028.quest_desc: ["{chapter.12.quest.20.description.1}"]
 	quest.7945125249DD7028.quest_subtitle: "{chapter.12.quest.20.subtitle}"
-	quest.7A371AB5EA5F3986.quest_desc: ["{chapter.12.quest.42.description.1}"]
 	quest.7AACC55C1BC80F2A.quest_desc: ["{chapter.12.quest.11.description.1}"]
+	quest.7ABCD25967260037.quest_desc: [
+		"灾变模组带来了多个危险维度。"
+		"深渊（Abyssal Depths）是第一个挑战区域。"
+		"这里的怪物更强，掉落更丰厚。"
+	]
+	quest.7ABCD25967260037.quest_subtitle: "Cataclysm 的起点"
+	quest.7ABCD25967260037.title: "灾厄·深渊"
 	quest.7B51BFDD655E1281.quest_desc: ["{chapter.12.quest.15.description.1}"]
+	quest.7B51BFDD655E1281.quest_subtitle: "懒得想配方了,先放在这"
 	quest.7BD9945C70E88D38.quest_desc: ["{chapter.12.quest.52.description.1}"]
+	quest.7BF30ECF34165771.quest_desc: [
+		"完成所有 Epiphany 模块。"
+		"点亮全部心得，激活全部顿悟。"
+		"你是顿悟大师！"
+	]
+	quest.7BF30ECF34165771.quest_subtitle: "知识巅峰"
+	quest.7BF30ECF34165771.title: "顿悟全通"
+	quest.7CCA01C1EF73E6F6.quest_desc: [
+		"预知眼是一件 Curios 饰品。"
+		"装备时获得预知眼层数，受击自动闪避。"
+		"预知眼归零后进入过热，随后恢复。"
+	]
+	quest.7CCA01C1EF73E6F6.quest_subtitle: "预知与闪避"
+	quest.7CCA01C1EF73E6F6.title: "不完善的预知眼"
+	quest.7D5CDB74F2C76D75.quest_desc: [
+		"1: 首次击杀 Boss → 心得点 +1"
+		"2: 首次进入新维度 → 心得点 +1"
+		"3: 集卡册 - 首次获得卡牌 → 阅历"
+		"// 每张卡牌仅首次获得时发放; 稀有度越高阅历越多:"
+		"//   普通+1 / 罕见+2 / 稀有+3 / 史诗+4 / 传说+5 / 神话+6"
+		"4: 食物首吃 → 阅历"
+		"// 每吃一种食物(不重复)按物品标签发放阅历:"
+		"//   金食物 +3, 成品菜肴/熟肉 +3, 水果/浆果 +2, 生食原材料(生肉/农作物/蔬菜) +1"
+		"5: 解锁新图鉴 → 阅历 +2"
+	]
+	quest.7D5CDB74F2C76D75.title: "如何获取阅历与心得"
+	quest.7D6625A6144DE062.quest_desc: [
+		"火焰沼泽，多头喷火，头可再生。"
+		"推荐远程输出。"
+	]
+	quest.7D6625A6144DE062.quest_subtitle: "火之巨兽"
+	quest.7D6625A6144DE062.title: "九头蛇"
+	quest.7D6F9B4FE5AAF10E.quest_desc: [
+		"进化之剑是本包的招牌武器。"
+		"机制：每击杀一个 Boss，攻击伤害 +5。"
+		"手持时属性面板可见加成；按住 Shift 查看已击杀 Boss 列表。"
+		"获得方式：顿悟「剑之进化」或任务奖励。"
+		"它是你贯穿全程的伙伴——Boss 图鉴里的每个目标都在喂养它！"
+	]
+	quest.7D6F9B4FE5AAF10E.quest_subtitle: "会成长的武器"
+	quest.7D6F9B4FE5AAF10E.title: "进化之剑"
+	quest.7DCB56A33C24D9D6.quest_desc: [
+		"月光怀表显示当前月相与时间。"
+		"月相影响部分模组机制。"
+	]
+	quest.7DCB56A33C24D9D6.quest_subtitle: "月相观测"
+	quest.7DCB56A33C24D9D6.title: "月光怀表"
+	quest.7E097322277CEA03.quest_desc: [
+		"焰魔（Ignis）是灾厄模组的标志性 Boss。"
+		"它浑身烈焰，喷吐火球，在灾厄维度中出没。"
+		"击败后获得灾厄核心材料。"
+	]
+	quest.7E097322277CEA03.quest_subtitle: "灾厄的烈焰"
+	quest.7E097322277CEA03.title: "焰魔"
+	quest.7E38E74319CD75AA.quest_desc: [
+		"锻造台升级下界合金剑。"
+		"之后可以附魔强化。"
+		"再往后就是各模组的进阶装备了。"
+	]
+	quest.7E38E74319CD75AA.quest_subtitle: "战力巅峰"
+	quest.7E38E74319CD75AA.title: "下界合金剑"
+	quest.7E8358CFBF84CD30.quest_desc: [
+		"利维坦栖息在灾厄的海洋区域。"
+		"它是巨大的海怪，攻击范围惊人。"
+		"推荐：水域作战装备。"
+	]
+	quest.7E8358CFBF84CD30.quest_subtitle: "深海巨兽"
+	quest.7E8358CFBF84CD30.title: "利维坦"
+	quest.7E9186EDED489A36.quest_desc: [
+		"穿越传送门进入暮色森林。"
+		"暮色有独特的方块与矿物（铁木、钢叶等）。"
+	]
+	quest.7E9186EDED489A36.quest_subtitle: "新世界"
+	quest.7E9186EDED489A36.title: "进入暮色"
+	quest.7E9291638F5BB78C.quest_desc: [
+		"黄昏之钟是一件神秘物品。"
+		"它象征着黄昏时刻的力量。"
+		"更多用途等待你的探索。"
+	]
+	quest.7E9291638F5BB78C.quest_subtitle: "黄昏的见证"
+	quest.7E9291638F5BB78C.title: "黄昏之钟"
+	quest.7FEB1850709B6C3B.quest_desc: [
+		"卡片分稀有度：普通、稀有、史诗、神话等。"
+		"稀有度越高，首次获得的阅历越多（普通+1…神话+6）。"
+		"集齐整套卡片有额外奖励！"
+	]
+	quest.7FEB1850709B6C3B.quest_subtitle: "品质越高越值钱"
+	quest.7FEB1850709B6C3B.title: "卡片稀有度"
+	quest.8069C8033A4E6ACC.quest_desc: [
+		"幻影骑士守卫暗黑森林的城堡。"
+		"它们隐身突袭，注意聆听脚步声。"
+	]
+	quest.8069C8033A4E6ACC.quest_subtitle: "幻影骑士"
+	quest.8069C8033A4E6ACC.title: "暗黑城堡"
+	quest.8099F4EFBACEA67C.quest_desc: [
+		"Backpacked 提供可穿戴背包。"
+		"把背包放在胸甲栏位？不——它有自己的槽位。"
+		"探索时容量翻倍。"
+	]
+	quest.8099F4EFBACEA67C.quest_subtitle: "随身仓库"
+	quest.8099F4EFBACEA67C.title: "旅行背包"
+	quest.80CA1607D0153EBE.quest_desc: [
+		"Artifacts 神器：无尽牛肉（食物栏位）。"
+		"食用后自动补充，永不饥饿！"
+		"从地牢宝箱获得。"
+	]
+	quest.80CA1607D0153EBE.quest_subtitle: "永不饥饿"
+	quest.80CA1607D0153EBE.title: "无尽牛肉"
+	quest.815F07687ABBE20F.quest_desc: [
+		"攻击模块提供伤害、暴击、攻速等心得。"
+		"近战/远程流派都值得投入。"
+		"Boss 战前强化攻击模块。"
+	]
+	quest.815F07687ABBE20F.quest_subtitle: "输出强化"
+	quest.815F07687ABBE20F.title: "攻击模块"
+	quest.81C4696C6D33F406.quest_desc: ["召唤冰晶守卫，发射冰刺。"]
+	quest.81C4696C6D33F406.quest_subtitle: "极光宫殿"
+	quest.81C4696C6D33F406.title: "冰雪女王"
+	quest.839EE6A848B19C62.quest_desc: ["灵魂铁砧（Souls Anvil）是亡灵主题维度。"]
+	quest.839EE6A848B19C62.quest_subtitle: "亡灵维度"
+	quest.839EE6A848B19C62.title: "灵魂铁砧"
+	quest.83A2BB772DA9F7F7.quest_desc: [
+		"月光怀表可以查看当前的月相与时间。"
+		"月相会影响某些模组的机制（如神秘学的仪式）。"
+	]
+	quest.83A2BB772DA9F7F7.quest_subtitle: "月相与时间"
+	quest.83A2BB772DA9F7F7.title: "月光怀表"
+	quest.845F08E38DA86D39.quest_desc: [
+		"灾厄标志性 Boss。"
+		"烈焰冲击与火球。"
+		"火焰抗性必备。"
+		"掉落灾厄核心材料。"
+	]
+	quest.845F08E38DA86D39.quest_subtitle: "灾厄烈焰"
+	quest.845F08E38DA86D39.title: "焰魔"
+	quest.84DC2EFCD1B237B5.quest_desc: [
+		"娜迦在暮色中央的娜迦庭院。"
+		"它横冲直撞，用头撞击。"
+		"推荐：盾牌格挡 + 侧向走位。"
+		"击败掉落娜迦鳞片。"
+	]
+	quest.84DC2EFCD1B237B5.quest_subtitle: "暮色第一战"
+	quest.84DC2EFCD1B237B5.title: "娜迦庭院"
+	quest.852AA90163605253.quest_desc: [
+		"Curios 提供独立饰品栏位：护符、戒指、腰带、项链等。"
+		"装备饰品获得独特效果。"
+		"本包定制了大量 Curios 饰品。"
+	]
+	quest.852AA90163605253.quest_subtitle: "自由搭配"
+	quest.852AA90163605253.title: "饰品系统"
+	quest.8563DBC619DA39C1.quest_desc: [
+		"顿悟是 Epiphany 的终极奖励。"
+		"通常需要完成特定模块才能解锁。"
+		"奖励包括永久属性、效果、物品等。"
+		"例如「剑之进化」顿悟奖励进化之剑。"
+	]
+	quest.8563DBC619DA39C1.quest_subtitle: "觉醒之力"
+	quest.8563DBC619DA39C1.title: "顿悟"
+	quest.85780F0EC2AA5C95.quest_desc: [
+		"Graveyard 模组的墓园结构。"
+		"复活的骷髅与骨制武器。"
+		"击败它们获得骨材料。"
+	]
+	quest.85780F0EC2AA5C95.quest_subtitle: "死者低语"
+	quest.85780F0EC2AA5C95.title: "墓园探索"
+	quest.85813DBAD3C681D0.quest_desc: [
+		"石镐挖铁矿，熔炉烧成铁锭。"
+		"Y=-59 附近是钻石层，Y=0-16 有铁。"
+		"矿洞中注意：岩浆、苦力怕、岔路迷路。"
+	]
+	quest.85813DBAD3C681D0.quest_subtitle: "铁矿与煤"
+	quest.85813DBAD3C681D0.title: "下矿"
+	quest.85D6FFE855549928.quest_desc: [
+		"欢迎来到 if-1.3 整合包！"
+		"本包包含光谱、暮色森林、灾厄、顿悟、图鉴等大量内容，以及许多 KubeJS 定制物品。"
+		"按 K 打开顿悟界面，按 Q 打开任务书，跟随指引开始冒险吧！"
+	]
+	quest.85D6FFE855549928.quest_subtitle: "开始你的冒险"
+	quest.85D6FFE855549928.title: "欢迎来到 if-1.3"
+	quest.86155CBFCF3C41C1.quest_desc: [
+		"巫妖镇守巫妖塔顶层，使用魔法战斗。"
+		"它会瞬移、召唤仆从并释放法术。"
+		"击败后掉落巫师权杖。"
+	]
+	quest.86155CBFCF3C41C1.quest_subtitle: "暮色法师"
+	quest.86155CBFCF3C41C1.title: "巫妖"
+	quest.880DB55798EC59CC.quest_desc: [
+		"幸运7 是 Curios 护符饰品。"
+		"效果：每第 7 次攻击造成 77%~777% 随机伤害。"
+		"装备在护符槽位。"
+		"欧皇必备！"
+	]
+	quest.880DB55798EC59CC.quest_subtitle: "幸运的眷顾"
+	quest.880DB55798EC59CC.title: "幸运7"
+	quest.887EBDF2C3D98D7F.quest_desc: [
+		"凋灵由灵魂沙和凋灵骷髅头召唤。"
+		"生成时爆炸，攻击附带凋零效果。"
+		"推荐：远程风筝打法、牛奶解凋零。"
+	]
+	quest.887EBDF2C3D98D7F.quest_subtitle: "下界的灾厄"
+	quest.887EBDF2C3D98D7F.title: "凋灵"
+	quest.88CE4EACE6BE7BA6.quest_desc: [
+		"先驱者（The Harbinger）预示灾厄的降临。"
+		"它从灾厄维度现身，拥有强大的远程攻击。"
+	]
+	quest.88CE4EACE6BE7BA6.quest_subtitle: "灾厄的使者"
+	quest.88CE4EACE6BE7BA6.title: "先驱者"
+	quest.890AB42FF4F2C1DA.quest_desc: [
+		"击败 Boss 图鉴中的全部目标。"
+		"原版 2 + 暮色 8 + 灾厄 10 + 其他。"
+		"进化之剑的成长将达到巅峰！"
+	]
+	quest.890AB42FF4F2C1DA.quest_subtitle: "图鉴集齐"
+	quest.890AB42FF4F2C1DA.title: "全 Boss 征服"
+	quest.893622E90AA0F49B.quest_desc: [
+		"Weather2 提供动态天气系统（风暴、龙卷风）。"
+		"Ambient Sounds、Presence Footsteps 增强音效。"
+		"Enhanced Celestials 改变月相与天体。"
+		"沉浸感拉满。"
+	]
+	quest.893622E90AA0F49B.quest_subtitle: "真实世界"
+	quest.893622E90AA0F49B.title: "环境与天气"
+	quest.89A30FD54C7B2C1D.quest_desc: [
+		"与村民交易绿宝石。"
+		"More Villagers 添加新职业：矿工、猎人、木匠等。"
+		"建造职业站点（如蓝图桌）解锁新交易。"
+	]
+	quest.89A30FD54C7B2C1D.quest_subtitle: "村庄经济"
+	quest.89A30FD54C7B2C1D.title: "村民交易"
+	quest.8B5239FBD1FD2B42.quest_desc: [
+		"深渊（Abyssal Depths）是灾厄的第一个维度。"
+		"这里海水幽暗，栖息着深海怪物。"
+		"进入后先熟悉灾厄的怪物强度——它们明显更强。"
+	]
+	quest.8B5239FBD1FD2B42.quest_subtitle: "Cataclysm 起点"
+	quest.8B5239FBD1FD2B42.title: "深渊"
+	quest.8B9D96B756F177A5.quest_desc: [
+		"雪怪首领住在积雪森林的洞穴。"
+		"它投掷冰块、锤击地面。"
+	]
+	quest.8B9D96B756F177A5.quest_subtitle: "雪怪首领"
+	quest.8B9D96B756F177A5.title: "雪山之巅"
+	quest.8BDC5AC1D6BCB31E.quest_desc: [
+		"Field Guide 图鉴记录你发现的生物。"
+		"击杀/扫描新生物解锁条目。"
+		"每解锁一个新图鉴获得 2 阅历！"
+		"图鉴总数达到 10 时攻击伤害 +1。"
+	]
+	quest.8BDC5AC1D6BCB31E.quest_subtitle: "探索与收集"
+	quest.8BDC5AC1D6BCB31E.title: "Field Guide 图鉴"
+	quest.8EB1374A2A9E7740.quest_desc: [
+		"当你装备成型后："
+		"挑战灾厄全部 Boss、击败光谱怪物、集齐图鉴。"
+		"进化之剑将记录你的每一次胜利！"
+	]
+	quest.8EB1374A2A9E7740.quest_subtitle: "检验实力"
+	quest.8EB1374A2A9E7740.title: "综合挑战"
+	quest.912715D51CF59109.quest_desc: [
+		"烈焰粉 + 末影珍珠合成末影之眼。"
+		"右键抛出，它会飞向要塞方向。"
+		"跟随直到它钻入地面。"
+	]
+	quest.912715D51CF59109.quest_subtitle: "定位要塞"
+	quest.912715D51CF59109.title: "末影之眼"
+	quest.9136682575250DEF.quest_desc: [
+		"开垦农田种植小麦。"
+		"小麦→面包，或喂牛繁殖。"
+		"注意水源湿润耕地。"
+	]
+	quest.9136682575250DEF.quest_subtitle: "粮食安全"
+	quest.9136682575250DEF.title: "农业"
+	quest.91D7745CFA3D1339.quest_desc: [
+		"基岩剑是光谱后期的最强武器之一。"
+		"需要大量光谱进度。"
+		"配合光谱附魔与颜料效果极强。"
+	]
+	quest.91D7745CFA3D1339.quest_subtitle: "光谱巅峰"
+	quest.91D7745CFA3D1339.title: "基岩剑"
+	quest.91E8B2E376BD5466.quest_desc: [
+		"幻影骑士守卫暗黑森林城堡。"
+		"它们隐身突袭，成群出现。"
+		"注意听脚步声与闪烁的盔甲。"
+		"击败后获得幻影铠甲。"
+	]
+	quest.91E8B2E376BD5466.quest_subtitle: "幻影骑士"
+	quest.91E8B2E376BD5466.title: "暗黑城堡"
+	quest.929EC2010363124F.quest_desc: [
+		"极光宫殿顶层。"
+		"召唤冰晶守卫、发射冰刺。"
+		"先清守卫再打本体。"
+	]
+	quest.929EC2010363124F.quest_subtitle: "极光宫殿"
+	quest.929EC2010363124F.title: "冰雪女王"
+	quest.92BE8F6688437717.quest_desc: [
+		"末影人掉落末影珍珠。"
+		"珍珠 = 瞬移 + 末影之眼材料。"
+		"凝视末影人会被攻击！"
+	]
+	quest.92BE8F6688437717.quest_subtitle: "传送与寻路"
+	quest.92BE8F6688437717.title: "末影珍珠"
+	quest.933196043300DD20.quest_desc: [
+		"凋灵由灵魂沙 + 凋灵骷髅头召唤。"
+		"攻击附带凋零效果。"
+		"推荐：远程风筝、牛奶解凋零。"
+	]
+	quest.933196043300DD20.quest_subtitle: "下界的灾厄"
+	quest.933196043300DD20.title: "凋灵"
+	quest.96BA46CAC64CFB8D.quest_desc: [
+		"九头蛇镇守火焰沼泽的巢穴。"
+		"它会喷火，多头齐攻。"
+		"推荐远程输出。"
+	]
+	quest.96BA46CAC64CFB8D.quest_subtitle: "九头蛇"
+	quest.96BA46CAC64CFB8D.title: "火焰沼泽"
+	quest.9700E54746450CAC.quest_desc: ["墨水瓶是光谱书写与绘制的工具。"]
+	quest.9700E54746450CAC.quest_subtitle: "写意的力量"
+	quest.9700E54746450CAC.title: "墨水瓶"
+	quest.9796E026F977A580.quest_desc: [
+		"Servantry 仆从系统的饰品。"
+		"招募仆从后佩戴。"
+		"仆从与你并肩作战。"
+	]
+	quest.9796E026F977A580.quest_subtitle: "并肩作战"
+	quest.9796E026F977A580.title: "仆从围巾"
+	quest.97C9C3593B2C2F54.quest_desc: [
+		"还有更多 Boss 等待挑战："
+		"mowziesmobs 的钢铁守护者、霜冻巨兽、雕刻家、太阳鸟；"
+		"dungeonnowloading 的公正衔环·波罗斯与乌洛斯。"
+		"它们同样计入进化之剑成长！"
+	]
+	quest.97C9C3593B2C2F54.quest_subtitle: "挑战不止"
+	quest.97C9C3593B2C2F54.title: "更多 Boss"
+	quest.982A239ED56773FA.quest_desc: ["迷宫花园深处，冲撞威力巨大。"]
+	quest.982A239ED56773FA.quest_subtitle: "迷宫之主"
+	quest.982A239ED56773FA.title: "米诺菇"
+	quest.99C90A0B38A62E4A.quest_desc: [
+		"发射器自动使用物品（发射箭、投掷药水等）。"
+		"配合红石定时器。"
+	]
+	quest.99C90A0B38A62E4A.quest_subtitle: "自动使用"
+	quest.99C90A0B38A62E4A.title: "发射器"
+	quest.9A2145128EDFED86.quest_desc: [
+		"主世界生成大量结构：地牢、矿井、村庄、遗迹。"
+		"YUNG 系列模组改善了结构质量。"
+		"Dungeons & Taverns、The Ancient Towns 添加全新结构。"
+		"探索遗迹获得宝箱与战利品。"
+	]
+	quest.9A2145128EDFED86.quest_subtitle: "地牢与宝藏"
+	quest.9A2145128EDFED86.title: "遗迹探险"
+	quest.9B85FBF009BB407E.quest_desc: [
+		"哔哔机是一件 Curios 饰品。"
+		"完成各种任务时会发出提示音效。"
+		"装备在饰品栏即可使用。"
+	]
+	quest.9B85FBF009BB407E.quest_subtitle: "任务完成提示"
+	quest.9B85FBF009BB407E.title: "哔哔机"
+	quest.9E779F6BEE9CD564.quest_desc: [
+		"鞍可以骑猪/马（马需驯服+鞍）。"
+		"地牢与钓鱼获得。"
+		"比走路快得多。"
+	]
+	quest.9E779F6BEE9CD564.quest_subtitle: "骑行探索"
+	quest.9E779F6BEE9CD564.title: "鞍"
+	quest.9EACC2519AD1E933.quest_desc: [
+		"灾厄海洋海怪。"
+		"横扫与冲锋。"
+		"保持距离输出。"
+	]
+	quest.9EACC2519AD1E933.quest_subtitle: "深海巨兽"
+	quest.9EACC2519AD1E933.title: "利维坦"
+	quest.9EB901A17FF1BEF8.quest_desc: [
+		"击败 Boss 图鉴中的全部目标。"
+		"原版 2 + 暮色 8 + 灾厄 10 + 其他。"
+		"进化之剑将达到巅峰加成！"
+	]
+	quest.9EB901A17FF1BEF8.quest_subtitle: "图鉴集齐"
+	quest.9EB901A17FF1BEF8.title: "全 Boss 征服"
+	quest.9EF307590D273E34.quest_desc: [
+		"本包有烹饪模组（Kaleidoscope Cookery）。"
+		"注意：首次食用新食物会获得阅历！"
+		"多尝试不同食物。"
+	]
+	quest.9EF307590D273E34.quest_subtitle: "更好的食物"
+	quest.9EF307590D273E34.title: "烹饪"
+	quest.9FB762BA2205FBC5.quest_desc: [
+		"收集紫水晶、黄水晶等碎片。"
+		"不同水晶对应不同光谱能量。"
+		"用于各种光谱装置与配方。"
+	]
+	quest.9FB762BA2205FBC5.quest_subtitle: "多彩力量"
+	quest.9FB762BA2205FBC5.title: "各色水晶"
+	quest.9FF903D48BCB1C16.quest_desc: [
+		"Nether Depth Upgrade 添加了下界鱼类。"
+		"用熔岩钓鱼竿在熔岩中垂钓！"
+		"黑曜石鱼、灵魂沙鱼等独特物种。"
+	]
+	quest.9FF903D48BCB1C16.quest_subtitle: "熔岩钓鱼"
+	quest.9FF903D48BCB1C16.title: "下界深潜"
+	quest.A0B994C1E6D3301B.quest_desc: [
+		"暮色第一位 Boss，位于娜迦庭院。"
+		"掉落娜迦鳞片与鳞甲材料。"
+	]
+	quest.A0B994C1E6D3301B.quest_subtitle: "暮色蛇王"
+	quest.A0B994C1E6D3301B.title: "娜迦"
+	quest.A0C3C6A7BBD33DAD.quest_desc: [
+		"斯库拉（Scylla）是灾厄的海妖 Boss。"
+		"它在水域中穿梭，速度极快。"
+	]
+	quest.A0C3C6A7BBD33DAD.quest_subtitle: "海妖传说"
+	quest.A0C3C6A7BBD33DAD.title: "斯库拉"
+	quest.A2E0CA9576DCA77A.quest_desc: [
+		"末影傀儡（Ender Golem）是灾厄的末影系 Boss。"
+		"瞬移突袭 + 范围冲击。"
+		"保持距离并预判落点。"
+	]
+	quest.A2E0CA9576DCA77A.quest_subtitle: "末影造物"
+	quest.A2E0CA9576DCA77A.title: "末影傀儡"
+	quest.A2EEB454D134955A.quest_desc: [
+		"远古残骸生成在 Y=8-22。"
+		"4 残骸 + 4 金锭 = 1 下界合金碎片。"
+		"4 碎片 + 4 金锭 = 1 下界合金锭。"
+		"用锻造台升级钻石装备！"
+	]
+	quest.A2EEB454D134955A.quest_subtitle: "下界合金之路"
+	quest.A2EEB454D134955A.title: "远古残骸"
+	quest.A47F64AD184B1A97.quest_desc: [
+		"阅历（Aptitude）是升级心得点的货币。"
+		"每获得 10 阅历 +1 心得点。"
+		"阅历获取方式："
+		"击杀 Boss、首次进入维度、首次食用食物、解锁新图鉴（+2）。"
+		"多多探索，阅历滚滚而来！"
+	]
+	quest.A47F64AD184B1A97.quest_subtitle: "升级之路"
+	quest.A47F64AD184B1A97.title: "阅历与心得点"
+	quest.A52C57FCB52AB6B5.quest_desc: [
+		"迷宫花园深处。"
+		"牛状冲撞，威力巨大。"
+		"迷宫带火把标记路线。"
+	]
+	quest.A52C57FCB52AB6B5.quest_subtitle: "迷宫之主"
+	quest.A52C57FCB52AB6B5.title: "米诺菇"
+	quest.A531943C9E4EFCFD.quest_desc: [
+		"法老之灾是一个沙漠金字塔主题的灾厄维度。"
+		"探索金字塔，直面法老的诅咒。"
+	]
+	quest.A531943C9E4EFCFD.quest_subtitle: "Pharaoh's Bane"
+	quest.A531943C9E4EFCFD.title: "灾厄·法老之灾"
+	quest.A57F27CE66775314.quest_desc: [
+		"Collectors Album 集卡册系统。"
+		"首次获得卡片获得阅历（普通+1…神话+6）。"
+	]
+	quest.A57F27CE66775314.quest_subtitle: "收藏的乐趣"
+	quest.A57F27CE66775314.title: "集卡册"
+	quest.A5D6330BF28C0ED5.quest_desc: [
+		"Transmog 幻化桌改变装备外观。"
+		"消耗虚空碎片等材料。"
+		"好看与强大兼得。"
+	]
+	quest.A5D6330BF28C0ED5.quest_subtitle: "外观自由"
+	quest.A5D6330BF28C0ED5.title: "幻化系统"
+	quest.A6B3CAAAECA180ED.quest_desc: [
+		"黄昏之钟是一件神秘物品。"
+		"它象征黄昏时刻的力量，更多用途等待探索。"
+	]
+	quest.A6B3CAAAECA180ED.quest_subtitle: "黄昏的见证"
+	quest.A6B3CAAAECA180ED.title: "黄昏之钟"
+	quest.A8214CA682F72835.quest_desc: [
+		"火焰沼泽的九头蛇巢穴。"
+		"多头喷火，斩首再生。"
+		"推荐远程风筝。"
+		"掉落九头蛇鳞片。"
+	]
+	quest.A8214CA682F72835.quest_subtitle: "火之巨兽"
+	quest.A8214CA682F72835.title: "九头蛇"
+	quest.A965CDA2C354FA70.quest_desc: [
+		"要塞中找到传送门框架。"
+		"放入 12 个末影之眼激活。"
+		"跳入传送门前往末地！"
+	]
+	quest.A965CDA2C354FA70.quest_subtitle: "激活终焉"
+	quest.A965CDA2C354FA70.title: "末地传送门"
+	quest.A9A5BF753DFE0394.quest_desc: ["挥舞诅咒之翼发动灵魂攻击。"]
+	quest.A9A5BF753DFE0394.quest_subtitle: "诅咒之翼"
+	quest.A9A5BF753DFE0394.title: "咒翼灵骸"
+	quest.A9DB6653DDAB8797.quest_desc: [
+		"失落堡垒（Bastion Lost）是灾厄最终挑战区域。"
+		"最强的守护者在此盘踞，做好万全准备！"
+	]
+	quest.A9DB6653DDAB8797.quest_subtitle: "最终领域"
+	quest.A9DB6653DDAB8797.title: "失落堡垒"
+	quest.AB2B74978D7FD9A4.quest_desc: [
+		"光谱后期可以锻造强大的基岩装备。"
+		"基岩剑是光谱战力的象征。"
+	]
+	quest.AB2B74978D7FD9A4.quest_subtitle: "光谱的巅峰"
+	quest.AB2B74978D7FD9A4.title: "基岩剑"
+	quest.AC925CB4E00F15AA.quest_desc: [
+		"挖掘紫水晶获得水晶粉。"
+		"水晶粉是光谱几乎所有合成的基础材料。"
+	]
+	quest.AC925CB4E00F15AA.quest_subtitle: "光谱的基石"
+	quest.AC925CB4E00F15AA.title: "收集水晶粉"
+	quest.ACFBBDF2F0EAC5DC.quest_desc: [
+		"幸运7 是一件 Curios 饰品。"
+		"每第 7 次攻击造成 77%~777% 随机伤害！"
+		"装备在护符槽位即可生效。"
+	]
+	quest.ACFBBDF2F0EAC5DC.quest_subtitle: "幸运的眷顾"
+	quest.ACFBBDF2F0EAC5DC.title: "幸运7"
+	quest.AD21739A903CB1D8.quest_desc: [
+		"冰雪女王镇守极光宫殿。"
+		"她召唤冰晶守卫，发射冰刺。"
+	]
+	quest.AD21739A903CB1D8.quest_subtitle: "冰雪女王"
+	quest.AD21739A903CB1D8.title: "极光宫殿"
+	quest.AE8DB663EF0663E8.quest_desc: [
+		"Hookshot（钩爪）、Do a Barrel Roll（翻滚飞行）等提供多样移动。"
+		"Waystones 传送 + 鞘翅飞行。"
+		"选择合适的移动方式。"
+	]
+	quest.AE8DB663EF0663E8.quest_subtitle: "跑图达人"
+	quest.AE8DB663EF0663E8.title: "移动方式"
+	quest.AEE7C2BD49FF87F2.quest_desc: [
+		"每解锁一个新图鉴条目获得 2 阅历！"
+		"击杀各种生物是最快的解锁方式。"
+		"与顿悟系统的阅历联动。"
+	]
+	quest.AEE7C2BD49FF87F2.quest_subtitle: "阅历奖励"
+	quest.AEE7C2BD49FF87F2.title: "解锁图鉴"
+	quest.B0D1CB7C2B70A3A4.quest_desc: [
+		"林地府邸与掠夺者队长掉落。"
+		"持有时死亡会复活一次。"
+		"探索中最重要的保命道具。"
+	]
+	quest.B0D1CB7C2B70A3A4.quest_subtitle: "第二次机会"
+	quest.B0D1CB7C2B70A3A4.title: "不死图腾"
+	quest.B1005EC615523A56.quest_desc: ["预示灾厄降临，远程攻击强大。"]
+	quest.B1005EC615523A56.quest_subtitle: "灾厄使者"
+	quest.B1005EC615523A56.title: "先驱者"
+	quest.B1AA6D591AB90640.quest_desc: [
+		"墨水瓶用于光谱的书写与绘制。"
+		"配合画笔使用。"
+		"墨水有不同颜色与功能。"
+	]
+	quest.B1AA6D591AB90640.quest_subtitle: "书写之力"
+	quest.B1AA6D591AB90640.title: "墨水瓶"
+	quest.B212F19D54DBCECC.quest_desc: [
+		"击败末影龙后，外围岛屿生成。"
+		"末地船与末地城在远处岛屿。"
+		"用末影珍珠/鞘翅飞行前往。"
+	]
+	quest.B212F19D54DBCECC.quest_subtitle: "虚空与岛屿"
+	quest.B212F19D54DBCECC.title: "末地探索"
+	quest.B2A953238A391BC3.quest_desc: [
+		"Collectors Album 集卡册系统。"
+		"首次获得卡片可获得阅历奖励。"
+		"卡片通过探索、击杀、开箱等获得。"
+	]
+	quest.B2A953238A391BC3.quest_subtitle: "收藏的乐趣"
+	quest.B2A953238A391BC3.title: "集卡册"
+	quest.B363BF685DCF2C12.quest_desc: [
+		"预知眼是一件 Curios 饰品。"
+		"装备时获得预知眼层数，受击自动闪避。"
+		"层数耗尽进入过热，随后恢复。"
+	]
+	quest.B363BF685DCF2C12.quest_subtitle: "预知与闪避"
+	quest.B363BF685DCF2C12.title: "不完善的预知眼"
+	quest.B3918C98CD48CE27.quest_desc: [
+		"永恒之星是重要合成材料。"
+		"通过难度调节器或任务获得。"
+		"高级配方需要它。"
+	]
+	quest.B3918C98CD48CE27.quest_subtitle: "稀有材料"
+	quest.B3918C98CD48CE27.title: "永恒之星"
+	quest.B3EF4E56A2F07D91.quest_desc: [
+		"Mowzie's Mobs 添加风格独特的巨兽生物。"
+		"钢铁守护者（Wroughtnaut）、霜冻巨兽（Frostmaw）、雕刻家（Sculptor）、太阳鸟（Umvuthi）。"
+		"它们散落在世界各地，是进化之剑的养料。"
+		"击败巨兽获得独特武器与装备。"
+	]
+	quest.B3EF4E56A2F07D91.quest_subtitle: "远古巨兽"
+	quest.B3EF4E56A2F07D91.title: "Mowzie's Mobs"
+	quest.B545C9C73333EB2A.quest_desc: [
+		"米诺菇躲藏在迷宫花园的深处。"
+		"迷宫容易迷路，带好火把标记路线。"
+	]
+	quest.B545C9C73333EB2A.quest_subtitle: "迷路与冲撞"
+	quest.B545C9C73333EB2A.title: "迷宫花园"
+	quest.B637B72EF66E29A1.quest_desc: [
+		"Mystic's Biomes、Ecologics、Swaying Garden 等扩展群系与植物。"
+		"Dungeons & Taverns、The Ancient Towns 添加大量建筑结构。"
+		"探索本身就是乐趣。"
+	]
+	quest.B637B72EF66E29A1.quest_subtitle: "多彩世界"
+	quest.B637B72EF66E29A1.title: "生态与建筑"
+	quest.B7CF16C18BAD8CE2.quest_desc: [
+		"用圆石做一把石剑。"
+		"夜晚的怪物很危险，武器必不可少。"
+	]
+	quest.B7CF16C18BAD8CE2.quest_subtitle: "防身必备"
+	quest.B7CF16C18BAD8CE2.title: "石制武器"
+	quest.B7D52B20CF1CB80B.quest_desc: [
+		"10 块黑曜石搭 4×5 门框。"
+		"打火石点燃。"
+		"进入下界！"
+	]
+	quest.B7D52B20CF1CB80B.quest_subtitle: "烈焰之地"
+	quest.B7D52B20CF1CB80B.title: "开启传送门"
+	quest.B8212B0CFB5058FD.quest_desc: [
+		"更多模组提供戒指/项链等饰品。"
+		"组合不同饰品应对不同场景。"
+		"探索模组内容时留意饰品槽位。"
+	]
+	quest.B8212B0CFB5058FD.quest_subtitle: "更多选择"
+	quest.B8212B0CFB5058FD.title: "戒指与项链"
+	quest.B943596383F992AA.quest_desc: [
+		"在远古残骸中收集下界合金碎片。"
+		"用下界合金升级钻石装备，获得最强基础装备。"
+	]
+	quest.B943596383F992AA.quest_subtitle: "顶级材料"
+	quest.B943596383F992AA.title: "下界合金"
+	quest.B9937FF0D0858F84.quest_desc: [
+		"当以上全部完成："
+		"你已是这个世界的传奇。"
+		"享受你的冒险，或者继续挖掘隐藏内容！"
+	]
+	quest.B9937FF0D0858F84.quest_subtitle: "成为传奇"
+	quest.B9937FF0D0858F84.title: "终局目标"
+	quest.BA07960EE4AFC585.quest_desc: [
+		"从最常见的生物开始：僵尸、骷髅、蜘蛛。"
+		"击杀 1 次即可解锁。"
+		"夜晚出门就是图鉴大丰收。"
+	]
+	quest.BA07960EE4AFC585.quest_subtitle: "新手图鉴"
+	quest.BA07960EE4AFC585.title: "常见生物"
+	quest.BA5A3468677062A9.quest_desc: [
+		"灵魂系攻击。"
+		"注意弹幕轨迹。"
+	]
+	quest.BA5A3468677062A9.quest_subtitle: "诅咒之翼"
+	quest.BA5A3468677062A9.title: "咒翼灵骸"
+	quest.BB05982BA542C980.quest_desc: [
+		"光谱（Spectrum）模组提供了独特的魔法系统。"
+		"从收集水晶粉开始，逐步解锁光谱科技。"
+		"任务书中的光谱章节会引导你。"
+	]
+	quest.BB05982BA542C980.quest_subtitle: "神秘的力量"
+	quest.BB05982BA542C980.title: "光谱魔法线"
+	quest.BB2CCA83BBC3FA51.quest_desc: [
+		"娜迦是暮色森林的第一位 Boss，位于娜迦庭院。"
+		"它横冲直撞，用头撞击攻击。"
+		"击败后掉落娜迦鳞片与鳞甲套装材料。"
+	]
+	quest.BB2CCA83BBC3FA51.quest_subtitle: "暮色蛇王"
+	quest.BB2CCA83BBC3FA51.title: "娜迦"
+	quest.BBC14EBBE24BCA87.quest_desc: [
+		"烈焰人掉落烈焰棒。"
+		"烈焰粉 = 末影之眼 + 酿造。"
+		"地狱堡垒寻找烈焰人刷怪笼。"
+	]
+	quest.BBC14EBBE24BCA87.quest_subtitle: "酿造与末地"
+	quest.BBC14EBBE24BCA87.title: "烈焰棒"
+	quest.BC2BB668EA47D51A.quest_desc: [
+		"制作镐子下矿，挖取铁矿冶炼成铁锭。"
+		"铁是中期装备的基础。"
+	]
+	quest.BC2BB668EA47D51A.quest_subtitle: "资源的开始"
+	quest.BC2BB668EA47D51A.title: "下矿挖铁"
+	quest.BD47D5552C7F47E8.quest_desc: [
+		"漏斗自动传输物品。"
+		"配合箱子/熔炉实现简单自动化。"
+		"进阶自动化看「存储与物流」章节。"
+	]
+	quest.BD47D5552C7F47E8.quest_subtitle: "漏斗与漏斗矿车"
+	quest.BD47D5552C7F47E8.title: "自动化基础"
+	quest.BDABE898736A3566.quest_desc: [
+		"绿宝石是村民交易货币。"
+		"挖矿获得或与村民交易。"
+		"More Villagers 模组扩展了村民职业。"
+	]
+	quest.BDABE898736A3566.quest_subtitle: "贸易货币"
+	quest.BDABE898736A3566.title: "绿宝石"
+	quest.BE5924A37935B4CD.quest_desc: [
+		"米诺菇在迷宫花园深处。"
+		"迷宫容易迷路——带火把标记。"
+		"它冲撞威力巨大。"
+	]
+	quest.BE5924A37935B4CD.quest_subtitle: "迷宫之主"
+	quest.BE5924A37935B4CD.title: "迷宫花园"
+	quest.BF2FE182CA486294.quest_desc: [
+		"没有自然指南针？用普通指南针配合地图定位。"
+		"探索不同生物群系收集独特资源。"
+	]
+	quest.BF2FE182CA486294.quest_subtitle: "定向寻物"
+	quest.BF2FE182CA486294.title: "自然指南针"
+	quest.BF864F9D07D9642A.quest_desc: [
+		"探索模块奖励探索行为：进维度、进结构等。"
+		"与维度指引章节联动。"
+		"探索越多，阅历越多。"
+	]
+	quest.BF864F9D07D9642A.quest_subtitle: "走遍天下"
+	quest.BF864F9D07D9642A.title: "探索模块"
+	quest.BF9B79C7F92B3D3F.quest_desc: [
+		"Transmog 允许物品外观幻化。"
+		"在幻化台上把装备外观换成其他物品。"
+		"好看与强大兼得！"
+	]
+	quest.BF9B79C7F92B3D3F.quest_subtitle: "外观自由"
+	quest.BF9B79C7F92B3D3F.title: "幻化系统 Transmog"
+	quest.BFB36D9406E7C5CA.quest_desc: [
+		"月光怀表显示当前月相与时间。"
+		"月相影响部分模组机制。"
+		"探索与仪式前看一眼。"
+	]
+	quest.BFB36D9406E7C5CA.quest_subtitle: "月相观测"
+	quest.BFB36D9406E7C5CA.title: "月光怀表"
+	quest.BFE3FA6BAD17408D.quest_desc: [
+		"紫颂植物生长在末地岛。"
+		"食用随机传送（可能摔死！）。"
+		"烤紫颂果是食物来源。"
+	]
+	quest.BFE3FA6BAD17408D.quest_subtitle: "末地特产"
+	quest.BFE3FA6BAD17408D.title: "紫颂果"
+	quest.C54898F425D8D9F2.quest_desc: [
+		"铁木树遍布暮色，砍伐得铁木。"
+		"铁木锭合成铁木工具/装备。"
+		"暮色装备是中期重要战力。"
+	]
+	quest.C54898F425D8D9F2.quest_subtitle: "暮色基础材料"
+	quest.C54898F425D8D9F2.title: "铁木"
+	quest.C580C6DDCC6D2BC6.quest_desc: [
+		"用灾厄材料合成灾厄装备（Ignitium 系列）。"
+		"灾厄装备拥有强大的属性，是后期核心战力。"
+	]
+	quest.C580C6DDCC6D2BC6.quest_subtitle: "变强的阶梯"
+	quest.C580C6DDCC6D2BC6.title: "灾厄装备"
+	quest.C59C0996DAEEE6F5.quest_desc: [
+		"打造全套铁装 + 铁剑 + 铁镐。"
+		"铁装让你能深入矿洞与下界。"
+		"接下来去探索世界吧！"
+	]
+	quest.C59C0996DAEEE6F5.quest_subtitle: "中期起点"
+	quest.C59C0996DAEEE6F5.title: "铁装毕业"
+	quest.C5BB0713ACCD1881.quest_desc: [
+		"Epiphany 是本包的成长系统："
+		"完成模块获得心得点与顿悟槽位。"
+		"点亮心得获得永久加成，激活顿悟获得强大能力。"
+		"按 K 键打开顿悟界面！"
+	]
+	quest.C5BB0713ACCD1881.quest_subtitle: "成长的核心"
+	quest.C5BB0713ACCD1881.title: "顿悟系统（Epiphany）"
+	quest.C5E3A6003C1CE62E.quest_desc: [
+		"Nether Depth Upgrade 为下界添加了独特鱼类。"
+		"用熔岩钓鱼竿在熔岩中垂钓！"
+	]
+	quest.C5E3A6003C1CE62E.quest_subtitle: "熔岩之鱼"
+	quest.C5E3A6003C1CE62E.title: "下界深潜"
+	quest.C722854B7B43A77D.quest_desc: [
+		"九头蛇镇守火焰沼泽的九头蛇巢穴，有多个头。"
+		"喷火攻击范围大，斩掉的头会再生。"
+		"推荐：远程输出 + 走位躲避火焰。"
+	]
+	quest.C722854B7B43A77D.quest_subtitle: "火之巨兽"
+	quest.C722854B7B43A77D.title: "九头蛇"
+	quest.C87A171AC826A6FC.quest_desc: [
+		"用手或工具破坏原木。"
+		"第一件事：收集至少 20 个原木。"
+		"原木可以合成木板、木棍，是一切合成的起点。"
+	]
+	quest.C87A171AC826A6FC.quest_subtitle: "第一根原木"
+	quest.C87A171AC826A6FC.title: "砍树"
+	quest.C8B45A8415D6AC00.quest_desc: [
+		"3 凋灵骷髅头 + 4 灵魂沙召唤凋灵。"
+		"生成时大爆炸，攻击附凋零。"
+		"推荐：地下/基岩层打（防飞走）、远程输出、牛奶解凋零。"
+		"掉落下界之星（信标核心）。"
+	]
+	quest.C8B45A8415D6AC00.quest_subtitle: "下界的灾厄"
+	quest.C8B45A8415D6AC00.title: "凋灵"
+	quest.C939B774F4EBDF67.quest_desc: [
+		"末影龙盘踞末地中央龙岛。"
+		"攻击策略：摧毁水晶→远程射龙。"
+		"推荐：附魔弓、金苹果、落地缓冲。"
+		"击败后龙岛中心出现返回传送门。"
+	]
+	quest.C939B774F4EBDF67.quest_subtitle: "终焉之王"
+	quest.C939B774F4EBDF67.title: "末影龙"
+	quest.C9787A40B7127372.quest_desc: [
+		"制作地图记录地形，Xaero 小地图会常驻显示。"
+		"M 打开大地图，寻找感兴趣的生物群系。"
+	]
+	quest.C9787A40B7127372.quest_subtitle: "不迷路"
+	quest.C9787A40B7127372.title: "制图与探索"
+	quest.CA0FA5F6B8A88062.quest_desc: [
+		"青金石用于附魔（附魔台消耗）。"
+		"挖到就存着，附魔装备必备。"
+	]
+	quest.CA0FA5F6B8A88062.quest_subtitle: "附魔之源"
+	quest.CA0FA5F6B8A88062.title: "青金石"
+	quest.CAC42B13D72ACA08.quest_desc: [
+		"收集 12 颗钻石。"
+		"挖一个 2×2 的水池。"
+		"把钻石扔进水池——水面会变成传送门！"
+		"暮色森林是中期最重要的维度之一。"
+	]
+	quest.CAC42B13D72ACA08.quest_subtitle: "童话之门"
+	quest.CAC42B13D72ACA08.title: "开启暮色传送门"
+	quest.CB721D9DF9013F10.quest_desc: [
+		"设计仓库时考虑："
+		"常用物品快速取用、自动分类、批量烧炼。"
+		"RS + 漏斗 + 红石组合。"
+		"干净高效的仓库让游戏更愉快。"
+	]
+	quest.CB721D9DF9013F10.quest_subtitle: "仓库设计"
+	quest.CB721D9DF9013F10.title: "物流规划"
+	quest.CBBB7E313AA182B8.quest_desc: [
+		"灾厄海洋区域的海怪。"
+		"攻击范围惊人。"
+	]
+	quest.CBBB7E313AA182B8.quest_subtitle: "深海巨兽"
+	quest.CBBB7E313AA182B8.title: "利维坦"
+	quest.CC3732855F6C0843.quest_desc: [
+		"Boss 与稀有生物同样在图鉴中。"
+		"击杀 Boss 解锁稀有条目（+2 阅历）。"
+		"图鉴与 Boss 图鉴章节联动。"
+	]
+	quest.CC3732855F6C0843.quest_subtitle: "图鉴大师"
+	quest.CC3732855F6C0843.title: "稀有生物"
+	quest.CCF66ECDE48B8CCC.quest_desc: [
+		"Boss 战前检查："
+		"① 附魔装备（保护/锋利/力量）"
+		"② 充足的食物与治疗药水"
+		"③ 进化之剑加成到位"
+		"④ 了解 Boss 的攻击模式"
+	]
+	quest.CCF66ECDE48B8CCC.quest_subtitle: "战前清单"
+	quest.CCF66ECDE48B8CCC.title: "Boss 战准备"
+	quest.CF0A974C5636ABBF.quest_desc: [
+		"末影龙盘踞在末地中央的龙岛上。"
+		"击杀它会掉落大量经验并开启末地城。"
+		"推荐：附魔弓+箭、金苹果、落地防护。"
+	]
+	quest.CF0A974C5636ABBF.quest_subtitle: "终焉之王"
+	quest.CF0A974C5636ABBF.title: "末影龙"
+	quest.CF92947BBFD30E04.quest_desc: [
+		"挖掘紫水晶簇获得水晶粉。"
+		"水晶粉是所有光谱合成的基础。"
+		"紫水晶母岩可反复收获。"
+	]
+	quest.CF92947BBFD30E04.quest_subtitle: "光谱基石"
+	quest.CF92947BBFD30E04.title: "水晶粉"
+	quest.D0BAB9D0E20010D8.quest_desc: [
+		"利维坦（The Leviathan）是灾厄的海怪 Boss。"
+		"巨大的身体横扫战场。"
+		"注意它的冲锋与甩尾。"
+	]
+	quest.D0BAB9D0E20010D8.quest_subtitle: "深海巨兽"
+	quest.D0BAB9D0E20010D8.title: "利维坦"
+	quest.D18DB316B929AA79.quest_desc: [
+		"在末地船中找到鞘翅。"
+		"配合烟花火箭即可飞行。"
+		"探索更远的末地岛屿！"
+	]
+	quest.D18DB316B929AA79.quest_subtitle: "翱翔天际"
+	quest.D18DB316B929AA79.title: "鞘翅飞行"
+	quest.D22946A9A0455BF8.quest_desc: [
+		"下界 Y=8-22 的岩层中埋藏着远古残骸。"
+		"4 残骸 + 4 金锭合成下界合金碎片。"
+	]
+	quest.D22946A9A0455BF8.quest_subtitle: "下界合金"
+	quest.D22946A9A0455BF8.title: "远古残骸"
+	quest.D2698C92D3386F3B.quest_desc: [
+		"目光攻击。"
+		"注意朝向走位。"
+	]
+	quest.D2698C92D3386F3B.quest_subtitle: "注视一切"
+	quest.D2698C92D3386F3B.title: "观测者"
+	quest.D2D6BADB723EEA35.quest_desc: [
+		"用 12 颗钻石开启暮色传送门。"
+		"按顺序挑战暮色 Boss：娜迦→巫妖→九头蛇→…"
+		"暮色装备是中期的重要战力。"
+	]
+	quest.D2D6BADB723EEA35.quest_subtitle: "童话冒险"
+	quest.D2D6BADB723EEA35.title: "暮色路线"
+	quest.D2E9B3FF0A867939.quest_desc: [
+		"熔炉用于冶炼矿物和烹饪食物。"
+		"用 8 个圆石合成一个熔炉。"
+	]
+	quest.D2E9B3FF0A867939.quest_subtitle: "冶炼与烹饪"
+	quest.D2E9B3FF0A867939.title: "制作熔炉"
+	quest.D37DC2C9A7A5236B.quest_desc: [
+		"蓝图桌是 More Villagers 的职业站点。"
+		"放置后村民可转职为建筑师。"
+		"交易获得建筑图纸。"
+	]
+	quest.D37DC2C9A7A5236B.quest_subtitle: "新职业"
+	quest.D37DC2C9A7A5236B.title: "工匠蓝图桌"
+	quest.D3B87449D2538927.quest_desc: [
+		"羊驼披风提供额外防护。"
+		"从各地遗迹宝箱获得。"
+	]
+	quest.D3B87449D2538927.quest_subtitle: "护体神器"
+	quest.D3B87449D2538927.title: "羊驼披风"
+	quest.D49A6FA5CA9F7AC8.quest_desc: [
+		"钢叶草长在钢叶树林。"
+		"钢叶锭比铁木更强。"
+		"进一步强化暮色装备。"
+	]
+	quest.D49A6FA5CA9F7AC8.quest_subtitle: "更高级的材料"
+	quest.D49A6FA5CA9F7AC8.title: "钢叶"
+	quest.D51DABFFD083575F.quest_desc: ["暗黑森林城堡，隐身突袭。"]
+	quest.D51DABFFD083575F.quest_subtitle: "城堡之影"
+	quest.D51DABFFD083575F.title: "幻影骑士"
+	quest.D58E72E310275DFF.quest_desc: [
+		"木棍 + 煤炭/木炭合成火把。"
+		"矿洞与夜晚都需要照明，防止怪物生成。"
+		"4 个火把是最低配置。"
+	]
+	quest.D58E72E310275DFF.quest_subtitle: "照亮黑暗"
+	quest.D58E72E310275DFF.title: "火把"
+	quest.D68A5AA6BD281F42.quest_desc: [
+		"焰魔（Ignis）是灾厄模组的强大 Boss。"
+		"击败它可获得灾厄核心材料，用于高级合成。"
+		"建议使用进化之剑并做好充分准备！"
+	]
+	quest.D68A5AA6BD281F42.quest_subtitle: "灾厄 Boss"
+	quest.D68A5AA6BD281F42.title: "焰魔试炼"
+	quest.D6A502F1FAF95099.quest_desc: [
+		"本包还有独特模块："
+		"牺牲（Sacrifice）：以自身代价换取力量。"
+		"研习（Study）：阅历倍率、经验、进食速度等。"
+		"顿悟（Infinity）：全局阅历配置。"
+		"总有一款适合你！"
+	]
+	quest.D6A502F1FAF95099.quest_subtitle: "玩法多样"
+	quest.D6A502F1FAF95099.title: "特殊模块"
+	quest.D72E7B724DDB2B6A.quest_desc: [
+		"光谱用颜料与画笔施展颜色魔法。"
+		"合成画笔，开始你的光谱创作。"
+	]
+	quest.D72E7B724DDB2B6A.quest_subtitle: "颜色的魔法"
+	quest.D72E7B724DDB2B6A.title: "颜料与画笔"
+	quest.D7857CC3B8E7C8CC.quest_desc: [
+		"光谱使用颜料与画笔施展颜色魔法。"
+		"合成画笔与颜料。"
+		"颜色是光谱的核心概念之一。"
+	]
+	quest.D7857CC3B8E7C8CC.quest_subtitle: "颜色魔法"
+	quest.D7857CC3B8E7C8CC.title: "颜料与画笔"
+	quest.D791594464568FC5.quest_desc: [
+		"灵魂铁砧（Souls Anvil）是亡灵主题维度。"
+		"亡灵军团漫游的荒原。"
+		"收集灵魂精华用于合成。"
+	]
+	quest.D791594464568FC5.quest_subtitle: "亡灵维度"
+	quest.D791594464568FC5.title: "灵魂铁砧"
+	quest.D7E805DA846A32C3.quest_desc: [
+		"欢迎来到 if-1.3 整合包！"
+		"本包以光谱（Spectrum）、暮色森林（Twilight Forest）、灾厄（L_Ender's Cataclysm）三大内容模组为核心，配合顿悟（Epiphany）成长系统、Field Guide 图鉴、KubeJS 定制物品等特色玩法。"
+		"按 K 打开顿悟界面，按 Q 打开任务书，按 E 打开物品栏（EMI 配方查询）。"
+		"本任务书将引导你从零开始，逐步征服这个世界。"
+	]
+	quest.D7E805DA846A32C3.quest_subtitle: "开始你的冒险"
+	quest.D7E805DA846A32C3.title: "欢迎来到 if-1.3"
+	quest.D810A485ED03241B.quest_desc: [
+		"皮革来自牛/马/兔。"
+		"做一套皮革甲过渡。"
+		"之后尽快升级铁甲。"
+	]
+	quest.D810A485ED03241B.quest_subtitle: "基础防护"
+	quest.D810A485ED03241B.title: "皮革护甲"
+	quest.D85618F82AF29F9C.quest_desc: [
+		"卡片从各种途径获得："
+		"击杀生物、探索地牢、交易、任务奖励等。"
+		"多探索多收集！"
+	]
+	quest.D85618F82AF29F9C.quest_subtitle: "探索收集"
+	quest.D85618F82AF29F9C.title: "获取卡片"
+	quest.D8722C2EF60FDCB1.quest_desc: [
+		"灾厄标志性 Boss，浑身烈焰。"
+		"掉落灾厄核心材料。"
+	]
+	quest.D8722C2EF60FDCB1.quest_subtitle: "灾厄烈焰"
+	quest.D8722C2EF60FDCB1.title: "焰魔"
+	quest.D8B4DD5FA687D1A6.quest_desc: ["地狱之口（Inferno's Maw）是烈焰主题维度。"]
+	quest.D8B4DD5FA687D1A6.quest_subtitle: "烈焰维度"
+	quest.D8B4DD5FA687D1A6.title: "地狱之口"
+	quest.D9815DF1BCADD49C.quest_desc: [
+		"潜影贝掉落壳（末地城）。"
+		"2 壳 + 箱子 = 潜影盒。"
+		"潜影盒可携带大量物品，随身仓库！"
+	]
+	quest.D9815DF1BCADD49C.quest_subtitle: "便携箱子"
+	quest.D9815DF1BCADD49C.title: "潜影贝壳"
+	quest.DAE719AC7A0A253A.quest_desc: [
+		"漏斗自动传输物品。"
+		"漏斗链 + 箱子实现简单分类。"
+		"进阶用 Refined Storage。"
+	]
+	quest.DAE719AC7A0A253A.quest_subtitle: "自动化起点"
+	quest.DAE719AC7A0A253A.title: "漏斗物流"
+	quest.DB49B4AA10026CE3.quest_desc: [
+		"完成所有 Epiphany 模块。"
+		"点亮全部心得，激活全部顿悟。"
+		"你是真正的顿悟大师！"
+	]
+	quest.DB49B4AA10026CE3.quest_subtitle: "知识巅峰"
+	quest.DB49B4AA10026CE3.title: "顿悟全通"
+	quest.DDDD7D5F36454E2F.quest_desc: [
+		"部分神器可以升级强化。"
+		"配合 Curios 槽位组合使用。"
+		"神器是后期战力的重要补充。"
+	]
+	quest.DDDD7D5F36454E2F.quest_subtitle: "更强大"
+	quest.DDDD7D5F36454E2F.title: "神器强化"
+	quest.DE73CD5AC0B6F474.quest_desc: [
+		"暮色第一位 Boss，娜迦庭院。"
+		"横冲直撞，头击攻击。"
+		"推荐：盾牌格挡 + 侧向走位。"
+		"掉落娜迦鳞片。"
+	]
+	quest.DE73CD5AC0B6F474.quest_subtitle: "暮色蛇王"
+	quest.DE73CD5AC0B6F474.title: "娜迦"
+	quest.DE7C55DC06EDC066.quest_desc: [
+		"巫妖塔在暗黑森林，是座高塔。"
+		"巫妖会瞬移、召唤仆从、释放法术。"
+		"击败后获得巫师权杖。"
+	]
+	quest.DE7C55DC06EDC066.quest_subtitle: "魔法对决"
+	quest.DE7C55DC06EDC066.title: "巫妖塔"
+	quest.DF2163C96DE52B50.quest_desc: [
+		"下界合金巨兽（Netherite Monstrosity）全身下界合金。"
+		"防御极高，正面硬拼吃亏。"
+		"寻找弱点或持续消耗。"
+	]
+	quest.DF2163C96DE52B50.quest_subtitle: "金属怪物"
+	quest.DF2163C96DE52B50.title: "下界合金巨兽"
+	quest.E0A5FD34FDC2A625.quest_desc: [
+		"积雪森林洞穴。"
+		"投掷冰块、锤击地面。"
+		"狭窄空间注意躲避。"
+	]
+	quest.E0A5FD34FDC2A625.quest_subtitle: "雪山王者"
+	quest.E0A5FD34FDC2A625.title: "雪怪首领"
+	quest.E10460053EF8A566.quest_desc: [
+		"末影傀儡（Ender Golem）是灾厄中的末影系 Boss。"
+		"它能够瞬移并造成范围伤害。"
+	]
+	quest.E10460053EF8A566.quest_subtitle: "末影的造物"
+	quest.E10460053EF8A566.title: "末影傀儡"
+	quest.E1CF783788172148.quest_desc: [
+		"永恒之星是本包的重要合成材料。"
+		"通过难度调节器或其他途径获取，用于高级合成。"
+	]
+	quest.E1CF783788172148.quest_subtitle: "稀有材料"
+	quest.E1CF783788172148.title: "永恒之星"
+	quest.E32684B27B95E909.quest_desc: [
+		"打草丛获得小麦种子，开垦农田。"
+		"也可以钓鱼或猎杀动物。"
+		"饥饿度归零会掉血，保持饱食！"
+	]
+	quest.E32684B27B95E909.quest_subtitle: "别饿肚子"
+	quest.E32684B27B95E909.title: "食物"
+	quest.E44E6257822598F9.quest_desc: [
+		"斯库拉（Scylla）是灾厄的海妖 Boss。"
+		"在水域中高速穿梭。"
+		"水上战斗注意立足点。"
+	]
+	quest.E44E6257822598F9.quest_subtitle: "海妖传说"
+	quest.E44E6257822598F9.title: "斯库拉"
+	quest.E598F2F4A0E545E1.quest_desc: ["积雪森林洞穴，投掷冰块、锤击地面。"]
+	quest.E598F2F4A0E545E1.quest_subtitle: "雪山王者"
+	quest.E598F2F4A0E545E1.title: "雪怪首领"
+	quest.E5DE59D4C45610AC.quest_desc: [
+		"终极装备组合："
+		"下界合金基础 → 暮色/灾厄/光谱进阶 → 神器饰品。"
+		"全套附魔 + 锻造模板升级。"
+		"Curios 饰品栏自由搭配。"
+	]
+	quest.E5DE59D4C45610AC.quest_subtitle: "武装到牙齿"
+	quest.E5DE59D4C45610AC.title: "最强装备"
+	quest.E5E2AB29955B7364.quest_desc: [
+		"恶魂掉落恶魂之泪。"
+		"用于再生药水等高级酿造。"
+		"恶魂的火球可以打回去！"
+	]
+	quest.E5E2AB29955B7364.quest_subtitle: "稀有掉落"
+	quest.E5E2AB29955B7364.title: "恶魂之泪"
+	quest.E6685B6D38EDBB40.quest_desc: [
+		"按 K 打开顿悟界面。"
+		"顿悟（Epiphany）是本包的成长系统："
+		"模块（Module）→ 心得（Insight）→ 顿悟（Epiphany）。"
+		"完成模块获得心得点；点亮心得获得永久加成；激活顿悟获得强大能力。"
+	]
+	quest.E6685B6D38EDBB40.quest_subtitle: "成长核心"
+	quest.E6685B6D38EDBB40.title: "顿悟系统"
+	quest.E916CA91C663E544.quest_desc: [
+		"黄昏之钟是一件神秘物品。"
+		"它象征黄昏时刻的力量。"
+		"更多用途等待你的探索。"
+		"与其他 KubeJS 物品一样，它是本包独有的内容。"
+	]
+	quest.E916CA91C663E544.quest_subtitle: "黄昏的见证"
+	quest.E916CA91C663E544.title: "黄昏之钟"
+	quest.E9583683C22EB2F4.quest_desc: [
+		"打造你的终极装备组合："
+		"下界合金基础 + 灾厄/暮色/光谱进阶 + 神器饰品。"
+		"搭配 Curios 饰品栏自由组合。"
+	]
+	quest.E9583683C22EB2F4.quest_subtitle: "武装到牙齿"
+	quest.E9583683C22EB2F4.title: "最强装备"
+	quest.E9B65D4AF20FF2B3.quest_desc: [
+		"挖矿获取铁与钻石，打造基础装备。"
+		"寻找暮色传送门材料（12 颗钻石）。"
+		"收集经验，为 Boss 战做准备。"
+	]
+	quest.E9B65D4AF20FF2B3.quest_subtitle: "装备与资源"
+	quest.E9B65D4AF20FF2B3.title: "中期发展"
+	quest.EAC2126C6C8DACB1.quest_desc: [
+		"地狱之口（Inferno's Maw）是烈焰主题维度。"
+		"炽热的走廊与火元素生物。"
+		"火焰抗性药水是必需品。"
+	]
+	quest.EAC2126C6C8DACB1.quest_subtitle: "烈焰维度"
+	quest.EAC2126C6C8DACB1.title: "地狱之口"
+	quest.EAFAF2B85B417408.quest_desc: [
+		"焰魔（Ignis）是灾厄的标志性 Boss。"
+		"击败它获得灾厄核心材料。"
+		"更多 Boss 详见「Boss 图鉴」章节。"
+	]
+	quest.EAFAF2B85B417408.quest_subtitle: "灾厄的标志"
+	quest.EAFAF2B85B417408.title: "焰魔试炼"
+	quest.EB4793C119CB7487.quest_desc: [
+		"光谱（Spectrum）是深度魔法系统。"
+		"先获得光谱指南书——它逐步指导你。"
+		"光谱有独立的进度线（任务书中原有光谱章节）。"
+		"核心资源：各种水晶粉与水晶碎片。"
+	]
+	quest.EB4793C119CB7487.quest_subtitle: "魔法的开始"
+	quest.EB4793C119CB7487.title: "光谱指南"
+	quest.EB48631D076231E1.quest_desc: [
+		"末地船中悬挂的鞘翅。"
+		"装备在胸甲栏。"
+		"配合烟花火箭飞行。"
+		"鞘翅是后期探索的核心！"
+	]
+	quest.EB48631D076231E1.quest_subtitle: "翱翔天际"
+	quest.EB48631D076231E1.title: "鞘翅"
+	quest.ECABBBF7EABF091B.quest_desc: [
+		"还有更多 Boss 等你挑战："
+		"mowziesmobs：钢铁守护者、霜冻巨兽、雕刻家、太阳鸟。"
+		"dungeonnowloading：公正衔环·波罗斯与乌洛斯。"
+		"spectrum：怪物（Monstrosity）。"
+		"全部击败——进化之剑将记录一切！"
+	]
+	quest.ECABBBF7EABF091B.quest_subtitle: "挑战不止"
+	quest.ECABBBF7EABF091B.title: "更多 Boss"
+	quest.ECD3ADA8B4F2222D.quest_desc: [
+		"钓鱼获得鱼、宝藏、附魔书。"
+		"夜晚钓鱼更安静。"
+		"钓鱼竿也是很多模组配方。"
+	]
+	quest.ECD3ADA8B4F2222D.quest_subtitle: "耐心与收获"
+	quest.ECD3ADA8B4F2222D.title: "钓鱼"
+	quest.ECDBE596D03C54EF.quest_desc: [
+		"雪怪首领栖息在积雪森林的雪怪洞穴。"
+		"它投掷冰块并猛烈锤击地面。"
+		"击败后掉落雪怪皮毛。"
+	]
+	quest.ECDBE596D03C54EF.quest_subtitle: "雪山的王者"
+	quest.ECDBE596D03C54EF.title: "雪怪首领"
+	quest.ED227718A931E2DA.quest_desc: [
+		"暮色最终 Boss，漂浮暗黑高塔之上。"
+		"召唤火球与爪牙。"
+	]
+	quest.ED227718A931E2DA.quest_subtitle: "高塔之巅"
+	quest.ED227718A931E2DA.title: "暮初恶魂"
+	quest.ED269A28FECA1CE2.quest_desc: ["掌握远古之力，攻击多样。"]
+	quest.ED269A28FECA1CE2.quest_subtitle: "古老存在"
+	quest.ED269A28FECA1CE2.title: "远古遗魂"
+	quest.ED3A266A79C1C11A.quest_desc: [
+		"与村民交易获取绿宝石。"
+		"寻找 morevillagers 的职业站点解锁更多交易。"
+	]
+	quest.ED3A266A79C1C11A.quest_subtitle: "贸易往来"
+	quest.ED3A266A79C1C11A.title: "村庄经济"
+	quest.EDB9591A59DB2DBC.quest_desc: [
+		"用黑曜石搭 4×5 门框，打火石点燃。"
+		"下界有石英、远古残骸等珍贵资源。"
+	]
+	quest.EDB9591A59DB2DBC.quest_subtitle: "烈焰之地"
+	quest.EDB9591A59DB2DBC.title: "开启下界之门"
+	quest.EFF99EFCFE38687F.quest_desc: [
+		"每第 7 次攻击 77%~777% 随机伤害。"
+		"护符槽位。"
+		"欧皇必备饰品。"
+	]
+	quest.EFF99EFCFE38687F.quest_subtitle: "幸运护符"
+	quest.EFF99EFCFE38687F.title: "幸运7"
+	quest.F12FD9B79022240E.quest_desc: [
+		"基岩护甲提供顶级防护。"
+		"全套基岩装备 + 附魔 = 最强防御之一。"
+		"与灾厄装备并列为后期双雄。"
+	]
+	quest.F12FD9B79022240E.quest_subtitle: "光谱防护"
+	quest.F12FD9B79022240E.title: "基岩装备"
+	quest.F140844712855577.quest_desc: [
+		"本整合包使用 KubeJS 添加了大量定制物品与机制。"
+		"包括进化之剑、幸运7、预知眼、哔哔机等，详见「装备与饰品」章节。"
+		"这些物品均有独特玩法，值得深入探索。"
+	]
+	quest.F140844712855577.quest_subtitle: "本包的特色"
+	quest.F140844712855577.title: "KubeJS 定制物品"
+	quest.F1E58684A519DBD5.quest_desc: [
+		"巫妖塔顶层。"
+		"瞬移、召唤仆从、魔法弹幕。"
+		"注意分辨真假巫妖（持权杖者）。"
+		"掉落巫师权杖。"
+	]
+	quest.F1E58684A519DBD5.quest_subtitle: "暮色法师"
+	quest.F1E58684A519DBD5.title: "巫妖"
+	quest.F37CB990C801F97B.quest_desc: [
+		"指南针指向世界原点。"
+		"Xaero 小地图常驻显示，M 开大地图。"
+		"探险前标记好回家路。"
+	]
+	quest.F37CB990C801F97B.quest_subtitle: "不迷路"
+	quest.F37CB990C801F97B.title: "指南针与地图"
+	quest.F46CFDFDEF520791.quest_desc: [
+		"九头蛇在火焰沼泽的巢穴。"
+		"多头喷火，斩首再生。"
+		"推荐远程风筝输出。"
+		"掉落九头蛇鳞片等。"
+	]
+	quest.F46CFDFDEF520791.quest_subtitle: "九头蛇"
+	quest.F46CFDFDEF520791.title: "火焰沼泽"
+	quest.F56FF33A915720E5.quest_desc: [
+		"整合包用 KubeJS 制作了大量定制物品："
+		"进化之剑（Boss 成长）、幸运7（随机暴击）、预知眼（闪避）、哔哔机（任务提示）等。"
+		"详见「装备与饰品」章节。"
+	]
+	quest.F56FF33A915720E5.quest_subtitle: "本包的特色"
+	quest.F56FF33A915720E5.title: "KubeJS 定制物品"
+	quest.F58950C56BB5C96D.quest_desc: [
+		"红石电路实现逻辑与自动化。"
+		"本包有红石相关辅助。"
+		"从简单的活塞门开始。"
+	]
+	quest.F58950C56BB5C96D.quest_subtitle: "机关与逻辑"
+	quest.F58950C56BB5C96D.title: "红石工程"
+	quest.F6DEE1E450D3C17B.quest_desc: [
+		"近战投射兼备。"
+		"格挡闪避结合。"
+	]
+	quest.F6DEE1E450D3C17B.quest_subtitle: "末影守护"
+	quest.F6DEE1E450D3C17B.title: "末影守卫"
+	quest.F6E780D8A1C55C01.quest_desc: [
+		"恭喜完成新手教程！"
+		"接下来探索各个维度，收集装备与饰品。"
+		"记住：Boss 战前做好准备，利用进化之剑的成长机制！"
+	]
+	quest.F6E780D8A1C55C01.quest_subtitle: "准备迎接挑战"
+	quest.F6E780D8A1C55C01.title: "新手毕业"
+	quest.F73BB387D080589A.quest_desc: [
+		"沼泽有女巫小屋、史莱姆（夜晚）。"
+		"本包还有更多群系模组（Mystic's Biomes 等）。"
+		"每个群系都有独特资源。"
+	]
+	quest.F73BB387D080589A.quest_subtitle: "独特生态"
+	quest.F73BB387D080589A.title: "湿地与沼泽"
+	quest.F78DF0CAC5E40C02.quest_desc: [
+		"铁矿分布广，Y=0-16 最多。"
+		"铁用于工具、护甲、桶、漏斗等。"
+		"本整合包前期需要大量铁。"
+	]
+	quest.F78DF0CAC5E40C02.quest_subtitle: "铁制装备的基础"
+	quest.F78DF0CAC5E40C02.title: "铁矿"
+	quest.FBDAA35ADF9C1E2A.quest_desc: [
+		"用小麦繁殖牛。"
+		"熟牛排是前期最高效的食物之一。"
+		"养 4-5 头牛可持续供应。"
+	]
+	quest.FBDAA35ADF9C1E2A.quest_subtitle: "肉食供应"
+	quest.FBDAA35ADF9C1E2A.title: "畜牧业"
+	quest.FE09B25DF26D7A44.quest_desc: [
+		"防御/生存模块提供生命、护甲、减伤心得。"
+		"高难度下生存优先。"
+		"配合预知眼等饰品。"
+	]
+	quest.FE09B25DF26D7A44.quest_subtitle: "站得住"
+	quest.FE09B25DF26D7A44.title: "防御与生存"
+	reward.2608ED443431A0A3.title: "基础基座"
 	task.0650FB75137B4C94.title: "任意颜色树苗"
 	task.1CDDA83D7A551ACF.title: "{chapter.12.quest.53.task.1.title}"
 	task.2055D26027AAD096.title: "{chapter.12.quest.17.task.1.title}"

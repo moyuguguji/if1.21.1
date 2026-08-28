@@ -1,0 +1,13 @@
+{
+  "name": "探索",
+  "description": "游历大地与深空的探索之道。第一行心得互相独立，第二行心得需要第一行全部点亮。",
+  "item_icon": "minecraft:compass",
+  "initial_state": "selectable",
+  "insights": [
+    { "id": "explore:explore_speed_1",  "depth": 0 },
+    { "id": "explore:explore_sprint_1", "depth": 0 },
+    { "id": "explore:explore_mine_1",   "depth": 0 },
+    { "id": "explore:explore_agility",  "depth": 1 },
+    { "id": "explore:explore_mine_2",   "depth": 1 }
+  ]
+}

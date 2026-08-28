@@ -16,4 +16,14 @@ scoreboard players set @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.ma
 ### List of Seals ###
 tag @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main,distance=..80] add dnl.transition.awoken
 
+
+### Force Awaken All Ghasts ###
+execute as @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main] run data merge entity @s {NoAI:0b,Silent:0b}
+execute as @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main] run tag @s remove dnl.sleeping
+execute as @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main] run tag @s remove dnl.transition.awoken
+execute as @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main] run tag @s add dnl.awoken
 tag @s add dnl.broken_seal
+
+### Bossbar (旧版: 开战即显示 Sisters of Sorrow 血条) ###
+execute as @s[tag=!dnl.init.core] run function dnl:mobs/guardian_ghast/core/init
+bossbar set dnl:guardian_ghast visible true

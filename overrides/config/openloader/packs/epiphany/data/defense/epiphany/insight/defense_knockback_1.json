@@ -1,0 +1,13 @@
+{
+  "name": "稳立 I",
+  "description": "永久提升 20% 击退抗性",
+  "item_icon": "minecraft:shield",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.knockback_resistance",
+    "amount": 0.2,
+    "operation": "add_value"
+  },
+  "reward_description": "+20% 击退抗性"
+}

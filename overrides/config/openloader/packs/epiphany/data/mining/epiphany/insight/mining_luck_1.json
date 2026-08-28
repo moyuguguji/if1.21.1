@@ -1,0 +1,13 @@
+{
+  "name": "寻宝 I",
+  "description": "永久提升 0.1 幸运值",
+  "item_icon": "minecraft:emerald",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.luck",
+    "amount": 0.1,
+    "operation": "add_value"
+  },
+  "reward_description": "+0.1 幸运值"
+}

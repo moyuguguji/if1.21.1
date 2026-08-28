@@ -8,7 +8,7 @@
       "text": "挑战并于决斗中击败猎手的亡魂"
     },
     "icon": {
-      "item": "minecraft:bow"
+      "id": "minecraft:bow"
     },
     "frame": "task",
     "show_toast": true,

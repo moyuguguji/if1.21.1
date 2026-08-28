@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:golden_sword",
       "components": {
         "minecraft:custom_model_data": 13002
-      }
+      },
+      "id": "minecraft:golden_sword"
     },
     "title": "三发入魂",
     "description": "用巫毒长刃连击同一只怪物三次，最大程度地令其感染毒素",

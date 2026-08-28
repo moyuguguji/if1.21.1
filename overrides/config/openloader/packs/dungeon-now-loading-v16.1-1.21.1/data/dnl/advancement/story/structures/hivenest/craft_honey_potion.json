@@ -1,13 +1,13 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:potion",
       "components": {
         "minecraft:enchantment_glint_override": true,
         "minecraft:potion_contents": {
           "custom_color": 16763190
         }
-      }
+      },
+      "id": "minecraft:potion"
     },
     "title": "巫毒退散！",
     "description": "在女巫实验室蜂房中，用哭泣的黑曜石制作一瓶蜂蜜药水！",

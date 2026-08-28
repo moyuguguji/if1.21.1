@@ -1,0 +1,73 @@
+{
+  "basicSettings": {
+    "screenWhitelist": [
+      "com.evandev.fieldguide.client.gui.screens.FieldGuideJournalScreen",
+      "com.evandev.fieldguide.client.gui.screens.FieldGuideCategoryScreen",
+      "com.evandev.fieldguide.client.gui.screens.FieldGuideEntryScreen"
+    ],
+    "enableScreenRecovering": false,
+    "recoveredScreens": [
+      "com.terraformersmc.mod_menu.gui.ModsScreen",
+      "me.shedaniel.clothconfig2.gui.ClothConfigScreen",
+      "net.minecraft.client.gui.screens.ConfirmScreen",
+      "org.anti_ad.mc.common.gui.screen.ConfigScreenBase",
+      "dev.mineland.item_interactions_mod.ItemInteractionsSettingsScreen",
+      "snownee.jade.gui.HomeConfigScreen",
+      "snownee.jade.gui.WailaConfigScreen",
+      "snownee.jade.gui.PluginsConfigScreen",
+      "net.neoforged.neoforge.client.gui.ConfigurationScreen",
+      "net.neoforged.neoforge.client.gui.ConfigurationScreen$ConfigurationSectionScreen",
+      "net.minecraft.client.gui.screens.PauseScreen",
+      "net.minecraft.client.gui.screens.inventory.InventoryScreen",
+      "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen",
+      "dev.ftb.mods.ftblibrary.ui.ScreenWrapper",
+      "dev.emi.emi.screen.RecipeScreen",
+      "com.evandev.fieldguide.client.gui.screens.FieldGuideCategoryScreen",
+      "com.evandev.fieldguide.client.gui.screens.FieldGuideJournalScreen",
+      "com.evandev.fieldguide.client.gui.screens.FieldGuideEntryScreen",
+      "team.tnt.collectorsalbum.client.screen.AlbumMainPageScreen",
+      "team.tnt.collectorsalbum.client.screen.AlbumCategoryScreen",
+      "team.tnt.collectorsalbum.client.screen.AlbumBonusScreen",
+      "com.refinedmods.refinedstorage.common.grid.screen.CraftingGridScreen",
+      "net.minecraft.client.gui.screens.options.OptionsScreen",
+      "net.minecraft.client.gui.screens.options.controls.ControlsScreen",
+      "net.minecraft.client.gui.screens.options.controls.KeyBindsScreen",
+      "com.nododiiiii.ponderer.ui.FunctionScreen",
+      "com.nododiiiii.ponderer.ui.PondererConfigScreen",
+      "com.nododiiiii.ponderer.ui.PondererGeneralConfigScreen",
+      "com.nododiiiii.ponderer.ui.AiConfigScreen",
+      "com.nododiiiii.ponderer.ui.BlueprintItemConfigScreen",
+      "com.nododiiiii.ponderer.ui.PondererKeyBindingsScreen",
+      "com.nododiiiii.ponderer.ui.ProjectorFeatureConfigScreen",
+      "com.nododiiiii.ponderer.ui.AiGenerateScreen",
+      "com.nododiiiii.ponderer.ui.CommandParamScreen",
+      "com.nododiiiii.ponderer.ui.RemoteBrowserScreen",
+      "com.nododiiiii.ponderer.ui.PonderItemGridScreen",
+      "net.createmod.ponder.foundation.ui.PonderUI",
+      "com.nododiiiii.ponderer.ui.StructurePickerScreen",
+      "net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageScreen",
+      "net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageSettingsScreen",
+      "org.z2six.ezactions.gui.RadialMenuScreen",
+      "de.dafuqs.paginatedadvancements.client.PaginatedAdvancementScreen"
+    ],
+    "englishStateImpl": "CONVERSION_STATUS",
+    "primaryEnglishState": "CJK"
+  },
+  "advanceSettings": {
+    "enableCharSimulation": false
+  },
+  "windowsCompatibilitySettings": {
+    "enableConversionStatusApi": true,
+    "enableCursorPositionTracking": true,
+    "enableCompositionFontTweaks": true,
+    "enableIngameIME": false
+  },
+  "linuxCompatibilitySettings": {
+    "enableKeyboardPatch": true,
+    "ibusOnArgName": "libpinyin",
+    "ibusOffArgName": "xkb:us::eng",
+    "fcitx5OnArgName": "-o",
+    "fcitx5OffArgName": "-c",
+    "fcitx5OnStateName": "2"
+  }
+}

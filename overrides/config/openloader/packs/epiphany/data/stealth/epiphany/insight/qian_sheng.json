@@ -1,0 +1,13 @@
+{
+  "name": "潜声",
+  "description": "永久降低 5% 声音系数，行动更不易被察觉",
+  "item_icon": "minecraft:leather_boots",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "stealth_and_alert:sound",
+    "amount": -0.05,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "-5% 声音系数"
+}

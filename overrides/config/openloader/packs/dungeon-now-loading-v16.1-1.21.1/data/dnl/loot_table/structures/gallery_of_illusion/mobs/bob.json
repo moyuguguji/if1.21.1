@@ -69,10 +69,11 @@
                   "CustomName": "{\"text\":\" \"}",
                   "Attributes": [
                     {
-                      "Name": "generic.max_health",
-                      "Base": 100
+                      "id": "minecraft:generic.max_health",
+                      "base": 100
                     }
-                  ]
+                  ],
+                  "id": "minecraft:pufferfish"
                 }
               }
             },

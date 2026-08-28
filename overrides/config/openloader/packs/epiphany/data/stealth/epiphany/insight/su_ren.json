@@ -1,0 +1,13 @@
+{
+  "name": "速刃",
+  "description": "永久提升 10% 攻击速度",
+  "item_icon": "minecraft:leather_boots",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.attack_speed",
+    "amount": 0.1,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+10% 攻击速度"
+}

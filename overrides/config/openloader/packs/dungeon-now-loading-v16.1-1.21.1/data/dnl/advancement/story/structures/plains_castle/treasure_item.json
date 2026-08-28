@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:diamond_sword",
       "components": {
         "minecraft:enchantment_glint_override": true
-      }
+      },
+      "id": "minecraft:diamond_sword"
     },
     "title": "宝藏！",
     "description": "从战利品箱中发现一件极佳附魔物品！",

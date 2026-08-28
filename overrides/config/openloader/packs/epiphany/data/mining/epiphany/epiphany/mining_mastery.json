@@ -1,0 +1,32 @@
+{
+  "name": "挖矿精通",
+  "description": "完成挖掘模块全部心得后获得。挖掘速度 +15%、方块交互距离 +1、幸运值 +0.5。",
+  "item_icon": "minecraft:netherite_pickaxe",
+  "condition": {
+    "type": "epiphany:module_completed",
+    "module": "mining:mining"
+  },
+  "condition_description": "需要完成挖掘模块",
+  "initial_state": "locked",
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:player.block_break_speed",
+      "amount": 0.15,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:player.block_interaction_range",
+      "amount": 1.0,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.luck",
+      "amount": 0.5,
+      "operation": "add_value"
+    }
+  ],
+  "reward_description": "挖掘速度 +15%, 方块交互距离 +1, 幸运值 +0.5"
+}

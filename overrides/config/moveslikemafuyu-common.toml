@@ -1,0 +1,149 @@
+[slide]
+	enableSlide = true
+	enableDap = true
+	enableSlideRepeat = true
+	enableSlideKnock = true
+	enableSlideIgnoreEdgeProtection = true
+	enableSlideDoubleTapTrigger = false
+	enableRoll = true
+	enableAirRoll = true
+	enableRollInvulnerability = true
+	enableRollCamera = false
+	enableRollIgnoreEdgeProtection = true
+	enableSprintRollDoubleTapTrigger = false
+
+[climb]
+	enableClimb = false
+	enableClimbJump = false
+	enableFallingRescue = false
+
+[climb_attributes]
+	# Default: 60
+	# Range: 0 ~ 1200
+	ClimbJumpCooldown = 60
+
+[swimming]
+	enableShallowSwimming = true
+	enableSwimmingBoost = true
+	enableFreestyle = true
+	enableSwimmingPush = true
+
+[swimming_attributes]
+	# Default: 60
+	# Range: 0 ~ 1200
+	SwimmingBoostCooldown = 60
+	# Default: 30
+	# Range: 0 ~ 300
+	SwimmingBoostAirCost = 30
+	# Default: 0.4
+	# Range: 0.0 ~ 5.0
+	SwimmingBoostStrength = 0.4
+
+[crawling]
+	enableCraw = true
+	enableCrawSlide = true
+	enableLeap = true
+	enableJumpCancelCraw = true
+
+[auto_dodge]
+	enableAutoDodge = false
+
+[roll_attributes]
+	# Default: 250
+	# Range: 0 ~ 2000
+	RollDoublePressDelay = 250
+	# Default: 500
+	# Range: 0 ~ 5000
+	RollAirTimer = 500
+	# Default: 14
+	# Range: 1 ~ 200
+	RollDuration = 14
+	# Default: 3
+	# Range: 0 ~ 200
+	RollShiftStartTick = 3
+	# Default: 10
+	# Range: 0 ~ 200
+	RollShiftEndTick = 10
+	# Default: 0
+	# Range: 0 ~ 1200
+	RollCooldown = 20
+	# Default: 1.2
+	# Range: 0.1 ~ 10.0
+	RollActionSpeedMultiplier = 1.2
+	# Default: 1.2
+	# Range: 0.0 ~ 10.0
+	RollSpeedMultiplier = 1.2
+	# Default: 0.225
+	# Range: 0.0 ~ 5.0
+	RollStartSpeed = 0.225
+	# Default: 0.35
+	# Range: 0.0 ~ 5.0
+	RollPeakSpeed = 0.35
+	# Default: 0.16
+	# Range: 0.0 ~ 5.0
+	RollEndSpeed = 0.16
+	# Default: 0.19
+	# Range: -5.0 ~ 5.0
+	RollAirVerticalSpeed = 0.19
+
+[crawl_attributes]
+	# Default: 250
+	# Range: 0 ~ 2000
+	CrawDoublePressDelay = 250
+	# Default: 500
+	# Range: 0 ~ 5000
+	LeapJumpTimer = 500
+	# Default: 8
+	# Range: 0 ~ 200
+	LeapAutoCrawTicks = 8
+	# Default: 0.35
+	# Range: 0.0 ~ 5.0
+	LeapForwardBoost = 0.35
+	# Default: 0.42
+	# Range: -5.0 ~ 5.0
+	LeapVerticalBoost = 0.42
+	# Default: 0.25
+	# Range: 0.0 ~ 5.0
+	CrawLeapForwardBoost = 0.25
+	# Default: 0.15
+	# Range: -5.0 ~ 5.0
+	CrawLeapVerticalBoost = 0.15
+
+[slide_attributes]
+	# Default: 25
+	# Range: 0 ~ 1200
+	SlideDuration = 25
+	# Default: 30
+	# Range: 0 ~ 1200
+	SlideAirDuration = 30
+	# Default: 2
+	# Range: 0 ~ 64
+	DapTimes = 2
+	# Default: 60
+	# Range: 0 ~ 1200
+	SlideCooldown = 60
+	# Default: 0.5
+	# Range: 0.0 ~ 5.0
+	SlideStartBoost = 0.5
+	# Default: 0.1
+	# Range: 0.0 ~ 5.0
+	SlideAirForwardBoost = 0.1
+	# Default: -0.025
+	# Range: -5.0 ~ 5.0
+	SlideAirFallAcceleration = -0.025
+	# Default: 0.5
+	# Range: -5.0 ~ 5.0
+	SlideInitialDapVerticalBoost = 0.5
+	# Default: 0.7
+	# Range: -5.0 ~ 5.0
+	SlideDapVerticalBoost = 0.7
+	# Default: 0.92
+	# Range: 0.0 ~ 2.0
+	SlideDapMotionDecay = 0.92
+	# Default: 500
+	# Range: 0 ~ 10000
+	SlideKnockDelay = 500
+
+[lists]
+	SlideKnockBlacklist = ["minecraft:item"]
+	ClimbBlockWhitelist = ["minecraft:stone"]

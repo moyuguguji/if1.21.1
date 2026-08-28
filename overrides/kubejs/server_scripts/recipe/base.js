@@ -200,4 +200,53 @@ event.shaped('refinedstorage:64b_fluid_storage_part', [
         "particleEffectIdentifier": "explosion",
         "soundEventIdentifier": "spectrum:block.citrine_cluster.break"
     }).id('spectrum:anvil_crushing/gemstone_powder/citrine_powder_from_citrine_block')
+
+    event.custom({
+        "type": "spectrum:gated_crafting_shapeless",
+        "ingredients": [{ "tag": "minecraft:planks" }],
+        "result": { "id": "minecraft:crafting_table", "count": 1 },
+        "required_advancement": "spectrum:collect_gemstone_powder"
+    })
+
+    event.custom({
+         "type": "fargo_soul:integration",
+  "ingredients": [
+    {
+      "count": 1,
+      "id": 'spectrum:topaz_shard'
+    },
+    {
+      "count": 1,
+      "id": 'spectrum:citrine_shard'
+    },
+    {
+      "count": 1,
+      "id": 'spectrum:onyx_shard'
+    },
+    {
+      "count": 1,
+      "id": 'spectrum:shimmerstone_gem'
+    },
+    {
+      "count": 1,
+      "id": "minecraft:amethyst_shard"
+    },
+    {
+      "count": 1,
+      "id": 'spectrum:stratine_fragments'
+    },
+    {
+      "count": 1,
+      "id": 'spectrum:frostbite_essence'
+    },
+    {
+      "count": 1,
+      "id": 'spectrum:incandescent_essence'
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "fargo_soul:soul"
+  }
+    }).id("fargo_soul:soul")
 })

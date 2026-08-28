@@ -1,0 +1,32 @@
+{
+	id: "0DF46146DA534EB9"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			id: "6A7054355E9FF0F4"
+			type: "xp_levels"
+			weight: 13.0f
+			xp_levels: 5
+		}
+		{
+			id: "3386051AB244631F"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 6
+			weight: 20.0f
+		}
+		{
+			id: "3E36E685E3841BEC"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 2
+			weight: 10.0f
+		}
+	]
+	use_title: true
+}

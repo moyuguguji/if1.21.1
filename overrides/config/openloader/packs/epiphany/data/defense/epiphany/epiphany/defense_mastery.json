@@ -1,0 +1,30 @@
+{
+  "name": "防御精通",
+  "description": "完成防护模块全部心得后获得。获得保护 V 铁胸甲，护甲值 +2、护甲韧性 +1。",
+  "item_icon": "minecraft:netherite_chestplate",
+  "condition": {
+    "type": "epiphany:module_completed",
+    "module": "defense:defense"
+  },
+  "condition_description": "需要完成防护模块",
+  "initial_state": "locked",
+  "reward": [
+    {
+      "type": "epiphany:command",
+      "command": "give @s minecraft:iron_chestplate[enchantments={levels:{\"minecraft:protection\":5}}]"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.armor",
+      "amount": 2.0,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.armor_toughness",
+      "amount": 1.0,
+      "operation": "add_value"
+    }
+  ],
+  "reward_description": "获得保护 V 铁胸甲, 护甲值 +2, 护甲韧性 +1"
+}

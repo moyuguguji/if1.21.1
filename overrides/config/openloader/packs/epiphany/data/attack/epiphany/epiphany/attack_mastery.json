@@ -1,0 +1,30 @@
+{
+  "name": "攻击精通",
+  "description": "完成攻击模块全部心得后获得。攻击伤害 +15%、暴击伤害 +10%，并获得一把锋利 IV 钻石剑。",
+  "item_icon": "minecraft:diamond_sword",
+  "condition": {
+    "type": "epiphany:module_completed",
+    "module": "attack:attack"
+  },
+  "condition_description": "需要完成攻击模块",
+  "initial_state": "locked",
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.attack_damage",
+      "amount": 0.15,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "fargo_soul:critical_damage",
+      "amount": 0.1,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:command",
+      "command": "give @s minecraft:diamond_sword[enchantments={levels:{\"minecraft:sharpness\":4}}]"
+    }
+  ],
+  "reward_description": "攻击伤害 +15%, 暴击伤害 +10%, 获得锋利 IV 钻石剑"
+}

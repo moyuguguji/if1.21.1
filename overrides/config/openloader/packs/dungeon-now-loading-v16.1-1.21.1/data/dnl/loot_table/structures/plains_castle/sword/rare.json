@@ -1,25 +1,27 @@
 {
-    "type": "minecraft:chest",
-    "pools": [
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
         {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:diamond_sword",
-                    "functions": [
-                        {
-                            "function": "minecraft:enchant_randomly",
-                            "conditions": [
-                                {
-                                    "condition": "minecraft:random_chance",
-                                    "chance": 0.5
-                                }
-                            ]
-                        }
-                    ]
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "sharpness": 5,
+                    "unbreaking": 3
+                  }
                 }
-            ]
+              }
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }

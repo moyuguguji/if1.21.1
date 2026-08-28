@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:item_frame"
+      "id": "minecraft:item_frame"
     },
     "title": {
       "text": "石雕工艺"

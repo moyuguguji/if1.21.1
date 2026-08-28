@@ -1,0 +1,63 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "756e510eb54a40a9"
+	group: "2918506B9F30927F"
+	id: "756E510EB54A40A9"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "22F2C96C2130885B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2FA702B2E6323486"
+					table_id: 1005535573748960953L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2FF5499E8C6FA5CD"
+					table_id: 1005535573748960953L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "30558A8BF046AC88"
+					item: { count: 1, id: "twilightforest:seeker_bow" }
+					type: "item"
+				}
+				{
+					id: "3601D71025027B14"
+					item: { count: 1, id: "twilightforest:triple_bow" }
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: 6.5d
+		}
+		{
+			id: "5873A2517F7CE2BD"
+			tasks: [{
+				id: "6346ABC606A5AA22"
+				item: { count: 1, id: "twilightforest:giant_sword" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 5.5d
+		}
+		{
+			id: "76F89A4D5E66DB15"
+			tasks: [{
+				id: "678751E300A517C5"
+				item: { count: 1, id: "twilightforest:glass_sword" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 4.5d
+		}
+	]
+}

@@ -12,42 +12,40 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:custom_name": "{\"text\":\"Z教徒旗帜\"}",
-                "minecraft:block_entity_data": {
-                  "Patterns": [
-                    {
-                      "Pattern": "mr",
-                      "Color": 14
-                    },
-                    {
-                      "Pattern": "bs",
-                      "Color": 13
-                    },
-                    {
-                      "Pattern": "cs",
-                      "Color": 7
-                    },
-                    {
-                      "Pattern": "bo",
-                      "Color": 13
-                    },
-                    {
-                      "Pattern": "ms",
-                      "Color": 15
-                    },
-                    {
-                      "Pattern": "hh",
-                      "Color": 13
-                    },
-                    {
-                      "Pattern": "mc",
-                      "Color": 13
-                    },
-                    {
-                      "Pattern": "bo",
-                      "Color": 15
-                    }
-                  ]
-                }
+                "minecraft:banner_patterns": [
+                  {
+                    "pattern": "rhombus",
+                    "color": "red"
+                  },
+                  {
+                    "pattern": "stripe_bottom",
+                    "color": "green"
+                  },
+                  {
+                    "pattern": "stripe_center",
+                    "color": "gray"
+                  },
+                  {
+                    "pattern": "border",
+                    "color": "green"
+                  },
+                  {
+                    "pattern": "stripe_middle",
+                    "color": "black"
+                  },
+                  {
+                    "pattern": "half_horizontal",
+                    "color": "green"
+                  },
+                  {
+                    "pattern": "circle",
+                    "color": "green"
+                  },
+                  {
+                    "pattern": "border",
+                    "color": "black"
+                  }
+                ]
               }
             }
           ]

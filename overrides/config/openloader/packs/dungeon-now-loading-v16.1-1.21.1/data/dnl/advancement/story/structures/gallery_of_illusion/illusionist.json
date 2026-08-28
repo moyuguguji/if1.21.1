@@ -7,7 +7,7 @@
       "text": "找到并阻止刌民头目继续劫掠村庄！"
     },
     "icon": {
-      "item": "minecraft:painting"
+      "id": "minecraft:painting"
     },
     "frame": "task",
     "show_toast": true,

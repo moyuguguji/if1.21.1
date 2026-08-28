@@ -21,8 +21,7 @@
                 "minecraft:lore": [
                   "{\"text\":\"奥林匹斯竞技场\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4040012,
-                "minecraft:hide_tooltip": {}
+                "minecraft:custom_model_data": 4040012
               }
             },
             {

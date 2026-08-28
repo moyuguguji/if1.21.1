@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:poppy"
+      "id": "minecraft:poppy"
     },
     "title": "失落之原野",
     "description": "环绕着虞美人的寂静墓原",
@@ -15,9 +15,17 @@
     "locate_forgotten_field": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:forgotten_field"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:forgotten_field"
+              }
+            }
+          }
+        ]
       }
     }
   },

@@ -1,0 +1,13 @@
+{
+  "name": "召唤攻击",
+  "description": "永久提升 15% 仆从伤害",
+  "item_icon": "servantry:xeno_staff",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "servantry:servant_damage",
+    "amount": 0.15,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "仆从伤害 +15%"
+}

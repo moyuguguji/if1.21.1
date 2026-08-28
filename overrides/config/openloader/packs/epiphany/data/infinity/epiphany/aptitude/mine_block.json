@@ -1,0 +1,18 @@
+{
+  "default": 1,
+  "specials": [
+    { "target": "#minecraft:copper_ores",   "reward": 2 },
+    { "target": "#minecraft:iron_ores",     "reward": 2 },
+    { "target": "#minecraft:gold_ores",     "reward": 3 },
+    { "target": "#minecraft:redstone_ores", "reward": 3 },
+    { "target": "#minecraft:lapis_ores",    "reward": 4 },
+    { "target": "#minecraft:diamond_ores",  "reward": 5 },
+    { "target": "#minecraft:emerald_ores",  "reward": 5 },
+    { "target": "minecraft:ancient_debris", "reward": 10 }
+  ],
+  "exclude": [
+    "minecraft:air",
+    "minecraft:water",
+    "minecraft:lava"
+  ]
+}

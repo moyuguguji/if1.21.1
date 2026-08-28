@@ -40,6 +40,21 @@
           "value": "dnl:items/nobility_i"
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.5
+            }
+          ],
+          "value": "dnl:items/plains_castle_key"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "name": "博学",
+  "description": "融会百家之长，阅历与经验兼得。",
+  "item_icon": "minecraft:bookshelf",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "epiphany:aptitude_gain_multiplier",
+      "amount": 0.1,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "artifacts:player.entity_experience",
+      "amount": 0.15,
+      "operation": "add_multiplied_base"
+    }
+  ],
+  "reward_description": "阅历获取倍率 +10%, 实体掉落经验 +15%"
+}

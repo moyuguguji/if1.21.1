@@ -1,0 +1,9 @@
+{
+  "commands.revelationary.advancement.revoke": "从 %s:%s 中的 %s 撤销了 %d 个进度",
+  "commands.revelationary.advancement.grant": "给予 %s:%s 中的 %s %d 个进度",
+  "commands.revelationary.advancement.sync": "将 %s:%s 中的 %s 的 %d 个进度同步到 %s",
+  "text.autoconfig.Revelationary.title": "Revelationary",
+  "text.autoconfig.Revelationary.option.UseTargetBlockOrItemNameInsteadOfScatter": "使用目标方块/物品名称，而不是将其散落",
+  "text.autoconfig.Revelationary.option.NameForCloakedBlocks": "伪装方块的名称",
+  "text.autoconfig.Revelationary.option.NameForCloakedItems": "伪装物品的名称"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "轻身术",
+  "description": "永久提升 5% 移动速度、1 点安全摔落距离与 0.5 跳跃高度",
+  "item_icon": "minecraft:leather_boots",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "amount": 0.05,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.safe_fall_distance",
+      "amount": 1.0,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.jump_strength",
+      "amount": 0.5,
+      "operation": "add_value"
+    }
+  ],
+  "reward_description": "移动速度 +5%, 安全摔落距离 +1, 跳跃高度 +0.5"
+}

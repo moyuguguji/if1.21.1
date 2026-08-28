@@ -1,0 +1,13 @@
+{
+  "name": "攻击速度 I",
+  "description": "永久提升 2% 攻击速度",
+  "item_icon": "minecraft:golden_sword",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.attack_speed",
+    "amount": 0.02,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+2% 攻击速度"
+}

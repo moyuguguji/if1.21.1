@@ -1,0 +1,21 @@
+{
+  "name": "轻装上阵",
+  "description": "卸下重甲，让脚步与风同行。",
+  "item_icon": "minecraft:chainmail_boots",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.armor",
+      "amount": -1.0,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "amount": 0.1,
+      "operation": "add_multiplied_base"
+    }
+  ],
+  "reward_description": "护甲值 -1, 移动速度 +10%"
+}

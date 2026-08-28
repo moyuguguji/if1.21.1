@@ -21,5 +21,7 @@ PlayerEvents.loggedIn(event => {
         player.give('minecraft:amethyst_shard')
         player.give('spectrum:citrine_shard')
         player.give('spectrum:topaz_shard')
+        player.give('backpacked:backpack[backpacked:unlockable_slots={maxSlots:45,slots:[I;0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]},backpacked:unlockable_augment_bays={maxSlots:3,slots:[I;0]},container=[]]')
+        player.give('collectorsalbum:album')
     })
 })

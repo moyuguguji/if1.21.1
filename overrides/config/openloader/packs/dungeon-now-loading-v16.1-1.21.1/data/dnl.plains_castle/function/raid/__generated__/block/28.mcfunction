@@ -11,15 +11,15 @@ scoreboard players set #dnl.difficulty_6 dnl.difficulty 0
 scoreboard players set #dnl.difficulty_7 dnl.difficulty 0
 scoreboard players set #dnl.difficulty_8 dnl.difficulty 0
 scoreboard players set #dnl.difficulty_9 dnl.difficulty 0
-execute store result score #dnl.difficulty_1 dnl.difficulty run if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_1]
-execute store result score #dnl.difficulty_2 dnl.difficulty run if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_2]
-execute store result score #dnl.difficulty_3 dnl.difficulty run if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_3]
-execute store result score #dnl.difficulty_4 dnl.difficulty run if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_4]
-execute store result score #dnl.difficulty_5 dnl.difficulty run if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_5]
-execute store result score #dnl.difficulty_6 dnl.difficulty run if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_6]
-execute store result score #dnl.difficulty_7 dnl.difficulty run if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_7]
-execute store result score #dnl.difficulty_8 dnl.difficulty run if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_8]
-execute store result score #dnl.difficulty_9 dnl.difficulty run if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_9]
+execute store result score #dnl.difficulty_1 dnl.difficulty run execute if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_1]
+execute store result score #dnl.difficulty_2 dnl.difficulty run execute if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_2]
+execute store result score #dnl.difficulty_3 dnl.difficulty run execute if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_3]
+execute store result score #dnl.difficulty_4 dnl.difficulty run execute if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_4]
+execute store result score #dnl.difficulty_5 dnl.difficulty run execute if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_5]
+execute store result score #dnl.difficulty_6 dnl.difficulty run execute if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_6]
+execute store result score #dnl.difficulty_7 dnl.difficulty run execute if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_7]
+execute store result score #dnl.difficulty_8 dnl.difficulty run execute if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_8]
+execute store result score #dnl.difficulty_9 dnl.difficulty run execute if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner,tag=dnl.difficulty_9]
 scoreboard players operation #dnl.difficulty_1 dnl.difficulty *= #1 dnl.constant
 scoreboard players operation #dnl.difficulty_2 dnl.difficulty *= #2 dnl.constant
 scoreboard players operation #dnl.difficulty_3 dnl.difficulty *= #3 dnl.constant

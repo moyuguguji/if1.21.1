@@ -1,0 +1,15 @@
+{
+  "name": "魔御",
+  "description": "对魔法伤害有了更深的理解。",
+  "item_icon": "minecraft:shield",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "additionalentityattributes:generic.magic_protection",
+      "amount": 0.5,
+      "operation": "add_value"
+    }
+  ],
+  "reward_description": "魔法保护 +0.5"
+}

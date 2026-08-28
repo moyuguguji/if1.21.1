@@ -1,0 +1,21 @@
+{
+  "name": "透支生命",
+  "description": "伤口不再愈合，但你的手将快过闪电。",
+  "item_icon": "minecraft:rotten_flesh",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "cataclysm:nature_heal",
+      "amount": -0.05,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.attack_speed",
+      "amount": 0.1,
+      "operation": "add_multiplied_base"
+    }
+  ],
+  "reward_description": "生命值自然恢复速度 -5%, 攻击速度 +10%"
+}

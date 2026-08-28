@@ -1,0 +1,13 @@
+{
+  "name": "轻云",
+  "description": "永久提升 1 点安全摔落高度",
+  "item_icon": "minecraft:leather_boots",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.safe_fall_distance",
+    "amount": 1.0,
+    "operation": "add_value"
+  },
+  "reward_description": "+1 安全摔落高度"
+}

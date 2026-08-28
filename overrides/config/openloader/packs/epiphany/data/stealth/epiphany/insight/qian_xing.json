@@ -1,0 +1,13 @@
+{
+  "name": "疾行",
+  "description": "永久提升 10% 移动速度",
+  "item_icon": "minecraft:leather_boots",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.movement_speed",
+    "amount": 0.1,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+10% 移动速度"
+}

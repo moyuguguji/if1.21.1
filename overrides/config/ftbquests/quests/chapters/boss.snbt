@@ -1,0 +1,368 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	disable_toast: true
+	filename: "boss"
+	group: ""
+	id: "54A143AC00492D8E"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "515CA9402FF98EC6"
+			tasks: [{
+				id: "5F2E8F193C386748"
+				item: { count: 1, id: "twilightforest:naga_trophy" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["515CA9402FF98EC6"]
+			id: "441465EF04DFB6AB"
+			tasks: [{
+				id: "134D3E989F106B29"
+				item: { count: 1, id: "twilightforest:lich_trophy" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["441465EF04DFB6AB"]
+			id: "552CF29C33D6BC1B"
+			tasks: [{
+				id: "5F888A70BE897E99"
+				item: { count: 1, id: "twilightforest:minoshroom_trophy" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["552CF29C33D6BC1B"]
+			id: "7D134F38F7B7979E"
+			tasks: [{
+				id: "5D4FEFADAF5B3A75"
+				item: { count: 1, id: "twilightforest:hydra_trophy" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["441465EF04DFB6AB"]
+			id: "45E5FD70514490E1"
+			tasks: [{
+				id: "0B793005A60F3C40"
+				item: { count: 1, id: "twilightforest:knight_phantom_trophy" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["45E5FD70514490E1"]
+			id: "13FB98B1625B5F72"
+			tasks: [{
+				id: "416F1A0DE0C208B5"
+				item: { count: 1, id: "twilightforest:ur_ghast_trophy" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["441465EF04DFB6AB"]
+			id: "4ADA6596F2A3AB11"
+			tasks: [{
+				id: "7663FBE4EF2E5324"
+				item: { count: 1, id: "twilightforest:alpha_yeti_trophy" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4ADA6596F2A3AB11"]
+			id: "2E11CBC3789EAF47"
+			tasks: [{
+				id: "7DC83525056B7CB5"
+				item: { count: 1, id: "twilightforest:snow_queen_trophy" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["441465EF04DFB6AB"]
+			id: "1DBB16C57FF84E5A"
+			tasks: [{
+				id: "7359BA26BBC67A55"
+				item: { count: 1, id: "twilightforest:quest_ram_trophy" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			disable_toast: true
+			id: "7BC9EF328769CA36"
+			tasks: [{
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "0B3A6FD61D95E2B5"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			disable_toast: true
+			id: "67DA3672A4085FE7"
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:wither"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "1B437062091358C3"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"7D134F38F7B7979E"
+				"13FB98B1625B5F72"
+				"2E11CBC3789EAF47"
+			]
+			icon: {
+				id: "twilightforest:giant_sword"
+			}
+			id: "517BE4DA25D1611B"
+			tasks: [
+				{
+					entity: "twilightforest:armored_giant"
+					id: "64758488C662BB76"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "twilightforest:giant_miner"
+					id: "3719960499FAFFBE"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2DB12DD32C589D94"]
+			id: "064A18714C114CA0"
+			tasks: [{
+				advancement: "cataclysm:kill_ignis"
+				criterion: ""
+				id: "0211670EAE679F02"
+				type: "advancement"
+			}]
+			x: -13.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["55FDDBEBC0EC5996"]
+			id: "0619ED31C453C709"
+			tasks: [{
+				advancement: "cataclysm:kill_leviathan"
+				criterion: ""
+				id: "00661FCCD268A29A"
+				type: "advancement"
+			}]
+			x: -8.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["45F8EDA4A5A99F04"]
+			id: "0D347301EF56E64D"
+			tasks: [{
+				advancement: "cataclysm:kill_harbinger"
+				criterion: ""
+				id: "49F9D6C23AFF8832"
+				type: "advancement"
+			}]
+			x: -8.0d
+			y: 0.5d
+		}
+		{
+			id: "6F18EBEACC10858B"
+			tasks: [{
+				entity: "cataclysm:the_watcher"
+				id: "5649AF214C039E51"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["6CEFEF20C232F7CC"]
+			id: "33187C8DF95247F2"
+			tasks: [{
+				advancement: "cataclysm:kill_remnant"
+				criterion: ""
+				id: "09CD50A65A687C32"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["60E94D11D76395F6"]
+			id: "61DABD807E2D36FC"
+			tasks: [{
+				advancement: "cataclysm:kill_ender_golem"
+				criterion: ""
+				id: "3D31B648ECDD9322"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["61DABD807E2D36FC"]
+			id: "0CC022238DACEEE2"
+			tasks: [{
+				advancement: "cataclysm:kill_ender_guardian"
+				criterion: ""
+				id: "092F073FF80B9465"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7FF946EED99F2123"]
+			id: "2D2E21088DD24487"
+			tasks: [{
+				advancement: "cataclysm:kill_monstrosity"
+				criterion: ""
+				id: "4FB12853EF86DCFA"
+				type: "advancement"
+			}]
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["30FB55010E5166BD"]
+			id: "5F5235849CEC1C6C"
+			tasks: [{
+				advancement: "cataclysm:kill_maledictus"
+				criterion: ""
+				id: "7413E3B266F850F1"
+				type: "advancement"
+			}]
+			x: -5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5F23227BFAF00CB0"]
+			id: "578B5C72DC4EE60C"
+			tasks: [{
+				advancement: "cataclysm:kill_scylla"
+				criterion: ""
+				id: "08D0BD58196953FE"
+				type: "advancement"
+			}]
+			x: -13.0d
+			y: 3.5d
+		}
+		{
+			id: "2DB12DD32C589D94"
+			tasks: [{
+				id: "74FC9220557ED61A"
+				item: { count: 1, id: "cataclysm:flame_eye" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -1.0d
+		}
+		{
+			id: "6CEFEF20C232F7CC"
+			tasks: [{
+				id: "3B72775B27C49940"
+				item: { count: 1, id: "cataclysm:desert_eye" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -1.0d
+		}
+		{
+			id: "45F8EDA4A5A99F04"
+			tasks: [{
+				id: "4B624386A4D96A83"
+				item: { count: 1, id: "cataclysm:mech_eye" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -1.0d
+		}
+		{
+			id: "7FF946EED99F2123"
+			tasks: [{
+				id: "31D7BE24EC656F13"
+				item: { count: 1, id: "cataclysm:monstrous_eye" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			id: "5F23227BFAF00CB0"
+			tasks: [{
+				id: "4141128DF99171A4"
+				item: { count: 1, id: "cataclysm:storm_eye" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 2.0d
+		}
+		{
+			id: "60E94D11D76395F6"
+			tasks: [{
+				id: "1138C355D530C7B5"
+				item: { count: 1, id: "cataclysm:void_eye" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 2.0d
+		}
+		{
+			id: "55FDDBEBC0EC5996"
+			tasks: [{
+				id: "6E60B405C3D07013"
+				item: { count: 1, id: "cataclysm:abyss_eye" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.0d
+		}
+		{
+			id: "30FB55010E5166BD"
+			tasks: [{
+				id: "60ECB51F727CF8ED"
+				item: { count: 1, id: "cataclysm:cursed_eye" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.0d
+		}
+	]
+}

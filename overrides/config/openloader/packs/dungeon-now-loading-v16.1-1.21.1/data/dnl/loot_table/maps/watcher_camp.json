@@ -21,8 +21,7 @@
                 "minecraft:lore": [
                   "{\"text\":\"瞭望者营地\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4040007,
-                "minecraft:hide_tooltip": {}
+                "minecraft:custom_model_data": 4040007
               }
             },
             {

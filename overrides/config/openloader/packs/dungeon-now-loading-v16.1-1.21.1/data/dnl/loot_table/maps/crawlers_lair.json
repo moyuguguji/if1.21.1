@@ -21,8 +21,7 @@
                 "minecraft:lore": [
                   "{\"text\":\"阴暗巢穴\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4040008,
-                "minecraft:hide_tooltip": {}
+                "minecraft:custom_model_data": 4040008
               }
             },
             {

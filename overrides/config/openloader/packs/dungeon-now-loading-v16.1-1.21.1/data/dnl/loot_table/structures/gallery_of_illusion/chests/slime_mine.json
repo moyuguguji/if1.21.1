@@ -118,10 +118,11 @@
                   "CustomName": "{\"text\":\" \"}",
                   "Attributes": [
                     {
-                      "Name": "generic.max_health",
-                      "Base": 20
+                      "id": "minecraft:generic.max_health",
+                      "base": 20
                     }
-                  ]
+                  ],
+                  "id": "minecraft:slime"
                 }
               }
             },

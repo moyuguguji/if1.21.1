@@ -11,14 +11,16 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:lore": [
-                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
-                ],
                 "minecraft:enchantments": {
                   "levels": {
-                    "protection": 5
+                    "protection": 5,
+                    "unbreaking": 3,
+                    "thorns": 2
                   }
-                }
+                },
+                "minecraft:lore": [
+                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
+                ]
               }
             },
             {
@@ -34,14 +36,16 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:lore": [
-                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
-                ],
                 "minecraft:enchantments": {
                   "levels": {
-                    "protection": 5
+                    "protection": 5,
+                    "unbreaking": 3,
+                    "thorns": 2
                   }
-                }
+                },
+                "minecraft:lore": [
+                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
+                ]
               }
             },
             {
@@ -57,14 +61,16 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:lore": [
-                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
-                ],
                 "minecraft:enchantments": {
                   "levels": {
-                    "protection": 5
+                    "protection": 5,
+                    "unbreaking": 3,
+                    "thorns": 2
                   }
-                }
+                },
+                "minecraft:lore": [
+                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
+                ]
               }
             },
             {
@@ -80,14 +86,16 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:lore": [
-                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
-                ],
                 "minecraft:enchantments": {
                   "levels": {
-                    "protection": 5
+                    "protection": 5,
+                    "unbreaking": 3,
+                    "thorns": 2
                   }
-                }
+                },
+                "minecraft:lore": [
+                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
+                ]
               }
             },
             {

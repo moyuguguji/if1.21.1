@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:gold_ingot",
       "components": {
         "minecraft:custom_model_data": 13001
-      }
+      },
+      "id": "minecraft:gold_ingot"
     },
     "title": "一锭沁甜",
     "description": "在蜂房中，用哭泣的黑曜石制作一块蜂窝锭",

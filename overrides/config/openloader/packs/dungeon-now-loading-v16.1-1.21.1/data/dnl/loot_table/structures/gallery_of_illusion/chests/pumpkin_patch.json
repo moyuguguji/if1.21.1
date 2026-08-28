@@ -27,27 +27,25 @@
                   ],
                   "show_in_tooltip": false
                 },
-                "minecraft:block_entity_data": {
-                  "Base": 1,
-                  "Patterns": [
-                    {
-                      "Color": 12,
-                      "Pattern": "ss"
-                    },
-                    {
-                      "Color": 1,
-                      "Pattern": "gru"
-                    },
-                    {
-                      "Color": 13,
-                      "Pattern": "tts"
-                    },
-                    {
-                      "Color": 15,
-                      "Pattern": "cre"
-                    }
-                  ]
-                }
+                "minecraft:banner_patterns": [
+                  {
+                    "pattern": "small_stripes",
+                    "color": "brown"
+                  },
+                  {
+                    "pattern": "gradient_up",
+                    "color": "orange"
+                  },
+                  {
+                    "pattern": "triangles_top",
+                    "color": "green"
+                  },
+                  {
+                    "pattern": "creeper",
+                    "color": "black"
+                  }
+                ],
+                "minecraft:base_color": "orange"
               }
             },
             {

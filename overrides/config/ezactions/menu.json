@@ -45,11 +45,11 @@
   },
   {
     "id": "key_19d285a3c06",
-    "title": "打开无限终端",
+    "title": "打开无限合成终端",
     "icon": "refinedstorage:wireless_grid",
     "action": {
       "type": "KEY",
-      "name": "key.refinedstorage.open_wireless_grid",
+      "name": "key.refinedstorage_quartz_arsenal.open_wireless_crafting_grid",
       "toggle": false,
       "mode": "AUTO"
     }
@@ -72,6 +72,266 @@
     "action": {
       "type": "KEY",
       "name": "key.fieldguide.open",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_1a0474da8c8",
+    "title": "打开顿悟菜单",
+    "icon": "minecraft:writable_book",
+    "action": {
+      "type": "KEY",
+      "name": "key.epiphany.open_ui",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_1a047527363",
+    "title": "新建路径点",
+    "icon": "waystones:waystone",
+    "action": {
+      "type": "KEY",
+      "name": "gui.xaero_new_waypoint",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "魂石技能",
+    "title": "魂石技能",
+    "icon": "twilightsoul:twilight_soul",
+    "hideFromMainRadial": true,
+    "bundleKeybindEnabled": true,
+    "children": [
+      {
+        "id": "key_1a04754fec6",
+        "title": "金身",
+        "icon": "fargo_soul:gold_soul",
+        "action": {
+          "type": "KEY",
+          "name": "金身",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a048186463",
+        "title": "喷射",
+        "icon": "twilightsoul:moonlight_soul",
+        "action": {
+          "type": "KEY",
+          "name": "喷射",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a04818d230",
+        "title": "撼地",
+        "icon": "twilightsoul:minotaur_soul",
+        "action": {
+          "type": "KEY",
+          "name": "撼地",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a048194d06",
+        "title": "幻影",
+        "icon": "twilightsoul:phantom_knight_soul",
+        "action": {
+          "type": "KEY",
+          "name": "幻影",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a0481dfb3e",
+        "title": "传送",
+        "icon": "fargo_soul:vortex_soul",
+        "action": {
+          "type": "KEY",
+          "name": "传送",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a0481f29f6",
+        "title": "风暴",
+        "icon": "fargo_soul:forbidden_soul",
+        "action": {
+          "type": "KEY",
+          "name": "风暴",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a0481f7afd",
+        "title": "冻结",
+        "icon": "fargo_soul:stardust_soul",
+        "action": {
+          "type": "KEY",
+          "name": "冻结",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      }
+    ]
+  },
+  {
+    "id": "饰品与装备",
+    "title": "饰品与装备",
+    "icon": "artifacts:golden_hook",
+    "hideFromMainRadial": true,
+    "bundleKeybindEnabled": true,
+    "children": [
+      {
+        "id": "key_1a0482db2df",
+        "title": "灾变头盔能力",
+        "icon": "cataclysm:ignitium_helmet",
+        "action": {
+          "type": "KEY",
+          "name": "key.cataclysm.helmet_ability",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a0482dfc6f",
+        "title": "灾变胸甲能力",
+        "icon": "cataclysm:ignitium_elytra_chestplate",
+        "action": {
+          "type": "KEY",
+          "name": "key.cataclysm.chestplate_ability",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a0482e8d1d",
+        "title": "灾变护腿能力",
+        "icon": "cataclysm:ignitium_leggings",
+        "action": {
+          "type": "KEY",
+          "name": "key.cataclysm.ability",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a0482ef8be",
+        "title": "灾变靴子能力",
+        "icon": "cataclysm:ignitium_boots",
+        "action": {
+          "type": "KEY",
+          "name": "key.cataclysm.boots_ability",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a0482ff142",
+        "title": "启用下沉护符",
+        "icon": "artifacts:charm_of_sinking",
+        "action": {
+          "type": "KEY",
+          "name": "artifacts.key.charm_of_sinking.toggle",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a04830366e",
+        "title": "启用夜视仪",
+        "icon": "artifacts:night_vision_goggles",
+        "action": {
+          "type": "KEY",
+          "name": "artifacts.key.night_vision_goggles.toggle",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a04830b69e",
+        "title": "启用强力磁铁",
+        "icon": "artifacts:universal_attractor",
+        "action": {
+          "type": "KEY",
+          "name": "artifacts.key.universal_attractor.toggle",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a048313623",
+        "title": "启用缩小护符",
+        "icon": "artifacts:charm_of_shrinking",
+        "action": {
+          "type": "KEY",
+          "name": "artifacts.key.charm_of_shrinking.toggle",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a04831b9e0",
+        "title": "启用隐形围巾",
+        "icon": "artifacts:scarf_of_invisibility",
+        "action": {
+          "type": "KEY",
+          "name": "artifacts.key.scarf_of_invisibility.toggle",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a048324266",
+        "title": "激活氮气火烈鸟",
+        "icon": "artifacts:helium_flamingo",
+        "action": {
+          "type": "KEY",
+          "name": "artifacts.key.helium_flamingo.activate",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_1a04832fef8",
+        "title": "切换护目镜红线视觉",
+        "icon": "twilightforest:travellers_goggles",
+        "action": {
+          "type": "KEY",
+          "name": "key.twilightforest.red_thread_vision",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      }
+    ]
+  },
+  {
+    "id": "key_1a04835f2ec",
+    "title": "切换快捷栏",
+    "icon": "twilightforest:travellers_belt",
+    "action": {
+      "type": "KEY",
+      "name": "key.twilightforest.swap_hotbar",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_1a04836ed09",
+    "title": "循环物品显示地图",
+    "icon": "twilightforest:filled_magic_map",
+    "action": {
+      "type": "KEY",
+      "name": "key.twilightforest.item_display_map_cycle",
       "toggle": false,
       "mode": "AUTO"
     }

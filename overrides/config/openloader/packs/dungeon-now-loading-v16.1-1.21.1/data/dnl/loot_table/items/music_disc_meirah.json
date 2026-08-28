@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_wait",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"text\":\"Forgotten Music Disc\",\"color\":\"#FF55FF\",\"italic\":false}",
+                "minecraft:lore": [
+                  "{\"text\":\"Ruddymuddyclod - Meirah\",\"color\":\"#AAAAAA\",\"italic\":false}"
+                ]
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{dnl.item:1b,dnl.music_disc_meirah:1b,dnl.music:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

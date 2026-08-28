@@ -1,0 +1,879 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7826939e50b6d5ff"
+	group: ""
+	icon: {
+		id: "fargo_soul:terra_soul"
+	}
+	id: "7826939E50B6D5FF"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "60BE35D57C41D532"
+			tasks: [{
+				id: "0177D786E2FE3F53"
+				item: { count: 1, id: "fargo_soul:cosmic_crucible" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["60BE35D57C41D532"]
+			hide_dependency_lines: true
+			id: "57C010F4D395EDBA"
+			tasks: [{
+				id: "5FCA2AAEABBACD30"
+				item: { count: 1, id: "fargo_soul:soul" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "57BE9878D5C893C2"
+			tasks: [{
+				id: "0104DD68F36C2395"
+				item: { count: 1, id: "fargo_soul:copper_soul" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "4822BBD18F79BE22"
+			tasks: [{
+				id: "335359D88B33BA9E"
+				item: { count: 1, id: "fargo_soul:iron_soul" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "7CB8FC5144F2CC13"
+			tasks: [{
+				id: "6B8C4CA3D0E0B710"
+				item: { count: 1, id: "fargo_soul:lead_soul" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "47C596460123B2B0"
+			tasks: [{
+				id: "79883A4407C07D85"
+				item: { count: 1, id: "fargo_soul:obsidian_soul" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "35E6972849E9F884"
+			tasks: [{
+				id: "6197311AAEA1E71C"
+				item: { count: 1, id: "fargo_soul:silver_soul" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "1D8783521FABCCD7"
+			tasks: [{
+				id: "2949BD7A3077CA5F"
+				item: { count: 1, id: "fargo_soul:tin_soul" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "2BC2DF161C41AE17"
+			tasks: [{
+				id: "25D5EB40C91E2775"
+				item: { count: 1, id: "fargo_soul:tungsten_soul" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "005ADB81E38D0BD4"
+			tasks: [{
+				id: "098DD97B327848F8"
+				item: { count: 1, id: "fargo_soul:blaze_soul" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "3755E867519BA584"
+			tasks: [{
+				id: "5BB708CDE5F026BF"
+				item: { count: 1, id: "fargo_soul:stardust_soul" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "19C821025CD36EE9"
+			tasks: [{
+				id: "7AA2213DCC8550A5"
+				item: { count: 1, id: "fargo_soul:nebula_soul" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "4C7F4A0B2DB0738F"
+			tasks: [{
+				id: "16B8072019C7DA47"
+				item: { count: 1, id: "fargo_soul:vortex_soul" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "32E4F121979E8A30"
+			tasks: [{
+				id: "3C475190BB4F5847"
+				item: { count: 1, id: "fargo_soul:meteor_soul" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "5EC444D6E61E3B28"
+			tasks: [{
+				id: "5FA2F9779E30B0B3"
+				item: { count: 1, id: "fargo_soul:wizard_soul" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "11D0B6AA61EE36A7"
+			tasks: [{
+				id: "57F2F2404D2BA71E"
+				item: { count: 1, id: "fargo_soul:gladiator_soul" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "07D4169C46EA8C38"
+			tasks: [{
+				id: "4ED12621F9201266"
+				item: { count: 1, id: "fargo_soul:gold_soul" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "58F3A6B2E6D2CD86"
+			tasks: [{
+				id: "7BA2942064890A78"
+				item: { count: 1, id: "fargo_soul:platinum_soul" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "5EB5C4110AA42B96"
+			tasks: [{
+				id: "61B1B473F56AED14"
+				item: { count: 1, id: "fargo_soul:red_riding_soul" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "23A9A7E6635B3309"
+			tasks: [{
+				id: "26115A26742958DD"
+				item: { count: 1, id: "fargo_soul:valhalla_knight_soul" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "0941B317277F2A0D"
+			tasks: [{
+				id: "249C821D35808215"
+				item: { count: 1, id: "fargo_soul:ancient_shadow_soul" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "4CE3A55C2ABAAF1D"
+			tasks: [{
+				id: "3F902410A68119F9"
+				item: { count: 1, id: "fargo_soul:crystal_assassin_soul" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "08D4D94E8D48868D"
+			tasks: [{
+				id: "7C243F707BC042E8"
+				item: { count: 1, id: "fargo_soul:dark_artist_soul" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "5C0B8348CFAE79E2"
+			tasks: [{
+				id: "10D629C1E5171C5B"
+				item: { count: 1, id: "fargo_soul:gloomy_soul" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "6F41650C1341AD1C"
+			tasks: [{
+				id: "7EEC1023594DC533"
+				item: { count: 1, id: "fargo_soul:necromancer_soul" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "501DB8474CE51602"
+			tasks: [{
+				id: "1A78AA3052CE3B47"
+				item: { count: 1, id: "fargo_soul:ninja_soul" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "0C2E581C04A31D71"
+			tasks: [{
+				id: "0C9DE76CC943C745"
+				item: { count: 1, id: "fargo_soul:penetrating_ninja_soul" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "56715E0FEA15FC1C"
+			tasks: [{
+				id: "3EF8F82F6B5BED5D"
+				item: { count: 1, id: "fargo_soul:bee_soul" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "259464F2CC145C86"
+			tasks: [{
+				id: "35EA285093F3438F"
+				item: { count: 1, id: "fargo_soul:beetle_soul" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "77D02BDA040F4FE3"
+			tasks: [{
+				id: "7C8E71EF8140A11B"
+				item: { count: 1, id: "fargo_soul:pumpkin_soul" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "79DFEDA599CD1E90"
+			tasks: [{
+				id: "37ACFDEC3C3F70FF"
+				item: { count: 1, id: "fargo_soul:spider_soul" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "24FCCF9BEC6F10CE"
+			tasks: [{
+				id: "424DDF734340B416"
+				item: { count: 1, id: "fargo_soul:turtle_soul" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "67949AD2B518C634"
+			tasks: [{
+				id: "27319D5A026A5AB9"
+				item: { count: 1, id: "fargo_soul:ebony_wood_soul" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "23929515E7CECC66"
+			tasks: [{
+				id: "6BF0416FF66669B9"
+				item: { count: 1, id: "fargo_soul:palm_wood_soul" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "09F5F3B2777C555D"
+			tasks: [{
+				id: "5E366A7F40CB6AE6"
+				item: { count: 1, id: "fargo_soul:pearl_wood_soul" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "0BD76E12B5CB0C75"
+			tasks: [{
+				id: "2E3D009CECD7060C"
+				item: { count: 1, id: "fargo_soul:pine_wood_soul" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "30EDADC495357E2E"
+			tasks: [{
+				id: "5D2D4DB988826DA9"
+				item: { count: 1, id: "fargo_soul:rose_wood_soul" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "5499E8CC3CE7464E"
+			tasks: [{
+				id: "468BFEBF23106080"
+				item: { count: 1, id: "fargo_soul:shadow_wood_soul" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "78C0EFFBE6E469B7"
+			tasks: [{
+				id: "3A1255D921A98940"
+				item: { count: 1, id: "fargo_soul:wood_soul" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "1A7F28C7D6FA3C2E"
+			tasks: [{
+				id: "01174D3C315E817E"
+				item: { count: 1, id: "fargo_soul:ancient_holy_soul" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "1C9D9CB23F6A7042"
+			tasks: [{
+				id: "658BD77A73358560"
+				item: { count: 1, id: "fargo_soul:forbidden_soul" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "052190EDBBB41D97"
+			tasks: [{
+				id: "640C018B7A125322"
+				item: { count: 1, id: "fargo_soul:ghost_soul" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "0CB2391FBED8C786"
+			tasks: [{
+				id: "10A7CDCD3445D2B7"
+				item: { count: 1, id: "fargo_soul:holy_soul" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "560F1F3FCBD576E6"
+			tasks: [{
+				id: "3A066D8B31241EBC"
+				item: { count: 1, id: "fargo_soul:teke_soul" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "0D9165EB4210301D"
+			tasks: [{
+				id: "5E9A2B4EBF2197E7"
+				item: { count: 1, id: "fargo_soul:crimson_soul" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "009963C59E1035D9"
+			tasks: [{
+				id: "633A4AD3BCACD7A1"
+				item: { count: 1, id: "fargo_soul:frost_soul" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "31290E9DF4C7398B"
+			tasks: [{
+				id: "2632EE5A042ECCDD"
+				item: { count: 1, id: "fargo_soul:green_soul" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "050598F283C3E8CB"
+			tasks: [{
+				id: "57CD35E071C20C31"
+				item: { count: 1, id: "fargo_soul:lava_soul" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "24337237D7499800"
+			tasks: [{
+				id: "5D75B90D4D700F2F"
+				item: { count: 1, id: "fargo_soul:mushroom_soul" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "6E9E07A4CF8B3CFC"
+			tasks: [{
+				id: "679053E3BFB65D33"
+				item: { count: 1, id: "fargo_soul:rain_cloud_soul" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "658788492398DFEA"
+			tasks: [{
+				id: "317A714474B676A6"
+				item: { count: 1, id: "fargo_soul:adamantite_soul" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "700DA252A1CC1C37"
+			tasks: [{
+				id: "350F95709E9D8363"
+				item: { count: 1, id: "fargo_soul:cobalt_soul" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "50E7FEABBC4F410D"
+			tasks: [{
+				id: "037407FDCB3D245A"
+				item: { count: 1, id: "fargo_soul:mithril_soul" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "10956DF85BA5957A"
+			tasks: [{
+				id: "1BE04AD1EE01D10E"
+				item: { count: 1, id: "fargo_soul:orichalcum_soul" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "0204D0BD6244261A"
+			tasks: [{
+				id: "433F041DABACBB64"
+				item: { count: 1, id: "fargo_soul:palladium_soul" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["57C010F4D395EDBA"]
+			hide_dependency_lines: true
+			id: "133FBBED81C2B6C9"
+			tasks: [{
+				id: "4E8D9A21A0D24110"
+				item: { count: 1, id: "fargo_soul:titanium_soul" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"57BE9878D5C893C2"
+				"4822BBD18F79BE22"
+				"1D8783521FABCCD7"
+				"2BC2DF161C41AE17"
+				"47C596460123B2B0"
+				"35E6972849E9F884"
+				"7CB8FC5144F2CC13"
+			]
+			hide_dependency_lines: true
+			id: "0877DDC9A9F82792"
+			tasks: [{
+				id: "54A035BA214F585D"
+				item: { count: 1, id: "fargo_soul:terra_power" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"3755E867519BA584"
+				"32E4F121979E8A30"
+				"19C821025CD36EE9"
+				"005ADB81E38D0BD4"
+				"5EC444D6E61E3B28"
+				"4C7F4A0B2DB0738F"
+			]
+			hide_dependency_lines: true
+			id: "27174A9E3292B3AB"
+			tasks: [{
+				id: "6589F61565E92DC4"
+				item: { count: 1, id: "fargo_soul:cosmic_power" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"58F3A6B2E6D2CD86"
+				"5EB5C4110AA42B96"
+				"23A9A7E6635B3309"
+				"11D0B6AA61EE36A7"
+				"07D4169C46EA8C38"
+			]
+			hide_dependency_lines: true
+			id: "4D203E7AD22ECA69"
+			tasks: [{
+				id: "1A4D32620116FF74"
+				item: { count: 1, id: "fargo_soul:will_power" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"0941B317277F2A0D"
+				"501DB8474CE51602"
+				"0C2E581C04A31D71"
+				"6F41650C1341AD1C"
+				"4CE3A55C2ABAAF1D"
+				"5C0B8348CFAE79E2"
+				"08D4D94E8D48868D"
+			]
+			hide_dependency_lines: true
+			id: "0F64265EDA36C8AE"
+			tasks: [{
+				id: "59D86315E53DAE3E"
+				item: { count: 1, id: "fargo_soul:death_power" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"77D02BDA040F4FE3"
+				"24FCCF9BEC6F10CE"
+				"259464F2CC145C86"
+				"56715E0FEA15FC1C"
+				"79DFEDA599CD1E90"
+			]
+			hide_dependency_lines: true
+			id: "426606F54E581356"
+			tasks: [{
+				id: "69CBC38DCE19E304"
+				item: { count: 1, id: "fargo_soul:life_power" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"67949AD2B518C634"
+				"23929515E7CECC66"
+				"0BD76E12B5CB0C75"
+				"30EDADC495357E2E"
+				"78C0EFFBE6E469B7"
+				"5499E8CC3CE7464E"
+			]
+			hide_dependency_lines: true
+			id: "3C4C22718C8AB5CB"
+			tasks: [{
+				id: "76CFCD221BAD5CB7"
+				item: { count: 1, id: "fargo_soul:forest_power" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"560F1F3FCBD576E6"
+				"0CB2391FBED8C786"
+				"1C9D9CB23F6A7042"
+				"1A7F28C7D6FA3C2E"
+				"052190EDBBB41D97"
+			]
+			hide_dependency_lines: true
+			id: "3C4F351FB9052101"
+			tasks: [{
+				id: "55B44E7200DFBD50"
+				item: { count: 1, id: "fargo_soul:spirit_power" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"24337237D7499800"
+				"6E9E07A4CF8B3CFC"
+				"009963C59E1035D9"
+				"0D9165EB4210301D"
+				"31290E9DF4C7398B"
+				"050598F283C3E8CB"
+			]
+			hide_dependency_lines: true
+			id: "0C0C008243EECAB5"
+			tasks: [{
+				id: "00104B40CA1D25B0"
+				item: { count: 1, id: "fargo_soul:nature_power" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"658788492398DFEA"
+				"700DA252A1CC1C37"
+				"10956DF85BA5957A"
+				"0204D0BD6244261A"
+				"133FBBED81C2B6C9"
+				"50E7FEABBC4F410D"
+			]
+			hide_dependency_lines: true
+			id: "03B6D8C172F5F12C"
+			tasks: [{
+				id: "38C6CD464DC58BC1"
+				item: { count: 1, id: "fargo_soul:earth_power" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"0877DDC9A9F82792"
+				"27174A9E3292B3AB"
+				"4D203E7AD22ECA69"
+				"0F64265EDA36C8AE"
+				"3C4C22718C8AB5CB"
+				"3C4F351FB9052101"
+				"0C0C008243EECAB5"
+				"03B6D8C172F5F12C"
+				"426606F54E581356"
+			]
+			hide_dependency_lines: true
+			icon_scale: 2.0d
+			id: "338820A398F1CFD3"
+			size: 2.0d
+			tasks: [{
+				id: "7A4334D2AEDACE1F"
+				item: { count: 1, id: "fargo_soul:terra_soul" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+	]
+}

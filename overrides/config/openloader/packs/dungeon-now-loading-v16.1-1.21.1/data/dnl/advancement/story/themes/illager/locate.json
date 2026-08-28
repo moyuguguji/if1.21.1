@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:crossbow"
+      "id": "minecraft:crossbow"
     },
     "title": "不祥之兆",
     "description": "发现一处灾厄村民据点",
@@ -15,41 +15,81 @@
     "locate_mansion": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:mansion"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:mansion"
+              }
+            }
+          }
+        ]
       }
     },
     "locate_pillager_outpost": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structures": "minecraft:pillager_outpost"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:pillager_outpost"
+              }
+            }
+          }
+        ]
       }
     },
     "locate_railway_outpost": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:railway_outpost"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:railway_outpost"
+              }
+            }
+          }
+        ]
       }
     },
     "locate_cleric_hideout": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:cleric_hideout"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:cleric_hideout"
+              }
+            }
+          }
+        ]
       }
     },
     "locate_gallery_of_illusion": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:gallery_of_illusion"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:gallery_of_illusion"
+              }
+            }
+          }
+        ]
       }
     }
   },

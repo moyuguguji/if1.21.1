@@ -113,19 +113,25 @@
                 "min": 4,
                 "max": 7
               }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 1,
-          "name": "minecraft:firework_rocket",
-          "functions": [
+            },
             {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 4,
-                "max": 7
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:fireworks": {
+                  "explosions": [
+                    {
+                      "shape": "star",
+                      "colors": [
+                        16755517
+                      ],
+                      "fade_colors": [
+                        16765007
+                      ],
+                      "has_twinkle": true,
+                      "has_trail": true
+                    }
+                  ]
+                }
               }
             }
           ]
@@ -140,6 +146,60 @@
               "count": {
                 "min": 4,
                 "max": 7
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:fireworks": {
+                  "explosions": [
+                    {
+                      "shape": "creeper",
+                      "colors": [
+                        16755517
+                      ],
+                      "fade_colors": [
+                        16765007
+                      ],
+                      "has_twinkle": true,
+                      "has_trail": true
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 7
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:fireworks": {
+                  "explosions": [
+                    {
+                      "shape": "burst",
+                      "colors": [
+                        16755517
+                      ],
+                      "fade_colors": [
+                        16765007
+                      ],
+                      "has_twinkle": true,
+                      "has_trail": true
+                    }
+                  ]
+                }
               }
             }
           ]
@@ -437,27 +497,25 @@
                   ],
                   "show_in_tooltip": false
                 },
-                "minecraft:block_entity_data": {
-                  "Base": 1,
-                  "Patterns": [
-                    {
-                      "Color": 12,
-                      "Pattern": "ss"
-                    },
-                    {
-                      "Color": 1,
-                      "Pattern": "gru"
-                    },
-                    {
-                      "Color": 13,
-                      "Pattern": "tts"
-                    },
-                    {
-                      "Color": 15,
-                      "Pattern": "cre"
-                    }
-                  ]
-                }
+                "minecraft:banner_patterns": [
+                  {
+                    "pattern": "small_stripes",
+                    "color": "brown"
+                  },
+                  {
+                    "pattern": "gradient_up",
+                    "color": "orange"
+                  },
+                  {
+                    "pattern": "triangles_top",
+                    "color": "green"
+                  },
+                  {
+                    "pattern": "creeper",
+                    "color": "black"
+                  }
+                ],
+                "minecraft:base_color": "orange"
               }
             },
             {

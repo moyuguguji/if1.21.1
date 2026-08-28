@@ -1,0 +1,18 @@
+{
+	id: "502C73C74EB865D6"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ id: "10270D9D04B36120", item: { count: 1, id: "spectrum:orange_sapling" } }
+		{ id: "4044A66DEA96A8C5", item: { count: 1, id: "spectrum:magenta_sapling" } }
+		{ id: "38162CFC595939A2", item: { count: 1, id: "spectrum:light_blue_sapling" } }
+		{ id: "08F79FBA1C2C08AD", item: { count: 1, id: "spectrum:yellow_sapling" } }
+		{ id: "758730C1300349EC", item: { count: 1, id: "spectrum:lime_sapling" } }
+		{ id: "3AE1247DFB3E6DA3", item: { count: 1, id: "spectrum:pink_sapling" } }
+		{ id: "2A4B297D9A443B9D", item: { count: 1, id: "spectrum:cyan_sapling" } }
+		{ id: "1A93C09B56A73244", item: { count: 1, id: "spectrum:purple_sapling" } }
+		{ id: "7043565BC6B7874C", item: { count: 1, id: "spectrum:blue_sapling" } }
+		{ id: "0B42E65847DF02B3", item: { count: 1, id: "spectrum:green_sapling" } }
+		{ id: "7AD4C92B1A5B866C", item: { count: 1, id: "spectrum:red_sapling" } }
+	]
+}

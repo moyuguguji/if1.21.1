@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:redstone_lamp"
+      "id": "minecraft:redstone_lamp"
     },
     "title": "幻象之厅堂",
     "description": "发现一座宏伟的大厦",
@@ -15,9 +15,17 @@
     "locate_gallery_of_illusion": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:gallery_of_illusion"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:gallery_of_illusion"
+              }
+            }
+          }
+        ]
       }
     }
   },

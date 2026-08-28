@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:honeycomb"
+      "id": "minecraft:honeycomb"
     },
     "title": "蜂群之怒",
     "description": "摧毁全部六个蜂巢以阻止蜜蜂持续孵化！",

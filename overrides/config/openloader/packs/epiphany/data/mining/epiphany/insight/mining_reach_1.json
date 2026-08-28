@@ -1,0 +1,13 @@
+{
+  "name": "延展 I",
+  "description": "永久提升 0.5 方块交互距离",
+  "item_icon": "minecraft:wooden_pickaxe",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:player.block_interaction_range",
+    "amount": 0.5,
+    "operation": "add_value"
+  },
+  "reward_description": "+0.5 方块交互距离"
+}

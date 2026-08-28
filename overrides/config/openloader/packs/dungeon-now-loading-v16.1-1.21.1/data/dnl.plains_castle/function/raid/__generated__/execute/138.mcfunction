@@ -8,6 +8,6 @@ execute if score @s dnl.difficulty matches 8.. run bossbar set dnl.raidbar1 colo
 bossbar set dnl.raidbar1 name "Remaining Mobs"
 bossbar set dnl.raidbar1 players @a
 bossbar set dnl.raidbar1 style progress
-execute store result bossbar dnl.raidbar1 max run if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner]
-execute store result bossbar dnl.raidbar1 value run if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner]
+execute store result bossbar dnl.raidbar1 max run execute if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner]
+execute store result bossbar dnl.raidbar1 value run execute if entity @e[type=minecraft:marker,dx=20,dy=13,dz=20,tag=dnl.raid_mob_spawner]
 execute as @a[dx=20,dy=13,dz=20] run bossbar set dnl.raidbar1 visible true

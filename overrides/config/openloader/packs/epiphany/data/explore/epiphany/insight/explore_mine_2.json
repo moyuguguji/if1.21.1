@@ -1,0 +1,13 @@
+{
+  "name": "拓荒 II",
+  "description": "永久提升 10% 挖掘速度",
+  "item_icon": "minecraft:diamond_pickaxe",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:player.block_break_speed",
+    "amount": 0.1,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+10% 挖掘速度"
+}

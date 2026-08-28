@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:netherite_pickaxe",
       "components": {
         "minecraft:custom_model_data": 15003
-      }
+      },
+      "id": "minecraft:netherite_pickaxe"
     },
     "title": "重铸圣物",
     "description": "制作一件古代武器",

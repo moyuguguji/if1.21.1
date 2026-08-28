@@ -21,8 +21,8 @@ execute store result bossbar dnl:slimecore value run scoreboard players get @s d
 execute as @e[type=minecraft:slime,tag=!dnl.slimecore,nbt={Size:0}] run data merge entity @s {DeathLootTable:"minecraft:empty"}
 
 ### Detect when Slimecore size decreases ###
-execute if entity @e[type=minecraft:item,nbt={Item:{id:"minecraft:barrier",count:1,tag:{"dnl.sinkhole":1b,"dnl.slimecore":1b,"dnl.healthdown":1b}}}] run scoreboard players remove @s dnl.health 1
-execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:barrier",count:1,tag:{"dnl.sinkhole":1b,"dnl.slimecore":1b,"dnl.healthdown":1b}}}] run function dnl:mobs/sinkhole/slimecore/core/size_decrease
+execute if entity @e[type=minecraft:item,nbt={Item:{components:{"minecraft:custom_data":{"dnl.sinkhole":1b,"dnl.slimecore":1b,"dnl.healthdown":1b}}}}] run scoreboard players remove @s dnl.health 1
+execute as @e[type=minecraft:item,nbt={Item:{components:{"minecraft:custom_data":{"dnl.sinkhole":1b,"dnl.slimecore":1b,"dnl.healthdown":1b}}}}] run function dnl:mobs/sinkhole/slimecore/core/size_decrease
 
 ### Enable AI for Splitted Slimes ###
 execute as @e[type=minecraft:slime,tag=!dnl.slimecore,nbt={NoAI:1b},distance=..50] run function dnl:mobs/sinkhole/slimecore/core/slimes_ai

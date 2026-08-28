@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:moss_block"
+      "id": "minecraft:moss_block"
     },
     "title": "隐秘之渊",
     "description": "开掘埋没的遗迹",
@@ -15,25 +15,49 @@
     "locate_slime_sinkhole": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:sinkhole"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:sinkhole"
+              }
+            }
+          }
+        ]
       }
     },
     "locate_deep_oasis": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:deep_oasis"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:deep_oasis"
+              }
+            }
+          }
+        ]
       }
     },
     "locate_crawlers_lair": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:crawlers_lair"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:crawlers_lair"
+              }
+            }
+          }
+        ]
       }
     }
   },

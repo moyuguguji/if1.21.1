@@ -1,0 +1,44 @@
+{
+	id: "194AB8AF4BDC5D8B"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			id: "348C8EA9DE91D656"
+			item: {
+				count: 1
+				id: "minecraft:gold_nugget"
+			}
+			random_bonus: 32
+			weight: 40.0f
+		}
+		{
+			id: "55AB71D6FF1CCFDB"
+			item: {
+				count: 1
+				id: "minecraft:iron_nugget"
+			}
+			random_bonus: 32
+			weight: 40.0f
+		}
+		{
+			id: "7D3D0CBAFCD4184F"
+			item: {
+				count: 1
+				id: "minecraft:enchanted_book"
+			}
+			only_one: true
+			weight: 2.0f
+		}
+		{
+			id: "1B5A2232DC4AB1DA"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 6
+			weight: 30.0f
+		}
+	]
+	use_title: true
+}

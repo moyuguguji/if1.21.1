@@ -1,0 +1,21 @@
+{
+  "name": "绝境求生",
+  "description": "濒死之躯反而获得了一丝喘息之机。",
+  "item_icon": "minecraft:totem_of_undying",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "cataclysm:nature_heal",
+      "amount": -0.05,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "artifacts:generic.invincibility_ticks",
+      "amount": 0.1,
+      "operation": "add_value"
+    }
+  ],
+  "reward_description": "生命值自然恢复速度 -5%, 无敌帧 +0.1 秒"
+}

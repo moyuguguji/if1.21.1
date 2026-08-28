@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:acacia_log"
+      "id": "minecraft:acacia_log"
     },
     "title": "铁路前哨站",
     "description": "发现一个被架着弩的野蛮部族侵占的车站",
@@ -15,9 +15,17 @@
     "locate_railway_outpost": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:railway_outpost"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:railway_outpost"
+              }
+            }
+          }
+        ]
       }
     }
   },

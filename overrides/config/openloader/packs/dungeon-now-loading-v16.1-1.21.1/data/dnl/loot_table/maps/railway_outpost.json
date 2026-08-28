@@ -21,8 +21,7 @@
                 "minecraft:lore": [
                   "{\"text\":\"铁路前哨站\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4040006,
-                "minecraft:hide_tooltip": {}
+                "minecraft:custom_model_data": 4040006
               }
             },
             {

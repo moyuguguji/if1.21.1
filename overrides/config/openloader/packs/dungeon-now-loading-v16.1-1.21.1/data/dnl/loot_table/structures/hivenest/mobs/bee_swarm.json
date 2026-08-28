@@ -173,6 +173,20 @@
           "value": "dnl:items/poison_rapier"
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "dnl:items/music_disc_bees",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 2
+        }
+      ]
     }
   ]
 }

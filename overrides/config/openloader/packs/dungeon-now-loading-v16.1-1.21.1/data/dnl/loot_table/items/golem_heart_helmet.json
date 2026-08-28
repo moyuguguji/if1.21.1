@@ -42,7 +42,7 @@
                       "id": "dnl:loot_4sog4q"
                     },
                     {
-                      "type": "minecraft:max_health",
+                      "type": "minecraft:generic.max_health",
                       "slot": "head",
                       "amount": 2,
                       "operation": "add_value",

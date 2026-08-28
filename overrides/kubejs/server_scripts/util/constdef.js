@@ -1,5 +1,6 @@
 let PD_KEY_FIRST_LOGIN = 'first_login'
 let PD_KEY_DIFFICULTY = 'difficulty'
+let PD_KEY_present = 'present'
 
 /** 
  * @type {Record<number, {name: string, color: number, attackMul: number, hurtMul: number}>} 
@@ -19,6 +20,22 @@ let LIST_DIFFICULTIES = [
 let LIST_BOSSES = [
     'minecraft:ender_dragon',
     'minecraft:wither',
+    // 暮色森林
+    'twilightforest:naga',
+    'twilightforest:lich',
+    'twilightforest:minoshroom',
+    'twilightforest:hydra',
+    'twilightforest:knight_phantom',
+    'twilightforest:alpha_yeti',
+    'twilightforest:snow_queen',
+    // 灾厄
+    'cataclysm:ignis',
+    'cataclysm:the_leviathan',
+    'cataclysm:the_harbinger',
+    'cataclysm:the_watcher',
+    'cataclysm:ancient_remnant',
+    'cataclysm:ender_golem',
+    'cataclysm:netherite_monstrosity',
 ]
 
 /**
@@ -30,6 +47,15 @@ let LIST_ZOMBIES = [
     'minecraft:husk',
     'minecraft:drowned'
 ]
+
+// ========== 预知眼 ==========
+let PD_KEY_PRECOG_CHARGES  = 'kubejs:precog_charges'
+let PD_KEY_OVERHEAT_END    = 'kubejs:overheat_end_time'
+let PD_KEY_IS_OVERHEAT     = 'kubejs:is_overheat'
+let PRECOG_DODGE_COST       = 5
+let PRECOG_DEFAULT_CHARGES  = 30
+let PRECOG_OVERHEAT_CHARGES = 30
+let PRECOG_OVERHEAT_TICKS   = 1200
 
 // ========== 哔哔机 ==========
 let PD_KEY_BEEPER_NEXT = 'kubejs:beeper_next'

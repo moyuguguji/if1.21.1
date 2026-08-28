@@ -7,10 +7,10 @@
       "text": "用破损的弓洞穿猎手的亡魂"
     },
     "icon": {
-      "item": "minecraft:bow",
       "components": {
         "minecraft:enchantment_glint_override": true
-      }
+      },
+      "id": "minecraft:bow"
     },
     "frame": "challenge",
     "show_toast": true,

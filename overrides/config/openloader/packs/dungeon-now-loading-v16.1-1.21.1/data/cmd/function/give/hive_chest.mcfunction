@@ -1,1 +1,1 @@
-give @s yellow_shulker_box[minecraft:custom_name='{"text":"Hive Chest","color":"gold","italic":false}',"minecraft:loot_table":'dnl:structures/hivenest/chests/hive_chest',"minecraft:custom_data":{"dnl.hive_chest":1b}] 1
+give @s yellow_shulker_box[minecraft:custom_name='{"text":"Hive Chest","color":"gold","italic":false}',minecraft:container_loot=dnl:structures/hivenest/chests/hive_chest,minecraft:custom_data={"dnl.hive_chest":1b}] 1

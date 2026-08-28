@@ -1,0 +1,32 @@
+{
+  "name": "潜匿精通",
+  "description": "完成潜匿模块全部心得后获得。降低 15% 可见度与声音系数，提升 30% 潜行速度。",
+  "item_icon": "stealth_and_alert:shadow_crystal_dagger",
+  "condition": {
+    "type": "epiphany:module_completed",
+    "module": "stealth:qian_ni"
+  },
+  "condition_description": "需要完成潜匿模块",
+  "initial_state": "locked",
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "stealth_and_alert:visibility",
+      "amount": -0.15,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:player.sneaking_speed",
+      "amount": 0.3,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "stealth_and_alert:sound",
+      "amount": -0.15,
+      "operation": "add_multiplied_base"
+    }
+  ],
+  "reward_description": "可见度 -15%, 潜行速度 +30%, 声音系数 -15%"
+}

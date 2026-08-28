@@ -1,0 +1,13 @@
+{
+  "name": "挖掘",
+  "description": "深耕矿脉的矿工之道。第一行心得互相独立，第二行心得需要第一行全部点亮。",
+  "item_icon": "minecraft:diamond_pickaxe",
+  "initial_state": "selectable",
+  "insights": [
+    { "id": "mining:mining_speed_1",  "depth": 0 },
+    { "id": "mining:mining_luck_1",   "depth": 0 },
+    { "id": "mining:mining_water_1",  "depth": 0 },
+    { "id": "mining:mining_reach_1",  "depth": 1 },
+    { "id": "mining:mining_vision_1", "depth": 1 }
+  ]
+}

@@ -2,7 +2,7 @@
 
 execute unless entity @s[tag=dnl.init] run function dnl.plains_castle:collector/__generated__/block/17
 
-execute positioned ~ ~1 ~ store result score #store_count dnl.col_count run data get entity @e[type=minecraft:item,tag=!dnl.unconvertable,distance=..0.5,nbt={Item:{id:"minecraft:iron_ingot"}},sort=nearest,limit=1] Item.Count
+execute positioned ~ ~1 ~ store result score #store_count dnl.col_count run data get entity @e[type=minecraft:item,tag=!dnl.unconvertable,distance=..0.5,nbt={Item:{id:"minecraft:iron_ingot"}},sort=nearest,limit=1] Item.count
 
 scoreboard players operation @s dnl.col_count += #store_count dnl.col_count
 execute if score #store_count dnl.col_count matches 1.. run function dnl.plains_castle:collector/__generated__/block/18

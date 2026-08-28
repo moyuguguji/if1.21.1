@@ -1,6 +1,11 @@
 ### Inactive ###
 execute as @s[tag=!dnl.broken_seal] run function dnl:mobs/guardian_ghast/core/passive/unbroken
 
+
+### Ghast Awaken (handled by core) ###
+execute as @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main,tag=dnl.transition.awoken] run function dnl:mobs/guardian_ghast/state/awoken/transition
+execute as @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main,tag=dnl.transition.sleeping] run function dnl:mobs/guardian_ghast/state/sleeping/transition
+execute as @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main,tag=dnl.transition.stunned] run function dnl:mobs/guardian_ghast/state/stunned/transition
 ### Run init function ###
 execute as @s[tag=!dnl.init.core] run function dnl:mobs/guardian_ghast/core/init
 
@@ -16,7 +21,7 @@ execute at @s run bossbar set dnl:guardian_ghast players @a[distance=..80]
 
 ### Phase 1 ###
 # - stun all the guardian ghasts. There is 12 bossbars but they will decrease by 1
-execute store result score @s[scores={dnl.phase=1}] dnl.variable run if entity @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main,tag=dnl.stunned]
+execute store result score @s[scores={dnl.phase=1}] dnl.variable run execute if entity @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main,tag=dnl.stunned]
 execute as @s[scores={dnl.phase=1}] run function dnl:mobs/guardian_ghast/core/phase/effect/1
 
 ### Phase Transition ###
@@ -38,7 +43,7 @@ execute as @s[scores={dnl.phase=3,dnl.variable=9}] run function dnl:mobs/guardia
 ### Phase 4 ###
 # - After 7 pillar of relics are destroyed, two ghasts will attack the player at once.
 execute as @s[scores={dnl.phase=4}] run function dnl:mobs/guardian_ghast/core/phase/effect/4
-execute store result score @s[scores={dnl.phase=4}] dnl.subvariable run if entity @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main,tag=dnl.stunned]
+execute store result score @s[scores={dnl.phase=4}] dnl.subvariable run execute if entity @e[type=minecraft:ghast,tag=dnl.guardian_ghast,tag=dnl.main,tag=dnl.stunned]
 
 ### Phase Transition ###
 execute as @s[scores={dnl.phase=4,dnl.variable=12..}] run function dnl:mobs/guardian_ghast/core/phase/transition/5

@@ -1,0 +1,13 @@
+{
+  "name": "明视 I",
+  "description": "永久提升 20% 水下能见度",
+  "item_icon": "minecraft:prismarine_shard",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "additionalentityattributes:player.water_visibility",
+    "amount": 0.2,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+20% 水下能见度"
+}

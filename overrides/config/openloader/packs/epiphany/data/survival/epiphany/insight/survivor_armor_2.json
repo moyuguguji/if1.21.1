@@ -1,0 +1,13 @@
+{
+  "name": "护甲强化 II",
+  "description": "永久提升 1 点护甲韧性",
+  "item_icon": "minecraft:diamond_chestplate",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.armor_toughness",
+    "amount": 1.0,
+    "operation": "add_value"
+  },
+  "reward_description": "+1 护甲韧性"
+}

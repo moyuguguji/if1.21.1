@@ -1,0 +1,13 @@
+{
+  "name": "护甲 I",
+  "description": "永久提升 2 点护甲值",
+  "item_icon": "minecraft:iron_chestplate",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.armor",
+    "amount": 2.0,
+    "operation": "add_value"
+  },
+  "reward_description": "+2 护甲值"
+}

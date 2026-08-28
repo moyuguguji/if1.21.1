@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:stone_bricks"
+      "id": "minecraft:stone_bricks"
     },
     "title": "砖石城堡",
     "description": "发现城堡",
@@ -15,9 +15,17 @@
     "locate_plains_castle": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:plains_castle"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:plains_castle"
+              }
+            }
+          }
+        ]
       }
     }
   },

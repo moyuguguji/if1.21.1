@@ -1,0 +1,755 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0b7315f6f0ee99fc"
+	group: "2918506B9F30927F"
+	id: "0B7315F6F0EE99FC"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7D94F4987BD656BA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F16A4E5EF8A01E6"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2CA878A52E730841"
+				item: { count: 1, id: "icarus:discords_wings" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			id: "0BB49FCAEBEA1F28"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7DABA85FE709C0D1"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "633B526A65FAEB71"
+				item: { count: 1, id: "icarus:white_feathered_wings" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "06DFBF57A6370E65"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37E7FA0E5A8E2C23"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "76F8B90874BA0F41"
+				item: { count: 1, id: "icarus:flandres_wings" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "35B2C8BC6A66204C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1DBB096FC9555245"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7158F860A2DFDCFC"
+				item: { count: 1, id: "icarus:zanzas_wings" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "5D114316C589EE77"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F748B0F5DA2EA94"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7C50D76856D4765F"
+				item: { count: 1, id: "kibe:magma_ring" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "325C67842AD0FDDF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D75208BA31F2CEC"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "69EF83D23CF2F29B"
+				item: { count: 1, id: "kibe:angel_ring" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			id: "02F4CABA5B69102D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22A7D643BC041BED"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1EDDD2034D0D1667"
+				item: { count: 1, id: "kibe:water_ring" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "1054B4C3290A20C8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A9A63E793A5AA5A"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "18B087EB334C4236"
+				item: { count: 1, id: "kibe:magnet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			id: "781CE040C3EFAED8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6502F12715589BEC"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "01E0F614B349C4B0"
+				item: { count: 1, id: "artifacts:aqua_dashers" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			id: "4A499B00B97CAAA4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "63C087078384CA8E"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "228E7B7E46D98A73"
+				item: { count: 1, id: "artifacts:snorkel" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			id: "3C9A6C5EC41BBC17"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7A78868B78C1848D"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "326BF69B0CAFDF23"
+				item: { count: 1, id: "artifacts:flame_pendant" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			id: "3669092D8672CF76"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6DBF7CFE8D6B2D16"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7FAF837DBF1BEDA0"
+				item: { count: 1, id: "artifacts:digging_claws" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			id: "63EF5FEDB879C87E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2EAB4D05A7AEE79C"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0583E9D7265926B2"
+				item: { count: 1, id: "artifacts:thorn_pendant" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			id: "49DE46D73DB69B92"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0E1A84D9BE7FD9C1"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "548EAA8CF6B8A6B8"
+				item: { count: 1, id: "artifacts:feral_claws" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			id: "033534424407B99C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "34A06F7080F86618"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "26711006AE0D2924"
+				item: { count: 1, id: "artifacts:night_vision_goggles" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			id: "79414096898BC500"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "71DF9584D32C0A3C"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "385CB56491BA6237"
+				item: { count: 1, id: "artifacts:bunny_hoppers" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			id: "498FC2B0C5B11928"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "065A171CCF0031B6"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "12C9C02A79B8C772"
+				item: { count: 1, id: "artifacts:kitty_slippers" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			id: "5DD9ECC18A208E71"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "52196575F8D89C53"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "52AAB8F5C98F67CD"
+				item: { count: 1, id: "artifacts:villager_hat" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			id: "4EEAD5DDC1E3E734"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0BA036D9D6DF046B"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1914979DEEF3B56A"
+				item: { count: 1, id: "artifacts:charm_of_sinking" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			id: "17F5BC14FA6DC225"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "109777F1782831E0"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "238AF9680C172AAA"
+				item: { count: 1, id: "artifacts:power_glove" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "47E41DE9F9FCD4A3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B55C63F867DCD9B"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "795B9665C771D909"
+				item: { count: 1, id: "artifacts:fire_gauntlet" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "35D9658AE8CCB2E7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3775A019A04BA386"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "219DCACB91979648"
+				item: { count: 1, id: "artifacts:cloud_in_a_bottle" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "29E7D6B3743514CE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "01E9015C05C492E8"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2ECF99D5C1DF4377"
+				item: { count: 1, id: "artifacts:superstitious_hat" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			id: "6E6E8861B579B7A6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "30C9004A1D8BBCB9"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4D40AE903BE15C3B"
+				item: { count: 1, id: "artifacts:running_shoes" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			id: "5605F8BFE028336F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CF3BF4B9153E0B1"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "362576DE6135A028"
+				item: { count: 1, id: "artifacts:steadfast_spikes" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			id: "2650C8A60307D67F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E84B7C97801FF8C"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2D450F61B8C4AFBD"
+				item: { count: 1, id: "artifacts:lucky_scarf" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			id: "1565666B5BD5B413"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3BFE570BE278B905"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4348E17127087948"
+				item: { count: 1, id: "artifacts:obsidian_skull" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			id: "391AD10E1CE7087B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5EF156895EA59F46"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7AA92076CA1E6C17"
+				item: { count: 1, id: "artifacts:pocket_piston" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			id: "376F3085F695E204"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "12BCC8EA274AAE5D"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "77E276D5430BC6DF"
+				item: { count: 1, id: "artifacts:vampiric_glove" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "5E3363512A0191C6"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4745A738D10CAC84"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3B6CF61ED4AD57F5"
+				item: { count: 1, id: "artifacts:antidote_vessel" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			id: "2A3D358269C59F4B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0F3AD04F9586E52D"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0F047D7D701CB7A1"
+				item: { count: 1, id: "artifacts:flippers" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			id: "10533C16A34A4528"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7812096D926156C1"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "66C651E2D9047618"
+				item: { count: 1, id: "artifacts:scarf_of_invisibility" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			id: "58C200A6D253072E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48D7BCFF52C1380D"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "59E6F668E8D12892"
+				item: { count: 1, id: "artifacts:whoopee_cushion" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			id: "22FB845DAB0A61D4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6794BB3138DCC752"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "432737B5959D3F3B"
+				item: { count: 1, id: "artifacts:cross_necklace" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			id: "777D771007A60974"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "25C2DA69A9A56CA8"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2BAA4540531877D6"
+				item: { count: 1, id: "artifacts:universal_attractor" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			id: "395DAF3BF4AA80CD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "434592CE0F8ABD2E"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5718EC39FEF6E995"
+				item: { count: 1, id: "artifacts:golden_hook" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			id: "20CE53CA1D770100"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "763B4845E172DF35"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3B93E4886E6AE6E6"
+				item: { count: 1, id: "artifacts:umbrella" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			id: "217104993BC72D48"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "168C15E1D3155563"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "08AA824BF06B7EAA"
+				item: { count: 1, id: "artifacts:eternal_steak" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			id: "18AA579076B17291"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B12B5BFCE141538"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0391BFDE542D1208"
+				item: { count: 1, id: "artifacts:helium_flamingo" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			id: "74EECB479882477E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67104D64E2E4CB0B"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "74F59AC1EE8B22C9"
+				item: { count: 1, id: "artifacts:crystal_heart" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			id: "338BC79617B5F5EE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "30307E6F2DCB5616"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "64D30EF05414178C"
+				item: { count: 1, id: "artifacts:panic_necklace" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			id: "300DEDCD672C7AC0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7790989C714917ED"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0F477CCDA4ACF0B6"
+				item: { count: 1, id: "artifacts:shock_pendant" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			id: "3E54151DD6243F85"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6459116DEB99476C"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2D93BD8E8C242CA2"
+				item: { count: 1, id: "artifacts:novelty_drinking_hat" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			id: "78010B7B58BB384A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "47519BD7D73EF3D6"
+				table_id: 1005535573748960953L
+				type: "random"
+			}]
+			tasks: [{
+				id: "40FBFD631830697D"
+				item: { count: 1, id: "artifacts:plastic_drinking_hat" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			disable_toast: true
+			id: "4F711C6FBE38D154"
+			size: 4.0d
+			tasks: [{
+				id: "038DA9EA2BF0A0E5"
+				type: "checkmark"
+			}]
+			x: -8.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"128C5C59BF88EAEE"
+				"217104993BC72D48"
+			]
+			dependency_requirement: "one_completed"
+			id: "133427E0FC2A52A5"
+			min_required_dependencies: 1
+			tasks: [{
+				id: "344D2322BF372402"
+				item: { count: 1, id: "kaleidoscope_nether:everlasting_flame_steak" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			id: "128C5C59BF88EAEE"
+			tasks: [{
+				id: "3129765234DCDDFF"
+				item: { count: 1, id: "artifacts:everlasting_beef" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.5d
+		}
+	]
+}

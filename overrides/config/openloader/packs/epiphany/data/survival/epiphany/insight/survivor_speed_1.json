@@ -1,0 +1,13 @@
+{
+  "name": "疾行 I",
+  "description": "永久提升 2% 移动速度",
+  "item_icon": "minecraft:sugar",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.movement_speed",
+    "amount": 0.02,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+2% 移动速度"
+}

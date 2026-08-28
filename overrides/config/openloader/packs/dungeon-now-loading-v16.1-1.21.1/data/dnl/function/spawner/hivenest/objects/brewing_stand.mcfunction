@@ -11,11 +11,11 @@ scoreboard players set in math 1
 scoreboard players set in1 math 10
 function rng:range_lcg
 
-execute if score out math matches 2..3 at @s run data merge block ~ ~ ~ {Items:[{Slot:0,id:"minecraft:potion",count:1,tag:{Potion:"minecraft:healing"}}]}
-execute if score out math matches 4..5 at @s run data merge block ~ ~ ~ {Items:[{Slot:1,id:"minecraft:potion",count:1,tag:{Potion:"minecraft:healing"}}]}
-execute if score out math matches 6..7 at @s run data merge block ~ ~ ~ {Items:[{Slot:2,id:"minecraft:potion",count:1,tag:{Potion:"minecraft:healing"}}]}
-execute if score out math matches 8 at @s run data merge block ~ ~ ~ {Items:[{Slot:0,id:"minecraft:potion",count:1,tag:{Potion:"minecraft:strong_healing"}}]}
-execute if score out math matches 9 at @s run data merge block ~ ~ ~ {Items:[{Slot:1,id:"minecraft:potion",count:1,tag:{Potion:"minecraft:strong_healing"}}]}
-execute if score out math matches 10 at @s run data merge block ~ ~ ~ {Items:[{Slot:2,id:"minecraft:potion",count:1,tag:{Potion:"minecraft:strong_healing"}}]}
+execute if score out math matches 2..3 at @s run data merge block ~ ~ ~ {Items:[{Slot:0,id:"minecraft:potion",count:1,components:{"minecraft:potion_contents":{"potion":"minecraft:healing"}}}]}
+execute if score out math matches 4..5 at @s run data merge block ~ ~ ~ {Items:[{Slot:1,id:"minecraft:potion",count:1,components:{"minecraft:potion_contents":{"potion":"minecraft:healing"}}}]}
+execute if score out math matches 6..7 at @s run data merge block ~ ~ ~ {Items:[{Slot:2,id:"minecraft:potion",count:1,components:{"minecraft:potion_contents":{"potion":"minecraft:healing"}}}]}
+execute if score out math matches 8 at @s run data merge block ~ ~ ~ {Items:[{Slot:0,id:"minecraft:potion",count:1,components:{"minecraft:potion_contents":{"potion":"minecraft:strong_healing"}}}]}
+execute if score out math matches 9 at @s run data merge block ~ ~ ~ {Items:[{Slot:1,id:"minecraft:potion",count:1,components:{"minecraft:potion_contents":{"potion":"minecraft:strong_healing"}}}]}
+execute if score out math matches 10 at @s run data merge block ~ ~ ~ {Items:[{Slot:2,id:"minecraft:potion",count:1,components:{"minecraft:potion_contents":{"potion":"minecraft:strong_healing"}}}]}
 
 kill @s

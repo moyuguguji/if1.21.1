@@ -1,0 +1,6 @@
+{
+  "modmenu.descriptionTranslation.emi_recipe_pins": "向 EMI 收藏夹添加 REI 风格的固定配方卡片。",
+  "config.emi.group.recipe_pins": "配方固定",
+  "config.emi.recipe_pins.max_visible_recipes": "可见的配方固定",
+  "config.emi.tooltip.recipe_pins.max_visible_recipes": "同一时间有多少固定配方会展开为完整配方卡片。额外的配方固定会以紧凑图标形式保留在普通收藏夹上方。"
+}

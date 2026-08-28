@@ -1,0 +1,13 @@
+{
+  "name": "拓荒 I",
+  "description": "永久提升 5% 挖掘速度",
+  "item_icon": "minecraft:iron_pickaxe",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:player.block_break_speed",
+    "amount": 0.05,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+5% 挖掘速度"
+}

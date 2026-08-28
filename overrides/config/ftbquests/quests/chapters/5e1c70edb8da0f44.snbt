@@ -1,0 +1,267 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5e1c70edb8da0f44"
+	group: "2634E495B96103D5"
+	id: "5E1C70EDB8DA0F44"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5F315EB456DE6F12"
+			rewards: [{
+				id: "2608ED443431A0A3"
+				item: {
+					components: {
+						"minecraft:custom_data": {
+							BlueprintId: "house/house1"
+							LevelNumber: 1
+							PreviewOrigin: {
+								X: 364
+								Y: 66
+								Z: -215
+							}
+							Rotation: 0
+							Size: {
+								X: 11
+								Y: 4
+								Z: 11
+							}
+							StyleId: "house"
+						}
+						"minecraft:custom_model_data": 1
+						"minecraft:custom_name": "\"CMY基座蓝图\""
+					}
+					count: 1
+					id: "building_blueprint:building_blueprint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "7C40A5523D5FE942"
+				item: { count: 1, id: "spectrum:pedestal_all_basic" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "6138BF691E5C2BE2"
+			rewards: [{
+				id: "072581F5F36FEE7E"
+				item: {
+					components: {
+						"minecraft:custom_data": {
+							BlueprintId: "house/house2"
+							LevelNumber: 2
+							Rotation: 0
+							Size: {
+								X: 13
+								Y: 6
+								Z: 13
+							}
+							StyleId: "house"
+						}
+						"minecraft:custom_model_data": 1
+						"minecraft:custom_name": "\"缟玛瑙基座蓝图\""
+					}
+					count: 1
+					id: "building_blueprint:building_blueprint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "37E7C2CFDB1E9E1E"
+				item: { count: 1, id: "spectrum:pedestal_onyx" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "spectrum:pedestal_moonstone"
+			}
+			id: "2E5BE7BBAB09C787"
+			rewards: [{
+				id: "21A1612EF5289FBA"
+				item: {
+					components: {
+						"minecraft:custom_data": {
+							BlueprintId: "house/house3"
+							LevelNumber: 3
+							Rotation: 0
+							Size: {
+								X: 13
+								Y: 7
+								Z: 13
+							}
+							StyleId: "house"
+						}
+						"minecraft:custom_model_data": 1
+						"minecraft:custom_name": "\"月长石基座蓝图\""
+					}
+					count: 1
+					id: "building_blueprint:building_blueprint"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "18AE7A64B0138D46"
+					item: { count: 1, id: "spectrum:pedestal_moonstone" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 5L
+					id: "6549898BBF683325"
+					item: { count: 1, id: "spectrum:moonstone_chiseled_basalt" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "0E117A728816B1FD"
+			rewards: [{
+				id: "62F402392E346B53"
+				item: {
+					components: {
+						"minecraft:custom_data": {
+							BlueprintId: "house/house6"
+							LevelNumber: 6
+							Rotation: 0
+							Size: {
+								X: 9
+								Y: 6
+								Z: 8
+							}
+							StyleId: "house"
+						}
+						"minecraft:custom_model_data": 1
+						"minecraft:custom_name": "\"灵魂灌注台蓝图\""
+					}
+					count: 1
+					id: "building_blueprint:building_blueprint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "00D69DE62285C69A"
+				item: { count: 1, id: "spectrum:spirit_instiller" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			id: "0FE6FF3CEF6B1C4B"
+			rewards: [{
+				id: "07CF214B0E060E47"
+				item: {
+					components: {
+						"minecraft:custom_data": {
+							BlueprintId: "house/house4"
+							LevelNumber: 4
+							Rotation: 0
+							Size: {
+								X: 9
+								Y: 5
+								Z: 9
+							}
+							StyleId: "house"
+						}
+						"minecraft:custom_model_data": 1
+						"minecraft:custom_name": "\"融合圣坛蓝图\""
+					}
+					count: 1
+					id: "building_blueprint:building_blueprint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "1C1F6E2A5895DD07"
+				item: { count: 1, id: "spectrum:fusion_shrine_basalt" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "36E082A2A3986FD9"
+			rewards: [{
+				id: "108F13C3ED0C02A4"
+				item: {
+					components: {
+						"minecraft:custom_data": {
+							BlueprintId: "house/house5"
+							LevelNumber: 5
+							Rotation: 0
+							Size: {
+								X: 11
+								Y: 5
+								Z: 11
+							}
+							StyleId: "house"
+						}
+						"minecraft:custom_model_data": 1
+						"minecraft:custom_name": "\"附魔基座蓝图\""
+					}
+					count: 1
+					id: "building_blueprint:building_blueprint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "5FBCA8F2E71A4AA7"
+				item: { count: 1, id: "spectrum:enchanter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "6BCFA0E34A91138C"
+			rewards: [{
+				id: "595FBBA456AE9764"
+				item: {
+					components: {
+						"minecraft:custom_data": {
+							BlueprintId: "house/house7"
+							LevelNumber: 7
+							Rotation: 0
+							Size: {
+								X: 5
+								Y: 4
+								Z: 4
+							}
+							StyleId: "house"
+						}
+						"minecraft:custom_model_data": 1
+						"minecraft:custom_name": "\"炼化炉蓝图\""
+					}
+					count: 1
+					id: "building_blueprint:building_blueprint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "231A1124F0152368"
+				item: { count: 1, id: "spectrum:cinderhearth" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+	]
+}

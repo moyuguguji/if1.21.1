@@ -1,0 +1,6 @@
+# honey_potion 材料框(每种 2 个, 共 8 个, 达到 7 即完成)
+# 放置在合成器上方 ~1.5 格范围(2 格内)
+give @s item_frame[minecraft:custom_name='{"text":"honeycomb_ingot","color":"gray","italic":false}',minecraft:entity_data={id:"minecraft:item_frame",Tags:['dnl.material','dnl.honeycomb_ingot'],Item:{id:"minecraft:gold_ingot",components:{"minecraft:custom_data":{"dnl.honeycomb_ingot":1b}},count:1},Invulnerable:1b,Invisible:1b,Fixed:1b}] 2
+give @s item_frame[minecraft:custom_name='{"text":"honeycomb","color":"gray","italic":false}',minecraft:entity_data={id:"minecraft:item_frame",Tags:['dnl.material','dnl.honeycomb'],Item:{id:"minecraft:honeycomb",count:1},Invulnerable:1b,Invisible:1b,Fixed:1b}] 2
+give @s item_frame[minecraft:custom_name='{"text":"honey_block","color":"gray","italic":false}',minecraft:entity_data={id:"minecraft:item_frame",Tags:['dnl.material','dnl.honey_block'],Item:{id:"minecraft:honey_block",count:1},Invulnerable:1b,Invisible:1b,Fixed:1b}] 2
+give @s item_frame[minecraft:custom_name='{"text":"healing_potion","color":"gray","italic":false}',minecraft:entity_data={id:"minecraft:item_frame",Tags:['dnl.material','dnl.healing_potion'],Item:{id:"minecraft:potion",components:{"minecraft:potion_contents":{potion:"minecraft:healing"}},count:1},Invulnerable:1b,Invisible:1b,Fixed:1b}] 2

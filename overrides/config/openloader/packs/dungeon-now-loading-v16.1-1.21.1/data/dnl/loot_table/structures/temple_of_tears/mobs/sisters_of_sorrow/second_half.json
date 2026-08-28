@@ -81,6 +81,15 @@
           "value": "dnl:items/forbidden_golden_apple"
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "dnl:items/music_disc_meirah"
+        }
+      ]
     }
   ]
 }

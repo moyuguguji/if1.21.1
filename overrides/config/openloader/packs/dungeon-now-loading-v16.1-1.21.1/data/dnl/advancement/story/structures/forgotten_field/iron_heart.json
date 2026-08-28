@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:iron_ingot"
+      "id": "minecraft:iron_ingot"
     },
     "title": {
       "text": "铁石之心"

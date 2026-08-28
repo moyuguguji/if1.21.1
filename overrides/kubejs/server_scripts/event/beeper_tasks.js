@@ -1,9 +1,9 @@
-// priority: 100
 // 哔哔机 - 任务完成检测
+// Java 类引用见 util/import.js($SoundEvent/$ResLoc), 顶层不创建(加载顺序不可靠, 惰性到函数内)
 
-const $SoundEvent = Java.loadClass('net.minecraft.sounds.SoundEvent')
-const $ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
-const SOUND_COMPLETE = $SoundEvent.createVariableRangeEvent($ResourceLocation.parse('kubejs:beeper_complete'))
+function beeperCompleteSound() {
+    return $SoundEvent.createVariableRangeEvent($ResLoc.parse('kubejs:beeper_complete'))
+}
 
 // ============================================================
 // 辅助函数
@@ -40,7 +40,7 @@ function completeTask(player) {
     player.persistentData.putInt(PD_KEY_BEEPER_TASK, -1)
     player.persistentData.putInt(PD_KEY_BEEPER_PROGRESS, 0)
     player.persistentData.putInt(PD_KEY_BEEPER_RESULT_TYPE, 1)
-    player.level.playSound(null, player.x, player.y, player.z, SOUND_COMPLETE, 'players', 1.0, 1.0)
+    player.level.playSound(null, player.x, player.y, player.z, beeperCompleteSound(), 'players', 1.0, 1.0)
     player.persistentData.putInt(PD_KEY_BEEPER_GARBLED_END, player.server.tickCount + 20)
 }
 

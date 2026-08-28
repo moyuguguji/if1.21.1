@@ -1,4 +1,20 @@
 {
     "probejs.modHash": 4898482445209081895,
-    "probejs.enabled": false
+    "probejs.enabled": false,
+    "probejs.newGame": false,
+    "probejs.hintsForLLM": true,
+    "probejs.fullScanMods": [
+        "minecraft",
+        "kubejs",
+        "neoforge",
+        "moveslikemafuyu",
+        "extremeevasio",
+        "spectrum",
+        "stealth_and_alertn",
+        "strikeafterswing",
+        "twilightforest",
+        "servantry",
+        "epiphan",
+        "cataclysmy"
+    ]
 }

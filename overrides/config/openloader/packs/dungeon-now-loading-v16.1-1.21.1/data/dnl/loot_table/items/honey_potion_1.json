@@ -14,7 +14,6 @@
                 "minecraft:custom_name": "{\"text\":\"蜂蜜药水\",\"color\":\"gold\",\"italic\":false}",
                 "minecraft:lore": [
                   "{\"text\":\"可用于解毒\",\"color\":\"blue\",\"italic\":false}",
-                  "{\"translate\":\"\"}",
                   "{\"text\":\"当生效后:\",\"color\":\"dark_purple\",\"italic\":false}",
                   "{\"text\":\"恢复 5 点生命值\",\"color\":\"blue\",\"italic\":false}"
                 ],

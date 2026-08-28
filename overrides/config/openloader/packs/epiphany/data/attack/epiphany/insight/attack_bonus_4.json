@@ -1,0 +1,21 @@
+{
+  "name": "致命一击 I",
+  "description": "永久提升 5% 攻击伤害、10% 暴击伤害",
+  "item_icon": "minecraft:diamond_sword",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "minecraft:generic.attack_damage",
+      "amount": 0.05,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "fargo_soul:critical_damage",
+      "amount": 0.1,
+      "operation": "add_value"
+    }
+  ],
+  "reward_description": "+5% 攻击伤害, +10% 暴击伤害"
+}

@@ -21,8 +21,7 @@
                 "minecraft:lore": [
                   "{\"text\":\"失落墓原\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4040010,
-                "minecraft:hide_tooltip": {}
+                "minecraft:custom_model_data": 4040010
               }
             },
             {

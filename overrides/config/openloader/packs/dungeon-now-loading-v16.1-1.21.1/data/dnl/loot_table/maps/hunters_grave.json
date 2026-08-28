@@ -21,8 +21,7 @@
                 "minecraft:lore": [
                   "{\"text\":\"猎手陵墓\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4040003,
-                "minecraft:hide_tooltip": {}
+                "minecraft:custom_model_data": 4040003
               }
             },
             {

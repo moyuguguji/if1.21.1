@@ -15,7 +15,7 @@
                 "minecraft:attribute_modifiers": {
                   "modifiers": [
                     {
-                      "type": "minecraft:attack_damage",
+                      "type": "minecraft:generic.attack_damage",
                       "slot": "mainhand",
                       "amount": 4,
                       "operation": "add_value",
@@ -37,14 +37,12 @@
               ]
             },
             {
-              "function": "minecraft:set_lore",
-              "lore": [
-                {
-                  "text": "钢丝加固",
-                  "color": "gray",
-                  "italic": false
-                }
-              ]
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\": \"钢丝加固\", \"color\": \"gray\", \"italic\": false}"
+                ]
+              }
             }
           ]
         }
@@ -72,14 +70,12 @@
               ]
             },
             {
-              "function": "minecraft:set_lore",
-              "lore": [
-                {
-                  "text": "在整个府邸中播放这张唱片",
-                  "color": "gray",
-                  "italic": false
-                }
-              ]
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:lore": [
+                  "{\"text\": \"在整个府邸中播放这张唱片\", \"color\": \"gray\", \"italic\": false}"
+                ]
+              }
             }
           ]
         }

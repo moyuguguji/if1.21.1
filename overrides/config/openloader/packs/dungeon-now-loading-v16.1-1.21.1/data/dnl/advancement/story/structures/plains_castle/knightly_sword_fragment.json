@@ -1,11 +1,11 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:iron_ingot",
       "components": {
         "minecraft:custom_model_data": 16003,
         "minecraft:enchantment_glint_override": true
-      }
+      },
+      "id": "minecraft:iron_ingot"
     },
     "title": "骑士之剑残片",
     "description": "通过炼金，或从战利品箱中获得一块骑士之剑残片",

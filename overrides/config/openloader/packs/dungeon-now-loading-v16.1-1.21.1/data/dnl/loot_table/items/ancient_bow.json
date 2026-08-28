@@ -13,7 +13,6 @@
               "components": {
                 "minecraft:custom_name": "{\"text\":\"古代弓\",\"color\":\"gold\",\"italic\":false}",
                 "minecraft:lore": [
-                  "{\"translate\":\"\",\"italic\":false}",
                   "{\"text\":\"最大蓄力时:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\"9-16 伤害\",\"color\":\"dark_aqua\",\"italic\":false}"
                 ],

@@ -1,0 +1,30 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "50b517d4b2ff7057"
+	group: ""
+	id: "50B517D4B2FF7057"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		can_repeat: true
+		id: "738EC65A3C5D8366"
+		rewards: [{
+			id: "09CFCA069E427C9A"
+			item: {
+				count: 1
+				id: "kubejs:difficulty_changer"
+			}
+			type: "item"
+		}]
+		size: 4.0d
+		tasks: [{
+			id: "02E9C3FBC2704232"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

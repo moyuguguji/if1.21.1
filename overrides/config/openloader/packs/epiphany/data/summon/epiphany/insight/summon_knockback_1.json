@@ -1,0 +1,13 @@
+{
+  "name": "击退强化 I",
+  "description": "永久提升 15% 仆从击退",
+  "item_icon": "servantry:imp_staff",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "servantry:servant_knockback",
+    "amount": 0.15,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+15% 仆从击退"
+}

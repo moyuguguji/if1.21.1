@@ -10,5 +10,5 @@ advancement grant @a[distance=..10,limit=1,sort=nearest] only dnl:story/structur
 
 advancement grant @a[distance=..10,limit=1,sort=nearest] only dnl:story/structures/plains_castle/loot_all_treasure_chest treasure_locked
 
-clear @a[distance=..10,nbt={Inventory:[{tag:{display:{Name:'{"text":"Plains Castle Key§r","color":"gold","italic":false}'}}}]},limit=1,sort=nearest] minecraft:stick{display:{Name:'{"text":"Plains Castle Key§r","color":"gold","italic":false}'}} 1
+clear @a[distance=..10,nbt={Inventory:[{components:{"minecraft:custom_name":'{"text":"Plains Castle Key§r","color":"gold","italic":false}'}}]},limit=1,sort=nearest] minecraft:stick[minecraft:custom_name='{"text":"Plains Castle Key§r","color":"gold","italic":false}'] 1
 kill @s

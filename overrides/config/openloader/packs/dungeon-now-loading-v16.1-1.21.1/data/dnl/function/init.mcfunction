@@ -1,5 +1,10 @@
 ### Scoreboards ###
 # variables
+
+### Guardian Ghast Seal Check Loop ###
+scoreboard objectives add dnl.seal_check dummy
+execute unless score #seal dnl.seal_check matches 1 run schedule function dnl:mobs/guardian_ghast/core/passive/check 1s
+scoreboard players set #seal dnl.seal_check 1
 scoreboard objectives add dnl.variable dummy
 scoreboard objectives add dnl.subvariable dummy
 scoreboard objectives add dnl.phase dummy

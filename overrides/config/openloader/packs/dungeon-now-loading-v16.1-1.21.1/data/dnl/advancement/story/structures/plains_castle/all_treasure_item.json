@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:diamond_chestplate",
       "components": {
         "minecraft:enchantment_glint_override": true
-      }
+      },
+      "id": "minecraft:diamond_chestplate"
     },
     "title": "闪耀武装",
     "description": "从战利品箱中发现全部极佳附魔物品！",

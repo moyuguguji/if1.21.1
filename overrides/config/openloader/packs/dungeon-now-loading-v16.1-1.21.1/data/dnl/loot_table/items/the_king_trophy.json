@@ -14,8 +14,7 @@
                 "minecraft:lore": [
                   "{\"text\":\"愚人国王战利品\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 16001,
-                "minecraft:hide_tooltip": {}
+                "minecraft:custom_model_data": 16001
               }
             },
             {

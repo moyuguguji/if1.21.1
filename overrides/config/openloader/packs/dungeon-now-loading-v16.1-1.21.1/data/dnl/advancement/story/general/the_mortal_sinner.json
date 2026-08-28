@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:sweet_berries"
+      "id": "minecraft:sweet_berries"
     },
     "title": "当罪恶深入脊髓",
     "description": "通过吃下禁果获得五颗心的额外生命值，你感受到深重的背德感",

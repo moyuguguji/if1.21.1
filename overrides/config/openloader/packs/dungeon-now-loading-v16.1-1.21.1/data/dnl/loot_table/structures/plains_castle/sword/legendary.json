@@ -11,14 +11,16 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:lore": [
-                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
-                ],
                 "minecraft:enchantments": {
                   "levels": {
-                    "sharpness": 6
+                    "sharpness": 6,
+                    "fire_aspect": 2,
+                    "unbreaking": 3
                   }
-                }
+                },
+                "minecraft:lore": [
+                  "{\"text\":\"珍宝\",\"color\":\"dark_aqua\",\"italic\":false}"
+                ]
               }
             },
             {

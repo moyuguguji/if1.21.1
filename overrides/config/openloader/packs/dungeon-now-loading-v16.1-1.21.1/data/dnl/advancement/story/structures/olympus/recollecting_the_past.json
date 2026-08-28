@@ -1,10 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:netherite_axe",
       "components": {
         "minecraft:custom_model_data": 15002
-      }
+      },
+      "id": "minecraft:netherite_axe"
     },
     "title": "重拾过往",
     "description": "制造每种古代工具与武器",

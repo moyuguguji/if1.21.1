@@ -1,0 +1,43 @@
+{
+	id: "2E63E5F8CD599B0B"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			id: "19AD8B1C21836853"
+			item: {
+				count: 1
+				id: "minecraft:golden_apple"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "4E20ED812EB676A0"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+			random_bonus: 16
+			weight: 50.0f
+		}
+		{
+			id: "5B38A9935AE1DE07"
+			item: {
+				count: 1
+				id: "minecraft:torch"
+			}
+			random_bonus: 64
+			weight: 50.0f
+		}
+		{
+			id: "4631ED4FA5D6668F"
+			item: {
+				count: 1
+				id: "kibe:white_glider"
+			}
+			only_one: true
+			weight: 10.0f
+		}
+	]
+	use_title: true
+}

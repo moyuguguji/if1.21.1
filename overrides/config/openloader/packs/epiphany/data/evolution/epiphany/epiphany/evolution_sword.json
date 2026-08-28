@@ -1,0 +1,14 @@
+{
+  "name": "剑之进化",
+  "description": "无需任何前置条件，直接获得进化之剑。",
+  "item_icon": "kubejs:evolution_sword",
+  "initial_state": "selectable",
+  "reward": [
+    {
+      "type": "epiphany:item",
+      "item": "kubejs:evolution_sword",
+      "count": 1
+    }
+  ],
+  "reward_description": "获得进化之剑"
+}

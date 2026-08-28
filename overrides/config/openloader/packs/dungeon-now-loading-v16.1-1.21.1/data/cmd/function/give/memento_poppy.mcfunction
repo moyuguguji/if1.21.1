@@ -1,1 +1,1 @@
-give @s poppy[minecraft:lore=['{"text":"Memento","color":"gray","italic":false}'],"minecraft:enchantment_glint_override":true,"minecraft:custom_data":{"dnl.item":1b,"dnl.memento":1b,"dnl.poppy":1b}] 1
+give @s poppy[minecraft:lore=['{"text":"凝望着这件物品，逝去的过往仿佛闪回于记忆之中......","color":"gray","italic":false}'],minecraft:enchantment_glint_override=true,minecraft:custom_data={"dnl.item":1b,"dnl.memento":1b,"dnl.poppy_of_flanders":1b}] 1

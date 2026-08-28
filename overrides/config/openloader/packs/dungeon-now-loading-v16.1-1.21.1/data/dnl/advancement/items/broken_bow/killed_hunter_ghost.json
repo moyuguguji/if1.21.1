@@ -1,0 +1,59 @@
+{
+  "criteria": {
+    "mainhand": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "mainhand": {
+              "items": [
+                "minecraft:bow"
+              ],
+              "components": {
+                "minecraft:custom_data": {
+                  "dnl.broken_bow": 1
+                }
+              }
+            }
+          }
+        },
+        "entity": {
+          "type": "minecraft:skeleton",
+          "nbt": "{Tags:['dnl.hunters_ghost']}"
+        }
+      }
+    },
+    "offhand": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "offhand": {
+              "items": [
+                "minecraft:bow"
+              ],
+              "components": {
+                "minecraft:custom_data": {
+                  "dnl.broken_bow": 1
+                }
+              }
+            }
+          }
+        },
+        "entity": {
+          "type": "minecraft:skeleton",
+          "nbt": "{Tags:['dnl.hunters_ghost']}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "offhand",
+      "mainhand"
+    ]
+  ],
+  "rewards": {
+    "function": "dnl:mobs/hunters_grave/hunters_ghost2"
+  }
+}

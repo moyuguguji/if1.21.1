@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:cobweb"
+      "id": "minecraft:cobweb"
     },
     "title": "阴暗之巢穴",
     "description": "发现一个蜘蛛洞",
@@ -15,9 +15,17 @@
     "locate_crawlers_lair": {
       "trigger": "minecraft:location",
       "conditions": {
-        "location": {
-          "structure": "dnl:crawlers_lair"
-        }
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "dnl:crawlers_lair"
+              }
+            }
+          }
+        ]
       }
     }
   },

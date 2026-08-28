@@ -1,0 +1,13 @@
+{
+  "name": "牺牲",
+  "description": "以血肉换取力量的禁忌之道。第一行心得互相独立，第二行心得需要第一行全部点亮。",
+  "item_icon": "minecraft:wither_rose",
+  "initial_state": "selectable",
+  "insights": [
+    { "id": "sacrifice:blood_price",      "depth": 0 },
+    { "id": "sacrifice:light_burden",     "depth": 0 },
+    { "id": "sacrifice:borrowed_vitality", "depth": 0 },
+    { "id": "sacrifice:death_defiance",   "depth": 1 },
+    { "id": "sacrifice:last_stand",       "depth": 1 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+	id: "474970F047FDC8FF"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			id: "7A6FF9DC975C8376"
+			item: {
+				count: 1
+				id: "minecraft:enchanted_golden_apple"
+			}
+			random_bonus: 6
+			weight: 120.0f
+		}
+		{
+			id: "429DF89029AC59D3"
+			team_reward: false
+			type: "xp_levels"
+			weight: 35.0f
+			xp_levels: 20
+		}
+		{
+			id: "63ED5BC71B273730"
+			item: {
+				count: 1
+				id: "spectrum:triple_meat_pot_pie"
+			}
+			weight: 3.0f
+		}
+	]
+	use_title: true
+}

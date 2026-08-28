@@ -1,1 +1,1 @@
-give @s music_disc_strad[minecraft:lore=['{"text":"C418 - Alpha","color":"gray","italic":false}'],"minecraft:hide_tooltip":{},"minecraft:enchantment_glint_override":true,"minecraft:custom_data":{"dnl.item":1b,"dnl.music_disc":1b,"dnl.alpha":1b}] 1
+give @s music_disc_strad[minecraft:lore=['{"text":"C418 - Alpha","color":"gray","italic":false}'],minecraft:hide_tooltip={},minecraft:enchantment_glint_override=true,minecraft:custom_data={"dnl.item":1b,"dnl.music_disc":1b,"dnl.alpha":1b}] 1

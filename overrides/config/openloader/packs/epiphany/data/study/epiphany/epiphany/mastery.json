@@ -1,0 +1,38 @@
+{
+  "name": "融会贯通",
+  "description": "完成研习模块全部心得后获得。阅历获取倍率 +10%、实体掉落经验 +25%、额外战利品数量 +10%、额外稀有战利品 +5%。",
+  "item_icon": "minecraft:enchanted_book",
+  "condition": {
+    "type": "epiphany:module_completed",
+    "module": "study:study"
+  },
+  "condition_description": "需要完成研习模块",
+  "initial_state": "locked",
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "epiphany:aptitude_gain_multiplier",
+      "amount": 0.1,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "artifacts:player.entity_experience",
+      "amount": 0.25,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "additionalentityattributes:player.bonus_loot_count_rolls",
+      "amount": 0.1,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "additionalentityattributes:player.bonus_rare_loot_rolls",
+      "amount": 0.05,
+      "operation": "add_value"
+    }
+  ],
+  "reward_description": "阅历获取倍率 +10%, 实体掉落经验 +25%, 额外战利品数量 +10%, 额外稀有战利品 +5%"
+}

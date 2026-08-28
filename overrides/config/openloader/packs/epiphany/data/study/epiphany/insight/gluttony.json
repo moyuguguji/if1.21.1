@@ -1,0 +1,15 @@
+{
+  "name": "狼吞虎咽",
+  "description": "吃饭快人一步，战场上也绝不耽搁。",
+  "item_icon": "minecraft:cooked_beef",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "cataclysm:eat_speed",
+      "amount": 0.15,
+      "operation": "add_value"
+    }
+  ],
+  "reward_description": "进食速度 +15%"
+}

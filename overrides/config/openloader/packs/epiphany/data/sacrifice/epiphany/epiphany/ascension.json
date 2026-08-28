@@ -1,0 +1,20 @@
+{
+  "name": "飞升",
+  "description": "献上一切之后，凡躯终成神格。完成牺牲模块全部心得后获得，获得永久的【神性 II】。",
+  "item_icon": "minecraft:nether_star",
+  "condition": {
+    "type": "epiphany:module_completed",
+    "module": "sacrifice:sacrifice"
+  },
+  "condition_description": "需要完成牺牲模块",
+  "initial_state": "locked",
+  "reward": [
+    {
+      "type": "epiphany:effect",
+      "effect": "spectrum:divinity",
+      "duration": -1,
+      "amplifier": 1
+    }
+  ],
+  "reward_description": "永久获得【神性 II】"
+}

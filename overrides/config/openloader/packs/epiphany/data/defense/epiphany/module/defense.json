@@ -1,0 +1,13 @@
+{
+  "name": "防护",
+  "description": "铸就钢铁之躯的防御之道。第一行心得互相独立，第二行心得需要第一行全部点亮。",
+  "item_icon": "minecraft:iron_chestplate",
+  "initial_state": "selectable",
+  "insights": [
+    { "id": "defense:defense_armor_1",    "depth": 0 },
+    { "id": "defense:defense_toughness_1", "depth": 0 },
+    { "id": "defense:defense_knockback_1", "depth": 0 },
+    { "id": "defense:defense_regen",       "depth": 1 },
+    { "id": "defense:defense_armor_2",     "depth": 1 }
+  ]
+}

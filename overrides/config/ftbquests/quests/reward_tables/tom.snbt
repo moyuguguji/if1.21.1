@@ -1,0 +1,13 @@
+{
+	id: "1A4687805E617B3B"
+	loot_size: 1
+	order_index: 8
+	rewards: [{
+		count: 5
+		id: "3B525236EA5EA518"
+		item: {
+			count: 1
+			id: "minecraft:barrel"
+		}
+	}]
+}

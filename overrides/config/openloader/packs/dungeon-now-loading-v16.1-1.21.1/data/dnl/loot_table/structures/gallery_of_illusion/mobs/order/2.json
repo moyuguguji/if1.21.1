@@ -11,6 +11,10 @@
             {
               "function": "minecraft:set_count",
               "count": 1
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{Tags:[\"order2_killed\"]}"
             }
           ]
         }

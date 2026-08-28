@@ -1,0 +1,13 @@
+{
+  "name": "速潜",
+  "description": "永久提升 20% 潜行移动速度",
+  "item_icon": "minecraft:leather_boots",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:player.sneaking_speed",
+    "amount": 0.2,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+20% 潜行速度"
+}

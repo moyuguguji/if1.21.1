@@ -1,0 +1,13 @@
+{
+  "name": "疾风 I",
+  "description": "永久提升 5% 疾跑速度",
+  "item_icon": "minecraft:rabbit_foot",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "artifacts:generic.sprinting_speed",
+    "amount": 0.05,
+    "operation": "add_multiplied_base"
+  },
+  "reward_description": "+5% 疾跑速度"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "研习",
+  "description": "知识就是力量，阅历即是财富。第一行心得互相独立，第二行心得需要第一行全部点亮。",
+  "item_icon": "minecraft:book",
+  "initial_state": "selectable",
+  "insights": [
+    { "id": "study:diligence",  "depth": 0 },
+    { "id": "study:harvest",    "depth": 0 },
+    { "id": "study:gluttony",   "depth": 0 },
+    { "id": "study:erudition",  "depth": 1 },
+    { "id": "study:magic_ward", "depth": 1 }
+  ]
+}

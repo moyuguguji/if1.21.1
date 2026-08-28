@@ -1,0 +1,12 @@
+{
+  "itemGroup.kubejs_kaleidoscope": "示例模组标签",
+  "block.kubejs_kaleidoscope.example_block": "示例方块",
+  "item.kubejs_kaleidoscope.example_item": "示例物品",
+  "kubejs_kaleidoscope.configuration.title": "Kubejs Kaleidoscope 配置",
+  "kubejs_kaleidoscope.configuration.section.kubejs_kaleidoscope.common.toml": "Kubejs Kaleidoscope 配置",
+  "kubejs_kaleidoscope.configuration.section.kubejs_kaleidoscope.common.toml.title": "Kubejs Kaleidoscope 配置",
+  "kubejs_kaleidoscope.configuration.items": "物品列表",
+  "kubejs_kaleidoscope.configuration.logDirtBlock": "记录泥土方块",
+  "kubejs_kaleidoscope.configuration.magicNumberIntroduction": "魔法数字文本",
+  "kubejs_kaleidoscope.configuration.magicNumber": "魔法数字"
+}

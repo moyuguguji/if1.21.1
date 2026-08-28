@@ -21,8 +21,7 @@
                 "minecraft:lore": [
                   "{\"text\":\"蜂房\",\"color\":\"gray\",\"italic\":false}"
                 ],
-                "minecraft:custom_model_data": 4040001,
-                "minecraft:hide_tooltip": {}
+                "minecraft:custom_model_data": 4040001
               }
             },
             {

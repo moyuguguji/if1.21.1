@@ -91,7 +91,7 @@
                 "minecraft:attribute_modifiers": {
                   "modifiers": [
                     {
-                      "type": "minecraft:movement_speed",
+                      "type": "minecraft:generic.movement_speed",
                       "slot": "offhand",
                       "amount": 0.15,
                       "operation": "add_multiplied_base",

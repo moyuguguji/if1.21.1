@@ -1,0 +1,26 @@
+#Offhand attack mode: when the offhand holds a weapon, right-click performs an offhand attack.
+#副手攻击模式: 副手持武器时, 右键执行副手攻击 (可用快捷键切换)
+offhandAttackEnabled = true
+#Longer attack range: melee attacks gain +1 block of reach.
+#更远的攻击距离: 近战攻击获得 +1 格距离
+attackRangeBonusEnabled = false
+#Wider sweep range: sweep attacks hit a wider area.
+#更广的横扫范围: 横扫范围更大 (更容易击中)
+sweepRangeBonusEnabled = true
+#Random critical hits: normal melee attacks have a chance to critically strike, chance comes from the attribute combatevolved:crit_chance (reuses vanilla crit mechanics).
+#随机暴击: 普通近战攻击按暴击属性 (combatevolved:crit_chance) 的概率触发暴击 (复用原版暴击机制)
+randomCritEnabled = true
+#CD attack: attacks only deal damage when the attack cooldown is fully charged.
+#CD 攻击: 攻击冷却未满时无法造成伤害 (默认禁用)
+cdAttackEnabled = false
+#Weak left arm: offhand attacks deal reduced damage.
+#虚弱的左臂: 副手攻击伤害降低
+weakOffhandEnabled = true
+#Weak left arm damage reduction ratio (0.0 ~ 0.9, default 0.4 = -40% damage).
+#左臂虚弱伤害比例 (0.0 ~ 0.9, 默认 0.4 = 减少 40% 伤害)
+# Default: 0.4
+# Range: 0.0 ~ 0.9
+weakOffhandDamageRatio = 0.4
+#Jump crit: whether the vanilla jumping-attack critical hit is enabled.
+#跳劈暴击: 原版跳跃攻击暴击机制开关
+jumpCritEnabled = false

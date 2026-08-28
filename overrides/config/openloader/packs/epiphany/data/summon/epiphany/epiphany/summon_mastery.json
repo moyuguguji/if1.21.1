@@ -1,0 +1,44 @@
+{
+  "name": "召唤精通",
+  "description": "完成召唤模块全部心得后获得。仆从栏 +2、哨戒仆从栏 +1，仆从伤害 +15%、击退 +15%、索敌范围 +10%。",
+  "item_icon": "servantry:stardust_fragment",
+  "condition": {
+    "type": "epiphany:module_completed",
+    "module": "summon:summon"
+  },
+  "condition_description": "需要完成召唤模块",
+  "initial_state": "locked",
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "servantry:servant_max_count",
+      "amount": 2.0,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "servantry:sentry_servant_max_count",
+      "amount": 1.0,
+      "operation": "add_value"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "servantry:servant_damage",
+      "amount": 0.15,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "servantry:servant_knockback",
+      "amount": 0.15,
+      "operation": "add_multiplied_base"
+    },
+    {
+      "type": "epiphany:attribute",
+      "attribute": "servantry:servant_search_range",
+      "amount": 0.1,
+      "operation": "add_multiplied_base"
+    }
+  ],
+  "reward_description": "仆从栏 +2, 哨戒仆从栏 +1, 仆从伤害 +15%, 仆从击退 +15%, 仆从索敌范围 +10%"
+}

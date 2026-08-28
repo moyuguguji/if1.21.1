@@ -183,7 +183,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:written_book_content": {
+                "minecraft:writable_book_content": {
                   "pages": [
                     ""
                   ]

@@ -1,0 +1,13 @@
+{
+  "name": "暴击率 I",
+  "description": "永久提升 2% 暴击率",
+  "item_icon": "minecraft:stone_sword",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "combatevolved:crit_chance",
+    "amount": 0.02,
+    "operation": "add_value"
+  },
+  "reward_description": "+2% 暴击率"
+}

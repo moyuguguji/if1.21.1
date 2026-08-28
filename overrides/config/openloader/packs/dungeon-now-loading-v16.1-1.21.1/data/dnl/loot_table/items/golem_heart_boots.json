@@ -42,7 +42,7 @@
                       "id": "dnl:loot_cwr9j8"
                     },
                     {
-                      "type": "minecraft:max_health",
+                      "type": "minecraft:generic.max_health",
                       "slot": "feet",
                       "amount": 2,
                       "operation": "add_value",

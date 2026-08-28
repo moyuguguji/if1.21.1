@@ -1,0 +1,13 @@
+{
+  "name": "坚韧 I",
+  "description": "永久提升 0.5 护甲韧性",
+  "item_icon": "minecraft:golden_chestplate",
+  "cost": 1,
+  "reward": {
+    "type": "epiphany:attribute",
+    "attribute": "minecraft:generic.armor_toughness",
+    "amount": 0.5,
+    "operation": "add_value"
+  },
+  "reward_description": "+0.5 护甲韧性"
+}

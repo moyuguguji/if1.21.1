@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:yellow_shulker_box"
+      "id": "minecraft:yellow_shulker_box"
     },
     "title": "蜂香满溢",
     "description": "在绿叶葱茸的蜂房中用哭泣的黑曜石制作一个蜂香匣。丰富的战利品等待着你！",

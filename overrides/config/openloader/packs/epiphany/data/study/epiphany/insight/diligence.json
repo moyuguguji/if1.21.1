@@ -1,0 +1,15 @@
+{
+  "name": "勤学",
+  "description": "日积月累，阅历更丰。",
+  "item_icon": "minecraft:writable_book",
+  "cost": 1,
+  "reward": [
+    {
+      "type": "epiphany:attribute",
+      "attribute": "epiphany:aptitude_gain_multiplier",
+      "amount": 0.1,
+      "operation": "add_multiplied_base"
+    }
+  ],
+  "reward_description": "阅历获取倍率 +10%"
+}

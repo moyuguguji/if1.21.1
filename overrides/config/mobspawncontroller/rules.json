@@ -1,0 +1,31 @@
+{
+  "distantfriends:friend": {
+    "NATURAL": true,
+    "CHUNK_GENERATION": true,
+    "SPAWNER": false,
+    "STRUCTURE": false,
+    "BREEDING": false,
+    "MOB_SUMMONED": true,
+    "JOCKEY": false,
+    "EVENT": true,
+    "CONVERSION": true,
+    "REINFORCEMENT": true,
+    "TRIGGERED": true,
+    "BUCKET": true,
+    "SPAWN_EGG": true,
+    "COMMAND": true,
+    "DISPENSER": true,
+    "PATROL": true,
+    "TRIAL_SPAWNER": true,
+    "spawn_restrictions": {
+      "chance": 0.5,
+      "min_player_distance": 16.0,
+      "max_player_distance": 64.0,
+      "max_nearby": 5,
+      "nearby_radius": 32.0,
+      "spawn_types": [
+        "natural"
+      ]
+    }
+  }
+}

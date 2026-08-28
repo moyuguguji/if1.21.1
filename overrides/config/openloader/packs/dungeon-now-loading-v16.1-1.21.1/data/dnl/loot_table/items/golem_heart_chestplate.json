@@ -42,7 +42,7 @@
                       "id": "dnl:loot_8xef27"
                     },
                     {
-                      "type": "minecraft:max_health",
+                      "type": "minecraft:generic.max_health",
                       "slot": "chest",
                       "amount": 2,
                       "operation": "add_value",

@@ -1,0 +1,13 @@
+{
+  "name": "生存强化",
+  "description": "强化体魄与防御的生存模块。第一行心得互相独立，第二行心得需要第一行全部点亮。",
+  "item_icon": "minecraft:golden_apple",
+  "initial_state": "selectable",
+  "insights": [
+    { "id": "survival:survivor_life_1",   "depth": 0 },
+    { "id": "survival:survivor_armor_1",  "depth": 0 },
+    { "id": "survival:survivor_speed_1",  "depth": 0 },
+    { "id": "survival:survivor_life_2",   "depth": 1 },
+    { "id": "survival:survivor_armor_2",  "depth": 1 }
+  ]
+}

@@ -13,24 +13,22 @@
               "components": {
                 "minecraft:custom_name": "{\"text\":\"古代斧\",\"color\":\"gold\",\"italic\":false}",
                 "minecraft:lore": [
-                  "{\"translate\":\"\"}",
                   "{\"text\":\"在主手时:\",\"color\":\"gray\",\"italic\":false}",
                   "{\"text\":\" 12 攻击伤害\",\"color\":\"dark_green\",\"italic\":false}",
                   "{\"text\":\" 1 攻击速度\",\"color\":\"dark_green\",\"italic\":false}"
                 ],
                 "minecraft:custom_model_data": 15002,
-                "minecraft:hide_tooltip": {},
                 "minecraft:attribute_modifiers": {
                   "modifiers": [
                     {
-                      "type": "minecraft:attack_damage",
+                      "type": "minecraft:generic.attack_damage",
                       "slot": "mainhand",
                       "amount": 12,
                       "operation": "add_value",
                       "id": "dnl:loot_opx05n"
                     },
                     {
-                      "type": "minecraft:attack_speed",
+                      "type": "minecraft:generic.attack_speed",
                       "slot": "mainhand",
                       "amount": -3,
                       "operation": "add_value",

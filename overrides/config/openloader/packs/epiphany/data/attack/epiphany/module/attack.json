@@ -1,0 +1,13 @@
+{
+  "name": "攻击",
+  "description": "强化输出能力的攻击模块。第一行心得互相独立，第二行心得需要第一行全部点亮。",
+  "item_icon": "minecraft:iron_sword",
+  "initial_state": "selectable",
+  "insights": [
+    { "id": "attack:attack_bonus_1", "depth": 0 },
+    { "id": "attack:attack_bonus_2", "depth": 0 },
+    { "id": "attack:attack_bonus_3", "depth": 0 },
+    { "id": "attack:attack_bonus_4", "depth": 1 },
+    { "id": "attack:attack_bonus_5", "depth": 1 }
+  ]
+}
