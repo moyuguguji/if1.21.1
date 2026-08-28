@@ -4,6 +4,7 @@
 	chapter.194EB3EF0DBDC513.title: "灾厄 Cataclysm"
 	chapter.2885AFA02D057AD4.title: "玩法指南"
 	chapter.30877432D1026706.title: "新手教程"
+	chapter.36103BCC5F46D112.title: "一些操作"
 	chapter.3A5E393142121544.title: "Artifacts 神器"
 	chapter.4E3D324CAD623C98.title: "其他模组"
 	chapter.506DA1445B018357.title: "{chapter.12.title}"
@@ -102,6 +103,23 @@
 	]
 	quest.0551B892DEBBFE73.quest_subtitle: "童话中的冒险"
 	quest.0551B892DEBBFE73.title: "暮色森林"
+	quest.05BAB467DED23DA7.quest_desc: [
+		"经典款式,还是通过锻造台升级,只不过没显示配方而已"
+		"水上升级（海晶碎片），让钩爪可以在水中滑行。"
+		""
+		"末影升级（末影之眼），钩爪使用传送而不是拉动。"
+		""
+		"速度升级（活塞），将钩爪速度提高 50%。"
+		""
+		"射程升级（锁链），使射程加倍。"
+		""
+		"自动升级（侦测器），到达终点时自动断开钩爪。"
+		""
+		"耐久升级（黑曜石），使钩爪的耐久翻倍。"
+		""
+		"流血升级（箭），使钩到的实体掉血。"
+	]
+	quest.05BAB467DED23DA7.title: "抓钩"
 	quest.0644644B29DC26DB.quest_desc: [
 		"暮初恶魂是暗黑高塔的最终 Boss，漂浮在塔顶。"
 		"它召唤火球与爪牙，血量极高。"
@@ -216,6 +234,8 @@
 	quest.1114AFE44AA5C9AF.quest_subtitle: "史莱姆与酿造"
 	quest.1114AFE44AA5C9AF.title: "岩浆膏"
 	quest.116BF87094EA4E42.quest_desc: ["{chapter.12.quest.22.description.1}"]
+	quest.118012A7C72F766C.quest_desc: ["在非疾跑模式下连按两下潜行键(左SHIFT),即可趴下,可以降低可见度"]
+	quest.118012A7C72F766C.title: "匍匐"
 	quest.11A11F5125227C37.quest_desc: [
 		"3 羊毛 + 3 木板合成床。"
 		"夜晚睡觉跳过黑夜并设置重生点。"
@@ -507,6 +527,12 @@
 	]
 	quest.2A455B18F6F66218.quest_subtitle: "高塔之巅"
 	quest.2A455B18F6F66218.title: "暮初恶魂"
+	quest.2B72EC5F5BC4294C.quest_desc: [
+		"在疾跑状态下再次按下疾跑键(左CTRL),即可翻滚,可以躲避伤害."
+		"时机准确的话还能触发极限闪避"
+	]
+	quest.2B72EC5F5BC4294C.quest_subtitle: "有一秒的冷却"
+	quest.2B72EC5F5BC4294C.title: "翻滚"
 	quest.2C0A6D0EC40C766A.quest_desc: [
 		"Artifacts 模组的神器：无尽的牛肉、熔岩之靴、羊驼披风等。"
 		"它们散落在遗迹宝箱中。"
@@ -809,6 +835,12 @@
 	]
 	quest.40679BB3E5EE91AD.quest_subtitle: "小有所成"
 	quest.40679BB3E5EE91AD.title: "铁装毕业"
+	quest.41289CB22F67357D.quest_desc: [
+		"按下R键打开默认轮盘"
+		"按下G键打开魂石技能轮盘"
+		"按下V键打开饰品装备功能轮盘"
+	]
+	quest.41289CB22F67357D.title: "轮盘操作"
 	quest.41F63E4DA8343311.quest_desc: [
 		"哔哔机是 Curios 饰品。"
 		"完成各种任务时发出提示音效。"
@@ -1130,7 +1162,10 @@
 	]
 	quest.61628DB272EB8907.quest_subtitle: "金属怪物"
 	quest.61628DB272EB8907.title: "下界合金巨兽"
-	quest.6164C15A5FBDC286.quest_desc: ["{chapter.19.quest.34.description.1}"]
+	quest.6164C15A5FBDC286.quest_desc: [
+		"{chapter.19.quest.34.description.1}"
+		"不支持模组箱子,需要原版箱子"
+	]
 	quest.6164C15A5FBDC286.quest_subtitle: "{chapter.19.quest.34.subtitle}"
 	quest.6164C15A5FBDC286.title: "{chapter.19.quest.34.title}"
 	quest.617AF69B1A6A6DBD.quest_desc: [
@@ -1298,6 +1333,8 @@
 	]
 	quest.727AC493F445255B.quest_subtitle: "灾厄使者"
 	quest.727AC493F445255B.title: "先驱者"
+	quest.7360014FA8A1CDD9.quest_desc: ["在疾跑状态下按下潜行键(左SHIFT),即可高速移动,还能撞怪"]
+	quest.7360014FA8A1CDD9.title: "飞扑"
 	quest.738EC65A3C5D8366.quest_desc: [""]
 	quest.73931BDB2A0DF3DB.quest_desc: [
 		"钻石集中在 Y=-59 附近（深板岩层）。"
@@ -2663,5 +2700,6 @@
 	task.4F6266C26229BD52.title: "任意基座"
 	task.4FEAC8A25B89E3A2.title: "{chapter.12.quest.3.task.1.title}"
 	task.5AD81B3D4B6E27C7.title: "{chapter.12.quest.31.task.1.title}"
+	task.719AC5E4765FB1D2.title: "任意钩爪"
 	task.7EB5C1669F137287.title: "{chapter.12.quest.54.task.1.title}"
 }

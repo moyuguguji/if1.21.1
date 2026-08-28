@@ -401,5 +401,15 @@
 			x: 4.5d
 			y: 8.0d
 		}
+		{
+			id: "05BAB467DED23DA7"
+			tasks: [{
+				id: "719AC5E4765FB1D2"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(hookshot:hookshots)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 9.0d
+		}
 	]
 }
