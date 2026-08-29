@@ -8,6 +8,9 @@ ServerEvents.recipes(event =>{
         {output:'refinedstorage:processor_binding'},
         {output:'refinedstorage:raw_basic_processor'},
         {output:'refinedstorage:raw_improved_processor'},
-        {output:'refinedstorage:raw_advanced_processor'}
+        {output:'refinedstorage:raw_advanced_processor'},
+        {output:'darkutils:charm_sloth'},
+        {output:'darkutils:charm_pride'},
+        {output:'servantry:survey_drone_remote'}
     ])
 })

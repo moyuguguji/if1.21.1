@@ -115,6 +115,15 @@ event.shaped('refinedstorage:1k_storage_part', [
         D: 'minecraft:iron_ingot'
     }).id('refinedstorage:1k_storage_part')
 
+event.shaped('servantry:mithril_anvil', [
+        'AAA',
+        ' B ',
+        'BBB'
+    ], {
+        A: 'minecraft:emerald_block',
+        B: 'minecraft:iron_ingot'
+    })
+
 event.shaped('refinedstorage:64b_fluid_storage_part', [
         'ADA',
         'BCB',
@@ -249,4 +258,30 @@ event.shaped('refinedstorage:64b_fluid_storage_part', [
     "id": "fargo_soul:soul"
   }
     }).id("fargo_soul:soul")
+    event.custom({ 
+    "type": "servantry:mithril_anvil",
+  "ingredients": [
+    {
+      "count": 8,
+      "ingredient": {
+        "item": 'minecraft:gold_ingot'
+      }
+    },
+    {
+      "count": 8,
+      "ingredient": {
+        "item": "minecraft:diamond"
+      }
+    },
+    {
+      "count": 8,
+      "ingredient": {
+        "item": 'minecraft:golden_carrot'
+      }
+    }
+  ],
+  "result": {
+    "id": "servantry:survey_drone_remote"
+  }
+}).id("servantry:survey_drone_remote")
 })
